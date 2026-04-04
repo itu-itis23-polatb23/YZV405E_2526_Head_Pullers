@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02011012",
+        "text": "Hymnen mottogs väl och publiken krävde ett dakapo.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Hymnen mottogs väl och publiken krävde ett dakapo.\"\nIdiom to remove: \"mottogs\"\nLemmas to avoid simultaneously: motta\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02014013",
+        "text": "En av hans sista möjligheter för att sätta press på Ungern var hotet om att påtvinga allmänna och fria val.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"En av hans sista möjligheter för att sätta press på Ungern var hotet om att påtvinga allmänna och fria val.\"\nIdiom to remove: \"sätta press\"\nLemmas to avoid simultaneously: sätta, press\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02015084",
+        "text": "Disibodenbergklostret upplöstes och förföll i ruiner till följd av reformationen.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Disibodenbergklostret upplöstes och förföll i ruiner till följd av reformationen.\"\nIdiom to remove: \"upplöstes\"\nLemmas to avoid simultaneously: upplösa\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02015085",
+        "text": "Idag kan omfattande ruiner bevittnas där.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Idag kan omfattande ruiner bevittnas där.\"\nIdiom to remove: \"Idag\"\nLemmas to avoid simultaneously: idag\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02019048",
+        "text": "Privat såväl som offentligt sökte Springer energiskt försoning med det judiska folket och företog många resor till Israel.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Privat såväl som offentligt sökte Springer energiskt försoning med det judiska folket och företog många resor till Israel.\"\nIdiom to remove: \"såväl som\"\nLemmas to avoid simultaneously: såväl, som\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02019085",
+        "text": "Följande år 1977 mottog han distinktionen av den Amerikanska vänskapsmedaljen för den vänliga inställning hans press hade gentemot USA.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Följande år 1977 mottog han distinktionen av den Amerikanska vänskapsmedaljen för den vänliga inställning hans press hade gentemot USA.\"\nIdiom to remove: \"mottog\"\nLemmas to avoid simultaneously: motta\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w03005015",
+        "text": "Grekland var uppdelat i många små, självstyrande samhällen, ett mönster som i mångt och mycket dikteras av grekisk geografi: varje ö, dalgång och slätt är avskuren från sina grannar av hav eller bergskedjor.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Grekland var uppdelat i många små, självstyrande samhällen, ett mönster som i mångt och mycket dikteras av grekisk geografi: varje ö, dalgång och slätt är avskuren från sina grannar av hav eller bergskedjor.\"\nIdiom to remove: \"uppdelat\"\nLemmas to avoid simultaneously: uppdelad\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w03009044",
+        "text": "Trots att de var den främsta distributören av utrustning och textilier världen över hade det tyska företaget ekonomiska svårigheter.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Trots att de var den främsta distributören av utrustning och textilier världen över hade det tyska företaget ekonomiska svårigheter.\"\nIdiom to remove: \"världen över\"\nLemmas to avoid simultaneously: värld, över\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w03010099",
+        "text": "Under sommaren återvände Georges och hans fru till Schweiz tillsammans med Rosanne, en 18-åring som var dotter till en av Germaines vänner.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Under sommaren återvände Georges och hans fru till Schweiz tillsammans med Rosanne, en 18-åring som var dotter till en av Germaines vänner.\"\nIdiom to remove: \"återvände\"\nLemmas to avoid simultaneously: återvända\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w03010100",
+        "text": "Under semestern påbörjade han en utomäktenskaplig affär med den unga flickan, vilket han medgav kort därefter.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Under semestern påbörjade han en utomäktenskaplig affär med den unga flickan, vilket han medgav kort därefter.\"\nIdiom to remove: \"därefter\"\nLemmas to avoid simultaneously: därefter\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w04001027",
+        "text": "I den nedersta delen finns det tre palmer som höjer sig över havet, vilka representerar kärleken som den här öns folk känner för sitt land.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"I den nedersta delen finns det tre palmer som höjer sig över havet, vilka representerar kärleken som den här öns folk känner för sitt land.\"\nIdiom to remove: \"höjer sig\"\nLemmas to avoid simultaneously: höja, sig\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w04001053",
+        "text": "\"Öarna är belägna vid den Indo-europeiska förkastningslinjen; Förkastningslinjen uppstod på grund av kollisionen mellan de indiska och australiensiska plattorna.\"",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"Öarna är belägna vid den Indo-europeiska förkastningslinjen; Förkastningslinjen uppstod på grund av kollisionen mellan de indiska och australiensiska plattorna.\"\"\nIdiom to remove: \"på grund av\"\nLemmas to avoid simultaneously: på, grund, av\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w04002008",
+        "text": "Ett element som stöder denna hypotes skulle vara den intensiva uppfödning av hästar som ägde rum vid Villa Pelucca, i Sesto San Giovanni.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ett element som stöder denna hypotes skulle vara den intensiva uppfödning av hästar som ägde rum vid Villa Pelucca, i Sesto San Giovanni.\"\nIdiom to remove: \"uppfödning\"\nLemmas to avoid simultaneously: uppfödning\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w05005083",
+        "text": "Saker började förändras i oktober 1777 när brittiska styrkor under befäl av general John Burgoyne kapitulerade i Saratoga i den norra delen av staten New York.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Saker började förändras i oktober 1777 när brittiska styrkor under befäl av general John Burgoyne kapitulerade i Saratoga i den norra delen av staten New York.\"\nIdiom to remove: \"under befäl\"\nLemmas to avoid simultaneously: under, befäl\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w05007004",
+        "text": "Icke desto mindre skulle döttrarna till Luis X, Felipe V och Carlos IV, om den engelska lagen hade accepterats, ha haft större anspråk till tronen än deras faster Isabella av Frankrike.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Icke desto mindre skulle döttrarna till Luis X, Felipe V och Carlos IV, om den engelska lagen hade accepterats, ha haft större anspråk till tronen än deras faster Isabella av Frankrike.\"\nIdiom to remove: \"Icke desto mindre\"\nLemmas to avoid simultaneously: icke, desto, lite\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w05010023",
+        "text": "Pompejus tog kommando över två legioner i Capua och började uppbåda trupper illegalt, en handling som, vilket var förutsägbart, drog fördel av de caesarianer som stod i hans gunst.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Pompejus tog kommando över två legioner i Capua och började uppbåda trupper illegalt, en handling som, vilket var förutsägbart, drog fördel av de caesarianer som stod i hans gunst.\"\nIdiom to remove: \"drog fördel\"\nLemmas to avoid simultaneously: dra, fördel\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w05010025",
+        "text": "Under tiden innehades hans plats i tribun av Markus Antonius, som höll ämbetet fram till december.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Under tiden innehades hans plats i tribun av Markus Antonius, som höll ämbetet fram till december.\"\nIdiom to remove: \"Under tiden\"\nLemmas to avoid simultaneously: under, tid\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w05010026",
+        "text": "Men när senaten svarade honom definitivt genom att förbjuda honom från att kandidera till konsul och ge honom valet att antingen dra tillbaka sina trupper eller bli en samhällets fiende förstod han att vilket alternativ han än valde skulle han överlämna sig obeväpnad in i sina politiska fienders händer.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Men när senaten svarade honom definitivt genom att förbjuda honom från att kandidera till konsul och ge honom valet att antingen dra tillbaka sina trupper eller bli en samhällets fiende förstod han att vilket alternativ han än valde skulle han överlämna sig obeväpnad in i sina politiska fienders händer.\"\nIdiom to remove: \"överlämna\"\nLemmas to avoid simultaneously: överlämna\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01003010",
+        "text": "Tidigt i oktober använde övergångsteamet samma lokal för att träffa tekniklobbyister och bjöd in representanter från Uber, Motion Picture Association of America, Consumer Technology Association och andra grupper.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Tidigt i oktober använde övergångsteamet samma lokal för att träffa tekniklobbyister och bjöd in representanter från Uber, Motion Picture Association of America, Consumer Technology Association och andra grupper.\"\nIdiom to remove: \"bjöd in\"\nLemmas to avoid simultaneously: bjuda, in\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01015036",
+        "text": "Och 2007, på höjden av dess popularitet (och, möjligen, Knightleys) var det ett av de 50 vanligaste namnen, med tre gånger fler småbarn med namnet Keira än Kiera.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Och 2007, på höjden av dess popularitet (och, möjligen, Knightleys) var det ett av de 50 vanligaste namnen, med tre gånger fler småbarn med namnet Keira än Kiera.\"\nIdiom to remove: \"på höjden av\"\nLemmas to avoid simultaneously: på, höjd, av\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01020021",
+        "text": "Och då Kina positionerats som världens största luftfartsmarknad det närmaste årtiondet är showen en möjlighet för Beijing att demonstrera sina ambitioner för civil luftfart såväl som för försvar.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Och då Kina positionerats som världens största luftfartsmarknad det närmaste årtiondet är showen en möjlighet för Beijing att demonstrera sina ambitioner för civil luftfart såväl som för försvar.\"\nIdiom to remove: \"luftfart\"\nLemmas to avoid simultaneously: luftfart\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01021011",
+        "text": "De ”nyliga händelserna” är troligen attackerna den 21 oktober som tillfälligt slog ut populära webbsidor som Reddit, Twitter och Spotify såväl som många andra.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"De ”nyliga händelserna” är troligen attackerna den 21 oktober som tillfälligt slog ut populära webbsidor som Reddit, Twitter och Spotify såväl som många andra.\"\nIdiom to remove: \"slog ut\"\nLemmas to avoid simultaneously: slå, ut\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01029011",
+        "text": "Seagal, vars farmor kom från Vladivostok i Rysslands östligaste delar har gjort flera resor till Ryssland de senaste åren och besökte Kamtjatka och Sakhalin i september.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Seagal, vars farmor kom från Vladivostok i Rysslands östligaste delar har gjort flera resor till Ryssland de senaste åren och besökte Kamtjatka och Sakhalin i september.\"\nIdiom to remove: \"gjort resor\"\nLemmas to avoid simultaneously: göra, resa\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01035004",
+        "text": "Trots publiceringen av ett foto i morse säger polisen i B.C. att de har fler frågor än svar i ett fall där en till synes hemlös man åtalas för en dödlig knivattack på en tonårig flicka vid hennes high school i Abbotsford.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Trots publiceringen av ett foto i morse säger polisen i B.C. att de har fler frågor än svar i ett fall där en till synes hemlös man åtalas för en dödlig knivattack på en tonårig flicka vid hennes high school i Abbotsford.\"\nIdiom to remove: \"i morse\"\nLemmas to avoid simultaneously: i, morse\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01038025",
+        "text": "Han kunde också vänta till slutet av sin första mandatperiod för att använda ett villkor i Parisavtalet för att dra sig ur överenskommelsen.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Han kunde också vänta till slutet av sin första mandatperiod för att använda ett villkor i Parisavtalet för att dra sig ur överenskommelsen.\"\nIdiom to remove: \"dra sig ur\"\nLemmas to avoid simultaneously: dra, sig, ur\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01042004",
+        "text": "Chefen för Ontario Independent Police Review, Gerry McNeilly, satte ut villkoren för sin granskning den här veckan efter att ”alarmerande frågor” hade väckts över hur poliser bemöter ursprungsbefolkningar.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Chefen för Ontario Independent Police Review, Gerry McNeilly, satte ut villkoren för sin granskning den här veckan efter att ”alarmerande frågor” hade väckts över hur poliser bemöter ursprungsbefolkningar.\"\nIdiom to remove: \"satte ut\"\nLemmas to avoid simultaneously: sätta, ut\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01051007",
+        "text": "Det är den vanligast förekommande tumören hos spädbarn, och uppkommer i en per 35 000 födslar.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Det är den vanligast förekommande tumören hos spädbarn, och uppkommer i en per 35 000 födslar.\"\nIdiom to remove: \"uppkommer\"\nLemmas to avoid simultaneously: uppkomma\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01052006",
+        "text": "Han beskrev henne som en ”anmärkningsvärd” och ”kärleksfull och underbar” kvinna som gjorde avtryck i den skönlitterära världen med sina historier.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Han beskrev henne som en ”anmärkningsvärd” och ”kärleksfull och underbar” kvinna som gjorde avtryck i den skönlitterära världen med sina historier.\"\nIdiom to remove: \"gjorde avtryck\"\nLemmas to avoid simultaneously: göra, avtryck\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01053036",
+        "text": "Vid bara 20 är hon en stark röst mot mobbning och en positiv sådan när det kommer till att hjälpa flickor att omfamna sina egna skönhetsnormer.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Vid bara 20 är hon en stark röst mot mobbning och en positiv sådan när det kommer till att hjälpa flickor att omfamna sina egna skönhetsnormer.\"\nIdiom to remove: \"när det kommer till\"\nLemmas to avoid simultaneously: när, den, komma, till\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01061041",
+        "text": "Medan hysterin runt 2016 års presidentval intensifieras är det ett mer oroväckande hot som upptar Karels uppmärksamhet.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Medan hysterin runt 2016 års presidentval intensifieras är det ett mer oroväckande hot som upptar Karels uppmärksamhet.\"\nIdiom to remove: \"upptar\"\nLemmas to avoid simultaneously: uppta\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01064113",
+        "text": "Caplan avfärdar retrospektiv röstning, och citerar ett par forskare som kallar det ”lika rationellt som att döda farao när Nilen inte översvämmas.”",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Caplan avfärdar retrospektiv röstning, och citerar ett par forskare som kallar det ”lika rationellt som att döda farao när Nilen inte översvämmas.”\"\nIdiom to remove: \"ett par\"\nLemmas to avoid simultaneously: en, par\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01067023",
+        "text": "Något mer som ställs ut för första gången är brittiska försvarsministeriets kartor som fantiserar fram slag under kalla kriget, vilka användes i prov på militärhögskolan.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Något mer som ställs ut för första gången är brittiska försvarsministeriets kartor som fantiserar fram slag under kalla kriget, vilka användes i prov på militärhögskolan.\"\nIdiom to remove: \"ställs ut\"\nLemmas to avoid simultaneously: ställa, ut\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01076030",
+        "text": "Han har uttalat sig till stöd för tortyr.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Han har uttalat sig till stöd för tortyr.\"\nIdiom to remove: \"uttalat sig\"\nLemmas to avoid simultaneously: uttala, sig\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01084023",
+        "text": "Samtidigt tjänar Bank of Scotlands kunder 3 % på saldon på 3 000–5 000 pund när de lägger till det kostnadsfria Fördels-alternativet till sitt konto.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Samtidigt tjänar Bank of Scotlands kunder 3 % på saldon på 3 000–5 000 pund när de lägger till det kostnadsfria Fördels-alternativet till sitt konto.\"\nIdiom to remove: \"lägger till\"\nLemmas to avoid simultaneously: lägga, till\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01086013",
+        "text": "Världen må vara förargande och absurd – men någon har i alla fall självrespekten att fortsätta protestera mot detta faktum.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Världen må vara förargande och absurd – men någon har i alla fall självrespekten att fortsätta protestera mot detta faktum.\"\nIdiom to remove: \"i alla fall\"\nLemmas to avoid simultaneously: i, all, fall\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01087018",
+        "text": "Jag tror det är därför de fördjupat sig i mönster och färg.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Jag tror det är därför de fördjupat sig i mönster och färg.\"\nIdiom to remove: \"fördjupat sig\"\nLemmas to avoid simultaneously: fördjupa, sig\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01089033",
+        "text": "Wintour själv syns helt kort, och blir filmad när hon tar på sig sina solglasögon innan hon blir intervjuad.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Wintour själv syns helt kort, och blir filmad när hon tar på sig sina solglasögon innan hon blir intervjuad.\"\nIdiom to remove: \"helt kort\"\nLemmas to avoid simultaneously: helt, kort\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01090004",
+        "text": "Jag tittade på motocross och ju mer jag kollade desto mer dök det upp en viss kvinnas ansikte, i fotografier som såg ut som om de var från 1970-talet.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Jag tittade på motocross och ju mer jag kollade desto mer dök det upp en viss kvinnas ansikte, i fotografier som såg ut som om de var från 1970-talet.\"\nIdiom to remove: \"ju desto\"\nLemmas to avoid simultaneously: ju, desto\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01091013",
+        "text": "Som bäst är det naivt och som värst skulle det återigen låta skyttelobbyn komma undan.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Som bäst är det naivt och som värst skulle det återigen låta skyttelobbyn komma undan.\"\nIdiom to remove: \"komma undan\"\nLemmas to avoid simultaneously: komma, undan\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01096032",
+        "text": "Företag kan försöka ställa upp en brandvägg mellan känsliga system och främmande makt, men det fungerar inte alltid.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Företag kan försöka ställa upp en brandvägg mellan känsliga system och främmande makt, men det fungerar inte alltid.\"\nIdiom to remove: \"alltid\"\nLemmas to avoid simultaneously: alltid\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01101015",
+        "text": "”Beijing anser att ingripandet är nödvändigt för att undvika ett fortsatt dödläge i stadens lagstiftande”, sade han.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"”Beijing anser att ingripandet är nödvändigt för att undvika ett fortsatt dödläge i stadens lagstiftande”, sade han.\"\nIdiom to remove: \"ingripandet\"\nLemmas to avoid simultaneously: ingripande\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01106015",
+        "text": "Ms Hopley lade till: ”Den plötsliga ökningen i politisk risk bör inte gå obemärkt förbi.”",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ms Hopley lade till: ”Den plötsliga ökningen i politisk risk bör inte gå obemärkt förbi.”\"\nIdiom to remove: \"lade till\"\nLemmas to avoid simultaneously: lägga, till\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01107010",
+        "text": "Han befordrades till ordförande i oktober 2015, månaden efter att skandalen uppdagades.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Han befordrades till ordförande i oktober 2015, månaden efter att skandalen uppdagades.\"\nIdiom to remove: \"ordförande\"\nLemmas to avoid simultaneously: ordförande\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01111018",
+        "text": "Detta har inte hindrat investerare från att flockas för att sätta in sina pengar i fonderna.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Detta har inte hindrat investerare från att flockas för att sätta in sina pengar i fonderna.\"\nIdiom to remove: \"sätta in\"\nLemmas to avoid simultaneously: sätta, in\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01125030",
+        "text": "Så klart är den taktila trenden nära förknippad med vår växande fixering vid att göra saker.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Så klart är den taktila trenden nära förknippad med vår växande fixering vid att göra saker.\"\nIdiom to remove: \"Så klart\"\nLemmas to avoid simultaneously: så, klart\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01136010",
+        "text": "Loving börjar med Richard och Mildred redan som ett par, efter en uppvaktning som skulle varit intressant att se, om så bara i korthet.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Loving börjar med Richard och Mildred redan som ett par, efter en uppvaktning som skulle varit intressant att se, om så bara i korthet.\"\nIdiom to remove: \"i korthet\"\nLemmas to avoid simultaneously: i, korthet\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01140012",
+        "text": "I Nederländerna har myndigheterna tagit till ett lågteknologiskt angreppssätt för att spåra drönare.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"I Nederländerna har myndigheterna tagit till ett lågteknologiskt angreppssätt för att spåra drönare.\"\nIdiom to remove: \"tagit till\"\nLemmas to avoid simultaneously: ta, till\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01144038",
+        "text": "Snowman tänkte inget speciellt om att Johnny Carson tog fram en trappstege och satte sig bak och fram på honom, tillägger han.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Snowman tänkte inget speciellt om att Johnny Carson tog fram en trappstege och satte sig bak och fram på honom, tillägger han.\"\nIdiom to remove: \"bak och fram\"\nLemmas to avoid simultaneously: bak, och, fram\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01150031",
+        "text": "När personer dör till följd av hög ålder i Indien är det meningen att det ska firas.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"När personer dör till följd av hög ålder i Indien är det meningen att det ska firas.\"\nIdiom to remove: \"till följd av\"\nLemmas to avoid simultaneously: till, följd, av\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01001049",
+        "text": "Urkunden gav tillstånd för bildandet av ett köpmannagille, drivet av stadens borgerskap som beskattade människor som passerade genom staden.",
+        "prompt": {
+            "system": "You are an expert native speaker of Swedish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Urkunden gav tillstånd för bildandet av ett köpmannagille, drivet av stadens borgerskap som beskattade människor som passerade genom staden.\"\nIdiom to remove: \"gav tillstånd\"\nLemmas to avoid simultaneously: giva, tillstånd\n\nPlease rewrite the sentence naturally in Swedish."
+        }
+    }
+]

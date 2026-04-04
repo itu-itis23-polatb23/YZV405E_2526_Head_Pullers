@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-001.folia.xml 306",
+        "text": "მისმა ათეისტურმა შეხედულებებმა გავლენა მოახდინა მისი ძმისშვილის მსოფლმხედველობაზე .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მისმა ათეისტურმა შეხედულებებმა გავლენა მოახდინა მისი ძმისშვილის მსოფლმხედველობაზე .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-002.folia.xml 151",
+        "text": "გასართობი ღონისძიებები უნივერსიტეტი ყოველწლიურად ატარებს საგაზაფხულო ფესტივალს, რომელშიც მონაწილეობას იღებენ ცნობილი თურქი კვიპროსელი, თურქი და საერთაშორისო მომღერლები და ბენდები, იმართება ცეკვის ფესტივალები, სპორტული და სამაგიდო თამაშების შეჯიბრებები.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"გასართობი ღონისძიებები უნივერსიტეტი ყოველწლიურად ატარებს საგაზაფხულო ფესტივალს, რომელშიც მონაწილეობას იღებენ ცნობილი თურქი კვიპროსელი, თურქი და საერთაშორისო მომღერლები და ბენდები, იმართება ცეკვის ფესტივალები, სპორტული და სამაგიდო თამაშების შეჯიბრებები.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-002.folia.xml 919",
+        "text": "სამეცნიერო კოლექციები მუზეუმის პროფესიონალურად გამართული და შენახული ნიმუშები და არტეფაქტების კოლექციები, არის მთავარი კვლევითი რესურსი ეროვნული და საერთაშორისო სამეცნიერო საზოგადოებისთვის, რომელიც მხარს უჭერს ფართო კვლევას და თვალყურს ადევნებს გარემოს ცვლილებებს, საზოგადოებრივ ჯანმრთელობასა და უსაფრთხოებას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"სამეცნიერო კოლექციები მუზეუმის პროფესიონალურად გამართული და შენახული ნიმუშები და არტეფაქტების კოლექციები, არის მთავარი კვლევითი რესურსი ეროვნული და საერთაშორისო სამეცნიერო საზოგადოებისთვის, რომელიც მხარს უჭერს ფართო კვლევას და თვალყურს ადევნებს გარემოს ცვლილებებს, საზოგადოებრივ ჯანმრთელობასა და უსაფრთხოებას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-003.folia.xml 260",
+        "text": "ნათქვამია, რომ ქალიშვილობაში მან შთაბეჭდილება მოახდინა შივაზე და მან ასი შვილის ყოლის ძღვენი მისცა - ამის ზუსტი მიზეზები უცნობია.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ნათქვამია, რომ ქალიშვილობაში მან შთაბეჭდილება მოახდინა შივაზე და მან ასი შვილის ყოლის ძღვენი მისცა - ამის ზუსტი მიზეზები უცნობია.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-004.folia.xml 343",
+        "text": "საქართველოში არსებობდა დაძმობილების სხვადასხვა წესი: საკლავით დაძმობილება — ძმად გაფიცვის მსურველები რომელიმე დღეობაზე ხატში (სალოცავში) გავიდოდნენ ნათესავთან ერთად, ხევისბერი მათ დალოცავდა და საკლავის სისხლს ორივეს აპკურებდა.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"საქართველოში არსებობდა დაძმობილების სხვადასხვა წესი: საკლავით დაძმობილება — ძმად გაფიცვის მსურველები რომელიმე დღეობაზე ხატში (სალოცავში) გავიდოდნენ ნათესავთან ერთად, ხევისბერი მათ დალოცავდა და საკლავის სისხლს ორივეს აპკურებდა.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-004.folia.xml 386",
+        "text": "De Young's Artist Studio არის ხელოვანთა რეზიდენციის პროგრამა, რომელიც ხელს უწყობს ხელოვნების საზოგადოების ჩართულობას და ხელს უწყობს ახალბედა ხელოვანებს, 2010 წლიდან არის კულტურული შეხვედრების ადგილი.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"De Young's Artist Studio არის ხელოვანთა რეზიდენციის პროგრამა, რომელიც ხელს უწყობს ხელოვნების საზოგადოების ჩართულობას და ხელს უწყობს ახალბედა ხელოვანებს, 2010 წლიდან არის კულტურული შეხვედრების ადგილი.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-004.folia.xml 707",
+        "text": "დოქტორანტურა — უმაღლესი აკადემიური განათლების მესამე საფეხური და მიზნად ისახავს სამეცნიერო-პედაგოგიური კადრის მომზადებას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"დოქტორანტურა — უმაღლესი აკადემიური განათლების მესამე საფეხური და მიზნად ისახავს სამეცნიერო-პედაგოგიური კადრის მომზადებას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-004.folia.xml 727",
+        "text": "იმავე დარბაზში მნახველს შეუძლია ნახოს დროსინისის მიერ გამოცემული ზოგიერთი ჟურნალი, რომელიც მიზნად ისახავდა ბერძენი ხალხის ინტელექტუალურ აღორძინებას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"იმავე დარბაზში მნახველს შეუძლია ნახოს დროსინისის მიერ გამოცემული ზოგიერთი ჟურნალი, რომელიც მიზნად ისახავდა ბერძენი ხალხის ინტელექტუალურ აღორძინებას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-005.folia.xml 134",
+        "text": "ამდენად “სამყაროს აღსასრულის” ნაცვლად შეიძლება ითარგმნოს “ჟამის”, ”დღეთა”, ან “წუთისოფლის აღსასრული”.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ამდენად “სამყაროს აღსასრულის” ნაცვლად შეიძლება ითარგმნოს “ჟამის”, ”დღეთა”, ან “წუთისოფლის აღსასრული”.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-005.folia.xml 834",
+        "text": "მუზეუმის დღევანდელი მუშაობა განისაზღვრება 2015-2018 წლებში შემუშავებული ახალი სტრატეგიული გეგმით, რომელიც მიზნად ისახავს მუზეუმის სტუმრებისთვის \"აღმოჩენის გამოცდილების\" და ინტერაქტიული, ხელმისაწვდომი გარემოს შექმნას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მუზეუმის დღევანდელი მუშაობა განისაზღვრება 2015-2018 წლებში შემუშავებული ახალი სტრატეგიული გეგმით, რომელიც მიზნად ისახავს მუზეუმის სტუმრებისთვის \"აღმოჩენის გამოცდილების\" და ინტერაქტიული, ხელმისაწვდომი გარემოს შექმნას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-005.folia.xml 851",
+        "text": "რამდენიმე კვირაში ჩამოყალიბდა მერის მუზეუმის სამრჩევლო კომიტეტი, რომელმაც მიზნად დაისახა თანამედროვე ხელოვნების მუზეუმის დაარსება.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"რამდენიმე კვირაში ჩამოყალიბდა მერის მუზეუმის სამრჩევლო კომიტეტი, რომელმაც მიზნად დაისახა თანამედროვე ხელოვნების მუზეუმის დაარსება.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-005.folia.xml 857",
+        "text": "მუზეუმმა მიზნად დაისახა მუშაობის პირველ წელს 10 მილიონი დოლარი აეგროვებინა.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მუზეუმმა მიზნად დაისახა მუშაობის პირველ წელს 10 მილიონი დოლარი აეგროვებინა.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-006.folia.xml 30",
+        "text": "გოგუას და ა. შალიკაშვილის „წეროები“ (1977 წელი), „უკანასკნელი ზარი“ (1978 წელი), „ოცნება და სინამდვილე“ (1979 წელი), „უკვდავნი“ (1979 წელი) — სამივე პიესა ეკუთვნის ა. შალიკაშვილს, ი. კაკულიას ინსცენირებული „წითელი აფრები“ (ვლადიმერ მაიაკოვსკის მიხედვით, 1980), ა. შალიკაშვილის „კიდევაც დაიზრდებიან“ (1982 წელი) და „კრიმანჭული“ (1987 წელი), გურამ დოჩანაშვილის „ფიროსმანი — მეფე“ (1990 წელი), ვაჟა-ფშაველას „სტუმარ-მასპინძელი“ (1991).",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"გოგუას და ა. შალიკაშვილის „წეროები“ (1977 წელი), „უკანასკნელი ზარი“ (1978 წელი), „ოცნება და სინამდვილე“ (1979 წელი), „უკვდავნი“ (1979 წელი) — სამივე პიესა ეკუთვნის ა. შალიკაშვილს, ი. კაკულიას ინსცენირებული „წითელი აფრები“ (ვლადიმერ მაიაკოვსკის მიხედვით, 1980), ა. შალიკაშვილის „კიდევაც დაიზრდებიან“ (1982 წელი) და „კრიმანჭული“ (1987 წელი), გურამ დოჩანაშვილის „ფიროსმანი — მეფე“ (1990 წელი), ვაჟა-ფშაველას „სტუმარ-მასპინძელი“ (1991).\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-006.folia.xml 247",
+        "text": "ერთი შეხედვით, ეს სოფელი ჩიტის ბუდეს წააგავს.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ერთი შეხედვით, ეს სოფელი ჩიტის ბუდეს წააგავს.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-007.folia.xml 137",
+        "text": "1992 წელს ფრედ დიბნამ მონაწილეობა მიიღო ბუხრის ფერწერისა და გარემონტებაში, ის ასევე გამოჩნდა “BBC“–ის გადაცემაში.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"1992 წელს ფრედ დიბნამ მონაწილეობა მიიღო ბუხრის ფერწერისა და გარემონტებაში, ის ასევე გამოჩნდა “BBC“–ის გადაცემაში.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-007.folia.xml 456",
+        "text": "ახალგაზრდობაში აქტიურ მონაწილეობას იღებდა რევოლუციურ მოძრაობაში, მაგრამ მოგვიანებით მთლიანად ჩამოშორდა პოლიტიკას და მთლიანად ხელოვნებაზე გაამახვილა ყურადღება.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ახალგაზრდობაში აქტიურ მონაწილეობას იღებდა რევოლუციურ მოძრაობაში, მაგრამ მოგვიანებით მთლიანად ჩამოშორდა პოლიტიკას და მთლიანად ხელოვნებაზე გაამახვილა ყურადღება.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-007.folia.xml 467",
+        "text": "მისი მამა, ანდრეს მეგი, აქტიურ მონაწილეობას იღებდა ესტონეთის ეროვნული გამოღვიძების მოძრაობაში მე-19 საუკუნის მეორე ნახევარში.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მისი მამა, ანდრეს მეგი, აქტიურ მონაწილეობას იღებდა ესტონეთის ეროვნული გამოღვიძების მოძრაობაში მე-19 საუკუნის მეორე ნახევარში.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-007.folia.xml 550",
+        "text": "2011 წელს სეულის მიტროპოლიტი მთავრობის გამოკითხვის შედეგად, რომელშიც დაახლოებით 2000-მა უცხოელმა სტუმარმა მიიღო მონაწილეობა დადგინდა, რომ ტურისტებისთვის კორეის ეროვნული მუზეუმის სტუმრობა ერთ-ერთი საყვარელი აქტივობაა სეულში.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"2011 წელს სეულის მიტროპოლიტი მთავრობის გამოკითხვის შედეგად, რომელშიც დაახლოებით 2000-მა უცხოელმა სტუმარმა მიიღო მონაწილეობა დადგინდა, რომ ტურისტებისთვის კორეის ეროვნული მუზეუმის სტუმრობა ერთ-ერთი საყვარელი აქტივობაა სეულში.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-008.folia.xml 672",
+        "text": "მასწავლებელი — განათლების სისტემაში პიროვნება, რომელიც სწავლის პროცესში დახმარებას უწევს, რჩევებს აძლევს მოსწავლეს, ხშირად საჯარო სკოლებში.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მასწავლებელი — განათლების სისტემაში პიროვნება, რომელიც სწავლის პროცესში დახმარებას უწევს, რჩევებს აძლევს მოსწავლეს, ხშირად საჯარო სკოლებში.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-008.folia.xml 711",
+        "text": "დეკორატიულ მებაღეობას, რომელიც მიზნად ისახავს ლამაზი ყვავილოვანი მცენარეების მოყვანას, მეყვავილეობა ეწოდება.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"დეკორატიულ მებაღეობას, რომელიც მიზნად ისახავს ლამაზი ყვავილოვანი მცენარეების მოყვანას, მეყვავილეობა ეწოდება.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-008.folia.xml 802",
+        "text": "კლუბი „ჰონკა“ სქოლიო აგრეთვე იხილეთ მესიანიზმი (ძვ. ებრ. „მაშიახ“ – კურთხეული, ცხებული) — რელიგიური მოძღვრება უფლის რწმუნებულზე, კაცობრიობის მხსნელზე, მესიაზე, რომელიც ქვეყნად წესრიგს დაამყარებს, იხსნის ცოდვის ტეხვისაგან (ადამის და ევას პირველი ცოდვაა ნავარაუდევი).",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"კლუბი „ჰონკა“ სქოლიო აგრეთვე იხილეთ მესიანიზმი (ძვ. ებრ. „მაშიახ“ – კურთხეული, ცხებული) — რელიგიური მოძღვრება უფლის რწმუნებულზე, კაცობრიობის მხსნელზე, მესიაზე, რომელიც ქვეყნად წესრიგს დაამყარებს, იხსნის ცოდვის ტეხვისაგან (ადამის და ევას პირველი ცოდვაა ნავარაუდევი).\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 67",
+        "text": "მიანმარის კულტურა — ასევე ცნობილი, როგორც ბირმული კულტურა ( ბირმ. မြန်မာ့ယဉ်ကျေးမှု ), რომელზეც გავლენას ახდენდა მეზობლების კულტურა.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მიანმარის კულტურა — ასევე ცნობილი, როგორც ბირმული კულტურა ( ბირმ. မြန်မာ့ယဉ်ကျေးမှု ), რომელზეც გავლენას ახდენდა მეზობლების კულტურა.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 68",
+        "text": "ბოლოდროინდელ პერიოდში ბრიტანეთის კოლონიურმა მმართველობამ და დასავლურმა ყოფამ გავლენა მოახდინა ბირმული კულტურის ასპექტებზე, მათ შორის ენასა და განათლებაზე.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ბოლოდროინდელ პერიოდში ბრიტანეთის კოლონიურმა მმართველობამ და დასავლურმა ყოფამ გავლენა მოახდინა ბირმული კულტურის ასპექტებზე, მათ შორის ენასა და განათლებაზე.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 95",
+        "text": "ის აქტიურ მონაწილეობას იღებდა სოციალისტურ ყოველკვირეულში „ლუჩა დე კლასე“ (კლასობრივი ბრძოლა).",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ის აქტიურ მონაწილეობას იღებდა სოციალისტურ ყოველკვირეულში „ლუჩა დე კლასე“ (კლასობრივი ბრძოლა).\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 533",
+        "text": "ორგანიზაციული მიზნები მსოფლიო ტურიზმის ორგანიზაცია ხელს უწყობს გონივრული, სიცოცხლისუნარიანი და ყველასათვის ხელმისაწვდომი ტურიზმის განვითარებას, განსაკუთრებულ ყურადღებას აქცევს განვითარებად ქვეყნებს.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ორგანიზაციული მიზნები მსოფლიო ტურიზმის ორგანიზაცია ხელს უწყობს გონივრული, სიცოცხლისუნარიანი და ყველასათვის ხელმისაწვდომი ტურიზმის განვითარებას, განსაკუთრებულ ყურადღებას აქცევს განვითარებად ქვეყნებს.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 922",
+        "text": "ფედერალური მთავრობის დეპუტატებმა,კომპანიის მენეჯმენტის წევრებმა და ბავარიის მინისტრ – პრეზიდენტმა ბექშტაინმა მონაწილეობა მიიღეს აღდგენილი ადლერის პირველ მოგზაურობაში 2008 წლის 26 აპრილს.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ფედერალური მთავრობის დეპუტატებმა,კომპანიის მენეჯმენტის წევრებმა და ბავარიის მინისტრ – პრეზიდენტმა ბექშტაინმა მონაწილეობა მიიღეს აღდგენილი ადლერის პირველ მოგზაურობაში 2008 წლის 26 აპრილს.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-010.folia.xml 789",
+        "text": "სივრცე შთაგონებულია მუზეუმის კოლექციებით და საშუალებას აძლევს ბავშვებს მიიღონ მონაწილეობა ინტერაქტიულ აქტივობებში, რომლებიც მოიცავს ნიმუშებს, კოსტიუმებს, დინოზავრის ძვლების თხრას და ნამარხებისა და მეტეორიტების გამოკვლევას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"სივრცე შთაგონებულია მუზეუმის კოლექციებით და საშუალებას აძლევს ბავშვებს მიიღონ მონაწილეობა ინტერაქტიულ აქტივობებში, რომლებიც მოიცავს ნიმუშებს, კოსტიუმებს, დინოზავრის ძვლების თხრას და ნამარხებისა და მეტეორიტების გამოკვლევას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-010.folia.xml 958",
+        "text": "ეს ნაწარმოები თითქმის მთლიანად მისი ავტორის მეცნიერული იდეების პოპულარიზაციას ისახავდა მიზნად.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ეს ნაწარმოები თითქმის მთლიანად მისი ავტორის მეცნიერული იდეების პოპულარიზაციას ისახავდა მიზნად.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 194",
+        "text": "გარდა ამისა, ამერიკელ სტუდენტებს შეუძლიათ მონაწილეობა მიიღონ უნგრულ და ევროპულ კულტურასთან დაკავშირებულ კურსებში, მაგალითად, ისწავლონ უნგრული ენა, მუსიკა და კინემატოგრაფია.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"გარდა ამისა, ამერიკელ სტუდენტებს შეუძლიათ მონაწილეობა მიიღონ უნგრულ და ევროპულ კულტურასთან დაკავშირებულ კურსებში, მაგალითად, ისწავლონ უნგრული ენა, მუსიკა და კინემატოგრაფია.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 202",
+        "text": "პროფესორ-მასწავლებლები AIT-ის მიმზიდველობის ერთ-ერთი მიზეზია ის, რომ სტუდენტების სწავლებაში მონაწილეობას იღებენ ისეთი, უმეტესად უნგრელი ან უნგრული წარმოშობის ლექტორები, რომელთა სახელები ამერიკულ პროფესიულ წრეებშიც შეიძლება იყოს ცნობილი.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"პროფესორ-მასწავლებლები AIT-ის მიმზიდველობის ერთ-ერთი მიზეზია ის, რომ სტუდენტების სწავლებაში მონაწილეობას იღებენ ისეთი, უმეტესად უნგრელი ან უნგრული წარმოშობის ლექტორები, რომელთა სახელები ამერიკულ პროფესიულ წრეებშიც შეიძლება იყოს ცნობილი.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 422",
+        "text": "გასართობი ღონისძიებები უნივერსიტეტი ყოველწლიურად ატარებს საგაზაფხულო ფესტივალს, რომელშიც მონაწილეობას იღებენ ცნობილი თურქი კვიპროსელი, თურქი და საერთაშორისო მომღერლები და ბენდები, იმართება ცეკვის ფესტივალები, სპორტული და სამაგიდო თამაშების შეჯიბრებები.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"გასართობი ღონისძიებები უნივერსიტეტი ყოველწლიურად ატარებს საგაზაფხულო ფესტივალს, რომელშიც მონაწილეობას იღებენ ცნობილი თურქი კვიპროსელი, თურქი და საერთაშორისო მომღერლები და ბენდები, იმართება ცეკვის ფესტივალები, სპორტული და სამაგიდო თამაშების შეჯიბრებები.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 899",
+        "text": "დიდაქტიკური ლიტერატურა — დამრიგებლური ხასიათის ლიტერატურა, რომელიც მხატვრული ფორმით გადმოსცემს მეცნიერულ, ფილოსოფიურ, რელიგიურ, მორალურ პრინციპებსა და იდეებს, მიზნად ისახავს ადამიანის ზნეობრივ აღზრდას, სულიერ ამაღლებას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"დიდაქტიკური ლიტერატურა — დამრიგებლური ხასიათის ლიტერატურა, რომელიც მხატვრული ფორმით გადმოსცემს მეცნიერულ, ფილოსოფიურ, რელიგიურ, მორალურ პრინციპებსა და იდეებს, მიზნად ისახავს ადამიანის ზნეობრივ აღზრდას, სულიერ ამაღლებას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 934",
+        "text": "დოქტორანტურა — უმაღლესი აკადემიური განათლების მესამე საფეხური და მიზნად ისახავს სამეცნიერო-პედაგოგიური კადრის მომზადებას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"დოქტორანტურა — უმაღლესი აკადემიური განათლების მესამე საფეხური და მიზნად ისახავს სამეცნიერო-პედაგოგიური კადრის მომზადებას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 278",
+        "text": "პროგრამა 2005 წელს დაიწყო და მიზნად ისახავს 4 წლის მანძილზე საქართველოს ყველა სკოლას უზრუნველყოფას კომპიუტერული ტექნიკითა და ინტერნეტ-კავშირით, ინფორმაციული ტექნოლოგიების ინტეგრირებას მთელ სასწავლო პროცესში, სხვადასხვა საგნების სწავლებაში.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"პროგრამა 2005 წელს დაიწყო და მიზნად ისახავს 4 წლის მანძილზე საქართველოს ყველა სკოლას უზრუნველყოფას კომპიუტერული ტექნიკითა და ინტერნეტ-კავშირით, ინფორმაციული ტექნოლოგიების ინტეგრირებას მთელ სასწავლო პროცესში, სხვადასხვა საგნების სწავლებაში.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 321",
+        "text": "„კავკასიური სახლის“ გამომცემლობა „კავკასიური სახლის“ საგამომცემლო საქმიანობა მიზნად ისახავს: შეძლებისდაგვარად შეავსოს წიგნის, თარგმანის, რელიგიურ-ფილოსოფიური და მეცნიერული ინფორმაციის ნაკლებობა საქართველოში და მიაწოდოს მკითხველს ძველი და ახალი, დასავლეთსა და აღმოსავლეთის ლიტერატურული და სამეცნიერო ნაშრომები.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"„კავკასიური სახლის“ გამომცემლობა „კავკასიური სახლის“ საგამომცემლო საქმიანობა მიზნად ისახავს: შეძლებისდაგვარად შეავსოს წიგნის, თარგმანის, რელიგიურ-ფილოსოფიური და მეცნიერული ინფორმაციის ნაკლებობა საქართველოში და მიაწოდოს მკითხველს ძველი და ახალი, დასავლეთსა და აღმოსავლეთის ლიტერატურული და სამეცნიერო ნაშრომები.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 405",
+        "text": "მაგისტრატურა (< ლათ. magistratus — „წარჩინებული მოხელე“, „უფროსი“) — აკადემიური უმაღლესი განათლების მეორე საფეხური, სასწავლო პროგრამების ერთობლიობა, რომელიც აუცილებლად შეიცავს სამეცნიერო კვლევის ელემენტებს და მიზნად ისახავს ბაკალავრის შემდგომი დონის სპეციალისტის ან მკვლევარის მომზადებას, აგრეთვე ამზადებს პირს მიღებული კვალიფიკაციით მუშაობისათვის.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მაგისტრატურა (< ლათ. magistratus — „წარჩინებული მოხელე“, „უფროსი“) — აკადემიური უმაღლესი განათლების მეორე საფეხური, სასწავლო პროგრამების ერთობლიობა, რომელიც აუცილებლად შეიცავს სამეცნიერო კვლევის ელემენტებს და მიზნად ისახავს ბაკალავრის შემდგომი დონის სპეციალისტის ან მკვლევარის მომზადებას, აგრეთვე ამზადებს პირს მიღებული კვალიფიკაციით მუშაობისათვის.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 466",
+        "text": "მასწავლებელი — განათლების სისტემაში პიროვნება, რომელიც სწავლის პროცესში დახმარებას უწევს, რჩევებს აძლევს მოსწავლეს, ხშირად საჯარო სკოლებში.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მასწავლებელი — განათლების სისტემაში პიროვნება, რომელიც სწავლის პროცესში დახმარებას უწევს, რჩევებს აძლევს მოსწავლეს, ხშირად საჯარო სკოლებში.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 939",
+        "text": "მონაწილეობა მიიღოს სამეცნიერო-კვლევით საქმიანობაში.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მონაწილეობა მიიღოს სამეცნიერო-კვლევით საქმიანობაში.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 955",
+        "text": "ეს ყველაფერი მიზნად ისახავს ცოდნის გაღრმავებას, პრაქტიკული უნარების განვითარებას და პროფესიული კარიერისთვის საჭირო კომპეტენციების ჩამოყალიბებას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ეს ყველაფერი მიზნად ისახავს ცოდნის გაღრმავებას, პრაქტიკული უნარების განვითარებას და პროფესიული კარიერისთვის საჭირო კომპეტენციების ჩამოყალიბებას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 963",
+        "text": "დაესწროს ლექციებს, სემინარებს, ლაბორატორიულ, პრაქტიკულ და სხვა სახის მეცადინეობებს, შეასრულოს საგანმანათლებლო პროგრამით და მისი კომპონენტებით გათვალისწინებული სამუშაოები, მონაწილეობა მიიღოს შუალედურ შეფასებებსა და გამოცდებში.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"დაესწროს ლექციებს, სემინარებს, ლაბორატორიულ, პრაქტიკულ და სხვა სახის მეცადინეობებს, შეასრულოს საგანმანათლებლო პროგრამით და მისი კომპონენტებით გათვალისწინებული სამუშაოები, მონაწილეობა მიიღოს შუალედურ შეფასებებსა და გამოცდებში.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-001.folia.xml 47",
+        "text": "პროექტი მიზნად ისახავს გემებისთვის არხის შექმნას ფოკის სრუტის გასწვრივ დანჰუსკოდის მახლობლად.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"პროექტი მიზნად ისახავს გემებისთვის არხის შექმნას ფოკის სრუტის გასწვრივ დანჰუსკოდის მახლობლად.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-001.folia.xml 112",
+        "text": "ბირუნი ეჭვის თვალით უყურებდა რელიგიურ ცრურწმენას, უარყოფდა ასტროლოგიას, რომელიც მჭიდრო კავშირში იყო რელიგიასთან.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ბირუნი ეჭვის თვალით უყურებდა რელიგიურ ცრურწმენას, უარყოფდა ასტროლოგიას, რომელიც მჭიდრო კავშირში იყო რელიგიასთან.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-001.folia.xml 666",
+        "text": "ამიტომ აღნიშნული ქვეყნების უმრავლესობამ აქტიური მონაწილეობა მიიღო ე. წ. მიუმხრობლობის მოძრაობაში, რაც ორ მტრულად დაყოფილ მსოფლიოში რომელიმე სამხედრო ბლოკთან შეერთებაზე უარის თქმას ნიშნავდა.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ამიტომ აღნიშნული ქვეყნების უმრავლესობამ აქტიური მონაწილეობა მიიღო ე. წ. მიუმხრობლობის მოძრაობაში, რაც ორ მტრულად დაყოფილ მსოფლიოში რომელიმე სამხედრო ბლოკთან შეერთებაზე უარის თქმას ნიშნავდა.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-001.folia.xml 668",
+        "text": "არჩევანი დიდი არ იყო „სოციალისტური გზა“ ან თავისუფალი მრეწველობის და საბაზრო ეკონომიკის, ანუ „კაპიტალისტური გზა“.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"არჩევანი დიდი არ იყო „სოციალისტური გზა“ ან თავისუფალი მრეწველობის და საბაზრო ეკონომიკის, ანუ „კაპიტალისტური გზა“.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-002.folia.xml 99",
+        "text": "ტყის განადგურება ასევე გავლენას ახდენს ქარისა და წყლის ორთქლის ნაკადებზე და მზის ენერგიის შეწოვაზე, რაც აშკარა გავლენას ახდენს ადგილობრივ კლიმატზე.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ტყის განადგურება ასევე გავლენას ახდენს ქარისა და წყლის ორთქლის ნაკადებზე და მზის ენერგიის შეწოვაზე, რაც აშკარა გავლენას ახდენს ადგილობრივ კლიმატზე.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-002.folia.xml 160",
+        "text": "კაცობრიობის უდიდესი და უმნიშვნელოვანესი დარგია, რომელიც უპირველეს ყოვლისა მიზნად ისახავს დედამიწის მთელი გეოგრაფიული (ლანდშაფტური) გარსის კომპლექსურ შესწავლას, მის აგებულებასა და მნიშვნელობას.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"კაცობრიობის უდიდესი და უმნიშვნელოვანესი დარგია, რომელიც უპირველეს ყოვლისა მიზნად ისახავს დედამიწის მთელი გეოგრაფიული (ლანდშაფტური) გარსის კომპლექსურ შესწავლას, მის აგებულებასა და მნიშვნელობას.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-002.folia.xml 831",
+        "text": "ეს ვერსია დასაშვებია, თუმცა მეცნიერთა დიდი ნაწილი თვლის, რომ სიცოცხლე დედამიწაზე წარმოიშვა, რასაც ხელი შეუწყო მზის სითბომ, სინათლემ, წყალმა, ჰაერმა.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ეს ვერსია დასაშვებია, თუმცა მეცნიერთა დიდი ნაწილი თვლის, რომ სიცოცხლე დედამიწაზე წარმოიშვა, რასაც ხელი შეუწყო მზის სითბომ, სინათლემ, წყალმა, ჰაერმა.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-003.folia.xml 11",
+        "text": "ადამიანის საქმიანობა ახლა დომინანტური ძალაა, რომელიც გავლენას ახდენს გლობალურ ცვლილებებზე, ზიანს აყენებს ბიოსფეროს, დედამიწის ზედაპირს, ასევე ჰიდროსფეროს ატმოსფეროს ველური მიწების დაკარგვით, ოკეანეების ზედმეტად ექსპლუატაციით, სათბურის გაზების წარმოებით, ოზონის ფენის დეგრადაციით და, ზოგადად, ნიადაგის, ჰაერისა და წყლის ხარისხის დეგრადაციით.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ადამიანის საქმიანობა ახლა დომინანტური ძალაა, რომელიც გავლენას ახდენს გლობალურ ცვლილებებზე, ზიანს აყენებს ბიოსფეროს, დედამიწის ზედაპირს, ასევე ჰიდროსფეროს ატმოსფეროს ველური მიწების დაკარგვით, ოკეანეების ზედმეტად ექსპლუატაციით, სათბურის გაზების წარმოებით, ოზონის ფენის დეგრადაციით და, ზოგადად, ნიადაგის, ჰაერისა და წყლის ხარისხის დეგრადაციით.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-003.folia.xml 113",
+        "text": "ჰოლოცენის ამჟამინდელი გადაშენება, რომელიც გამოწვეული იქნება ტექნოლოგიებით, შეიძლება გაგრძელდეს ხუთ მილიონ წლამდე, ვინაიდან, ტექნოლოგიებს შეუძლიათ გამოიწვიონ კაცობრიობის გადაშენება, რადგანაც ის ცუდ გავლენას ახდენს გარემო-პირობებზე.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"ჰოლოცენის ამჟამინდელი გადაშენება, რომელიც გამოწვეული იქნება ტექნოლოგიებით, შეიძლება გაგრძელდეს ხუთ მილიონ წლამდე, ვინაიდან, ტექნოლოგიებს შეუძლიათ გამოიწვიონ კაცობრიობის გადაშენება, რადგანაც ის ცუდ გავლენას ახდენს გარემო-პირობებზე.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-003.folia.xml 140",
+        "text": "მდგომარეობის გაუარესების რისკების მრავალი სცენარი არსებობს, რომლებმაც შეიძლება გლობალური გავლენა მოახდინონ პლანეტაზე.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Georgian language.",
+            "user": "Sentence: \"მდგომარეობის გაუარესების რისკების მრავალი სცენარი არსებობს, რომლებმაც შეიძლება გლობალური გავლენა მოახდინონ პლანეტაზე.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

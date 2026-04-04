@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj789.3943.14005",
+        "text": "Najmanjši parlamentarni stranki, SNS in DeSUS, si po besedah predsednikov strank, Zmaga Jelinčiča in Janka Kušarja, zaradi omejenih finančnih zmožnosti razkošnega medijskega predstavljanja ne bosta mogli privoščiti.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Najmanjši parlamentarni stranki, SNS in DeSUS, si po besedah predsednikov strank, Zmaga Jelinčiča in Janka Kušarja, zaradi omejenih finančnih zmožnosti razkošnega medijskega predstavljanja ne bosta mogli privoščiti.\"\nIdiom to remove: \"si privoščiti\"\nLemmas to avoid simultaneously: se, privoščiti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj789.3943.14006",
+        "text": "DeSUS bo zato večji poudarek namenil neposrednemu stiku z volilci, namesto jumbo plakatov pa so svojim enotam na terenu poslali zgibanke.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"DeSUS bo zato večji poudarek namenil neposrednemu stiku z volilci, namesto jumbo plakatov pa so svojim enotam na terenu poslali zgibanke.\"\nIdiom to remove: \"poudarek namenil\"\nLemmas to avoid simultaneously: poudarek, nameniti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3947.14017",
+        "text": "Letos bo festival med 6. avgustom in 6. septembrom že tretje leto zapored, nastaja pa v produkciji LG Papilu pod produkcijskim in umetniškim vodstvom Maje Bavdaž Solce.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Letos bo festival med 6. avgustom in 6. septembrom že tretje leto zapored, nastaja pa v produkciji LG Papilu pod produkcijskim in umetniškim vodstvom Maje Bavdaž Solce.\"\nIdiom to remove: \"v produkciji\"\nLemmas to avoid simultaneously: v, produkcija\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3948.14019",
+        "text": "Če ima kaj od tega, potem lahko najdejo lastnika, sicer pa žival sprejmejo in zanjo poskrbijo.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Če ima kaj od tega, potem lahko najdejo lastnika, sicer pa žival sprejmejo in zanjo poskrbijo.\"\nIdiom to remove: \"sicer pa\"\nLemmas to avoid simultaneously: sicer, pa\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3948.14023",
+        "text": "Po osmih dneh postanejo last Gmajnic, če pa se potem pojavi pravi lastnik, mora plačati oskrbo za toliko časa, kolikor je bila žival tam.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Po osmih dneh postanejo last Gmajnic, če pa se potem pojavi pravi lastnik, mora plačati oskrbo za toliko časa, kolikor je bila žival tam.\"\nIdiom to remove: \"se pojavi\"\nLemmas to avoid simultaneously: se, pojaviti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3950.14031",
+        "text": "Z njo so se jedrske sile zavezale, da ne bodo prenašale jedrskega orožja v druge države, države, ki ga niso imele, pa so obljubile, da ga ne bodo sprejemale in izdelovale.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Z njo so se jedrske sile zavezale, da ne bodo prenašale jedrskega orožja v druge države, države, ki ga niso imele, pa so obljubile, da ga ne bodo sprejemale in izdelovale.\"\nIdiom to remove: \"se zavezale\"\nLemmas to avoid simultaneously: se, zavezati\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3951.14034",
+        "text": "Zato bodo izdali posebne brošure, v katerih bodo navedli splošno sprejete cene posameznega blaga in storitev, da bi s tem preprečili goljufanje.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Zato bodo izdali posebne brošure, v katerih bodo navedli splošno sprejete cene posameznega blaga in storitev, da bi s tem preprečili goljufanje.\"\nIdiom to remove: \"s tem\"\nLemmas to avoid simultaneously: z, ta\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3952.14038",
+        "text": "Za zdaj kaže, da je tako.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Za zdaj kaže, da je tako.\"\nIdiom to remove: \"Za zdaj\"\nLemmas to avoid simultaneously: za, zdaj\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3956.14049",
+        "text": "Piran je poleg obnovljenih razpravnih dvoran, sodniških pisarn, knjižnice, novih sanitarij in drugih prostorov dobil tudi novo računalniško mrežo, s pomočjo katere je neposredno povezan z vrhovnim sodiščem v Ljubljani.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Piran je poleg obnovljenih razpravnih dvoran, sodniških pisarn, knjižnice, novih sanitarij in drugih prostorov dobil tudi novo računalniško mrežo, s pomočjo katere je neposredno povezan z vrhovnim sodiščem v Ljubljani.\"\nIdiom to remove: \"s pomočjo\"\nLemmas to avoid simultaneously: z, pomoč\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14057",
+        "text": "Glede na to, da grozilnemu pismu prvič niso takoj sledile ali pa ga celo prehitele eksplozivne pošiljke, upajo, da se pri tokratnih osumljenih ne motijo.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Glede na to, da grozilnemu pismu prvič niso takoj sledile ali pa ga celo prehitele eksplozivne pošiljke, upajo, da se pri tokratnih osumljenih ne motijo.\"\nIdiom to remove: \"Glede na to da\"\nLemmas to avoid simultaneously: glede, na, ta, da\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14058",
+        "text": "Njihova glavna teza namreč je, da tako imenovani \"sekretariat\" Bayuwarische Befreeiungs Armee, ki je doslej pripravljal in vodil vse \"napade\", trenutno ni v polni sestavi.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Njihova glavna teza namreč je, da tako imenovani \"sekretariat\" Bayuwarische Befreeiungs Armee, ki je doslej pripravljal in vodil vse \"napade\", trenutno ni v polni sestavi.\"\nIdiom to remove: \"tako imenovani\"\nLemmas to avoid simultaneously: tako, imenovan\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14060",
+        "text": "Trije - nekakšno poveljstvo ali, kot se same imenujejo, \"sekretariat\" - naj bi bili starejši pripadniki desne ekstremistične scene.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Trije - nekakšno poveljstvo ali, kot se same imenujejo, \"sekretariat\" - naj bi bili starejši pripadniki desne ekstremistične scene.\"\nIdiom to remove: \"naj bi\"\nLemmas to avoid simultaneously: naj, biti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14062",
+        "text": "Gre za nekega starejšega pravnika iz Spodnje Avstrije in upokojenega zgodovinarja iz avstrijske Štajerske, ki naj bi bila po njihovem mnenju soavtorja grozilnih pisem BBA in hkrati člana \"sekretariata\".",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Gre za nekega starejšega pravnika iz Spodnje Avstrije in upokojenega zgodovinarja iz avstrijske Štajerske, ki naj bi bila po njihovem mnenju soavtorja grozilnih pisem BBA in hkrati člana \"sekretariata\".\"\nIdiom to remove: \"Gre za\"\nLemmas to avoid simultaneously: iti, za\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14065",
+        "text": "Četudi tretjemu članu \"sekretariata\", tako imenovanim \"možganom\" akcije, še niso na sledi, pa je v doslej zaupnih listinah policije kot glavni osumljeni imenovan avstrijski neonacist Gerd Honsick, ki je že dalj časa na begu v Španiji.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Četudi tretjemu članu \"sekretariata\", tako imenovanim \"možganom\" akcije, še niso na sledi, pa je v doslej zaupnih listinah policije kot glavni osumljeni imenovan avstrijski neonacist Gerd Honsick, ki je že dalj časa na begu v Španiji.\"\nIdiom to remove: \"tako imenovanim\"\nLemmas to avoid simultaneously: tako, imenovan\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj793.3961.14068",
+        "text": "Soodvisnost meščanov in prebivalcev neposrednega zaledja mestnega središča, ki je zaznamovala dobri dve stoletji tržaške zgodovine, poskuša Etnografski oddelek Narodne in študijske knjižnice skupaj s področnimi prosvetnimi društvi in drugimi organizacijami oteti pozabi in ohraniti spomin na nekdanjo podobo skoraj povsem izgubljenega slovenskega prostora.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Soodvisnost meščanov in prebivalcev neposrednega zaledja mestnega središča, ki je zaznamovala dobri dve stoletji tržaške zgodovine, poskuša Etnografski oddelek Narodne in študijske knjižnice skupaj s področnimi prosvetnimi društvi in drugimi organizacijami oteti pozabi in ohraniti spomin na nekdanjo podobo skoraj povsem izgubljenega slovenskega prostora.\"\nIdiom to remove: \"skupaj s\"\nLemmas to avoid simultaneously: skupaj, z\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj793.3962.14071",
+        "text": "Ker se je festival šele »rodil«, izvedbeno nisem hotel biti pretenciozen.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ker se je festival šele »rodil«, izvedbeno nisem hotel biti pretenciozen.\"\nIdiom to remove: \"se rodil\"\nLemmas to avoid simultaneously: se, roditi\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj793.3962.14073",
+        "text": "Naša želja je bila pokazati, kaj se dogaja v komornih gledališčih treh sosednjih držav.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Naša želja je bila pokazati, kaj se dogaja v komornih gledališčih treh sosednjih držav.\"\nIdiom to remove: \"se dogaja\"\nLemmas to avoid simultaneously: se, dogajati\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj794.3963.14074",
+        "text": "Zanimiva, prijetna zbirka inspirativnih zgodb z raznih področij duhovnosti -- med njimi so zenovske in sufijske, krščanske in budistične, zgodbe Indijancev in drugih ameriških domorodcev, polne navdihujočih namigov in anekdotičnih podukov.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Zanimiva, prijetna zbirka inspirativnih zgodb z raznih področij duhovnosti -- med njimi so zenovske in sufijske, krščanske in budistične, zgodbe Indijancev in drugih ameriških domorodcev, polne navdihujočih namigov in anekdotičnih podukov.\"\nIdiom to remove: \"med njimi\"\nLemmas to avoid simultaneously: med, on\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3967.14088",
+        "text": "Maja je bila očetova nova žena, in ko je pred koncem šolskega leta pobegnil k očetu, se z njo nista prav nič dobro razumela.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Maja je bila očetova nova žena, in ko je pred koncem šolskega leta pobegnil k očetu, se z njo nista prav nič dobro razumela.\"\nIdiom to remove: \"se razumela\"\nLemmas to avoid simultaneously: se, razumeti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3968.14092",
+        "text": "Navadil se je, da je enostavno odklopil telefon, ko je odšel v šolo, potem pa ga vklopil nazaj.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Navadil se je, da je enostavno odklopil telefon, ko je odšel v šolo, potem pa ga vklopil nazaj.\"\nIdiom to remove: \"potem pa\"\nLemmas to avoid simultaneously: potem, pa\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3968.14095",
+        "text": "Ko je prišel junij in je bilo že jasno, da Tinček ne bo izdelal razreda, mu je postalo vseeno za vse skupaj.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ko je prišel junij in je bilo že jasno, da Tinček ne bo izdelal razreda, mu je postalo vseeno za vse skupaj.\"\nIdiom to remove: \"vse skupaj\"\nLemmas to avoid simultaneously: ves, skupaj\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3968.14096",
+        "text": "Lahko si je oddahnil.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Lahko si je oddahnil.\"\nIdiom to remove: \"si oddahnil\"\nLemmas to avoid simultaneously: se, oddahniti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3970.14102",
+        "text": "»Uf, sem se že ustrašila, da se tvoja babica heca in da bo samo čakala, da nas bo zasačila pri kakšni zadevi,« si je oddahnila Ajda.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"»Uf, sem se že ustrašila, da se tvoja babica heca in da bo samo čakala, da nas bo zasačila pri kakšni zadevi,« si je oddahnila Ajda.\"\nIdiom to remove: \"si oddahnila\"\nLemmas to avoid simultaneously: se, oddahniti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj798.3972.14105",
+        "text": "Za angino pectoris je značilna bolečina, ki ne traja več kot 15 minut, ne glede na to, ali se pojavi med telesno obremenitvijo ali med mirovanjem.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Za angino pectoris je značilna bolečina, ki ne traja več kot 15 minut, ne glede na to, ali se pojavi med telesno obremenitvijo ali med mirovanjem.\"\nIdiom to remove: \"ne glede na\"\nLemmas to avoid simultaneously: ne, glede, na\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj799.3973.14107",
+        "text": "Pogovarjamo se, kaj smo doživljali med poslušanjem.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Pogovarjamo se, kaj smo doživljali med poslušanjem.\"\nIdiom to remove: \"Pogovarjamo se\"\nLemmas to avoid simultaneously: pogovarjati, se\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj799.3973.14108",
+        "text": "Ali je kdo »videl« snežinke, kako se vrtijo v zraku, se rahlo zaletavajo, skupaj zaplešejo?",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ali je kdo »videl« snežinke, kako se vrtijo v zraku, se rahlo zaletavajo, skupaj zaplešejo?\"\nIdiom to remove: \"se zaletavajo\"\nLemmas to avoid simultaneously: se, zaletavati\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj800.3974.14110",
+        "text": "Priporočamo vam, da se pred morebitnim nakupom pozanimate za rezultate teh testov.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Priporočamo vam, da se pred morebitnim nakupom pozanimate za rezultate teh testov.\"\nIdiom to remove: \"se pozanimate\"\nLemmas to avoid simultaneously: se, pozanimati\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3977.14114",
+        "text": "Na plese v Kazini ne bova več zahajala, udeleževala pa se bova plesov v graščinah mojih sorodnikov.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Na plese v Kazini ne bova več zahajala, udeleževala pa se bova plesov v graščinah mojih sorodnikov.\"\nIdiom to remove: \"udeleževala se\"\nLemmas to avoid simultaneously: udeleževati, se\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3977.14116",
+        "text": "Oče so šibkega zdravja in kdo ve, ali dočakajo poroko.«",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Oče so šibkega zdravja in kdo ve, ali dočakajo poroko.«\"\nIdiom to remove: \"kdo ve\"\nLemmas to avoid simultaneously: kdo, vedeti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3978.14118",
+        "text": "Ko sta s slikarjem ostala sama, se je spustila v živahen klepet.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ko sta s slikarjem ostala sama, se je spustila v živahen klepet.\"\nIdiom to remove: \"se spustila v\"\nLemmas to avoid simultaneously: se, spustiti, v\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3978.14119",
+        "text": "Langus, ki je izviral iz Kamne Gorice na Gorenjskem, jo je po govoru zelo spominjal na deda.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Langus, ki je izviral iz Kamne Gorice na Gorenjskem, jo je po govoru zelo spominjal na deda.\"\nIdiom to remove: \"spominjal na\"\nLemmas to avoid simultaneously: spominjati, na\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3979.14120",
+        "text": "Julija se je počutila kakor pocestnica, ki se mora v naglici obleči in zginiti s prizorišča.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Julija se je počutila kakor pocestnica, ki se mora v naglici obleči in zginiti s prizorišča.\"\nIdiom to remove: \"se počutila\"\nLemmas to avoid simultaneously: se, počutiti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3980.14121",
+        "text": "Ko sta se z možem po pogrebu vrnila domov, jo je preplavil tak obup, da bi najraje skočila v Krko.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ko sta se z možem po pogrebu vrnila domov, jo je preplavil tak obup, da bi najraje skočila v Krko.\"\nIdiom to remove: \"se vrnila\"\nLemmas to avoid simultaneously: se, vrniti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3982.14127",
+        "text": "Voda, ki je po navadi mirno tekla mimo gradiča, se je nenadoma grozljivo zavrtinčila in sredi umazanih pen se je zazibala črna krsta.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Voda, ki je po navadi mirno tekla mimo gradiča, se je nenadoma grozljivo zavrtinčila in sredi umazanih pen se je zazibala črna krsta.\"\nIdiom to remove: \"po navadi\"\nLemmas to avoid simultaneously: po, navada\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3983.14128",
+        "text": "\"Pred štirimi leti sem prevzel to funkcijo s polno odgovornostjo in jo želim s polno odgovornostjo predati nasledniku.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"Pred štirimi leti sem prevzel to funkcijo s polno odgovornostjo in jo želim s polno odgovornostjo predati nasledniku.\"\nIdiom to remove: \"s polno odgovornostjo\"\nLemmas to avoid simultaneously: z, poln, odgovornost\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3986.14138",
+        "text": "Prepričan je, da so krajane dobro in sproti obveščali, da obljube o novi grajenski šoli niso povezane z gradnjo odlagališča, da avtorica študije Darinka Ignjatovič dobro pozna lokacijo za odlagališče, da pretiravajo z ocenami o velikosti odlagališča - veliko naj bi bilo 13 in ne 18 hektarjev.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Prepričan je, da so krajane dobro in sproti obveščali, da obljube o novi grajenski šoli niso povezane z gradnjo odlagališča, da avtorica študije Darinka Ignjatovič dobro pozna lokacijo za odlagališče, da pretiravajo z ocenami o velikosti odlagališča - veliko naj bi bilo 13 in ne 18 hektarjev.\"\nIdiom to remove: \"naj bi\"\nLemmas to avoid simultaneously: naj, biti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3986.14139",
+        "text": "Opozoril je še, da po mnenju biologa dr. Mitja Kaligariča na lokaciji ni nobenih posebnosti v rastlinstvu, da objekt ne bo ogrožal podtalnice, ker bo grajen vodotesno, da bi se promet po regionalni cesti skozi Vurberk zaradi odlagališča povečal le za en odstotek dnevno ter da bo vhod na odlagališče neopazen in se bodo prireditve na Vurberku lahko nemoteno odvijale.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Opozoril je še, da po mnenju biologa dr. Mitja Kaligariča na lokaciji ni nobenih posebnosti v rastlinstvu, da objekt ne bo ogrožal podtalnice, ker bo grajen vodotesno, da bi se promet po regionalni cesti skozi Vurberk zaradi odlagališča povečal le za en odstotek dnevno ter da bo vhod na odlagališče neopazen in se bodo prireditve na Vurberku lahko nemoteno odvijale.\"\nIdiom to remove: \"po mnenju\"\nLemmas to avoid simultaneously: po, mnenje\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3987.14140",
+        "text": "Igrajo: Erik Estrada, Robert Vaughn in drugi, režija: David L. Stanton",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Igrajo: Erik Estrada, Robert Vaughn in drugi, režija: David L. Stanton\"\nIdiom to remove: \"in drugi\"\nLemmas to avoid simultaneously: in, drug\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3988.14142",
+        "text": "V poprečju gimnazijci s končanimi tremi letniki.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"V poprečju gimnazijci s končanimi tremi letniki.\"\nIdiom to remove: \"V poprečju\"\nLemmas to avoid simultaneously: v, poprečje\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3988.14148",
+        "text": "Toda ti posamezniki v 29-tedenskem izobraževanju, ki se prične v začetku oktobra in sklene konec maja, praviloma ne vztrajajo in se tudi na maturo ne prijavijo.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Toda ti posamezniki v 29-tedenskem izobraževanju, ki se prične v začetku oktobra in sklene konec maja, praviloma ne vztrajajo in se tudi na maturo ne prijavijo.\"\nIdiom to remove: \"v začetku\"\nLemmas to avoid simultaneously: v, začetek\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3990.14150",
+        "text": "Zakonodaja torej napotuje pri določitvi konkretne dolžine letnega dopusta glede na kolektivne pogodbe oziroma interne akte.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Zakonodaja torej napotuje pri določitvi konkretne dolžine letnega dopusta glede na kolektivne pogodbe oziroma interne akte.\"\nIdiom to remove: \"glede na\"\nLemmas to avoid simultaneously: glede, na\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3990.14151",
+        "text": "V zvezi s kolektivnimi pogodbami naj omenim, da ima večina tako imenovanih panožnih kolektivnih pogodb razdelane določbe v zvezi s višino letnega dopusta glede na zakonsko določene kriterije.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"V zvezi s kolektivnimi pogodbami naj omenim, da ima večina tako imenovanih panožnih kolektivnih pogodb razdelane določbe v zvezi s višino letnega dopusta glede na zakonsko določene kriterije.\"\nIdiom to remove: \"V zvezi s\"\nLemmas to avoid simultaneously: v, zveza, z\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj803.3992.14162",
+        "text": "Čudil sem se, zakaj neki poganja kolo - dokler nisem opazil generatorja in večih baterij.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Čudil sem se, zakaj neki poganja kolo - dokler nisem opazil generatorja in večih baterij.\"\nIdiom to remove: \"Čudil se\"\nLemmas to avoid simultaneously: čuditi, se\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj804.3995.14168",
+        "text": "Doma ga predsednik najbolj vplivne arabske države, ki je v različnih obdobjih negovala islamizem, panarabizem, palestinski nacionalizem in komunizem, izvaja s trdo roko.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Doma ga predsednik najbolj vplivne arabske države, ki je v različnih obdobjih negovala islamizem, panarabizem, palestinski nacionalizem in komunizem, izvaja s trdo roko.\"\nIdiom to remove: \"s trdo roko\"\nLemmas to avoid simultaneously: z, trd, roka\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj804.3995.14170",
+        "text": "Prve se v odnosih s Kairom nikdar niso otresle sumničenj zaradi njegovega miru z Izraelom.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Prve se v odnosih s Kairom nikdar niso otresle sumničenj zaradi njegovega miru z Izraelom.\"\nIdiom to remove: \"se otresle\"\nLemmas to avoid simultaneously: se, otresti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj804.3996.14177",
+        "text": "Na ta način bodo namreč dali ustvarjalcem na nacionalni televiziji nov zagon in možnost, da svoje sile usmerijo v delo, od katerega imajo največ koristi prav gledalci.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Na ta način bodo namreč dali ustvarjalcem na nacionalni televiziji nov zagon in možnost, da svoje sile usmerijo v delo, od katerega imajo največ koristi prav gledalci.\"\nIdiom to remove: \"Na ta način\"\nLemmas to avoid simultaneously: na, ta, način\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj805.4000.14184",
+        "text": "Za premik je pač potreben šok,\" je povedal Gorazd Bokšan, ki se bo do konca sezone umaknil iz košarke.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Za premik je pač potreben šok,\" je povedal Gorazd Bokšan, ki se bo do konca sezone umaknil iz košarke.\"\nIdiom to remove: \"se umaknil\"\nLemmas to avoid simultaneously: se, umakniti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj806.4001.14190",
+        "text": "Prav to možnost uporablja NLP in z njo utrjuje ugodne spomine ali spremeni nove izkušnje v prijetne, neprijetne spomine pa nevtralizira in s tem zbudi notranje moči, ki se skrivajo v človeku.",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Prav to možnost uporablja NLP in z njo utrjuje ugodne spomine ali spremeni nove izkušnje v prijetne, neprijetne spomine pa nevtralizira in s tem zbudi notranje moči, ki se skrivajo v človeku.\"\nIdiom to remove: \"s tem\"\nLemmas to avoid simultaneously: z, ta\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj806.4003.14194",
+        "text": "Če si zastavimo cilj, ne da bi ga tudi časovno določili (torej se odločili, kdaj želite cilj doseči),",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Če si zastavimo cilj, ne da bi ga tudi časovno določili (torej se odločili, kdaj želite cilj doseči),\"\nIdiom to remove: \"ne da bi\"\nLemmas to avoid simultaneously: ne, da, biti\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj806.4008.14202",
+        "text": "Pri tem pazite, da bo vaša nova strategija izpolnjevala vsa merila dobre strategije:",
+        "prompt": {
+            "system": "You are an expert native speaker of Slovene. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Pri tem pazite, da bo vaša nova strategija izpolnjevala vsa merila dobre strategije:\"\nIdiom to remove: \"Pri tem\"\nLemmas to avoid simultaneously: pri, ta\n\nPlease rewrite the sentence naturally in Slovene."
+        }
+    }
+]

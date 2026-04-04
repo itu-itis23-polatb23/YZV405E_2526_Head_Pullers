@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". . news-100-1",
+        "text": "Спілкувалася: Ганна Трегуб Суспільство політиків Президент Асоціації державних канцлерів Швейцарської Конфедерації Петер Ґрюненфельдер та член виконавчого комітету Центру компетентності в державному управлінні Університету Берна професор Рето Штайнер в інтерв’ю Тижню розповіли про швейцарську децентралізацію влади й довіру як базову засаду державного управління У. Т.: Які ключові аспекти швейцарської державної служби, на вашу думку, роблять її ефективною?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Спілкувалася: Ганна Трегуб Суспільство політиків Президент Асоціації державних канцлерів Швейцарської Конфедерації Петер Ґрюненфельдер та член виконавчого комітету Центру компетентності в державному управлінні Університету Берна професор Рето Штайнер в інтерв’ю Тижню розповіли про швейцарську децентралізацію влади й довіру як базову засаду державного управління У. Т.: Які ключові аспекти швейцарської державної служби, на вашу думку, роблять її ефективною?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-3",
+        "text": "На противагу централізації владні повноваження було передано місцевому врядуванню.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"На противагу централізації владні повноваження було передано місцевому врядуванню.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-4",
+        "text": "Регіональна влада, яка керує кантонами, теж має певні ресурси і може ухвалювати та імплементувати рішення.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Регіональна влада, яка керує кантонами, теж має певні ресурси і може ухвалювати та імплементувати рішення.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-5",
+        "text": "Також треба згадати про податкову реформу, яку ми провели 10–15 років тому, і про забезпечення прозорості цін на ті чи інші публічні послуги.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Також треба згадати про податкову реформу, яку ми провели 10–15 років тому, і про забезпечення прозорості цін на ті чи інші публічні послуги.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-8",
+        "text": "Це дуже дивний імідж, бо зазвичай владна піраміда побудована таким чином, що нагорі перебувають уряд і парламент, далі чиновництво національного, регіонального та локального рівнів, а потім вже громадяни.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Це дуже дивний імідж, бо зазвичай владна піраміда побудована таким чином, що нагорі перебувають уряд і парламент, далі чиновництво національного, регіонального та локального рівнів, а потім вже громадяни.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-10",
+        "text": "Владна піраміда має такий вигляд: нагорі громадяни, далі місцеве врядування, потім регіональне керівництво і внизу національний уряд.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Владна піраміда має такий вигляд: нагорі громадяни, далі місцеве врядування, потім регіональне керівництво і внизу національний уряд.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-11",
+        "text": "Демократичний устрій країни вилився в те, що найважливіші для життя Швейцарії рішення громадяни ухвалюють безпосередньо, а не через уряд чи парламент.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Демократичний устрій країни вилився в те, що найважливіші для життя Швейцарії рішення громадяни ухвалюють безпосередньо, а не через уряд чи парламент.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-12",
+        "text": "Ми маємо право на референдум та правові ініціативи, тому швейцарці постійно залучені до процесу прийняття рішень.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Ми маємо право на референдум та правові ініціативи, тому швейцарці постійно залучені до процесу прийняття рішень.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-13",
+        "text": "Рето Штайнер: Додам, що не останню роль навіть для державного управління відіграє демократія.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Рето Штайнер: Додам, що не останню роль навіть для державного управління відіграє демократія.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-14",
+        "text": "Влада перебуває в руках людей, а це означає, що більшість законів мають бути вдосконалені самими людьми.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Влада перебуває в руках людей, а це означає, що більшість законів мають бути вдосконалені самими людьми.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-16",
+        "text": "Така практика справді зосереджує владні повноваження в руках членів суспільства.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Така практика справді зосереджує владні повноваження в руках членів суспільства.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-22",
+        "text": "Вони дістають владні повноваження на кілька років, а після закінчення своєї каденції ніби кудись зникають.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Вони дістають владні повноваження на кілька років, а після закінчення своєї каденції ніби кудись зникають.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-23",
+        "text": "Так чи інакше більшість швейцарців займаються політичною діяльністю парт-тайм: хтось, наприклад, є членом комісії, яка контролює школи або будівельні роботи в муніципалітеті.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Так чи інакше більшість швейцарців займаються політичною діяльністю парт-тайм: хтось, наприклад, є членом комісії, яка контролює школи або будівельні роботи в муніципалітеті.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-25",
+        "text": "Але ні, переважна частина наших чиновників отримує за роботу кілька франків, але вони мають змогу встановити тісні зв’язки у суспільстві й на державній службі.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Але ні, переважна частина наших чиновників отримує за роботу кілька франків, але вони мають змогу встановити тісні зв’язки у суспільстві й на державній службі.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-26",
+        "text": "Між суспільством і держслужбовцями у Швейцарії немає провалля, бо політиків-багатіїв у нас лише кілька, натомість є міцний зв’язок між тими, хто є політиками, і тими, хто повертається до лав простих громадян після закінчення каденції.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Між суспільством і держслужбовцями у Швейцарії немає провалля, бо політиків-багатіїв у нас лише кілька, натомість є міцний зв’язок між тими, хто є політиками, і тими, хто повертається до лав простих громадян після закінчення каденції.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-28",
+        "text": "Університет Берна, де я працюю, провів дослідження в кантонах, запитавши людей про рівень їхньої довіри до місцевих рад.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Університет Берна, де я працюю, провів дослідження в кантонах, запитавши людей про рівень їхньої довіри до місцевих рад.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-30",
+        "text": "У. Т.: Як тісно швейцарська державна служба співпрацює з приватним бізнесом, залучає приватних субпідрядників?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"У. Т.: Як тісно швейцарська державна служба співпрацює з приватним бізнесом, залучає приватних субпідрядників?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-31",
+        "text": "Чи є аутсорсинг тих чи інших функцій у публічному адмініструванні поширеною в Швейцарії практикою?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Чи є аутсорсинг тих чи інших функцій у публічному адмініструванні поширеною в Швейцарії практикою?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-32",
+        "text": "П. Ґ.: Аутсорсинг ніколи не був пріоритетом під час реформування швейцарської державної служби.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"П. Ґ.: Аутсорсинг ніколи не був пріоритетом під час реформування швейцарської державної служби.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-34",
+        "text": "Його співпраця з приватними компаніями відбувається за чіткими урядовими стандартами, які її регулюють.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Його співпраця з приватними компаніями відбувається за чіткими урядовими стандартами, які її регулюють.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-35",
+        "text": "Зокрема, йдеться про прозорість, конкретні мету та методи.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Зокрема, йдеться про прозорість, конкретні мету та методи.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-36",
+        "text": "Здебільшого вона зводиться до проведення приватних експертиз.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Здебільшого вона зводиться до проведення приватних експертиз.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-37",
+        "text": "Держслужба, буває, потребує приватних експертів, але знову ж таки держслужбовці згідно із законом зобов’язані проводити публічні тендери за стандартами СОТ, тобто відкрито подавати оголошення про необхідність виконання певних робіт.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Держслужба, буває, потребує приватних експертів, але знову ж таки держслужбовці згідно із законом зобов’язані проводити публічні тендери за стандартами СОТ, тобто відкрито подавати оголошення про необхідність виконання певних робіт.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-38",
+        "text": "Ідеться про те, що в приватної компанії купують знання.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Ідеться про те, що в приватної компанії купують знання.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-42",
+        "text": "Йдеться про держави, де уряд дуже слабкий, щоб надавати публічні послуги, або де суспільство скептично ставиться до якості тих сервісів, які надає держава, і переконане, що приватні установи роблять це на вищому рівні.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Йдеться про держави, де уряд дуже слабкий, щоб надавати публічні послуги, або де суспільство скептично ставиться до якості тих сервісів, які надає держава, і переконане, що приватні установи роблять це на вищому рівні.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-43",
+        "text": "У. Т.: Чи може децентралізація, на ваш погляд, бути ефективною за нинішнього рівня корупції в Україні?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"У. Т.: Чи може децентралізація, на ваш погляд, бути ефективною за нинішнього рівня корупції в Україні?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-46",
+        "text": "Боротися з корупцією допомагає прозорість.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Боротися з корупцією допомагає прозорість.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-47",
+        "text": "Якщо йдеться про надання публічних послуг, то громадяни повинні знати, коли конкретно їм очікувати відповіді на своє звернення до владних інституцій, яким чином ухвалюються ті чи інші рішення.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Якщо йдеться про надання публічних послуг, то громадяни повинні знати, коли конкретно їм очікувати відповіді на своє звернення до владних інституцій, яким чином ухвалюються ті чи інші рішення.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-52",
+        "text": "На місцях повинні чітко усвідомлювати свої завдання і повноваження, а також мати право вирішувати, яким чином фінансуватимуться проекти, як ефективно використати виділені гроші.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"На місцях повинні чітко усвідомлювати свої завдання і повноваження, а також мати право вирішувати, яким чином фінансуватимуться проекти, як ефективно використати виділені гроші.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-56",
+        "text": "Там дійшли висновку, що децентралізація є найефективнішим способом надання публічних послуг.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Там дійшли висновку, що децентралізація є найефективнішим способом надання публічних послуг.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-57",
+        "text": "Таким чином забезпечуються умови наближення до потреб громадян, можливість реального політичного впливу, а також підзвітність, коли громадяни самі контролюють чиновників.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Таким чином забезпечуються умови наближення до потреб громадян, можливість реального політичного впливу, а також підзвітність, коли громадяни самі контролюють чиновників.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-63",
+        "text": "В останні 10–15 років ми провели комплексні реформи, але йшлося про еволюційний процес, а не раптову революцію.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"В останні 10–15 років ми провели комплексні реформи, але йшлося про еволюційний процес, а не раптову революцію.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-65",
+        "text": "У. Т.: Як у Швейцарії ставляться до лобіювання приватних інтересів у різних інстанціях державної влади: від федеративного уряду до муніципалітету?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"У. Т.: Як у Швейцарії ставляться до лобіювання приватних інтересів у різних інстанціях державної влади: від федеративного уряду до муніципалітету?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-68",
+        "text": "Усі лобісти мають прозоро заявити про те, на кого працюють.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Усі лобісти мають прозоро заявити про те, на кого працюють.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-69",
+        "text": "Якщо ви хочете дістати доступ до будівлі швейцарського парламенту й ви лобіст, то маєте задекларувати, інтереси конкретно якого бізнесу відстоюєте, хто його власник, де саме містяться потужності тощо.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Якщо ви хочете дістати доступ до будівлі швейцарського парламенту й ви лобіст, то маєте задекларувати, інтереси конкретно якого бізнесу відстоюєте, хто його власник, де саме містяться потужності тощо.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-71",
+        "text": "Ідеться про нульову толерантність до корупції.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Ідеться про нульову толерантність до корупції.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-72",
+        "text": "І якщо хтось дозволив собі такі діяння, він має залишити свою посаду.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"І якщо хтось дозволив собі такі діяння, він має залишити свою посаду.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-75",
+        "text": "У Швейцарії дуже маленькі контролюючі офіси, вони надзвичайно мобільні, оперативно з’являються в тій чи іншій державній інституції та уповноважені перевіряти всі рахунки, всі справи.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"У Швейцарії дуже маленькі контролюючі офіси, вони надзвичайно мобільні, оперативно з’являються в тій чи іншій державній інституції та уповноважені перевіряти всі рахунки, всі справи.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-76",
+        "text": "Важливо дослухатися до думок різних груп у суспільстві й ураховувати їх.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Важливо дослухатися до думок різних груп у суспільстві й ураховувати їх.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-77",
+        "text": "Наприклад, якщо йдеться про запровадження нового виду оподаткування, треба знати, що з цього приводу думають платники податків, компанії та інші зацікавлені сторони.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Наприклад, якщо йдеться про запровадження нового виду оподаткування, треба знати, що з цього приводу думають платники податків, компанії та інші зацікавлені сторони.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-79",
+        "text": "Але проблема в тому, що певні зацікавлені сторони мають більше право голосу, ніж інші.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Але проблема в тому, що певні зацікавлені сторони мають більше право голосу, ніж інші.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-81",
+        "text": "Якщо хтось пропонує новий закон, то згідно зі швейцарським законодавством має бути прозорим те, хто може реагувати на появу такої правової ініціативи.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Якщо хтось пропонує новий закон, то згідно зі швейцарським законодавством має бути прозорим те, хто може реагувати на появу такої правової ініціативи.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-82",
+        "text": "Зазвичай ідеться про кожен кантон, великі політичні партії, специфічні асоціації, зокрема природоохоронні та бізнесові.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Зазвичай ідеться про кожен кантон, великі політичні партії, специфічні асоціації, зокрема природоохоронні та бізнесові.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-86",
+        "text": "П. Ґ.: Також у цих питаннях допомагає пряма демократія, тому що діяльність держслужбовців відкрита для людей, принаймні на місцевому рівні.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"П. Ґ.: Також у цих питаннях допомагає пряма демократія, тому що діяльність держслужбовців відкрита для людей, принаймні на місцевому рівні.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-88",
+        "text": "Для цього громадяни – платники податків повинні в процесі публічних дебатів дійти консенсусу щодо її вартості.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Для цього громадяни – платники податків повинні в процесі публічних дебатів дійти консенсусу щодо її вартості.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-89",
+        "text": "Якщо вартість будівництва завищено, мають право запитати, чому воно таке дороге, чому на це витрачено задекларовану суму.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Якщо вартість будівництва завищено, мають право запитати, чому воно таке дороге, чому на це витрачено задекларовану суму.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-90",
+        "text": "Пряма демократія полягає в тому, що кожен знає: на зведення згаданої школи спрямовано кошти зі сплачених ним податків.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Пряма демократія полягає в тому, що кожен знає: на зведення згаданої школи спрямовано кошти зі сплачених ним податків.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-100-93",
+        "text": "Зараз багато коштів вкладаємо в нові методи, щоб інвестор, маючи доступ до електронного урядування, бачив, на якій стадії перебуває розгляд його заяви.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Зараз багато коштів вкладаємо в нові методи, щоб інвестор, маючи доступ до електронного урядування, бачив, на якій стадії перебуває розгляд його заяви.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-10-1",
+        "text": "Переклад голосів із минулого Фінський історик Генрік Мейнандер: «Ми, науковці, ніколи не маємо справи виключно з минулим» Писати історію воєн, геноцидів і глобальних катаклізмів стає невимовно складно, якщо історик відмовляється емоційно дистанціюватися від об’єкта дослідження.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Переклад голосів із минулого Фінський історик Генрік Мейнандер: «Ми, науковці, ніколи не маємо справи виключно з минулим» Писати історію воєн, геноцидів і глобальних катаклізмів стає невимовно складно, якщо історик відмовляється емоційно дистанціюватися від об’єкта дослідження.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". . news-10-2",
+        "text": "Писати таку історію також ризиковано, бо майже завжди є тиск політичної кон’юнктури, щоправда, у різних масштабах і з різними наслідками для автора, який наважується на нього не звертати уваги.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Ukrainian language.",
+            "user": "Sentence: \"Писати таку історію також ризиковано, бо майже завжди є тиск політичної кон’юнктури, щоправда, у різних масштабах і з різними наслідками для автора, який наважується на нього не звертати уваги.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

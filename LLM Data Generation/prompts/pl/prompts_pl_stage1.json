@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s232",
+        "text": "Na pewno zaśpiewam swoje stare, znane piosenki.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Na pewno zaśpiewam swoje stare, znane piosenki.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s245",
+        "text": "Ale trochę się wstydzę...",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Ale trochę się wstydzę...\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s260",
+        "text": "Urzędnicy zapewniają, że wszystko jest w porządku.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Urzędnicy zapewniają, że wszystko jest w porządku.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s261",
+        "text": "Udział w rozgrywkach wzięły reprezentacje 3 szkół.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Udział w rozgrywkach wzięły reprezentacje 3 szkół.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s578",
+        "text": "Bardzo mi się podobała.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Bardzo mi się podobała.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s599",
+        "text": "Nie wiem, naprawdę nie wiem, jak się zachowają.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Nie wiem, naprawdę nie wiem, jak się zachowają.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s612",
+        "text": "Niestety nie możemy brać w niej udziału.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Niestety nie możemy brać w niej udziału.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s764",
+        "text": "Opaski przeglądamy w lipcu i niszczymy znajdujące się tam gąsienice.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Opaski przeglądamy w lipcu i niszczymy znajdujące się tam gąsienice.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s777",
+        "text": "- A sam transfer dokumentów pomiędzy urzędami pracy, samorządami lokalnymi i pomocą socjalną o rejestracji i udzielaniu świadczeń zdrowotnych bezrobotnym kosztuje 200 mln zł - wyjaśnia \"Rzeczpopspolitej\" wiceminister.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"- A sam transfer dokumentów pomiędzy urzędami pracy, samorządami lokalnymi i pomocą socjalną o rejestracji i udzielaniu świadczeń zdrowotnych bezrobotnym kosztuje 200 mln zł - wyjaśnia \"Rzeczpopspolitej\" wiceminister.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s788",
+        "text": "Co gorsza nie mamy szansy na pełną konkurencję.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Co gorsza nie mamy szansy na pełną konkurencję.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s834",
+        "text": "I w związku z tym mam pytanie: czy jest to jakaś obowiązująca norma językowa, czy też pęd ludzi do \"literackości\" wypowiedzi i unikanie regionalizmów (jak to było z \"domawianiem się\" zamiast \"dogadywaniem\" na przykład)?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"I w związku z tym mam pytanie: czy jest to jakaś obowiązująca norma językowa, czy też pęd ludzi do \"literackości\" wypowiedzi i unikanie regionalizmów (jak to było z \"domawianiem się\" zamiast \"dogadywaniem\" na przykład)?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s845",
+        "text": "Wyjaśnia on w przystępny sposób tajniki stosowanych w programie konwencji.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Wyjaśnia on w przystępny sposób tajniki stosowanych w programie konwencji.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s857",
+        "text": "Tak jak po wojnie... zabierzcie wszystko tym co mają, spierdolcie co jeszcze jako tako chodzi i będzie biznes jak cholera!",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Tak jak po wojnie... zabierzcie wszystko tym co mają, spierdolcie co jeszcze jako tako chodzi i będzie biznes jak cholera!\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s890",
+        "text": "Młodym ludziom wydaje się, że bezkarnie mogą lekceważyć potrzeby organizmu.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Młodym ludziom wydaje się, że bezkarnie mogą lekceważyć potrzeby organizmu.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s947",
+        "text": "Królik jest w stosunku do innych zwierząt swego gatunku bardzo towarzyski, zajmuje nory wspólne i żyje całymi koloniami.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Królik jest w stosunku do innych zwierząt swego gatunku bardzo towarzyski, zajmuje nory wspólne i żyje całymi koloniami.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s960",
+        "text": "Zgadzam, się z tym, że \"w Internecie\" jest najlepsze, ale formę \"w sieci Internet\" uważam za dopuszczalną.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Zgadzam, się z tym, że \"w Internecie\" jest najlepsze, ale formę \"w sieci Internet\" uważam za dopuszczalną.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1015",
+        "text": "Trudno mi uwierzyć, że nie zauważyłeś, że trzeba wymienić uszczelkę, bo jeszcze pół roku temu takie naprawy robiłeś od ręki.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Trudno mi uwierzyć, że nie zauważyłeś, że trzeba wymienić uszczelkę, bo jeszcze pół roku temu takie naprawy robiłeś od ręki.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1032",
+        "text": "Krew, pot i łzy, przekleństwa rzucane pod adresem włodarzy miasta, śpiewy patriotyczne, kibolska zadyma, nadmierne prezentowanie siły przez ochroniarzy, którzy nie umieli się zachować, nieszczęsna reakcja Policji, brak koordynacji w kierowaniu akcją i w tym wszystkim osoba komornika - wszystko to tworzyło całość jakiegoś nieudanego i źle przygotowanego przedstawienia.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Krew, pot i łzy, przekleństwa rzucane pod adresem włodarzy miasta, śpiewy patriotyczne, kibolska zadyma, nadmierne prezentowanie siły przez ochroniarzy, którzy nie umieli się zachować, nieszczęsna reakcja Policji, brak koordynacji w kierowaniu akcją i w tym wszystkim osoba komornika - wszystko to tworzyło całość jakiegoś nieudanego i źle przygotowanego przedstawienia.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1043",
+        "text": "Jeszcze gorzej przedstawia się sytuacja z pracą laboratoriów w przedsiębiorstwach budowlano-montażowych.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Jeszcze gorzej przedstawia się sytuacja z pracą laboratoriów w przedsiębiorstwach budowlano-montażowych.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1055",
+        "text": "Poza główną substancją odniesienia dodaje się czasem pomocnicze substancje wzorcowe (np.: jeśli przesunięcia chemiczne badanej substancji leżą w nietypowym zakresie, oddalonym od sygnałów wzorca lub z innych względów).",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Poza główną substancją odniesienia dodaje się czasem pomocnicze substancje wzorcowe (np.: jeśli przesunięcia chemiczne badanej substancji leżą w nietypowym zakresie, oddalonym od sygnałów wzorca lub z innych względów).\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1123",
+        "text": "Sen w tym wypadku jest najczulszym instrumentem.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Sen w tym wypadku jest najczulszym instrumentem.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1171",
+        "text": "Grzanka jako jedna z pierwszych dziewczyn trafiła do zespołu i z marszu, też jako jedna z pierwszych, złapała za dwa łańcuchy.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Grzanka jako jedna z pierwszych dziewczyn trafiła do zespołu i z marszu, też jako jedna z pierwszych, złapała za dwa łańcuchy.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1212",
+        "text": "(Kiedyś też miałam takie ambicje, zrezygnowałam.)",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"(Kiedyś też miałam takie ambicje, zrezygnowałam.)\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1292",
+        "text": "Z inicjatywy mocarstw postronnych doszło wkrótce do negocjacji, które doprowadziły do zawarcia pokoju.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Z inicjatywy mocarstw postronnych doszło wkrótce do negocjacji, które doprowadziły do zawarcia pokoju.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1359",
+        "text": "To na pewno nie jest przyjemne.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"To na pewno nie jest przyjemne.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1387",
+        "text": "Na przemian straszą i obiecują.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Na przemian straszą i obiecują.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1389",
+        "text": "A poza tym płakałam, bo uważałam, że jestem tam gruba i brzydka.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"A poza tym płakałam, bo uważałam, że jestem tam gruba i brzydka.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1436",
+        "text": "J.G.: A co tak naprawdę zmieniło się w SLD, oprócz tego, że jest młodzież, lider i starzy działacze partyjni już tak często nie wypowiadają się w mediach?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"J.G.: A co tak naprawdę zmieniło się w SLD, oprócz tego, że jest młodzież, lider i starzy działacze partyjni już tak często nie wypowiadają się w mediach?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1449",
+        "text": "Niekiedy prosi o wiadomości na temat przebiegu rewolucji.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Niekiedy prosi o wiadomości na temat przebiegu rewolucji.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1493",
+        "text": "Jeszcze większe wrażenie na współczesnych sprawiał Tomasz z Akwinu, dyktując dwa albo trzy traktaty filozoficzne.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Jeszcze większe wrażenie na współczesnych sprawiał Tomasz z Akwinu, dyktując dwa albo trzy traktaty filozoficzne.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s228",
+        "text": "Kobieta z reguły nie ma przed tym oporów.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Kobieta z reguły nie ma przed tym oporów.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s231",
+        "text": "Dlatego właśnie przed laty do Monako przenosili się masowo szwedzcy tenisiści.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Dlatego właśnie przed laty do Monako przenosili się masowo szwedzcy tenisiści.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s238",
+        "text": "Mówi, że dobrze się na nich bawi.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Mówi, że dobrze się na nich bawi.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s255",
+        "text": "Na wszelki wypadek władze twardo dzierżą mężczyźni.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Na wszelki wypadek władze twardo dzierżą mężczyźni.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s267",
+        "text": "Ocknął się dopiero w szpitalu.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Ocknął się dopiero w szpitalu.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s273",
+        "text": "Trzeba się rozerwać, żeby ochłonąć.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Trzeba się rozerwać, żeby ochłonąć.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s489",
+        "text": "Reszta poległa bądź dostała się do niewoli.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Reszta poległa bądź dostała się do niewoli.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s492",
+        "text": "Co prawda, moja siostra nie zniosłaby związku bez mamy.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Co prawda, moja siostra nie zniosłaby związku bez mamy.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s505",
+        "text": "Stałem obok ojca i przyglądałem się grze.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Stałem obok ojca i przyglądałem się grze.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s515",
+        "text": "- Wiesz, mam spotkanie z Chopinem...",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"- Wiesz, mam spotkanie z Chopinem...\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s526",
+        "text": "W ten sposób tworzy się twój własny styl zajmowania się dzieckiem.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"W ten sposób tworzy się twój własny styl zajmowania się dzieckiem.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s527",
+        "text": "Popełniłam jakiś błąd?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Popełniłam jakiś błąd?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s536",
+        "text": "Lepiej na wszelki wypadek zostawić wszystko w rękach Centrali.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Lepiej na wszelki wypadek zostawić wszystko w rękach Centrali.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s539",
+        "text": "Znajduje się tutaj kilka gospodarstw rolnych i domów mieszkalnych.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Znajduje się tutaj kilka gospodarstw rolnych i domów mieszkalnych.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s694",
+        "text": "Trudno zresztą mowić o 'przygotowaniu' - startowali ten program z bardzo ogolnie zakreśloną formułą, sami do końca nie wiedząc, o co im chodzi, wymyślając różne grepsy z odcinka na odcinek, przede wszystkim intensywnie kopiując Big Brothera.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Trudno zresztą mowić o 'przygotowaniu' - startowali ten program z bardzo ogolnie zakreśloną formułą, sami do końca nie wiedząc, o co im chodzi, wymyślając różne grepsy z odcinka na odcinek, przede wszystkim intensywnie kopiując Big Brothera.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s721",
+        "text": "Jak członkowie grup skinów odnoszą się do przejawów przemocy?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Jak członkowie grup skinów odnoszą się do przejawów przemocy?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s785",
+        "text": "Czy bojkot dnia rodzinnego da efekt?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Czy bojkot dnia rodzinnego da efekt?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s819",
+        "text": "Poczytaj moje posty, zanim zrozumiesz moje stanowisko na tyle by je krytykować.....",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Poczytaj moje posty, zanim zrozumiesz moje stanowisko na tyle by je krytykować.....\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s890",
+        "text": "Do spa udają się osoby świadome, dla których dbanie o siebie to przyjemność.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Do spa udają się osoby świadome, dla których dbanie o siebie to przyjemność.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s902",
+        "text": "Czy jej brak ma istotny wpływ na jakość amerykańskiego systemu szkolnictwa wyższego?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Polish language.",
+            "user": "Sentence: \"Czy jej brak ma istotny wpływ na jakość amerykańskiego systemu szkolnictwa wyższego?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

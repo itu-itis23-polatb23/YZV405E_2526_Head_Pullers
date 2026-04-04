@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2790-p3s1",
+        "text": "Šāda iznākuma iemesls – paralēlo importētāju šībrīža darbības uzstādījums šķiet vieglas īstermiņa peļņas sasniegšana par katru cenu, nevis paredzamas ilgtermiņa darbības organizēšana.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Šāda iznākuma iemesls – paralēlo importētāju šībrīža darbības uzstādījums šķiet vieglas īstermiņa peļņas sasniegšana par katru cenu, nevis paredzamas ilgtermiņa darbības organizēšana.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2790-p3s2",
+        "text": "Latvija arī nemaz nav labs mērķis zāļu paralēlajam importam, jo, pateicoties spēkā esošajiem zāļu cenas regulējošajiem Ministru kabineta noteikumiem, Latvijas oriģinālzāļu cenas ir Eiropas zemākajā līmenī.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Latvija arī nemaz nav labs mērķis zāļu paralēlajam importam, jo, pateicoties spēkā esošajiem zāļu cenas regulējošajiem Ministru kabineta noteikumiem, Latvijas oriģinālzāļu cenas ir Eiropas zemākajā līmenī.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2790-p6s6",
+        "text": "Iznākumā paralēlais importētājs vairs nevar piegādāt zāles par solīto cenu un arī pilnīgi zaudē interesi, bet vietējais ražotāja pārstāvis piegādāt nav gatavs, jo nav veikti pasūtījumi un arī nav iespējams ievērot konkursa cenu.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Iznākumā paralēlais importētājs vairs nevar piegādāt zāles par solīto cenu un arī pilnīgi zaudē interesi, bet vietējais ražotāja pārstāvis piegādāt nav gatavs, jo nav veikti pasūtījumi un arī nav iespējams ievērot konkursa cenu.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2790-p8s3",
+        "text": "Ja līdz šim zāļu viltojumi ir tikuši uzskatīti par trešās pasaules problēmu, tad tagad šis noziegums ir atnācis arī uz Eiropas Savienību.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Ja līdz šim zāļu viltojumi ir tikuši uzskatīti par trešās pasaules problēmu, tad tagad šis noziegums ir atnācis arī uz Eiropas Savienību.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2790-p8s5",
+        "text": "Pieredze rāda, ka viltotajās zālēs ne vien nav aktīvās vielas, bet pat mēdz būt toksiskas sastāvdaļas.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Pieredze rāda, ka viltotajās zālēs ne vien nav aktīvās vielas, bet pat mēdz būt toksiskas sastāvdaļas.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p1s6",
+        "text": "Labprāt ēstu arī prjaņikus vai \"Selgas\" cepumus, taču veikalā nostrādā tāds kā beznosacījuma reflekss, kā burvestība – vēlos ņemt vafeles, bet roka tomēr sniedzas pēc barankām.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Labprāt ēstu arī prjaņikus vai \"Selgas\" cepumus, taču veikalā nostrādā tāds kā beznosacījuma reflekss, kā burvestība – vēlos ņemt vafeles, bet roka tomēr sniedzas pēc barankām.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p2s1",
+        "text": "Parasti paņemas klasiskās, tās, kas vairāk apbrūnējušas, ar šur tur redzamu marles nospiedumu.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Parasti paņemas klasiskās, tās, kas vairāk apbrūnējušas, ar šur tur redzamu marles nospiedumu.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p2s6",
+        "text": "Tur viens džeks krustdūrienā izšūtā kreklā, galifē biksēs un cepurē ar nagu, magone vai kaut kāda cita puķe aizsprausta aiz auss, uzkāris kaklā tādu garu šņori ar baranku riepām līdz viduklim, staigāja pa ciemu dziedādams.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Tur viens džeks krustdūrienā izšūtā kreklā, galifē biksēs un cepurē ar nagu, magone vai kaut kāda cita puķe aizsprausta aiz auss, uzkāris kaklā tādu garu šņori ar baranku riepām līdz viduklim, staigāja pa ciemu dziedādams.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p5s1",
+        "text": "Vienu dienu meitenes, kas mizoja dārzeņus vietējā ēdnīcā, ierosināja sarīkot pie mums draudzības vakaru, tā teikt, padejot un parunāties.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Vienu dienu meitenes, kas mizoja dārzeņus vietējā ēdnīcā, ierosināja sarīkot pie mums draudzības vakaru, tā teikt, padejot un parunāties.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p5s4",
+        "text": "Par laimi, uz grīdas nokrita bleķa karote, ar trulu paukšķi atsitoties pret linoleju.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Par laimi, uz grīdas nokrita bleķa karote, ar trulu paukšķi atsitoties pret linoleju.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p7s6",
+        "text": "Zibenīgā ātrumā izrāva litru uz trijiem, uzmontēja ķēdi un turpināja strādāt, turklāt tā, it kā būtu iztempuši tikai termosu ar aveņu tēju.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Zibenīgā ātrumā izrāva litru uz trijiem, uzmontēja ķēdi un turpināja strādāt, turklāt tā, it kā būtu iztempuši tikai termosu ar aveņu tēju.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p10s2",
+        "text": "Divas bija tīri tā nekas, ar tām varētu arī padejot.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Divas bija tīri tā nekas, ar tām varētu arī padejot.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p11s5",
+        "text": "Viena meitene man tīri labi patika, vārdu gan neatceros.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Viena meitene man tīri labi patika, vārdu gan neatceros.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p13s3",
+        "text": "Kā ievilku pirmo dūmu, tā zeme vairs nenāca pretī, saplūda ar Gunāra bālo seju un kaut kur aizvēlās bezdibenī vai kosmosā, un es tai līdzi.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Kā ievilku pirmo dūmu, tā zeme vairs nenāca pretī, saplūda ar Gunāra bālo seju un kaut kur aizvēlās bezdibenī vai kosmosā, un es tai līdzi.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p14s7",
+        "text": "Kolhozs jau arī bija kaut kur ellē ratā tālu prom no Rīgas.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Kolhozs jau arī bija kaut kur ellē ratā tālu prom no Rīgas.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p19s4",
+        "text": "It kā tā būtu kaut kāds jūgendstila šedevrs, nevis nolaists grausts.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"It kā tā būtu kaut kāds jūgendstila šedevrs, nevis nolaists grausts.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p21s1",
+        "text": "Atceros to bildi – ar pelēku miglu klāti lauki līdz pat apvārsnim, tikai šur tur koku puduros noslēptas mājas, kas atgādināja vientuļas salas bezgalīga uzarta okeāna plašumos.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Atceros to bildi – ar pelēku miglu klāti lauki līdz pat apvārsnim, tikai šur tur koku puduros noslēptas mājas, kas atgādināja vientuļas salas bezgalīga uzarta okeāna plašumos.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p22s1",
+        "text": "Nekas jau it kā nebija noticis, knapi turējos kājās un rokās žņaudzīju saišķīti ar barankām.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Nekas jau it kā nebija noticis, knapi turējos kājās un rokās žņaudzīju saišķīti ar barankām.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1020-p22s8",
+        "text": "Pēc tam tos vārdus vari atskaņot bezgalīgi, bet nav jau vairs nozīmes.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Pēc tam tos vārdus vari atskaņot bezgalīgi, bet nav jau vairs nozīmes.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p3s2",
+        "text": "Kaut kur fonā parādījās apdullinošs troksnis, kas arvien pieņēmās spēkā: skanēja mūzika, skaļas sarunas un sakliegšanās, smiekli un jautra dziedāšana.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Kaut kur fonā parādījās apdullinošs troksnis, kas arvien pieņēmās spēkā: skanēja mūzika, skaļas sarunas un sakliegšanās, smiekli un jautra dziedāšana.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p3s3",
+        "text": "Šur tur uzzibsnīja pa gaismas staram, stūros pamazām iedegās sveces, bet mums blakus piepeši izauga dīvaini priekšmeti, rotājumi un dekorācijas: lieli sadzeltējuša kartona tanki, vējdzirnavas un kartona mājas, starp kurām varēja pastaigāties kā starp īstām mājām.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Šur tur uzzibsnīja pa gaismas staram, stūros pamazām iedegās sveces, bet mums blakus piepeši izauga dīvaini priekšmeti, rotājumi un dekorācijas: lieli sadzeltējuša kartona tanki, vējdzirnavas un kartona mājas, starp kurām varēja pastaigāties kā starp īstām mājām.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p4s2",
+        "text": "Mūsu zīmējumā taču nekas tāds nebija attēlots!",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Mūsu zīmējumā taču nekas tāds nebija attēlots!\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p4s3",
+        "text": "Turklāt ne pašu vaininieku Komatu, ne arī spīdīgo apavu pāri visā šajā apdullinošajā burzmā es tā arī nevarēju ieraudzīt.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Turklāt ne pašu vaininieku Komatu, ne arī spīdīgo apavu pāri visā šajā apdullinošajā burzmā es tā arī nevarēju ieraudzīt.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p6s2",
+        "text": "Viņa grozījās uz visām pusēm un aiz pārsteiguma elsoja – kas par satriecošu pasauli!",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Viņa grozījās uz visām pusēm un aiz pārsteiguma elsoja – kas par satriecošu pasauli!\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p15s1",
+        "text": "\"Šis pats sevi uzzīmējis!\" iesaucās kāds cits un rādīja uz skulptūru.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"\"Šis pats sevi uzzīmējis!\" iesaucās kāds cits un rādīja uz skulptūru.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p24s3",
+        "text": "Šoreiz situācija patiešām bija kā ar to adatu siena kaudzē – un pat detektīva tērps te nelīdzētu kaut ko atrast.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Šoreiz situācija patiešām bija kā ar to adatu siena kaudzē – un pat detektīva tērps te nelīdzētu kaut ko atrast.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p31s1",
+        "text": "Poga uz karstām pēdām metās deju zāles virzienā, taču tūliņ atsprāga atpakaļ: no zila gaisa gaitenī parādījās spīdīgu, melnu zābaku pāris, kas paši no sevis PASTAIGĀJĀS!",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Poga uz karstām pēdām metās deju zāles virzienā, taču tūliņ atsprāga atpakaļ: no zila gaisa gaitenī parādījās spīdīgu, melnu zābaku pāris, kas paši no sevis PASTAIGĀJĀS!\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p31s3",
+        "text": "It kā zābakos būtu iemiesojies kāds neredzams cilvēks!",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"It kā zābakos būtu iemiesojies kāds neredzams cilvēks!\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p32s3",
+        "text": "Visbeidzot neredzamā būtne taisnā ceļā spērās pie skulptūras, aiz kuras bija paslēpusies skaistā meitene.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Visbeidzot neredzamā būtne taisnā ceļā spērās pie skulptūras, aiz kuras bija paslēpusies skaistā meitene.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p2s5",
+        "text": "Tas kaut kur traucās.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Tas kaut kur traucās.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p2s6",
+        "text": "Biju kaut ko nesakarīgi samelojis Kirai par pēkšņo nepieciešamību aizbraukt.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Biju kaut ko nesakarīgi samelojis Kirai par pēkšņo nepieciešamību aizbraukt.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p2s8",
+        "text": "Lai gan gribēju, lai viņa šajā pašā acumirklī mani apskauj un nelaiž projām.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Lai gan gribēju, lai viņa šajā pašā acumirklī mani apskauj un nelaiž projām.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p5s5",
+        "text": "Cilvēki tāpat vien nepazūd.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Cilvēki tāpat vien nepazūd.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p7s8",
+        "text": "Visi tie pierakstu kalni.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Visi tie pierakstu kalni.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p15s2",
+        "text": "Pulkstenis bija ap sešiem, es paņēmu savu uzticamo spieķi un, neko aiz sevis neatstājis, aizgāju uz staciju, it kā manis te nekad nebūtu bijis.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Pulkstenis bija ap sešiem, es paņēmu savu uzticamo spieķi un, neko aiz sevis neatstājis, aizgāju uz staciju, it kā manis te nekad nebūtu bijis.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p27s2",
+        "text": "Plaisa pa šīm pāris dienām bija mūs atrāvusi vienu otram neaizsniedzamus.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Plaisa pa šīm pāris dienām bija mūs atrāvusi vienu otram neaizsniedzamus.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p31s2",
+        "text": "Un pilsēta un visi šie cilvēki aizaudzē, aizaudzē ciet mūsu slepenās sāpes.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Un pilsēta un visi šie cilvēki aizaudzē, aizaudzē ciet mūsu slepenās sāpes.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p42s2",
+        "text": "Es to visu sastūķēju atpakaļ un, aizvilcis smalko rāvējslēdzi, ieslidināju mēteļa kabatā.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Es to visu sastūķēju atpakaļ un, aizvilcis smalko rāvējslēdzi, ieslidināju mēteļa kabatā.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1136-p43s2",
+        "text": "Es aizgāju pa aizmuguri tā, it kā manis nekad nebūtu bijis.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Es aizgāju pa aizmuguri tā, it kā manis nekad nebūtu bijis.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p6s3",
+        "text": "Pagaidām es gatavoju klientu virtuvēs, bet, kad mums būs pajumte, darīšu to visu pie sevis – savas bļodas, savas karotes un putojamās slotiņas, sava plīts.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Pagaidām es gatavoju klientu virtuvēs, bet, kad mums būs pajumte, darīšu to visu pie sevis – savas bļodas, savas karotes un putojamās slotiņas, sava plīts.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p8s2",
+        "text": "Visi mašīnās – tās kādas nu kuram, citam smalkāka, citam armijas bobiks, tomēr braucamie –, neviens nevelkas no autobusu pieturas divus kilometrus kājām.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Visi mašīnās – tās kādas nu kuram, citam smalkāka, citam armijas bobiks, tomēr braucamie –, neviens nevelkas no autobusu pieturas divus kilometrus kājām.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p8s5",
+        "text": "Mums jānovāc viss uzklātais, jāizstiepj galdi pagalmā un jāklāj no jauna – tās kaprīzes ir neiedomājamas.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Mums jānovāc viss uzklātais, jāizstiepj galdi pagalmā un jāklāj no jauna – tās kaprīzes ir neiedomājamas.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p10s2",
+        "text": "Kur to visu var sadabūt, ja veikalos nekā neatrast, man nav sevišķi liels noslēpums – pa šiem dažiem mēnešiem virtuvē man jau izveidojies savs piegādātāju bariņš, katrs specializējas uz ko savu – viens atbildīgs par pieniem, cits par gaļām, vēl cits par medījumiem.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Kur to visu var sadabūt, ja veikalos nekā neatrast, man nav sevišķi liels noslēpums – pa šiem dažiem mēnešiem virtuvē man jau izveidojies savs piegādātāju bariņš, katrs specializējas uz ko savu – viens atbildīgs par pieniem, cits par gaļām, vēl cits par medījumiem.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p11s2",
+        "text": "Vien jubilāra māte atļaujas izteikties dzimtajā latviešu valodā – iespējams, krievu tā arī nav samācījusies, malacis, ar mugurkaulu.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Vien jubilāra māte atļaujas izteikties dzimtajā latviešu valodā – iespējams, krievu tā arī nav samācījusies, malacis, ar mugurkaulu.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p13s5",
+        "text": "Teju tajā pašā brīdī, kad ieskatos svešinieka acīs, man ceļos un gurnos iemetas tirpas, un es gandrīz noveļos zemē.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Teju tajā pašā brīdī, kad ieskatos svešinieka acīs, man ceļos un gurnos iemetas tirpas, un es gandrīz noveļos zemē.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p13s10",
+        "text": "Tas nav apziņā, apziņā neko tādu nevarētu iedomāties, bet kaut kur no manas būtības dziļumiem izlien nojauta, ka esmu satikusi savas īstās mājas un ka tas, kas tagad notiek ar mani, nekad nebeigsies, nekad nepārtrūks, tas mani darīs laimīgu un saārdīs gabalu gabalos.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Tas nav apziņā, apziņā neko tādu nevarētu iedomāties, bet kaut kur no manas būtības dziļumiem izlien nojauta, ka esmu satikusi savas īstās mājas un ka tas, kas tagad notiek ar mani, nekad nebeigsies, nekad nepārtrūks, tas mani darīs laimīgu un saārdīs gabalu gabalos.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p18s5",
+        "text": "Es kaut ko klusi nomurminu par to, ka kungiem nepieklājas pa virtuvi ņemties, un aizskrienu uz ķēķi, bet ne jau visu laiku sēdēšu, četrās sienās paslēpusies, ir jāstrādā, manā vietā neviens darbu nepaveiks.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Es kaut ko klusi nomurminu par to, ka kungiem nepieklājas pa virtuvi ņemties, un aizskrienu uz ķēķi, bet ne jau visu laiku sēdēšu, četrās sienās paslēpusies, ir jāstrādā, manā vietā neviens darbu nepaveiks.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1257-p5s1",
+        "text": "Atklāsmi negaidīti sniedza Kurts Vonnegūts.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Atklāsmi negaidīti sniedza Kurts Vonnegūts.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1257-p6s4",
+        "text": "Brīdi šaubījusies, mamma acīmredzot nolēma, ka gan jau es tāpat agri vai vēlu uzzināšu šī vārda nozīmi, un atbildēja, ka tas esot tāds mīlestības veids, ar novirzi.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Brīdi šaubījusies, mamma acīmredzot nolēma, ka gan jau es tāpat agri vai vēlu uzzināšu šī vārda nozīmi, un atbildēja, ka tas esot tāds mīlestības veids, ar novirzi.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1257-p6s6",
+        "text": "Es agrāk neko tādu nebiju dzirdējusi.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Latvian language.",
+            "user": "Sentence: \"Es agrāk neko tādu nebiju dzirdējusi.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

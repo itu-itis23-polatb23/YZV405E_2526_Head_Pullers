@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s4",
+        "text": "طی سالهای اخیر، بیش از دو دوجین سیاره در مدار اطراف ستاره‌ها کشف شده‌اند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"طی سالهای اخیر، بیش از دو دوجین سیاره در مدار اطراف ستاره‌ها کشف شده‌اند.\"\nIdiom to remove: \"بیش از\"\nLemmas to avoid simultaneously: بیش, از\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s5",
+        "text": "لیکن ستاره‌شناسان هرگز این سیاره‌ها را واقعاً ندیده بودند و فقط از طریق شواهد، لرزش‌ها و اثراتی که آنان بر اجرام اطراف خود می‌گذاشتند، موفق به ثبت این سیارات شده بودند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"لیکن ستاره‌شناسان هرگز این سیاره‌ها را واقعاً ندیده بودند و فقط از طریق شواهد، لرزش‌ها و اثراتی که آنان بر اجرام اطراف خود می‌گذاشتند، موفق به ثبت این سیارات شده بودند.\"\nIdiom to remove: \"ستاره‌شناسان\"\nLemmas to avoid simultaneously: ستاره‌شناسان\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s6",
+        "text": "چنین تصور می‌شد که این لرزش به علت جاذبه سیاره‌ای در مدار بوده است.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"چنین تصور می‌شد که این لرزش به علت جاذبه سیاره‌ای در مدار بوده است.\"\nIdiom to remove: \"تصور می‌شد\"\nLemmas to avoid simultaneously: تصور, کرد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s7",
+        "text": "در آخرین تحقیق به عمل آمده نیز ستاره‌شناسان هنوز واقعاً موفق به رویت مستقیم سیاره نشده‌اند، بلکه درخشش ستاره‌ای را دیده‌اند که به اعتقاد آنها توسط یک سیاره منعکس شده است.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"در آخرین تحقیق به عمل آمده نیز ستاره‌شناسان هنوز واقعاً موفق به رویت مستقیم سیاره نشده‌اند، بلکه درخشش ستاره‌ای را دیده‌اند که به اعتقاد آنها توسط یک سیاره منعکس شده است.\"\nIdiom to remove: \"به عمل آمده\"\nLemmas to avoid simultaneously: به, عمل, آمد#آ\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s8",
+        "text": "بنا بر این گزارش، درخشش کورکننده این سیاره، دیدن آن را نامحتمل می‌کند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بنا بر این گزارش، درخشش کورکننده این سیاره، دیدن آن را نامحتمل می‌کند.\"\nIdiom to remove: \"بنا بر\"\nLemmas to avoid simultaneously: بنا, بر\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s9",
+        "text": "چنانچه این پژوهشگران درست حدس زده باشند، یافته‌های آنها می‌تواند برای تشخیص حجم و ضخامت دقیق سیاره مزبور مورد استفاده قرار گیرد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"چنانچه این پژوهشگران درست حدس زده باشند، یافته‌های آنها می‌تواند برای تشخیص حجم و ضخامت دقیق سیاره مزبور مورد استفاده قرار گیرد.\"\nIdiom to remove: \"چنانچه\"\nLemmas to avoid simultaneously: چنانچه\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s10",
+        "text": "مشروح این گزارش در شماره اخیر مجله نیچر به چاپ رسیده است.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"مشروح این گزارش در شماره اخیر مجله نیچر به چاپ رسیده است.\"\nIdiom to remove: \"به چاپ رسیده\"\nLemmas to avoid simultaneously: به, چاپ, رسید\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s12",
+        "text": "مصرف مداوم موز می‌تواند به مشکلات دستگاه گوارش و برطرف کردن نفخ معده پایان دهد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"مصرف مداوم موز می‌تواند به مشکلات دستگاه گوارش و برطرف کردن نفخ معده پایان دهد.\"\nIdiom to remove: \"دستگاه گوارش\"\nLemmas to avoid simultaneously: دستگاه, گوارش\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s14",
+        "text": "این روزنامه می‌نویسد، هر یکصد گرم موز ۱۰۲ کالری یعنی ۲۰ کالری بیشتر از یک استکان ماست انرژی به بدن می‌دهد و در عوض موز می‌تواند بسیاری از مشکلات گوارشی را مانند نفخ معده درمان کند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"این روزنامه می‌نویسد، هر یکصد گرم موز ۱۰۲ کالری یعنی ۲۰ کالری بیشتر از یک استکان ماست انرژی به بدن می‌دهد و در عوض موز می‌تواند بسیاری از مشکلات گوارشی را مانند نفخ معده درمان کند.\"\nIdiom to remove: \"روزنامه\"\nLemmas to avoid simultaneously: روزنامه\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s15",
+        "text": "بیماران مبتلا به آسم باید از بالش‌های پر استفاده کنند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بیماران مبتلا به آسم باید از بالش‌های پر استفاده کنند.\"\nIdiom to remove: \"استفاده کنند\"\nLemmas to avoid simultaneously: استفاده, کرد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s18",
+        "text": "به گزارش اینترنت از لندن، پژوهشگران یکی از بیمارستانهای منچستر می‌گویند: مواد حساسیت‌زای موجود در الیاف مصنوعی حدود ۷ تا ۸ برابر مواد حساسیت‌زای پر است.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"به گزارش اینترنت از لندن، پژوهشگران یکی از بیمارستانهای منچستر می‌گویند: مواد حساسیت‌زای موجود در الیاف مصنوعی حدود ۷ تا ۸ برابر مواد حساسیت‌زای پر است.\"\nIdiom to remove: \"به گزارش\"\nLemmas to avoid simultaneously: به, گزارش\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s23",
+        "text": "برای این که بتوانیم آثار زیبای این هنرمند را درک کنیم و از آنها لذت ببریم، باید ذهن خود را پذیرای چیزهای غیرعادی و شیوه‌های نامالوف کنیم.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"برای این که بتوانیم آثار زیبای این هنرمند را درک کنیم و از آنها لذت ببریم، باید ذهن خود را پذیرای چیزهای غیرعادی و شیوه‌های نامالوف کنیم.\"\nIdiom to remove: \"برای این که\"\nLemmas to avoid simultaneously: برای, این, که\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s24",
+        "text": "بورن هنرمندی است که دنیای واقعیت را با تخیل و رویا پیوند می‌زند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بورن هنرمندی است که دنیای واقعیت را با تخیل و رویا پیوند می‌زند.\"\nIdiom to remove: \"پیوند می‌زند\"\nLemmas to avoid simultaneously: پیوند, زد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s26",
+        "text": "آدولف بورن، طراح، کاریکاتوریست، تصویرساز و نقاش در ۱۹۳۰ در شهر بودجویس از جمهوری چک به دنیا آمد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"آدولف بورن، طراح، کاریکاتوریست، تصویرساز و نقاش در ۱۹۳۰ در شهر بودجویس از جمهوری چک به دنیا آمد.\"\nIdiom to remove: \"تصویرساز\"\nLemmas to avoid simultaneously: تصویرساز\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s27",
+        "text": "در اولین سالهای زندگی‌اش به دلیل وضعیت اقتصادی مجبور به ترک خانواده‌اش شد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"در اولین سالهای زندگی‌اش به دلیل وضعیت اقتصادی مجبور به ترک خانواده‌اش شد.\"\nIdiom to remove: \"به دلیل\"\nLemmas to avoid simultaneously: به, دلیل\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s29",
+        "text": "بورن به اتفاق یکی از اقوامش به شهر پراگ مهاجرت کرد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بورن به اتفاق یکی از اقوامش به شهر پراگ مهاجرت کرد.\"\nIdiom to remove: \"به اتفاق\"\nLemmas to avoid simultaneously: به, اتفاق\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s31",
+        "text": "آثار بورن از این سال بتدریج در نشریات متعددی در کشورش به چاپ می‌رسد و در ۱۹۷۴ از او به عنوان «بهترین کاریکاتوریست سال چک» نام می‌برند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"آثار بورن از این سال بتدریج در نشریات متعددی در کشورش به چاپ می‌رسد و در ۱۹۷۴ از او به عنوان «بهترین کاریکاتوریست سال چک» نام می‌برند.\"\nIdiom to remove: \"به چاپ می‌رسد\"\nLemmas to avoid simultaneously: به, چاپ, رسید\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s32",
+        "text": "از بورن به عنوان حاکم قلمرو طنز سیاه یاد می‌کنند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"از بورن به عنوان حاکم قلمرو طنز سیاه یاد می‌کنند.\"\nIdiom to remove: \"به عنوان\"\nLemmas to avoid simultaneously: به, عنوان\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s33",
+        "text": "شاید این شهرت به خاطر سری کارهای مشهورش باشد که با عنوان بورونوگرافی (تلفیقی طنزآمیز از اسم و شیوه کارش) که با تکنیک گراوور انجام می‌شد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"شاید این شهرت به خاطر سری کارهای مشهورش باشد که با عنوان بورونوگرافی (تلفیقی طنزآمیز از اسم و شیوه کارش) که با تکنیک گراوور انجام می‌شد.\"\nIdiom to remove: \"به خاطر\"\nLemmas to avoid simultaneously: به, خاطر\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s34",
+        "text": "تکنیک سخت گراوور برای بورن دنیای خاصی را به وجود آورد تا در آن اتفاقات تاریخی، شخصیتهای ادبی و قهرمانان افسانه‌ای به گونه‌ای دیگر ظهور کنند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"تکنیک سخت گراوور برای بورن دنیای خاصی را به وجود آورد تا در آن اتفاقات تاریخی، شخصیتهای ادبی و قهرمانان افسانه‌ای به گونه‌ای دیگر ظهور کنند.\"\nIdiom to remove: \"به وجود آورد\"\nLemmas to avoid simultaneously: به, وجود, آورد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s36",
+        "text": "تصویرسازی بیش از ۲۳۰ جلد کتاب و تعداد بیشماری طراحی روی جلد نشان‌دهنده فعالیت مستمر و غریب بورن دارد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"تصویرسازی بیش از ۲۳۰ جلد کتاب و تعداد بیشماری طراحی روی جلد نشان‌دهنده فعالیت مستمر و غریب بورن دارد.\"\nIdiom to remove: \"تصویرسازی\"\nLemmas to avoid simultaneously: تصویرسازی\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s37",
+        "text": "بورن در آثارش سنت‌ها و دستاوردهای نقاشی را برای خلق آثاری بدیع و نو دستمایه کارش قرار می‌دهد و چیزهایی را به تصویر می‌کشد که تنها در حیطه تخیل او جاری است.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بورن در آثارش سنت‌ها و دستاوردهای نقاشی را برای خلق آثاری بدیع و نو دستمایه کارش قرار می‌دهد و چیزهایی را به تصویر می‌کشد که تنها در حیطه تخیل او جاری است.\"\nIdiom to remove: \"دستاوردهای\"\nLemmas to avoid simultaneously: دستاورد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s38",
+        "text": "بازنمایی تخیلی و در بعضی مواقع دهشتناک بورن، از نیات شیطانی آدمها خبر می‌دهد و شرارت‌های انسانی در قالب نمادها خود را نشان می‌دهند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بازنمایی تخیلی و در بعضی مواقع دهشتناک بورن، از نیات شیطانی آدمها خبر می‌دهد و شرارت‌های انسانی در قالب نمادها خود را نشان می‌دهند.\"\nIdiom to remove: \"بازنمایی\"\nLemmas to avoid simultaneously: بازنمایی\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s39",
+        "text": "در دنیای بورن همه چیز می‌تواند اتفاق بیفتد: آدمها و حیوانات می‌توانند پرواز کنند؛ حیوانات تبدیل به انسان می‌شوند یا برعکس؛ شیاطین به صورتی نیمه‌انسان و نیمه‌حیوان دیده می‌شوند؛ و کابوسهایی با شیوه‌ای منحصر به فرد و تأثیربرانگیز شکل می‌گیرند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"در دنیای بورن همه چیز می‌تواند اتفاق بیفتد: آدمها و حیوانات می‌توانند پرواز کنند؛ حیوانات تبدیل به انسان می‌شوند یا برعکس؛ شیاطین به صورتی نیمه‌انسان و نیمه‌حیوان دیده می‌شوند؛ و کابوسهایی با شیوه‌ای منحصر به فرد و تأثیربرانگیز شکل می‌گیرند.\"\nIdiom to remove: \"همه چیز\"\nLemmas to avoid simultaneously: همه, چیز\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s40",
+        "text": "گرچه نگاه بورن بیشتر متوجه فضایی سیاه است، روش کار او، حال و هوای شخصیتها و فرم‌هایش حسی از طنز در دل خود دارند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"گرچه نگاه بورن بیشتر متوجه فضایی سیاه است، روش کار او، حال و هوای شخصیتها و فرم‌هایش حسی از طنز در دل خود دارند.\"\nIdiom to remove: \"گرچه\"\nLemmas to avoid simultaneously: گرچه\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s41",
+        "text": "مایه رنگهای گرم و در برخی موارد درخشان، با دفرماسیون و تغییر شکلهای فانتزی چهره ترسناک آثار او را تلطیف می‌کند و روحی شاد در دل این طرحها می‌دمد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"مایه رنگهای گرم و در برخی موارد درخشان، با دفرماسیون و تغییر شکلهای فانتزی چهره ترسناک آثار او را تلطیف می‌کند و روحی شاد در دل این طرحها می‌دمد.\"\nIdiom to remove: \"تلطیف می‌کند\"\nLemmas to avoid simultaneously: تلطیف, کرد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s43",
+        "text": "بورن خوب توانسته بین اجزای کارش پیوند بزند و دنیایی را بیافریند که کاملا گویای ذهنیت اوست.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بورن خوب توانسته بین اجزای کارش پیوند بزند و دنیایی را بیافریند که کاملا گویای ذهنیت اوست.\"\nIdiom to remove: \"پیوند بزند\"\nLemmas to avoid simultaneously: پیوند, زد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s44",
+        "text": "شاید او از معدود هنرمندانی است که موفق شده است که به ترسها، اوهام و کابوس‌های آدمها شکلی ملموس و در عین حال دلنشین بدهد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"شاید او از معدود هنرمندانی است که موفق شده است که به ترسها، اوهام و کابوس‌های آدمها شکلی ملموس و در عین حال دلنشین بدهد.\"\nIdiom to remove: \"شکلی بدهد\"\nLemmas to avoid simultaneously: شکل, داد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s46",
+        "text": "بلکه همیشه آماده بوده که روشهای خود را به شکل جسورانه‌ای تغییر دهد و به همین خاطر در بین آثار او تنوع بیشماری را شاهدیم: از تصویرسازیهای ساده و دلنشین برای بچه‌ها گرفته تا تصاویری تلخ، مرموز و پیچیده برای بزرگسالها.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بلکه همیشه آماده بوده که روشهای خود را به شکل جسورانه‌ای تغییر دهد و به همین خاطر در بین آثار او تنوع بیشماری را شاهدیم: از تصویرسازیهای ساده و دلنشین برای بچه‌ها گرفته تا تصاویری تلخ، مرموز و پیچیده برای بزرگسالها.\"\nIdiom to remove: \"به شکل\"\nLemmas to avoid simultaneously: به, شکل\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s47",
+        "text": "بورن همیشه به دنبال این است که تا کجا می‌تواند ایده‌های تخیلی‌اش را تبدیل به تصویر کند و ظاهرا هیچگاه مانع و محدودیتی هم برای ارائه این ایده‌ها وجود نداشته است.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بورن همیشه به دنبال این است که تا کجا می‌تواند ایده‌های تخیلی‌اش را تبدیل به تصویر کند و ظاهرا هیچگاه مانع و محدودیتی هم برای ارائه این ایده‌ها وجود نداشته است.\"\nIdiom to remove: \"به دنبال\"\nLemmas to avoid simultaneously: به, دنبال\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s48",
+        "text": "بورن هرگاه احساس کند دنیای کاریکاتور جوابگوی او نیست، به نقاشی پناه می‌برد و هنگامی که می‌خواهد موجوداتش را به گونه‌ای زنده‌تر حس کند، به عنوان انیماتور به کار مشغول می‌شود.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بورن هرگاه احساس کند دنیای کاریکاتور جوابگوی او نیست، به نقاشی پناه می‌برد و هنگامی که می‌خواهد موجوداتش را به گونه‌ای زنده‌تر حس کند، به عنوان انیماتور به کار مشغول می‌شود.\"\nIdiom to remove: \"هرگاه\"\nLemmas to avoid simultaneously: هرگاه\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s49",
+        "text": "حتی وقتی دنیای تصویر نیز نمی‌تواند جوابگوی ذهن سرشار از ذوق، خلاقیت و نوآوری‌اش باشد، به نوشتن روی می‌آورد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"حتی وقتی دنیای تصویر نیز نمی‌تواند جوابگوی ذهن سرشار از ذوق، خلاقیت و نوآوری‌اش باشد، به نوشتن روی می‌آورد.\"\nIdiom to remove: \"جوابگوی\"\nLemmas to avoid simultaneously: جوابگوی\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s52",
+        "text": "بورن به دنبال این است که چیزی را بسازد که قبلا وجود نداشته است.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"بورن به دنبال این است که چیزی را بسازد که قبلا وجود نداشته است.\"\nIdiom to remove: \"به دنبال\"\nLemmas to avoid simultaneously: به, دنبال\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s53",
+        "text": "به همین دلیل، هیچگاه به دنبال نسخه‌برداری از چیزهای واقعی نمی‌رود.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"به همین دلیل، هیچگاه به دنبال نسخه‌برداری از چیزهای واقعی نمی‌رود.\"\nIdiom to remove: \"به دلیل\"\nLemmas to avoid simultaneously: به, دلیل\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s62",
+        "text": "احمد زیر پتو غلت می‌زند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"احمد زیر پتو غلت می‌زند.\"\nIdiom to remove: \"غلت می‌زند\"\nLemmas to avoid simultaneously: غلت, زد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s65",
+        "text": "در حالی که کش و قوسی به بدن می‌دهد، به ساعت دیواری نگاه می‌کند و از جا کنده می‌شود.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"در حالی که کش و قوسی به بدن می‌دهد، به ساعت دیواری نگاه می‌کند و از جا کنده می‌شود.\"\nIdiom to remove: \"در حالی که\"\nLemmas to avoid simultaneously: در, حال, که\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s69",
+        "text": "مادر: [پتو را برمی‌دارد] نترس دیرت نشده مادر، می‌رسی.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"مادر: [پتو را برمی‌دارد] نترس دیرت نشده مادر، می‌رسی.\"\nIdiom to remove: \"برمی‌دارد\"\nLemmas to avoid simultaneously: _\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s70",
+        "text": "احمد به عجله بلند می‌شود و بفهمی‌نفهمی غر می‌زند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"احمد به عجله بلند می‌شود و بفهمی‌نفهمی غر می‌زند.\"\nIdiom to remove: \"بلند می‌شود\"\nLemmas to avoid simultaneously: بلند, کرد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s71",
+        "text": "احمد: هنوز دیرم نشده [به ساعت اشاره می‌کند، نیم ساعت مانده به زنگ] ولی تا بیام دست و رومو بشورم و صبحونه بخورم دیرم شده، خب!",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"احمد: هنوز دیرم نشده [به ساعت اشاره می‌کند، نیم ساعت مانده به زنگ] ولی تا بیام دست و رومو بشورم و صبحونه بخورم دیرم شده، خب!\"\nIdiom to remove: \"اشاره می‌کند\"\nLemmas to avoid simultaneously: اشاره, کرد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s72",
+        "text": "به طرف دستشویی می‌رود.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"به طرف دستشویی می‌رود.\"\nIdiom to remove: \"به طرف\"\nLemmas to avoid simultaneously: به, طرف\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s73",
+        "text": "مادر [متبسم و در حالی که لحاف را جمع می‌کند]، آدم روزه که صبحونه نمی‌خوره.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"مادر [متبسم و در حالی که لحاف را جمع می‌کند]، آدم روزه که صبحونه نمی‌خوره.\"\nIdiom to remove: \"در حالی که\"\nLemmas to avoid simultaneously: در, حال, که\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s74",
+        "text": "احمد می‌ماند و روی برمی‌گرداند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"احمد می‌ماند و روی برمی‌گرداند.\"\nIdiom to remove: \"برمی‌گرداند\"\nLemmas to avoid simultaneously: _\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s75",
+        "text": "احمد: ا… آره - یادم رفته بود ها.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"احمد: ا… آره - یادم رفته بود ها.\"\nIdiom to remove: \"یاد رفته\"\nLemmas to avoid simultaneously: یاد, رفت\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s78",
+        "text": "[راه می‌افتد] می‌بینم دلم داره یه جوری می‌شه.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"[راه می‌افتد] می‌بینم دلم داره یه جوری می‌شه.\"\nIdiom to remove: \"راه می‌افتد\"\nLemmas to avoid simultaneously: راه, _\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s80",
+        "text": "به مریم، دخترکی که کلاس آمادگی می‌رود و روی تخت در حیاط نشسته است و آرام‌آرام لقمه را می‌جود، می‌نگرد.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"به مریم، دخترکی که کلاس آمادگی می‌رود و روی تخت در حیاط نشسته است و آرام‌آرام لقمه را می‌جود، می‌نگرد.\"\nIdiom to remove: \"آرام‌آرام\"\nLemmas to avoid simultaneously: آرام‌آرام\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s81",
+        "text": "- تصویر احمد در آینه دستشویی در حالی که صورت می‌شوید.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"- تصویر احمد در آینه دستشویی در حالی که صورت می‌شوید.\"\nIdiom to remove: \"دستشویی\"\nLemmas to avoid simultaneously: دستشویی\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s82",
+        "text": "با دیدن خود در آینه زبانش را در می‌آورد و به آن نگاه می‌کند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"با دیدن خود در آینه زبانش را در می‌آورد و به آن نگاه می‌کند.\"\nIdiom to remove: \"در می‌آورد\"\nLemmas to avoid simultaneously: در, آورد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s84",
+        "text": "احمد کفش و لباس پوشیده، آماده رفتن، کیف به دست وارد حیاط می‌شود.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"احمد کفش و لباس پوشیده، آماده رفتن، کیف به دست وارد حیاط می‌شود.\"\nIdiom to remove: \"وارد می‌شود\"\nLemmas to avoid simultaneously: وارد, کرد\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s88",
+        "text": "مادر: چه جوری می‌شه؟ به مریم بگیر.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"مادر: چه جوری می‌شه؟ به مریم بگیر.\"\nIdiom to remove: \"چه جوری\"\nLemmas to avoid simultaneously: چه, جوری\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    },
+    {
+        "sent_id": ". formal-Persian-train.folia.xml train-s91",
+        "text": "مریم [مثل آدم‌بزرگها]: حتما دلت درد می‌کند.",
+        "prompt": {
+            "system": "You are an expert native speaker of Persian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"مریم [مثل آدم‌بزرگها]: حتما دلت درد می‌کند.\"\nIdiom to remove: \"آدم‌بزرگها\"\nLemmas to avoid simultaneously: آدم‌بزرگ\n\nPlease rewrite the sentence naturally in Persian."
+        }
+    }
+]

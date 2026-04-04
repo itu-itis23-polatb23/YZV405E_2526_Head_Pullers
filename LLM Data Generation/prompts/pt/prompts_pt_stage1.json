@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005001_SENT004",
+        "text": "Na noite desta quarta (30), um policial foi morto a tiros em horário de folga, em Camboriú.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Na noite desta quarta (30), um policial foi morto a tiros em horário de folga, em Camboriú.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005001_SENT019",
+        "text": "Recomendamos que no dia de hoje os trabalhos rotineiros sejam prestados preferencialmente em regime de tele-trabalho.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Recomendamos que no dia de hoje os trabalhos rotineiros sejam prestados preferencialmente em regime de tele-trabalho.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005002_SENT004",
+        "text": "Macron planeja implementar a reforma por meio de decreto presidencial, o que significa que vai saltar os legisladores.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Macron planeja implementar a reforma por meio de decreto presidencial, o que significa que vai saltar os legisladores.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005002_SENT018",
+        "text": "Por exemplo, indenizações por demissão podem subir de 20% para 25% do salário por ano trabalhado na firma.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Por exemplo, indenizações por demissão podem subir de 20% para 25% do salário por ano trabalhado na firma.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005002_SENT022",
+        "text": "Diante da indignação popular, abandonaram o plano.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Diante da indignação popular, abandonaram o plano.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT010",
+        "text": "O embaixador foi sequestrado por guerrilheiros do MR-8 (Movimento Revolucionário Oito de Outubro) e da ALN (Aliança Libertadora Nacional), da qual João Leonardo fazia parte.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"O embaixador foi sequestrado por guerrilheiros do MR-8 (Movimento Revolucionário Oito de Outubro) e da ALN (Aliança Libertadora Nacional), da qual João Leonardo fazia parte.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT012",
+        "text": "Voltou na clandestinidade para o Brasil, em 1971, indo primeiro para Pernambuco e depois Bahia, onde foi morto em circunstâncias não esclarecidas.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Voltou na clandestinidade para o Brasil, em 1971, indo primeiro para Pernambuco e depois Bahia, onde foi morto em circunstâncias não esclarecidas.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT021",
+        "text": "Ele foi para o norte de Pernambuco com o objetivo de montar um núcleo de guerrilha.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Ele foi para o norte de Pernambuco com o objetivo de montar um núcleo de guerrilha.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT023",
+        "text": "Só que à medida que a organização dele foi tendo baixas, acabou ficando parado lá naquele lugar, sem fazer nenhuma ação, sem participar do movimento, tentando sobreviver ali naquele local.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Só que à medida que a organização dele foi tendo baixas, acabou ficando parado lá naquele lugar, sem fazer nenhuma ação, sem participar do movimento, tentando sobreviver ali naquele local.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT028",
+        "text": "O último contato que tive com ele foi quando da libertação relacionada ao embaixador americano.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"O último contato que tive com ele foi quando da libertação relacionada ao embaixador americano.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT032",
+        "text": "Sobre as buscas aos restos mortais, afirmou que estamos fazendo isto por questão de história, de registro, para que não fiquem impunes, para que todos saibam o que aconteceu de verdade.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Sobre as buscas aos restos mortais, afirmou que estamos fazendo isto por questão de história, de registro, para que não fiquem impunes, para que todos saibam o que aconteceu de verdade.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005004_SENT005",
+        "text": "Na ocasião, o Kremlin ordenou que os Estados Unidos reduzisse sua equipe diplomática para 455 pessoas, o que representou um corte de quase metade dos funcionários.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Na ocasião, o Kremlin ordenou que os Estados Unidos reduzisse sua equipe diplomática para 455 pessoas, o que representou um corte de quase metade dos funcionários.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005005_SENT010",
+        "text": "Regis Fernandes de Oliveira, conselheiro da Comissão Especial de Direito às Artes e responsável pelo parecer da ação em questão, classifica esse expediente como \"Ilegal e inconstitucional\".",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Regis Fernandes de Oliveira, conselheiro da Comissão Especial de Direito às Artes e responsável pelo parecer da ação em questão, classifica esse expediente como \"Ilegal e inconstitucional\".\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005005_SENT012",
+        "text": "Além disso, explica o advogado Fábio Cesnik, outro integrante da comissão, o contigenciamento descumpriria a hierarquia das leis.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Além disso, explica o advogado Fábio Cesnik, outro integrante da comissão, o contigenciamento descumpriria a hierarquia das leis.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005005_SENT023",
+        "text": "Em 2016, foram empenhados no fundo aproximadamente R$ 41 milhões, ao passo que o programa por renúncia fiscal captou cerca de R$ 1,14 bilhão.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Em 2016, foram empenhados no fundo aproximadamente R$ 41 milhões, ao passo que o programa por renúncia fiscal captou cerca de R$ 1,14 bilhão.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005006_SENT012",
+        "text": "De acordo com o presidente da Associação Uruguaia de Futebol, Wilmar Valdez, Suárez telefonou para Messi para que os dois impulsionassem a candidatura.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"De acordo com o presidente da Associação Uruguaia de Futebol, Wilmar Valdez, Suárez telefonou para Messi para que os dois impulsionassem a candidatura.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005007_SENT017",
+        "text": "Em paralelo, o banco de fomento estuda ainda uma solução para poder antecipar dinheiro ao estado.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Em paralelo, o banco de fomento estuda ainda uma solução para poder antecipar dinheiro ao estado.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005007_SENT019",
+        "text": "Uma das opções seria a compra de ações da Cedae, já que não há restrições para o uso de recursos proveniente da venda de ativos do estado.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Uma das opções seria a compra de ações da Cedae, já que não há restrições para o uso de recursos proveniente da venda de ativos do estado.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005012_SENT002",
+        "text": "O Instituto Tomie Ohtake vai exibir filmes brasileiros ao ar livre na nova edição do \"Cine Fachada\".",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"O Instituto Tomie Ohtake vai exibir filmes brasileiros ao ar livre na nova edição do \"Cine Fachada\".\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005014_SENT004",
+        "text": "Maia, entretanto, evitou despachar qualquer medida que aumente a carga tributária -em especial a MP que muda a tributação dos fundos de investimento exclusivos, mantidos por grandes investidores.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Maia, entretanto, evitou despachar qualquer medida que aumente a carga tributária -em especial a MP que muda a tributação dos fundos de investimento exclusivos, mantidos por grandes investidores.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005014_SENT008",
+        "text": "Do contrário, prefere aguardar o retorno de Temer.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Do contrário, prefere aguardar o retorno de Temer.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005015_SENT007",
+        "text": "Atualmente, a Unicamp seleciona alunos pelo vestibular tradicional e pelo Paais, programa que dá bônus a estudantes pretos, pardos e indígenas que cursaram o ensino médio em escolas públicas.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Atualmente, a Unicamp seleciona alunos pelo vestibular tradicional e pelo Paais, programa que dá bônus a estudantes pretos, pardos e indígenas que cursaram o ensino médio em escolas públicas.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005015_SENT011",
+        "text": "Do total de vagas, pelo menos 15% serão para alunos autodeclarados pretos e pardos.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Do total de vagas, pelo menos 15% serão para alunos autodeclarados pretos e pardos.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005015_SENT012",
+        "text": "Com isso, a Unicamp terá um total de 25% de cotas étnico-raciais (10% pelo Sisu e 15% pelo vestibular).",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Com isso, a Unicamp terá um total de 25% de cotas étnico-raciais (10% pelo Sisu e 15% pelo vestibular).\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005015_SENT020",
+        "text": "Com isso, farão uma prova específica, que avaliará alguns conhecimentos comuns aos demais, como física e matemática, e outros diferentes.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Com isso, farão uma prova específica, que avaliará alguns conhecimentos comuns aos demais, como física e matemática, e outros diferentes.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005016_SENT018",
+        "text": "Fato inédito, gabou-se.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Fato inédito, gabou-se.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005018_SENT005",
+        "text": "A cidade começava a se recuperar de dois dias de chuvas intensas que causaram enchentes e deixaram 14 mortos.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"A cidade começava a se recuperar de dois dias de chuvas intensas que causaram enchentes e deixaram 14 mortos.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005019_SENT014",
+        "text": "Quem sabe derrubar o copo, deixar que o caos tome conta da vida tão limpinha e cheia de regras, horários e metas.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Quem sabe derrubar o copo, deixar que o caos tome conta da vida tão limpinha e cheia de regras, horários e metas.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005020_SENT004",
+        "text": "Em entrevista para o jornal \"The Washington Post\", Cunningham explicou que a série é diferenciada das demais.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Em entrevista para o jornal \"The Washington Post\", Cunningham explicou que a série é diferenciada das demais.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005020_SENT006",
+        "text": "De acordo com ele, a mesma falta de regras se aplica às locomoções dos personagens.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"De acordo com ele, a mesma falta de regras se aplica às locomoções dos personagens.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005022_SENT040",
+        "text": "Aquelas que ficam por baixo da pilha trocam de lugar com as do topo, mais tarde, e a massa gira interminavelmente em torno dos filhotes e da rainha da colônia.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Aquelas que ficam por baixo da pilha trocam de lugar com as do topo, mais tarde, e a massa gira interminavelmente em torno dos filhotes e da rainha da colônia.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005022_SENT043",
+        "text": "Se uma colônia se choca com outra, as duas disputam território.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Se uma colônia se choca com outra, as duas disputam território.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005022_SENT048",
+        "text": "As formigas estão em busca de pelos aos quais se agarrar, afirmou.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"As formigas estão em busca de pelos aos quais se agarrar, afirmou.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005023_SENT017",
+        "text": "Ele desembarcou no Brasil há cerca de dez anos.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Ele desembarcou no Brasil há cerca de dez anos.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005024_SENT003",
+        "text": "Durante jantar na noite de quarta-feira (30), em São Paulo, Robertson lançou dúvidas sobre a chance de absolvição de Lula em segunda instância.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Durante jantar na noite de quarta-feira (30), em São Paulo, Robertson lançou dúvidas sobre a chance de absolvição de Lula em segunda instância.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005024_SENT010",
+        "text": "O advogado chamou de ridícula essa manifestação do presidente do tribunal e disse que poderá exercer influência sobre os desembargadores.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"O advogado chamou de ridícula essa manifestação do presidente do tribunal e disse que poderá exercer influência sobre os desembargadores.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005024_SENT015",
+        "text": "Integrante do conselho da Rainha britânica, Robertson está no Brasil para uma série de compromissos que incluiu uma palestra no Congresso Nacional.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Integrante do conselho da Rainha britânica, Robertson está no Brasil para uma série de compromissos que incluiu uma palestra no Congresso Nacional.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005025_SENT009",
+        "text": "O grupo se apresenta em quatro shows no Brasil.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"O grupo se apresenta em quatro shows no Brasil.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005026_SENT023",
+        "text": "A relação torna-se muito próxima, e o monitoramento constante -como deveria ser, e como hoje não é.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"A relação torna-se muito próxima, e o monitoramento constante -como deveria ser, e como hoje não é.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005026_SENT024",
+        "text": "Em resumo, a representatividade aumenta.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Em resumo, a representatividade aumenta.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005026_SENT026",
+        "text": "Em vez de fazer campanha para 32 milhões de pessoas, percorrendo todo o Estado, o candidato só faz campanha no distrito, de bicicleta.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Em vez de fazer campanha para 32 milhões de pessoas, percorrendo todo o Estado, o candidato só faz campanha no distrito, de bicicleta.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005026_SENT038",
+        "text": "Mesmo que não dê tempo para delimitar os distritos até 7 de outubro, pode-se valer do mesmo recurso que vão usar para o financiamento de campanha: definí-los a posteriori, por lei complementar.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Mesmo que não dê tempo para delimitar os distritos até 7 de outubro, pode-se valer do mesmo recurso que vão usar para o financiamento de campanha: definí-los a posteriori, por lei complementar.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005027_SENT009",
+        "text": "Mas essa estagnação registrada em 2016 indica o pior cenário de matrículas pelo menos desde 2006.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Mas essa estagnação registrada em 2016 indica o pior cenário de matrículas pelo menos desde 2006.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005027_SENT021",
+        "text": "A quantidade de alunos que se formaram teve leve aumento.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"A quantidade de alunos que se formaram teve leve aumento.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005027_SENT040",
+        "text": "A partir de dados de 2015, apenas 18,1% dos jovens de 18 a 24 anos estão na educação superior.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"A partir de dados de 2015, apenas 18,1% dos jovens de 18 a 24 anos estão na educação superior.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005028_SENT002",
+        "text": "A taxa de desemprego no país ficou em 12,8% no trimestre encerrado em julho, divulgou nesta quinta-feira (30) o IBGE.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"A taxa de desemprego no país ficou em 12,8% no trimestre encerrado em julho, divulgou nesta quinta-feira (30) o IBGE.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005029_SENT016",
+        "text": "Ele veio para cima de mim para se desculpar, disse que era 'homem casado' e que eu estava 'ficando louca'.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Ele veio para cima de mim para se desculpar, disse que era 'homem casado' e que eu estava 'ficando louca'.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005029_SENT020",
+        "text": "Dias antes, a escritora Clara Averbuck também relatou ter sido vítima de estupro, mas com o agressor na condição de motorista da Uber- a empresa afirma tê-lo banido do cadastro de colaboradores.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Dias antes, a escritora Clara Averbuck também relatou ter sido vítima de estupro, mas com o agressor na condição de motorista da Uber- a empresa afirma tê-lo banido do cadastro de colaboradores.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005029_SENT023",
+        "text": "Resolvi prestar queixa não por achar que isso surta algum efeito ou pela penalização em si, mas para quantificar, estatisticamente, esses acontecimentos.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"Resolvi prestar queixa não por achar que isso surta algum efeito ou pela penalização em si, mas para quantificar, estatisticamente, esses acontecimentos.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005030_SENT004",
+        "text": "De acordo com a agência Reuters, pelo menos 15 policiais foram tratados após inalar substâncias químicas.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Brazilian Portuguese language.",
+            "user": "Sentence: \"De acordo com a agência Reuters, pelo menos 15 policiais foram tratados após inalar substâncias químicas.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

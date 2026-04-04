@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-001.folia.xml 306",
+        "text": "მისმა ათეისტურმა შეხედულებებმა გავლენა მოახდინა მისი ძმისშვილის მსოფლმხედველობაზე .",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მისმა ათეისტურმა შეხედულებებმა გავლენა მოახდინა მისი ძმისშვილის მსოფლმხედველობაზე .\"\nIdiom to remove: \"გავლენა მოახდინა\"\nLemmas to avoid simultaneously: გავლენა, ახდენს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-002.folia.xml 151",
+        "text": "გასართობი ღონისძიებები უნივერსიტეტი ყოველწლიურად ატარებს საგაზაფხულო ფესტივალს, რომელშიც მონაწილეობას იღებენ ცნობილი თურქი კვიპროსელი, თურქი და საერთაშორისო მომღერლები და ბენდები, იმართება ცეკვის ფესტივალები, სპორტული და სამაგიდო თამაშების შეჯიბრებები.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"გასართობი ღონისძიებები უნივერსიტეტი ყოველწლიურად ატარებს საგაზაფხულო ფესტივალს, რომელშიც მონაწილეობას იღებენ ცნობილი თურქი კვიპროსელი, თურქი და საერთაშორისო მომღერლები და ბენდები, იმართება ცეკვის ფესტივალები, სპორტული და სამაგიდო თამაშების შეჯიბრებები.\"\nIdiom to remove: \"მონაწილეობას იღებენ\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-002.folia.xml 919",
+        "text": "სამეცნიერო კოლექციები მუზეუმის პროფესიონალურად გამართული და შენახული ნიმუშები და არტეფაქტების კოლექციები, არის მთავარი კვლევითი რესურსი ეროვნული და საერთაშორისო სამეცნიერო საზოგადოებისთვის, რომელიც მხარს უჭერს ფართო კვლევას და თვალყურს ადევნებს გარემოს ცვლილებებს, საზოგადოებრივ ჯანმრთელობასა და უსაფრთხოებას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"სამეცნიერო კოლექციები მუზეუმის პროფესიონალურად გამართული და შენახული ნიმუშები და არტეფაქტების კოლექციები, არის მთავარი კვლევითი რესურსი ეროვნული და საერთაშორისო სამეცნიერო საზოგადოებისთვის, რომელიც მხარს უჭერს ფართო კვლევას და თვალყურს ადევნებს გარემოს ცვლილებებს, საზოგადოებრივ ჯანმრთელობასა და უსაფრთხოებას.\"\nIdiom to remove: \"მხარს უჭერს\"\nLemmas to avoid simultaneously: მხარე, უჭერს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-003.folia.xml 260",
+        "text": "ნათქვამია, რომ ქალიშვილობაში მან შთაბეჭდილება მოახდინა შივაზე და მან ასი შვილის ყოლის ძღვენი მისცა - ამის ზუსტი მიზეზები უცნობია.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ნათქვამია, რომ ქალიშვილობაში მან შთაბეჭდილება მოახდინა შივაზე და მან ასი შვილის ყოლის ძღვენი მისცა - ამის ზუსტი მიზეზები უცნობია.\"\nIdiom to remove: \"შთაბეჭდილება მოახდინა\"\nLemmas to avoid simultaneously: შთაბეჭდილება, ახდენს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-004.folia.xml 343",
+        "text": "საქართველოში არსებობდა დაძმობილების სხვადასხვა წესი: საკლავით დაძმობილება — ძმად გაფიცვის მსურველები რომელიმე დღეობაზე ხატში (სალოცავში) გავიდოდნენ ნათესავთან ერთად, ხევისბერი მათ დალოცავდა და საკლავის სისხლს ორივეს აპკურებდა.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"საქართველოში არსებობდა დაძმობილების სხვადასხვა წესი: საკლავით დაძმობილება — ძმად გაფიცვის მსურველები რომელიმე დღეობაზე ხატში (სალოცავში) გავიდოდნენ ნათესავთან ერთად, ხევისბერი მათ დალოცავდა და საკლავის სისხლს ორივეს აპკურებდა.\"\nIdiom to remove: \"ძმად გაფიცვის\"\nLemmas to avoid simultaneously: ძმად, გაფიცვა\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-004.folia.xml 386",
+        "text": "De Young's Artist Studio არის ხელოვანთა რეზიდენციის პროგრამა, რომელიც ხელს უწყობს ხელოვნების საზოგადოების ჩართულობას და ხელს უწყობს ახალბედა ხელოვანებს, 2010 წლიდან არის კულტურული შეხვედრების ადგილი.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"De Young's Artist Studio არის ხელოვანთა რეზიდენციის პროგრამა, რომელიც ხელს უწყობს ხელოვნების საზოგადოების ჩართულობას და ხელს უწყობს ახალბედა ხელოვანებს, 2010 წლიდან არის კულტურული შეხვედრების ადგილი.\"\nIdiom to remove: \"ხელს უწყობს\"\nLemmas to avoid simultaneously: ხელი, უწყობს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-004.folia.xml 707",
+        "text": "დოქტორანტურა — უმაღლესი აკადემიური განათლების მესამე საფეხური და მიზნად ისახავს სამეცნიერო-პედაგოგიური კადრის მომზადებას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"დოქტორანტურა — უმაღლესი აკადემიური განათლების მესამე საფეხური და მიზნად ისახავს სამეცნიერო-პედაგოგიური კადრის მომზადებას.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-004.folia.xml 727",
+        "text": "იმავე დარბაზში მნახველს შეუძლია ნახოს დროსინისის მიერ გამოცემული ზოგიერთი ჟურნალი, რომელიც მიზნად ისახავდა ბერძენი ხალხის ინტელექტუალურ აღორძინებას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"იმავე დარბაზში მნახველს შეუძლია ნახოს დროსინისის მიერ გამოცემული ზოგიერთი ჟურნალი, რომელიც მიზნად ისახავდა ბერძენი ხალხის ინტელექტუალურ აღორძინებას.\"\nIdiom to remove: \"მიზნად ისახავდა\"\nLemmas to avoid simultaneously: მიზანი, ისახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-005.folia.xml 134",
+        "text": "ამდენად “სამყაროს აღსასრულის” ნაცვლად შეიძლება ითარგმნოს “ჟამის”, ”დღეთა”, ან “წუთისოფლის აღსასრული”.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ამდენად “სამყაროს აღსასრულის” ნაცვლად შეიძლება ითარგმნოს “ჟამის”, ”დღეთა”, ან “წუთისოფლის აღსასრული”.\"\nIdiom to remove: \"სამყაროს აღსასრულის\"\nLemmas to avoid simultaneously: სამყარო, აღსასრული\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-005.folia.xml 834",
+        "text": "მუზეუმის დღევანდელი მუშაობა განისაზღვრება 2015-2018 წლებში შემუშავებული ახალი სტრატეგიული გეგმით, რომელიც მიზნად ისახავს მუზეუმის სტუმრებისთვის \"აღმოჩენის გამოცდილების\" და ინტერაქტიული, ხელმისაწვდომი გარემოს შექმნას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მუზეუმის დღევანდელი მუშაობა განისაზღვრება 2015-2018 წლებში შემუშავებული ახალი სტრატეგიული გეგმით, რომელიც მიზნად ისახავს მუზეუმის სტუმრებისთვის \"აღმოჩენის გამოცდილების\" და ინტერაქტიული, ხელმისაწვდომი გარემოს შექმნას.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-005.folia.xml 851",
+        "text": "რამდენიმე კვირაში ჩამოყალიბდა მერის მუზეუმის სამრჩევლო კომიტეტი, რომელმაც მიზნად დაისახა თანამედროვე ხელოვნების მუზეუმის დაარსება.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"რამდენიმე კვირაში ჩამოყალიბდა მერის მუზეუმის სამრჩევლო კომიტეტი, რომელმაც მიზნად დაისახა თანამედროვე ხელოვნების მუზეუმის დაარსება.\"\nIdiom to remove: \"მიზნად დაისახა\"\nLemmas to avoid simultaneously: მიზანი, სახულობს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-005.folia.xml 857",
+        "text": "მუზეუმმა მიზნად დაისახა მუშაობის პირველ წელს 10 მილიონი დოლარი აეგროვებინა.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მუზეუმმა მიზნად დაისახა მუშაობის პირველ წელს 10 მილიონი დოლარი აეგროვებინა.\"\nIdiom to remove: \"მიზნად დაისახა\"\nLemmas to avoid simultaneously: მიზანი, სახულობს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-006.folia.xml 30",
+        "text": "გოგუას და ა. შალიკაშვილის „წეროები“ (1977 წელი), „უკანასკნელი ზარი“ (1978 წელი), „ოცნება და სინამდვილე“ (1979 წელი), „უკვდავნი“ (1979 წელი) — სამივე პიესა ეკუთვნის ა. შალიკაშვილს, ი. კაკულიას ინსცენირებული „წითელი აფრები“ (ვლადიმერ მაიაკოვსკის მიხედვით, 1980), ა. შალიკაშვილის „კიდევაც დაიზრდებიან“ (1982 წელი) და „კრიმანჭული“ (1987 წელი), გურამ დოჩანაშვილის „ფიროსმანი — მეფე“ (1990 წელი), ვაჟა-ფშაველას „სტუმარ-მასპინძელი“ (1991).",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"გოგუას და ა. შალიკაშვილის „წეროები“ (1977 წელი), „უკანასკნელი ზარი“ (1978 წელი), „ოცნება და სინამდვილე“ (1979 წელი), „უკვდავნი“ (1979 წელი) — სამივე პიესა ეკუთვნის ა. შალიკაშვილს, ი. კაკულიას ინსცენირებული „წითელი აფრები“ (ვლადიმერ მაიაკოვსკის მიხედვით, 1980), ა. შალიკაშვილის „კიდევაც დაიზრდებიან“ (1982 წელი) და „კრიმანჭული“ (1987 წელი), გურამ დოჩანაშვილის „ფიროსმანი — მეფე“ (1990 წელი), ვაჟა-ფშაველას „სტუმარ-მასპინძელი“ (1991).\"\nIdiom to remove: \"უკანასკნელი ზარი\"\nLemmas to avoid simultaneously: უკანასკნელი, ზარი\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-006.folia.xml 247",
+        "text": "ერთი შეხედვით, ეს სოფელი ჩიტის ბუდეს წააგავს.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ერთი შეხედვით, ეს სოფელი ჩიტის ბუდეს წააგავს.\"\nIdiom to remove: \"ერთი შეხედვით\"\nLemmas to avoid simultaneously: ერთი, შეხედვა\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-007.folia.xml 137",
+        "text": "1992 წელს ფრედ დიბნამ მონაწილეობა მიიღო ბუხრის ფერწერისა და გარემონტებაში, ის ასევე გამოჩნდა “BBC“–ის გადაცემაში.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"1992 წელს ფრედ დიბნამ მონაწილეობა მიიღო ბუხრის ფერწერისა და გარემონტებაში, ის ასევე გამოჩნდა “BBC“–ის გადაცემაში.\"\nIdiom to remove: \"მონაწილეობა მიიღო\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-007.folia.xml 456",
+        "text": "ახალგაზრდობაში აქტიურ მონაწილეობას იღებდა რევოლუციურ მოძრაობაში, მაგრამ მოგვიანებით მთლიანად ჩამოშორდა პოლიტიკას და მთლიანად ხელოვნებაზე გაამახვილა ყურადღება.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ახალგაზრდობაში აქტიურ მონაწილეობას იღებდა რევოლუციურ მოძრაობაში, მაგრამ მოგვიანებით მთლიანად ჩამოშორდა პოლიტიკას და მთლიანად ხელოვნებაზე გაამახვილა ყურადღება.\"\nIdiom to remove: \"მონაწილეობას იღებდა\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-007.folia.xml 467",
+        "text": "მისი მამა, ანდრეს მეგი, აქტიურ მონაწილეობას იღებდა ესტონეთის ეროვნული გამოღვიძების მოძრაობაში მე-19 საუკუნის მეორე ნახევარში.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მისი მამა, ანდრეს მეგი, აქტიურ მონაწილეობას იღებდა ესტონეთის ეროვნული გამოღვიძების მოძრაობაში მე-19 საუკუნის მეორე ნახევარში.\"\nIdiom to remove: \"მონაწილეობას იღებდა\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-007.folia.xml 550",
+        "text": "2011 წელს სეულის მიტროპოლიტი მთავრობის გამოკითხვის შედეგად, რომელშიც დაახლოებით 2000-მა უცხოელმა სტუმარმა მიიღო მონაწილეობა დადგინდა, რომ ტურისტებისთვის კორეის ეროვნული მუზეუმის სტუმრობა ერთ-ერთი საყვარელი აქტივობაა სეულში.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"2011 წელს სეულის მიტროპოლიტი მთავრობის გამოკითხვის შედეგად, რომელშიც დაახლოებით 2000-მა უცხოელმა სტუმარმა მიიღო მონაწილეობა დადგინდა, რომ ტურისტებისთვის კორეის ეროვნული მუზეუმის სტუმრობა ერთ-ერთი საყვარელი აქტივობაა სეულში.\"\nIdiom to remove: \"მიიღო მონაწილეობა\"\nLemmas to avoid simultaneously: იღებს, მონაწილეობა\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-008.folia.xml 672",
+        "text": "მასწავლებელი — განათლების სისტემაში პიროვნება, რომელიც სწავლის პროცესში დახმარებას უწევს, რჩევებს აძლევს მოსწავლეს, ხშირად საჯარო სკოლებში.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მასწავლებელი — განათლების სისტემაში პიროვნება, რომელიც სწავლის პროცესში დახმარებას უწევს, რჩევებს აძლევს მოსწავლეს, ხშირად საჯარო სკოლებში.\"\nIdiom to remove: \"დახმარებას უწევს\"\nLemmas to avoid simultaneously: დახმარება, უწევს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-008.folia.xml 711",
+        "text": "დეკორატიულ მებაღეობას, რომელიც მიზნად ისახავს ლამაზი ყვავილოვანი მცენარეების მოყვანას, მეყვავილეობა ეწოდება.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"დეკორატიულ მებაღეობას, რომელიც მიზნად ისახავს ლამაზი ყვავილოვანი მცენარეების მოყვანას, მეყვავილეობა ეწოდება.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-008.folia.xml 802",
+        "text": "კლუბი „ჰონკა“ სქოლიო აგრეთვე იხილეთ მესიანიზმი (ძვ. ებრ. „მაშიახ“ – კურთხეული, ცხებული) — რელიგიური მოძღვრება უფლის რწმუნებულზე, კაცობრიობის მხსნელზე, მესიაზე, რომელიც ქვეყნად წესრიგს დაამყარებს, იხსნის ცოდვის ტეხვისაგან (ადამის და ევას პირველი ცოდვაა ნავარაუდევი).",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"კლუბი „ჰონკა“ სქოლიო აგრეთვე იხილეთ მესიანიზმი (ძვ. ებრ. „მაშიახ“ – კურთხეული, ცხებული) — რელიგიური მოძღვრება უფლის რწმუნებულზე, კაცობრიობის მხსნელზე, მესიაზე, რომელიც ქვეყნად წესრიგს დაამყარებს, იხსნის ცოდვის ტეხვისაგან (ადამის და ევას პირველი ცოდვაა ნავარაუდევი).\"\nIdiom to remove: \"პირველი ცოდვა\"\nLemmas to avoid simultaneously: ერთი, ცოდვა\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 67",
+        "text": "მიანმარის კულტურა — ასევე ცნობილი, როგორც ბირმული კულტურა ( ბირმ. မြန်မာ့ယဉ်ကျေးမှု ), რომელზეც გავლენას ახდენდა მეზობლების კულტურა.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მიანმარის კულტურა — ასევე ცნობილი, როგორც ბირმული კულტურა ( ბირმ. မြန်မာ့ယဉ်ကျေးမှု ), რომელზეც გავლენას ახდენდა მეზობლების კულტურა.\"\nIdiom to remove: \"გავლენას ახდენდა\"\nLemmas to avoid simultaneously: გავლენა, ახდენს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 68",
+        "text": "ბოლოდროინდელ პერიოდში ბრიტანეთის კოლონიურმა მმართველობამ და დასავლურმა ყოფამ გავლენა მოახდინა ბირმული კულტურის ასპექტებზე, მათ შორის ენასა და განათლებაზე.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ბოლოდროინდელ პერიოდში ბრიტანეთის კოლონიურმა მმართველობამ და დასავლურმა ყოფამ გავლენა მოახდინა ბირმული კულტურის ასპექტებზე, მათ შორის ენასა და განათლებაზე.\"\nIdiom to remove: \"გავლენა მოახდინა\"\nLemmas to avoid simultaneously: გავლენა, ახდენს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 95",
+        "text": "ის აქტიურ მონაწილეობას იღებდა სოციალისტურ ყოველკვირეულში „ლუჩა დე კლასე“ (კლასობრივი ბრძოლა).",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ის აქტიურ მონაწილეობას იღებდა სოციალისტურ ყოველკვირეულში „ლუჩა დე კლასე“ (კლასობრივი ბრძოლა).\"\nIdiom to remove: \"მონაწილეობას იღებდა\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 533",
+        "text": "ორგანიზაციული მიზნები მსოფლიო ტურიზმის ორგანიზაცია ხელს უწყობს გონივრული, სიცოცხლისუნარიანი და ყველასათვის ხელმისაწვდომი ტურიზმის განვითარებას, განსაკუთრებულ ყურადღებას აქცევს განვითარებად ქვეყნებს.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ორგანიზაციული მიზნები მსოფლიო ტურიზმის ორგანიზაცია ხელს უწყობს გონივრული, სიცოცხლისუნარიანი და ყველასათვის ხელმისაწვდომი ტურიზმის განვითარებას, განსაკუთრებულ ყურადღებას აქცევს განვითარებად ქვეყნებს.\"\nIdiom to remove: \"ხელს უწყობს\"\nLemmas to avoid simultaneously: ხელი, უწყობს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-009.folia.xml 922",
+        "text": "ფედერალური მთავრობის დეპუტატებმა,კომპანიის მენეჯმენტის წევრებმა და ბავარიის მინისტრ – პრეზიდენტმა ბექშტაინმა მონაწილეობა მიიღეს აღდგენილი ადლერის პირველ მოგზაურობაში 2008 წლის 26 აპრილს.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ფედერალური მთავრობის დეპუტატებმა,კომპანიის მენეჯმენტის წევრებმა და ბავარიის მინისტრ – პრეზიდენტმა ბექშტაინმა მონაწილეობა მიიღეს აღდგენილი ადლერის პირველ მოგზაურობაში 2008 წლის 26 აპრილს.\"\nIdiom to remove: \"მონაწილეობა მიიღეს\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-010.folia.xml 789",
+        "text": "სივრცე შთაგონებულია მუზეუმის კოლექციებით და საშუალებას აძლევს ბავშვებს მიიღონ მონაწილეობა ინტერაქტიულ აქტივობებში, რომლებიც მოიცავს ნიმუშებს, კოსტიუმებს, დინოზავრის ძვლების თხრას და ნამარხებისა და მეტეორიტების გამოკვლევას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"სივრცე შთაგონებულია მუზეუმის კოლექციებით და საშუალებას აძლევს ბავშვებს მიიღონ მონაწილეობა ინტერაქტიულ აქტივობებში, რომლებიც მოიცავს ნიმუშებს, კოსტიუმებს, დინოზავრის ძვლების თხრას და ნამარხებისა და მეტეორიტების გამოკვლევას.\"\nIdiom to remove: \"საშუალებას აძლევს\"\nLemmas to avoid simultaneously: საშუალება, აძლევს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-CULTURE-010.folia.xml 958",
+        "text": "ეს ნაწარმოები თითქმის მთლიანად მისი ავტორის მეცნიერული იდეების პოპულარიზაციას ისახავდა მიზნად.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ეს ნაწარმოები თითქმის მთლიანად მისი ავტორის მეცნიერული იდეების პოპულარიზაციას ისახავდა მიზნად.\"\nIdiom to remove: \"ისახავდა მიზნად\"\nLemmas to avoid simultaneously: ისახავს, მიზანი\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 194",
+        "text": "გარდა ამისა, ამერიკელ სტუდენტებს შეუძლიათ მონაწილეობა მიიღონ უნგრულ და ევროპულ კულტურასთან დაკავშირებულ კურსებში, მაგალითად, ისწავლონ უნგრული ენა, მუსიკა და კინემატოგრაფია.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"გარდა ამისა, ამერიკელ სტუდენტებს შეუძლიათ მონაწილეობა მიიღონ უნგრულ და ევროპულ კულტურასთან დაკავშირებულ კურსებში, მაგალითად, ისწავლონ უნგრული ენა, მუსიკა და კინემატოგრაფია.\"\nIdiom to remove: \"მონაწილეობა მიიღონ\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 202",
+        "text": "პროფესორ-მასწავლებლები AIT-ის მიმზიდველობის ერთ-ერთი მიზეზია ის, რომ სტუდენტების სწავლებაში მონაწილეობას იღებენ ისეთი, უმეტესად უნგრელი ან უნგრული წარმოშობის ლექტორები, რომელთა სახელები ამერიკულ პროფესიულ წრეებშიც შეიძლება იყოს ცნობილი.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"პროფესორ-მასწავლებლები AIT-ის მიმზიდველობის ერთ-ერთი მიზეზია ის, რომ სტუდენტების სწავლებაში მონაწილეობას იღებენ ისეთი, უმეტესად უნგრელი ან უნგრული წარმოშობის ლექტორები, რომელთა სახელები ამერიკულ პროფესიულ წრეებშიც შეიძლება იყოს ცნობილი.\"\nIdiom to remove: \"მონაწილეობას იღებენ\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 422",
+        "text": "გასართობი ღონისძიებები უნივერსიტეტი ყოველწლიურად ატარებს საგაზაფხულო ფესტივალს, რომელშიც მონაწილეობას იღებენ ცნობილი თურქი კვიპროსელი, თურქი და საერთაშორისო მომღერლები და ბენდები, იმართება ცეკვის ფესტივალები, სპორტული და სამაგიდო თამაშების შეჯიბრებები.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"გასართობი ღონისძიებები უნივერსიტეტი ყოველწლიურად ატარებს საგაზაფხულო ფესტივალს, რომელშიც მონაწილეობას იღებენ ცნობილი თურქი კვიპროსელი, თურქი და საერთაშორისო მომღერლები და ბენდები, იმართება ცეკვის ფესტივალები, სპორტული და სამაგიდო თამაშების შეჯიბრებები.\"\nIdiom to remove: \"მონაწილეობას იღებენ\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 899",
+        "text": "დიდაქტიკური ლიტერატურა — დამრიგებლური ხასიათის ლიტერატურა, რომელიც მხატვრული ფორმით გადმოსცემს მეცნიერულ, ფილოსოფიურ, რელიგიურ, მორალურ პრინციპებსა და იდეებს, მიზნად ისახავს ადამიანის ზნეობრივ აღზრდას, სულიერ ამაღლებას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"დიდაქტიკური ლიტერატურა — დამრიგებლური ხასიათის ლიტერატურა, რომელიც მხატვრული ფორმით გადმოსცემს მეცნიერულ, ფილოსოფიურ, რელიგიურ, მორალურ პრინციპებსა და იდეებს, მიზნად ისახავს ადამიანის ზნეობრივ აღზრდას, სულიერ ამაღლებას.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-001.folia.xml 934",
+        "text": "დოქტორანტურა — უმაღლესი აკადემიური განათლების მესამე საფეხური და მიზნად ისახავს სამეცნიერო-პედაგოგიური კადრის მომზადებას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"დოქტორანტურა — უმაღლესი აკადემიური განათლების მესამე საფეხური და მიზნად ისახავს სამეცნიერო-პედაგოგიური კადრის მომზადებას.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 278",
+        "text": "პროგრამა 2005 წელს დაიწყო და მიზნად ისახავს 4 წლის მანძილზე საქართველოს ყველა სკოლას უზრუნველყოფას კომპიუტერული ტექნიკითა და ინტერნეტ-კავშირით, ინფორმაციული ტექნოლოგიების ინტეგრირებას მთელ სასწავლო პროცესში, სხვადასხვა საგნების სწავლებაში.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"პროგრამა 2005 წელს დაიწყო და მიზნად ისახავს 4 წლის მანძილზე საქართველოს ყველა სკოლას უზრუნველყოფას კომპიუტერული ტექნიკითა და ინტერნეტ-კავშირით, ინფორმაციული ტექნოლოგიების ინტეგრირებას მთელ სასწავლო პროცესში, სხვადასხვა საგნების სწავლებაში.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 321",
+        "text": "„კავკასიური სახლის“ გამომცემლობა „კავკასიური სახლის“ საგამომცემლო საქმიანობა მიზნად ისახავს: შეძლებისდაგვარად შეავსოს წიგნის, თარგმანის, რელიგიურ-ფილოსოფიური და მეცნიერული ინფორმაციის ნაკლებობა საქართველოში და მიაწოდოს მკითხველს ძველი და ახალი, დასავლეთსა და აღმოსავლეთის ლიტერატურული და სამეცნიერო ნაშრომები.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"„კავკასიური სახლის“ გამომცემლობა „კავკასიური სახლის“ საგამომცემლო საქმიანობა მიზნად ისახავს: შეძლებისდაგვარად შეავსოს წიგნის, თარგმანის, რელიგიურ-ფილოსოფიური და მეცნიერული ინფორმაციის ნაკლებობა საქართველოში და მიაწოდოს მკითხველს ძველი და ახალი, დასავლეთსა და აღმოსავლეთის ლიტერატურული და სამეცნიერო ნაშრომები.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 405",
+        "text": "მაგისტრატურა (< ლათ. magistratus — „წარჩინებული მოხელე“, „უფროსი“) — აკადემიური უმაღლესი განათლების მეორე საფეხური, სასწავლო პროგრამების ერთობლიობა, რომელიც აუცილებლად შეიცავს სამეცნიერო კვლევის ელემენტებს და მიზნად ისახავს ბაკალავრის შემდგომი დონის სპეციალისტის ან მკვლევარის მომზადებას, აგრეთვე ამზადებს პირს მიღებული კვალიფიკაციით მუშაობისათვის.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მაგისტრატურა (< ლათ. magistratus — „წარჩინებული მოხელე“, „უფროსი“) — აკადემიური უმაღლესი განათლების მეორე საფეხური, სასწავლო პროგრამების ერთობლიობა, რომელიც აუცილებლად შეიცავს სამეცნიერო კვლევის ელემენტებს და მიზნად ისახავს ბაკალავრის შემდგომი დონის სპეციალისტის ან მკვლევარის მომზადებას, აგრეთვე ამზადებს პირს მიღებული კვალიფიკაციით მუშაობისათვის.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 466",
+        "text": "მასწავლებელი — განათლების სისტემაში პიროვნება, რომელიც სწავლის პროცესში დახმარებას უწევს, რჩევებს აძლევს მოსწავლეს, ხშირად საჯარო სკოლებში.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მასწავლებელი — განათლების სისტემაში პიროვნება, რომელიც სწავლის პროცესში დახმარებას უწევს, რჩევებს აძლევს მოსწავლეს, ხშირად საჯარო სკოლებში.\"\nIdiom to remove: \"დახმარებას უწევს\"\nLemmas to avoid simultaneously: დახმარება, უწევს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 939",
+        "text": "მონაწილეობა მიიღოს სამეცნიერო-კვლევით საქმიანობაში.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მონაწილეობა მიიღოს სამეცნიერო-კვლევით საქმიანობაში.\"\nIdiom to remove: \"მონაწილეობა მიიღოს\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 955",
+        "text": "ეს ყველაფერი მიზნად ისახავს ცოდნის გაღრმავებას, პრაქტიკული უნარების განვითარებას და პროფესიული კარიერისთვის საჭირო კომპეტენციების ჩამოყალიბებას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ეს ყველაფერი მიზნად ისახავს ცოდნის გაღრმავებას, პრაქტიკული უნარების განვითარებას და პროფესიული კარიერისთვის საჭირო კომპეტენციების ჩამოყალიბებას.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-EDUCATION-002.folia.xml 963",
+        "text": "დაესწროს ლექციებს, სემინარებს, ლაბორატორიულ, პრაქტიკულ და სხვა სახის მეცადინეობებს, შეასრულოს საგანმანათლებლო პროგრამით და მისი კომპონენტებით გათვალისწინებული სამუშაოები, მონაწილეობა მიიღოს შუალედურ შეფასებებსა და გამოცდებში.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"დაესწროს ლექციებს, სემინარებს, ლაბორატორიულ, პრაქტიკულ და სხვა სახის მეცადინეობებს, შეასრულოს საგანმანათლებლო პროგრამით და მისი კომპონენტებით გათვალისწინებული სამუშაოები, მონაწილეობა მიიღოს შუალედურ შეფასებებსა და გამოცდებში.\"\nIdiom to remove: \"მონაწილეობა მიიღოს\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-001.folia.xml 47",
+        "text": "პროექტი მიზნად ისახავს გემებისთვის არხის შექმნას ფოკის სრუტის გასწვრივ დანჰუსკოდის მახლობლად.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"პროექტი მიზნად ისახავს გემებისთვის არხის შექმნას ფოკის სრუტის გასწვრივ დანჰუსკოდის მახლობლად.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-001.folia.xml 112",
+        "text": "ბირუნი ეჭვის თვალით უყურებდა რელიგიურ ცრურწმენას, უარყოფდა ასტროლოგიას, რომელიც მჭიდრო კავშირში იყო რელიგიასთან.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ბირუნი ეჭვის თვალით უყურებდა რელიგიურ ცრურწმენას, უარყოფდა ასტროლოგიას, რომელიც მჭიდრო კავშირში იყო რელიგიასთან.\"\nIdiom to remove: \"ეჭვის თვალით\"\nLemmas to avoid simultaneously: ეჭვი, თვალი\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-001.folia.xml 666",
+        "text": "ამიტომ აღნიშნული ქვეყნების უმრავლესობამ აქტიური მონაწილეობა მიიღო ე. წ. მიუმხრობლობის მოძრაობაში, რაც ორ მტრულად დაყოფილ მსოფლიოში რომელიმე სამხედრო ბლოკთან შეერთებაზე უარის თქმას ნიშნავდა.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ამიტომ აღნიშნული ქვეყნების უმრავლესობამ აქტიური მონაწილეობა მიიღო ე. წ. მიუმხრობლობის მოძრაობაში, რაც ორ მტრულად დაყოფილ მსოფლიოში რომელიმე სამხედრო ბლოკთან შეერთებაზე უარის თქმას ნიშნავდა.\"\nIdiom to remove: \"მონაწილეობა მიიღო\"\nLemmas to avoid simultaneously: მონაწილეობა, იღებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-001.folia.xml 668",
+        "text": "არჩევანი დიდი არ იყო „სოციალისტური გზა“ ან თავისუფალი მრეწველობის და საბაზრო ეკონომიკის, ანუ „კაპიტალისტური გზა“.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"არჩევანი დიდი არ იყო „სოციალისტური გზა“ ან თავისუფალი მრეწველობის და საბაზრო ეკონომიკის, ანუ „კაპიტალისტური გზა“.\"\nIdiom to remove: \"სოციალისტური გზა\"\nLemmas to avoid simultaneously: სოციალისტური, გზა\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-002.folia.xml 99",
+        "text": "ტყის განადგურება ასევე გავლენას ახდენს ქარისა და წყლის ორთქლის ნაკადებზე და მზის ენერგიის შეწოვაზე, რაც აშკარა გავლენას ახდენს ადგილობრივ კლიმატზე.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ტყის განადგურება ასევე გავლენას ახდენს ქარისა და წყლის ორთქლის ნაკადებზე და მზის ენერგიის შეწოვაზე, რაც აშკარა გავლენას ახდენს ადგილობრივ კლიმატზე.\"\nIdiom to remove: \"გავლენას ახდენს\"\nLemmas to avoid simultaneously: გავლენა, ახდენს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-002.folia.xml 160",
+        "text": "კაცობრიობის უდიდესი და უმნიშვნელოვანესი დარგია, რომელიც უპირველეს ყოვლისა მიზნად ისახავს დედამიწის მთელი გეოგრაფიული (ლანდშაფტური) გარსის კომპლექსურ შესწავლას, მის აგებულებასა და მნიშვნელობას.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"კაცობრიობის უდიდესი და უმნიშვნელოვანესი დარგია, რომელიც უპირველეს ყოვლისა მიზნად ისახავს დედამიწის მთელი გეოგრაფიული (ლანდშაფტური) გარსის კომპლექსურ შესწავლას, მის აგებულებასა და მნიშვნელობას.\"\nIdiom to remove: \"მიზნად ისახავს\"\nLemmas to avoid simultaneously: მიზანი, სახავს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-002.folia.xml 831",
+        "text": "ეს ვერსია დასაშვებია, თუმცა მეცნიერთა დიდი ნაწილი თვლის, რომ სიცოცხლე დედამიწაზე წარმოიშვა, რასაც ხელი შეუწყო მზის სითბომ, სინათლემ, წყალმა, ჰაერმა.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ეს ვერსია დასაშვებია, თუმცა მეცნიერთა დიდი ნაწილი თვლის, რომ სიცოცხლე დედამიწაზე წარმოიშვა, რასაც ხელი შეუწყო მზის სითბომ, სინათლემ, წყალმა, ჰაერმა.\"\nIdiom to remove: \"დიდი ნაწილი\"\nLemmas to avoid simultaneously: დიდი, ნაწილი\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-003.folia.xml 11",
+        "text": "ადამიანის საქმიანობა ახლა დომინანტური ძალაა, რომელიც გავლენას ახდენს გლობალურ ცვლილებებზე, ზიანს აყენებს ბიოსფეროს, დედამიწის ზედაპირს, ასევე ჰიდროსფეროს ატმოსფეროს ველური მიწების დაკარგვით, ოკეანეების ზედმეტად ექსპლუატაციით, სათბურის გაზების წარმოებით, ოზონის ფენის დეგრადაციით და, ზოგადად, ნიადაგის, ჰაერისა და წყლის ხარისხის დეგრადაციით.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ადამიანის საქმიანობა ახლა დომინანტური ძალაა, რომელიც გავლენას ახდენს გლობალურ ცვლილებებზე, ზიანს აყენებს ბიოსფეროს, დედამიწის ზედაპირს, ასევე ჰიდროსფეროს ატმოსფეროს ველური მიწების დაკარგვით, ოკეანეების ზედმეტად ექსპლუატაციით, სათბურის გაზების წარმოებით, ოზონის ფენის დეგრადაციით და, ზოგადად, ნიადაგის, ჰაერისა და წყლის ხარისხის დეგრადაციით.\"\nIdiom to remove: \"ზიანს აყენებს\"\nLemmas to avoid simultaneously: ზიანი, აყენებს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-003.folia.xml 113",
+        "text": "ჰოლოცენის ამჟამინდელი გადაშენება, რომელიც გამოწვეული იქნება ტექნოლოგიებით, შეიძლება გაგრძელდეს ხუთ მილიონ წლამდე, ვინაიდან, ტექნოლოგიებს შეუძლიათ გამოიწვიონ კაცობრიობის გადაშენება, რადგანაც ის ცუდ გავლენას ახდენს გარემო-პირობებზე.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ჰოლოცენის ამჟამინდელი გადაშენება, რომელიც გამოწვეული იქნება ტექნოლოგიებით, შეიძლება გაგრძელდეს ხუთ მილიონ წლამდე, ვინაიდან, ტექნოლოგიებს შეუძლიათ გამოიწვიონ კაცობრიობის გადაშენება, რადგანაც ის ცუდ გავლენას ახდენს გარემო-პირობებზე.\"\nIdiom to remove: \"გავლენას ახდენს\"\nLemmas to avoid simultaneously: გავლენა, ახდენს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    },
+    {
+        "sent_id": ". KA-WIKIPEDIA-GEOGRAPHY-003.folia.xml 140",
+        "text": "მდგომარეობის გაუარესების რისკების მრავალი სცენარი არსებობს, რომლებმაც შეიძლება გლობალური გავლენა მოახდინონ პლანეტაზე.",
+        "prompt": {
+            "system": "You are an expert native speaker of Georgian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"მდგომარეობის გაუარესების რისკების მრავალი სცენარი არსებობს, რომლებმაც შეიძლება გლობალური გავლენა მოახდინონ პლანეტაზე.\"\nIdiom to remove: \"გავლენა მოახდინონ\"\nLemmas to avoid simultaneously: გავლენა, ახდენს\n\nPlease rewrite the sentence naturally in Georgian."
+        }
+    }
+]

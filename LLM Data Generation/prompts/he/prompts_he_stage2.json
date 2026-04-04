@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". . autogen--1",
+        "text": "המשמעות היא שדודה וצ'אסקובסקי יתמודדו שוב, אחד מול השני, בסיבוב השני שייערך ב-12 ביולי.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"המשמעות היא שדודה וצ'אסקובסקי יתמודדו שוב, אחד מול השני, בסיבוב השני שייערך ב-12 ביולי.\"\nIdiom to remove: \"אחד מול השני,\"\nLemmas to avoid simultaneously: אחת, מול, השני,\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--6",
+        "text": "בחודש מאי החולף נמסרו בשוק הרכב הישראלי כעשרת אלפים כלי רכב חדשים, פי 4 מחודש אפריל בו השוק קרס לחלוטין.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"בחודש מאי החולף נמסרו בשוק הרכב הישראלי כעשרת אלפים כלי רכב חדשים, פי 4 מחודש אפריל בו השוק קרס לחלוטין.\"\nIdiom to remove: \"בשוק הרכב\"\nLemmas to avoid simultaneously: בשוק, הרכב\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--14",
+        "text": "במהלך הקריירה עזוז ירד עם בני יהודה לליגה הלאומית, העפיל איתה חזרה לליגת העל, ואף רשם איתה חמש העפלות לליגה האירופית.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"במהלך הקריירה עזוז ירד עם בני יהודה לליגה הלאומית, העפיל איתה חזרה לליגת העל, ואף רשם איתה חמש העפלות לליגה האירופית.\"\nIdiom to remove: \"לליגה הלאומית,\"\nLemmas to avoid simultaneously: לליגה, הלאומית\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--16",
+        "text": "חלק מכך נובע מהחיבור על המגרש שיש לו עם יובל אשכנזי.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"חלק מכך נובע מהחיבור על המגרש שיש לו עם יובל אשכנזי.\"\nIdiom to remove: \"חלק מכך\"\nLemmas to avoid simultaneously: חלק, מכך\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--17",
+        "text": "\"באתי לבקר את אחי ומצאתי מלא חנייה במרכז המסחרי, לא להאמין לאן הגענו\", אמרה.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"באתי לבקר את אחי ומצאתי מלא חנייה במרכז המסחרי, לא להאמין לאן הגענו\", אמרה.\"\nIdiom to remove: \"לא להאמין\"\nLemmas to avoid simultaneously: לא, האמין\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--20",
+        "text": "אך מעבר לכך, מענק כזה עשוי להביא לשורה של רפורמות כלכליות מבניות רדיקליות.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"אך מעבר לכך, מענק כזה עשוי להביא לשורה של רפורמות כלכליות מבניות רדיקליות.\"\nIdiom to remove: \"מעבר לכך,\"\nLemmas to avoid simultaneously: מעבר, לכך,\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--30",
+        "text": "אבל חשיפת ynet שהביאה את דברי הרב הראשי לישראל, יצחק יוסף, נגד עולים ממדינות חבר העמים - עוררה בה כאב על כאב.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"אבל חשיפת ynet שהביאה את דברי הרב הראשי לישראל, יצחק יוסף, נגד עולים ממדינות חבר העמים - עוררה בה כאב על כאב.\"\nIdiom to remove: \"הרב הראשי\"\nLemmas to avoid simultaneously: הרב, הראשי\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--32",
+        "text": "בתמונות נראים מבנים לפני ואחרי התקיפה, וניתן לראות את הנזק שנגרם להם.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"בתמונות נראים מבנים לפני ואחרי התקיפה, וניתן לראות את הנזק שנגרם להם.\"\nIdiom to remove: \"הנזק שנגרם\"\nLemmas to avoid simultaneously: הנזק, שנגרם\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--36",
+        "text": "באר שבע נראתה רע מאוד וכבר בדקה ה-36 שבירו הוחלף בבושת פנים על ידי ג'ון אוגו.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"באר שבע נראתה רע מאוד וכבר בדקה ה-36 שבירו הוחלף בבושת פנים על ידי ג'ון אוגו.\"\nIdiom to remove: \"נראתה רע מאוד\"\nLemmas to avoid simultaneously: נראה, רע, מאוד\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--45",
+        "text": "אני מכבדת את פסיקת בג״צ שקבעה כי אמירותיו של הרב אריאל לגבי להט״ב חוסות תחת חופש הביטוי ועם זאת עודני מתנגדת לאמירות פוגעניות נגד חלק נרחב מהעם שלנו.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"אני מכבדת את פסיקת בג״צ שקבעה כי אמירותיו של הרב אריאל לגבי להט״ב חוסות תחת חופש הביטוי ועם זאת עודני מתנגדת לאמירות פוגעניות נגד חלק נרחב מהעם שלנו.\"\nIdiom to remove: \"חופש הביטוי\"\nLemmas to avoid simultaneously: חופש, הביטוי\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--46",
+        "text": "במצגת שהוכנה לישיבת הקבינט על ידי \"מגן ישראל\" בראשות פרופ' גמזו, הוצגו נתונים שונים, בין היתר על אפקטיביות הסגר עד כה.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"במצגת שהוכנה לישיבת הקבינט על ידי \"מגן ישראל\" בראשות פרופ' גמזו, הוצגו נתונים שונים, בין היתר על אפקטיביות הסגר עד כה.\"\nIdiom to remove: \"בין היתר\"\nLemmas to avoid simultaneously: בין, היתר\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--47",
+        "text": "\"ישראל נערכת להטלת סגר מלא שני בגלל נגיף קורונה, ותהפוך בכך למדינה המפותחת היחידה בעולם שמטילה סגר כלל ארצי פעם נוספת, לאחר שפתיחה מחדש כושלת של הכלכלה גרמה לזינוק במספר הנדבקים\", סוכנות הידיעות בלומברג.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"ישראל נערכת להטלת סגר מלא שני בגלל נגיף קורונה, ותהפוך בכך למדינה המפותחת היחידה בעולם שמטילה סגר כלל ארצי פעם נוספת, לאחר שפתיחה מחדש כושלת של הכלכלה גרמה לזינוק במספר הנדבקים\", סוכנות הידיעות בלומברג.\"\nIdiom to remove: \"נערכת להטלת סגר\"\nLemmas to avoid simultaneously: נערך, להטלה, סגר\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--51",
+        "text": "מחלקת החקירות של הרשות שבה נפגשנו לשיחה - היא לא כחוקרת ואני, למזלי, לא כנחקר - שוכנת באחד מבנייני המשרדים הארוכים הפזורים באי־סדר מופתי באור־יהודה.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"מחלקת החקירות של הרשות שבה נפגשנו לשיחה - היא לא כחוקרת ואני, למזלי, לא כנחקר - שוכנת באחד מבנייני המשרדים הארוכים הפזורים באי־סדר מופתי באור־יהודה.\"\nIdiom to remove: \"מחלקת החקירות\"\nLemmas to avoid simultaneously: מחלקה, החקירות\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--55",
+        "text": "ועדת כספים עשתה נכון שקיבלה את קריאתנו, וסוף סוף נעשה קצת צדק עם המפוטרים הוותיקים\".",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ועדת כספים עשתה נכון שקיבלה את קריאתנו, וסוף סוף נעשה קצת צדק עם המפוטרים הוותיקים\".\"\nIdiom to remove: \"ועדת כספים\"\nLemmas to avoid simultaneously: ועדה, כסף\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--57",
+        "text": "ארז סירב למשא ומתן מול המדינה על קיצור החופש הגדול, ומורי התיכונים המשיכו בלמידה מרחוק על אף שמשרד החינוך לא הסדיר מעולם את עבודתם באותה תקופה.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ארז סירב למשא ומתן מול המדינה על קיצור החופש הגדול, ומורי התיכונים המשיכו בלמידה מרחוק על אף שמשרד החינוך לא הסדיר מעולם את עבודתם באותה תקופה.\"\nIdiom to remove: \"למשא ומתן\"\nLemmas to avoid simultaneously: למשא, ומתן\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--85",
+        "text": "אחרי שהיא נפטרה קיימתי איסור גילוח במשך חודש, וכשראיתי את עצמי במראה זה מצא חן בעיניי והחלטתי להשאיר ככה.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"אחרי שהיא נפטרה קיימתי איסור גילוח במשך חודש, וכשראיתי את עצמי במראה זה מצא חן בעיניי והחלטתי להשאיר ככה.\"\nIdiom to remove: \"את עצמי מצא\"\nLemmas to avoid simultaneously: את, עצמו, מצא\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--93",
+        "text": "שר החינוך, יואב גלנט, אמר כי הוא מצפה לפתוח את שנת הלימודים לפי המתווה שהציג, אך הודה כי במהלך תקופת החגים משרד החינוך ידון בשינויים שיאפשרו לימודים גם לכיתות ה'-ו'.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"שר החינוך, יואב גלנט, אמר כי הוא מצפה לפתוח את שנת הלימודים לפי המתווה שהציג, אך הודה כי במהלך תקופת החגים משרד החינוך ידון בשינויים שיאפשרו לימודים גם לכיתות ה'-ו'.\"\nIdiom to remove: \"שר החינוך,\"\nLemmas to avoid simultaneously: שר, החינוך,\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--107",
+        "text": "כמחצית מאותם משתמשים מעידים כי השירותים המקוונים של קופות החולים והבנקים הם מצויינים, לעומת זאת רק 10% מהמשיבים ענו כך על אתרי רשות המסים ושירות התעסוקה.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"כמחצית מאותם משתמשים מעידים כי השירותים המקוונים של קופות החולים והבנקים הם מצויינים, לעומת זאת רק 10% מהמשיבים ענו כך על אתרי רשות המסים ושירות התעסוקה.\"\nIdiom to remove: \"קופות החולים\"\nLemmas to avoid simultaneously: קופה, החול\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--109",
+        "text": "לפי הערכות, חברת מספנות ישראל מנהלת מגעים עם ענקית הלוגיסטיקה DP World מהאמירויות על שיתוף פעולה במכרז על רכישת נמל חיפה.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"לפי הערכות, חברת מספנות ישראל מנהלת מגעים עם ענקית הלוגיסטיקה DP World מהאמירויות על שיתוף פעולה במכרז על רכישת נמל חיפה.\"\nIdiom to remove: \"מנהלת מגעים\"\nLemmas to avoid simultaneously: ניהל, מגע\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--113",
+        "text": "אלפי עובדיה גויסו למשימה הבלתי שגרתית לחלק כסף לציבור, במקום לגבות ממנו מיסים.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"אלפי עובדיה גויסו למשימה הבלתי שגרתית לחלק כסף לציבור, במקום לגבות ממנו מיסים.\"\nIdiom to remove: \"גויסו למשימה\"\nLemmas to avoid simultaneously: גויס, למשימה\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--123",
+        "text": "\"אולי תכתוב אחר כך ספר?",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"אולי תכתוב אחר כך ספר?\"\nIdiom to remove: \"אחר כך\"\nLemmas to avoid simultaneously: אחר, כך\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--130",
+        "text": "על מנת שמכבי תסיים באחד מארבעת המקומות הראשונים, היא צריכה לנצח שלושה משחקים יותר מברצלונה וריאל (לא ריאלי), או אחד יותר מצסק\"א, במקרה שלא תפסיד ביותר מ-9 נקודות במשחק שיתקיים במוסקבה במחזור ה-31.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"על מנת שמכבי תסיים באחד מארבעת המקומות הראשונים, היא צריכה לנצח שלושה משחקים יותר מברצלונה וריאל (לא ריאלי), או אחד יותר מצסק\"א, במקרה שלא תפסיד ביותר מ-9 נקודות במשחק שיתקיים במוסקבה במחזור ה-31.\"\nIdiom to remove: \"על מנת\"\nLemmas to avoid simultaneously: על, מנה\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--132",
+        "text": "\"אני קודם כל לא מאמין שזה יכול להיות, פשוט כי יש חבל ארץ שלם בנוי, זה לא כמה קרוואנים.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"אני קודם כל לא מאמין שזה יכול להיות, פשוט כי יש חבל ארץ שלם בנוי, זה לא כמה קרוואנים.\"\nIdiom to remove: \"לא מאמין\"\nLemmas to avoid simultaneously: לא, האמין\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--134",
+        "text": "\"אני רואה את מצוקת הקשישים בארץ שהחמירה בעקבות הקורונה וצופה ברגרסיה בכל ההקשרים – חברתיים, כלכליים ונפשיים של האוכלוסייה הזו.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"אני רואה את מצוקת הקשישים בארץ שהחמירה בעקבות הקורונה וצופה ברגרסיה בכל ההקשרים – חברתיים, כלכליים ונפשיים של האוכלוסייה הזו.\"\nIdiom to remove: \"ההקשרים חברתיים,\"\nLemmas to avoid simultaneously: ההקשר, חברתיים,\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--137",
+        "text": "העירייה הצהירה כי היא בוחנת אלטרנטיבות למיזם - אך עדיין לא נמצא תחליף.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"העירייה הצהירה כי היא בוחנת אלטרנטיבות למיזם - אך עדיין לא נמצא תחליף.\"\nIdiom to remove: \"בוחנת אלטרנטיבות\"\nLemmas to avoid simultaneously: בחן, אלטרנטיבות\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--146",
+        "text": "בסופו של דבר החליט ראש העיר, רון חולדאי, למשוך את הבקשה, נוכח משבר הקורונה והחשש מביקורת ציבורית על ההחלטה להיטיב עם הגופים הפיננסיים החזקים במשק.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"בסופו של דבר החליט ראש העיר, רון חולדאי, למשוך את הבקשה, נוכח משבר הקורונה והחשש מביקורת ציבורית על ההחלטה להיטיב עם הגופים הפיננסיים החזקים במשק.\"\nIdiom to remove: \"בסופו של דבר\"\nLemmas to avoid simultaneously: בסופו, של, דבר\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--153",
+        "text": "אתמול, בשעה שבוועדת הבחירות המשיכו לספור את הקולות, כבר ערך נתניהו מפגש בכנסת עם ראשי הבלוק כדי לוודא שכולם מאוחדים מאחוריו.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"אתמול, בשעה שבוועדת הבחירות המשיכו לספור את הקולות, כבר ערך נתניהו מפגש בכנסת עם ראשי הבלוק כדי לוודא שכולם מאוחדים מאחוריו.\"\nIdiom to remove: \"שבוועדת הבחירות\"\nLemmas to avoid simultaneously: בוועדה, הבחירה\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--161",
+        "text": "אלא שהמכה האמיתית מבחינת יוסטון הגיעה בדמות ריבאונד ההתקפה של הלייקרס, שסיימו את המשחק עם 12 (לעומת 1) - והשיגו עוד ועוד נקודות מהזדמנות שנייה ושלישית.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"אלא שהמכה האמיתית מבחינת יוסטון הגיעה בדמות ריבאונד ההתקפה של הלייקרס, שסיימו את המשחק עם 12 (לעומת 1) - והשיגו עוד ועוד נקודות מהזדמנות שנייה ושלישית.\"\nIdiom to remove: \"עוד ועוד\"\nLemmas to avoid simultaneously: עוד, ועוד\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--162",
+        "text": "סוכנות הידיעות רויטרס פרסמה אתמול כי האקרים הקשורים לאיראן ניסו בשבועות האחרונים לפרוץ לחברת גיליאד האמריקנית, היחידה עד כה שתרופה מתוצרתה קיבלה את האישור האמריקני לשימוש ניסיוני בחולי קורונה.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"סוכנות הידיעות רויטרס פרסמה אתמול כי האקרים הקשורים לאיראן ניסו בשבועות האחרונים לפרוץ לחברת גיליאד האמריקנית, היחידה עד כה שתרופה מתוצרתה קיבלה את האישור האמריקני לשימוש ניסיוני בחולי קורונה.\"\nIdiom to remove: \"סוכנות הידיעות\"\nLemmas to avoid simultaneously: סוכנות, הידיעות\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--182",
+        "text": "המחוקקים צריכים להגיע להסכמות בנוגע לתקציב עד 7:00 בבוקר שעון ישראל (חצות, שעון החוף המזרחי) על מנת למנוע השבתה של הממשל.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"המחוקקים צריכים להגיע להסכמות בנוגע לתקציב עד 7:00 בבוקר שעון ישראל (חצות, שעון החוף המזרחי) על מנת למנוע השבתה של הממשל.\"\nIdiom to remove: \"להגיע להסכמות\"\nLemmas to avoid simultaneously: הגיע, הסכמה\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--190",
+        "text": "\"הכניסו פחד, חרדות, בלבול ובהלה\", אמר כהן בשיחה עם ynet, \"כשנחתנו, חוץ ממסרון למכשיר הנייד והודעה בכריזה של המטוס - אף אחד לא באמת נתן לנו הנחיות ברורות.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"הכניסו פחד, חרדות, בלבול ובהלה\", אמר כהן בשיחה עם ynet, \"כשנחתנו, חוץ ממסרון למכשיר הנייד והודעה בכריזה של המטוס - אף אחד לא באמת נתן לנו הנחיות ברורות.\"\nIdiom to remove: \"אף אחד\"\nLemmas to avoid simultaneously: אף, אחת\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--191",
+        "text": "זה יאפשר לפעול בעניין זה בשיקול דעת ולא מתוך חיפזון.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"זה יאפשר לפעול בעניין זה בשיקול דעת ולא מתוך חיפזון.\"\nIdiom to remove: \"בעניין זה\"\nLemmas to avoid simultaneously: בעניין, זה\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--213",
+        "text": "נתניהו הבטיח כי \"תחילת היציאה תפיח רוח חיים במשק ותיתן תקווה לשכירים, לעצמאים ולעסקים הקטנים שנאנקים.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"נתניהו הבטיח כי \"תחילת היציאה תפיח רוח חיים במשק ותיתן תקווה לשכירים, לעצמאים ולעסקים הקטנים שנאנקים.\"\nIdiom to remove: \"תפיח רוח חיים\"\nLemmas to avoid simultaneously: הפיח, רוח, חיים\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--218",
+        "text": "היוצרים אף התייחסו לאפשרות של סדרות ספין-אוף עם דמויות מסוימות: \"אני לוקח כמודל את 'שובר שורות'.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"היוצרים אף התייחסו לאפשרות של סדרות ספין-אוף עם דמויות מסוימות: \"אני לוקח כמודל את 'שובר שורות'.\"\nIdiom to remove: \"סדרות ספין-אוף\"\nLemmas to avoid simultaneously: סדרה, ספין-אוף\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--225",
+        "text": "במילים קשות אלה סיכם יו\"ר ועדת הכלכלה את הדיון שנערך הבוקר בוועדת הכלכלה ונערך לאחר שב-ynet נחשפו חששות של גורמים בענף התחבורה ומומחי הגנת פרטיות, אם אכן ישולבו אפליקציות תשלום בתחבורה ציבורית.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"במילים קשות אלה סיכם יו\"ר ועדת הכלכלה את הדיון שנערך הבוקר בוועדת הכלכלה ונערך לאחר שב-ynet נחשפו חששות של גורמים בענף התחבורה ומומחי הגנת פרטיות, אם אכן ישולבו אפליקציות תשלום בתחבורה ציבורית.\"\nIdiom to remove: \"ועדת הכלכלה\"\nLemmas to avoid simultaneously: ועדה, הכלכלה\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--227",
+        "text": "בעבר, אפשרויות הישיבה במסעדה המצויינת הזו היו או ליד הבר או בחוץ ליד שולחנות מתכת מתנדנדים.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"בעבר, אפשרויות הישיבה במסעדה המצויינת הזו היו או ליד הבר או בחוץ ליד שולחנות מתכת מתנדנדים.\"\nIdiom to remove: \"ליד הבר\"\nLemmas to avoid simultaneously: ליד, הבר\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--229",
+        "text": "כן מותח הסרט ביקורת על תמיכת ארגוני הסביבה באנרגיה שמקורה בביומאסה, כלומר שריפת עץ, או חומרים אורגניים אחרים, כתחליף לדלקי מאובנים.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"כן מותח הסרט ביקורת על תמיכת ארגוני הסביבה באנרגיה שמקורה בביומאסה, כלומר שריפת עץ, או חומרים אורגניים אחרים, כתחליף לדלקי מאובנים.\"\nIdiom to remove: \"מותח ביקורת\"\nLemmas to avoid simultaneously: מתח, ביקורת\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--236",
+        "text": "עלות פתיחת שנת הלימודים, כולל גיוס מורים חדשים, רכישת ציוד ותכנים ללמידה מרחוק וכן חומרי חיטוי לבתי הספר, מסתכמת ב-4.2 מיליארד שקל.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"עלות פתיחת שנת הלימודים, כולל גיוס מורים חדשים, רכישת ציוד ותכנים ללמידה מרחוק וכן חומרי חיטוי לבתי הספר, מסתכמת ב-4.2 מיליארד שקל.\"\nIdiom to remove: \"שנת הלימודים,\"\nLemmas to avoid simultaneously: שנה, הלימודים,\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--241",
+        "text": "הקפות שניות מרגשות במיוחד נערכו במחלקת הקורונה בבית החולים הציבורי אסותא שבאשדוד - ובמחלקת טיפול נמרץ קורונה של בית החולים \"שערי צדק\".",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"הקפות שניות מרגשות במיוחד נערכו במחלקת הקורונה בבית החולים הציבורי אסותא שבאשדוד - ובמחלקת טיפול נמרץ קורונה של בית החולים \"שערי צדק\".\"\nIdiom to remove: \"בבית החולים\"\nLemmas to avoid simultaneously: בבית, החול\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--251",
+        "text": "בשבת נחזור למשחקים ואעשה הכל על מנת לשמח אתכם, האוהדים, בתקווה שבקרוב נוכל לחזור לחגוג ביחד בטרנר\".",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"בשבת נחזור למשחקים ואעשה הכל על מנת לשמח אתכם, האוהדים, בתקווה שבקרוב נוכל לחזור לחגוג ביחד בטרנר\".\"\nIdiom to remove: \"על מנת\"\nLemmas to avoid simultaneously: על, מנה\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--260",
+        "text": "כדאי לגלות זהירות ולא למהר להתבשם מהשערות שטרם בוססו על נקודת חסינות אוכלוסייתית אליה אוטוטו נגיע, עקב חשיפות עבר לנגיפים דומים או עקב סף חסינות עדר נמוך מכל אשר ידענו בכל מחלה אחרת.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"כדאי לגלות זהירות ולא למהר להתבשם מהשערות שטרם בוססו על נקודת חסינות אוכלוסייתית אליה אוטוטו נגיע, עקב חשיפות עבר לנגיפים דומים או עקב סף חסינות עדר נמוך מכל אשר ידענו בכל מחלה אחרת.\"\nIdiom to remove: \"לגלות זהירות\"\nLemmas to avoid simultaneously: גילה, זהירות\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--265",
+        "text": "\"החברות שמדורגות בדרך כלל לא נמצאות במצב הזה, שכן אחרי שנים של שוק שורי, חלק גדול מהחברות התארגנו.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"\"החברות שמדורגות בדרך כלל לא נמצאות במצב הזה, שכן אחרי שנים של שוק שורי, חלק גדול מהחברות התארגנו.\"\nIdiom to remove: \"בדרך כלל\"\nLemmas to avoid simultaneously: בדרך, כלל\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--267",
+        "text": "יכול להיות מצב שמשרד הבריאות יוצא בהצהרה ואז מקבל כל מיני נגחות מבתי חולים אחרים שאומרים שמשרד הבריאות טועה ומטעה ומשקר, אז למי אני צריך להאמין?",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"יכול להיות מצב שמשרד הבריאות יוצא בהצהרה ואז מקבל כל מיני נגחות מבתי חולים אחרים שאומרים שמשרד הבריאות טועה ומטעה ומשקר, אז למי אני צריך להאמין?\"\nIdiom to remove: \"שמשרד הבריאות\"\nLemmas to avoid simultaneously: שמשרד, הבריאות\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--274",
+        "text": "הוא מתכוון להגיע כל עוד הממשלה תאפשר להיכנס\".",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"הוא מתכוון להגיע כל עוד הממשלה תאפשר להיכנס\".\"\nIdiom to remove: \"כל עוד\"\nLemmas to avoid simultaneously: כול, עוד\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--279",
+        "text": "היא ציינה כי הסבירה לנשיא – או במילותיה שלה, \"הבהרתי לו\" – שהזרקת חומרי חיטוי איננה טיפול, אבל הדגישה גם שאת ההצעה של טראמפ בעניין זה יש לראות כ\"סוג של דיאלוג\" שיש בין מדענים לפוליטיקאים.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"היא ציינה כי הסבירה לנשיא – או במילותיה שלה, \"הבהרתי לו\" – שהזרקת חומרי חיטוי איננה טיפול, אבל הדגישה גם שאת ההצעה של טראמפ בעניין זה יש לראות כ\"סוג של דיאלוג\" שיש בין מדענים לפוליטיקאים.\"\nIdiom to remove: \"ציינה כי\"\nLemmas to avoid simultaneously: ציין, כי\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--281",
+        "text": "האישום מייחס לו עבירות מין חמורות, התעללות בקטין או חסר ישע, כניסה והתפרצות למקום מגורים ופריצה לרכב.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"האישום מייחס לו עבירות מין חמורות, התעללות בקטין או חסר ישע, כניסה והתפרצות למקום מגורים ופריצה לרכב.\"\nIdiom to remove: \"עבירות מין\"\nLemmas to avoid simultaneously: עבירה, מין\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--288",
+        "text": "ד\"ר גינדי מעידה על מקרים נוספים של מטופלים שמגיעים לבדיקה אחרי נפילה או חבלה לא רצינית לכאורה, ומובהלים לחדרי המיון בשל מצבים חמורים כמו דימומים במוח.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"ד\"ר גינדי מעידה על מקרים נוספים של מטופלים שמגיעים לבדיקה אחרי נפילה או חבלה לא רצינית לכאורה, ומובהלים לחדרי המיון בשל מצבים חמורים כמו דימומים במוח.\"\nIdiom to remove: \"ומובהלים לחדרי המיון\"\nLemmas to avoid simultaneously: ומובהלים, לחדר, המיון\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--292",
+        "text": "חברי כנסת בוועדה תהו מדוע משרד האוצר מבקש להגדיל את התוכנית אם כמחצית מהכסף שיועד לה עדיין לא יצא.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"חברי כנסת בוועדה תהו מדוע משרד האוצר מבקש להגדיל את התוכנית אם כמחצית מהכסף שיועד לה עדיין לא יצא.\"\nIdiom to remove: \"חברי כנסת\"\nLemmas to avoid simultaneously: חבר, כנסת\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--294",
+        "text": "מצרים הכחישה לאורך כל השנים האחרונות ששירותי הביטחון שלה היו מעורבים במותו של רג'ני.",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"מצרים הכחישה לאורך כל השנים האחרונות ששירותי הביטחון שלה היו מעורבים במותו של רג'ני.\"\nIdiom to remove: \"לאורך השנים\"\nLemmas to avoid simultaneously: לאורך, השנה\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    },
+    {
+        "sent_id": ". . autogen--306",
+        "text": "כ-200 מפגינים בתל אביב נגד הטיפול במשבר הכלכלי: \"לא נמשיך להצביע למי שמכה אותנו\"",
+        "prompt": {
+            "system": "You are an expert native speaker of Hebrew. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"כ-200 מפגינים בתל אביב נגד הטיפול במשבר הכלכלי: \"לא נמשיך להצביע למי שמכה אותנו\"\"\nIdiom to remove: \"הטיפול במשבר הכלכלי:\"\nLemmas to avoid simultaneously: הטיפול, במשבר, הכלכלי:\n\nPlease rewrite the sentence naturally in Hebrew."
+        }
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s7",
+        "text": "Međutim , opasnost se nazire kad se linija očaravanja pređe i transformiše u kompulzivno ponašanje .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Međutim , opasnost se nazire kad se linija očaravanja pređe i transformiše u kompulzivno ponašanje .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s8",
+        "text": "Za neke ljude koji su inače uznemireni i labilniji , fantazija se meša sa stvarnošću .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Za neke ljude koji su inače uznemireni i labilniji , fantazija se meša sa stvarnošću .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s11",
+        "text": "To je fantazija ( deluzija ) koja se manifestuje iznenada i bez neke prethodne istorije mentalne bolesti .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"To je fantazija ( deluzija ) koja se manifestuje iznenada i bez neke prethodne istorije mentalne bolesti .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s12",
+        "text": "Takve osobe uglavnom se ponašaju normalno .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Takve osobe uglavnom se ponašaju normalno .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s16",
+        "text": "Ironično je da erotomanija ima veoma malo veze sa seksom i erotomanijak želi jednu idealizovanu , platonsku romansu !?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ironično je da erotomanija ima veoma malo veze sa seksom i erotomanijak želi jednu idealizovanu , platonsku romansu !?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s17",
+        "text": "Ovakva opsesija usmerena na željenu osobu pojačava se naročito kad ta osoba iznese svoje protivljenje ili ne iskaže reciprocitet u pokazanim osećanjima .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ovakva opsesija usmerena na željenu osobu pojačava se naročito kad ta osoba iznese svoje protivljenje ili ne iskaže reciprocitet u pokazanim osećanjima .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s22",
+        "text": "Fantazija je usredsređena na osobu višeg socijalnog statusa ili važnosti , privlačniju od sebe , nekad čak i stranca , neku poznatu ličnost ili nekog u radnoj okolini ko je visoko rangiran .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Fantazija je usredsređena na osobu višeg socijalnog statusa ili važnosti , privlačniju od sebe , nekad čak i stranca , neku poznatu ličnost ili nekog u radnoj okolini ko je visoko rangiran .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s24",
+        "text": "Poruke koje se šalju vrlo su privatne i veoma intimne , gotovo seksi .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Poruke koje se šalju vrlo su privatne i veoma intimne , gotovo seksi .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s27",
+        "text": "Ali , zato se trude da ulove čak i minimalan prelaz očima preko grupe u kojoj se erotomanijak nalazi , što se tumači kao važan znak očima .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ali , zato se trude da ulove čak i minimalan prelaz očima preko grupe u kojoj se erotomanijak nalazi , što se tumači kao važan znak očima .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s34",
+        "text": "Da kao Mida taknete prekidač za ringlu , u trenutku bi se pozlatio .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Da kao Mida taknete prekidač za ringlu , u trenutku bi se pozlatio .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s36",
+        "text": "Od zlata ni traga , a ni od struje , ima je koliko i u iscureloj bateriji koju još od useljenja čuvate u fioci kao da je , bože me oprosti , relikvija .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Od zlata ni traga , a ni od struje , ima je koliko i u iscureloj bateriji koju još od useljenja čuvate u fioci kao da je , bože me oprosti , relikvija .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s37",
+        "text": "Svaka nepočupana dlaka na telu vam se ježi od pomisli da na zakazan razgovor za posao morate otići bez prve , prave jutarnje kafe !",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Svaka nepočupana dlaka na telu vam se ježi od pomisli da na zakazan razgovor za posao morate otići bez prve , prave jutarnje kafe !\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s39",
+        "text": "Naravno , pozvaćete najbolju prijateljicu da joj se siti izjadate .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Naravno , pozvaćete najbolju prijateljicu da joj se siti izjadate .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s40",
+        "text": "Budući da prijateljica ne radi na važnom položaju u Elektrodistribuciji , nema ni ručni generator za struju niti poseduje šamanske veštine za astralnu projekciju džezve sa spasonosnim vrućim napitkom , postavlja se pitanje zašto je zovete .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Budući da prijateljica ne radi na važnom položaju u Elektrodistribuciji , nema ni ručni generator za struju niti poseduje šamanske veštine za astralnu projekciju džezve sa spasonosnim vrućim napitkom , postavlja se pitanje zašto je zovete .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s42",
+        "text": "Pa ona je do sada ispratila svaki sekund vašeg života , čak i onaj koji ste vi propustili , pa bi komotno mogla da napiše vašu biografiju .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Pa ona je do sada ispratila svaki sekund vašeg života , čak i onaj koji ste vi propustili , pa bi komotno mogla da napiše vašu biografiju .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s44",
+        "text": "Levom rukom .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Levom rukom .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s46",
+        "text": "Tajna uslovnog refleksa koji smo višedecenijskim naporom uspostavile između izbijanja krize i upućivanja telefonskog poziva najboljoj prijateljici ( premda nije tajna da je zovemo i na prvi nagoveštaj problema , a pogotovo po okončanju krize ) krije se u činjenici da je prijateljica okosnica našeg svakodnevnog života .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Tajna uslovnog refleksa koji smo višedecenijskim naporom uspostavile između izbijanja krize i upućivanja telefonskog poziva najboljoj prijateljici ( premda nije tajna da je zovemo i na prvi nagoveštaj problema , a pogotovo po okončanju krize ) krije se u činjenici da je prijateljica okosnica našeg svakodnevnog života .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s51",
+        "text": "Ali , do neprikosnovenog mesta u našim životima ona nije došla pukim slučajem .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ali , do neprikosnovenog mesta u našim životima ona nije došla pukim slučajem .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s54",
+        "text": "Kad dođu neki čudni dani i uhvati vas onaj neobjašnjiv osećaj kome je nepoznati , ali maštoviti narodni jezikotvorac dao tako prigodan naziv neizdrž , a ukućani se razbeže pred vašim smrknutim licem kao da je simptom neke ozbiljne zarazne bolesti , znate ko vas neće izneveriti .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Kad dođu neki čudni dani i uhvati vas onaj neobjašnjiv osećaj kome je nepoznati , ali maštoviti narodni jezikotvorac dao tako prigodan naziv neizdrž , a ukućani se razbeže pred vašim smrknutim licem kao da je simptom neke ozbiljne zarazne bolesti , znate ko vas neće izneveriti .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s57",
+        "text": "I maratonski telefonski razgovor , potpuno nepravedno izostavljen iz olimpijskih disciplina ( da vidim Felpsa kako pliva po zvučnim talasima tri sata bez predaha ) , može da počne .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"I maratonski telefonski razgovor , potpuno nepravedno izostavljen iz olimpijskih disciplina ( da vidim Felpsa kako pliva po zvučnim talasima tri sata bez predaha ) , može da počne .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s58",
+        "text": "Može najbolja prijateljica da bude u poslu do guše , i uglavnom jeste , ali čim čuje vaš glas , nepogrešivo zaključuje koliko je ozbiljna situacija .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Može najbolja prijateljica da bude u poslu do guše , i uglavnom jeste , ali čim čuje vaš glas , nepogrešivo zaključuje koliko je ozbiljna situacija .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s59",
+        "text": "I ostavlja sve , hvata virtuelno crevo za vodu i daje sve od sebe da ugasi požar .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"I ostavlja sve , hvata virtuelno crevo za vodu i daje sve od sebe da ugasi požar .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s61",
+        "text": "Napravili ste grešku .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Napravili ste grešku .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s62",
+        "text": "Očešali ste auto , izgubili ste kontrolu u raspravi sa partnerom , pukao vam je film pred kolegom ...",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Očešali ste auto , izgubili ste kontrolu u raspravi sa partnerom , pukao vam je film pred kolegom ...\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s66",
+        "text": "Doduše , nije vam prvi put da pogrešite , ali vaša prijateljica znalački to ostavlja po strani uz izjavu da ste prvi put pogrešili baš na taj način .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Doduše , nije vam prvi put da pogrešite , ali vaša prijateljica znalački to ostavlja po strani uz izjavu da ste prvi put pogrešili baš na taj način .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s71",
+        "text": "Danas , jedna od osam žena u Americi u toku svog života oboli od raka dojke , a pre samo tridesetak godina , rak dojke bio je dijagnostikovan kod jedne od dvadeset žena .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Danas , jedna od osam žena u Americi u toku svog života oboli od raka dojke , a pre samo tridesetak godina , rak dojke bio je dijagnostikovan kod jedne od dvadeset žena .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s72",
+        "text": "Pogoršanje je , tvrdi američki stručnjak , pre svega , rezultat promena u ishrani i činjenice da danas unosimo mnogo manje joda nego ranije .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Pogoršanje je , tvrdi američki stručnjak , pre svega , rezultat promena u ishrani i činjenice da danas unosimo mnogo manje joda nego ranije .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s74",
+        "text": "Tako ističe da žene u Japanu , koje unose mnogo više joda kroz namirnice bogate tim mineralom ( pre svega morske plodove , ribu ) , u značajno manjem procentu oboljevaju i od raka dojke i od problema sa tiroidnom žlezdom .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Tako ističe da žene u Japanu , koje unose mnogo više joda kroz namirnice bogate tim mineralom ( pre svega morske plodove , ribu ) , u značajno manjem procentu oboljevaju i od raka dojke i od problema sa tiroidnom žlezdom .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s79",
+        "text": "Ipak , promeniti način ishrane nije lako , posebno , ako se zna da nam ni alge , ni morski plodovi nisu baš bliski , ali treba reći , da se u našoj zemlji može naći mineralna voda bogata prirodno rastvorenim jodom .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ipak , promeniti način ishrane nije lako , posebno , ako se zna da nam ni alge , ni morski plodovi nisu baš bliski , ali treba reći , da se u našoj zemlji može naći mineralna voda bogata prirodno rastvorenim jodom .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s81",
+        "text": "Tokom karijere , italijanski kreator Đani Versače vodio je pravi kulturološki krstaški rat sa tadašnjim modnim čistuncima .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Tokom karijere , italijanski kreator Đani Versače vodio je pravi kulturološki krstaški rat sa tadašnjim modnim čistuncima .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s82",
+        "text": "Oni su otvoreno tvrdili da su mu kolekcije vulgarne , dok je istovremeno svetska elita zavolela to beskompromisno privlačenje pažnje .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Oni su otvoreno tvrdili da su mu kolekcije vulgarne , dok je istovremeno svetska elita zavolela to beskompromisno privlačenje pažnje .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s84",
+        "text": "U svom radu , proslavljeni modni guru Đani Versače držao se izreke Oskara Vajlda \" Ništa tako dobro ne uspeva kao preterivanje \" i svoj brend gradio na tragu oslobađanja žene .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"U svom radu , proslavljeni modni guru Đani Versače držao se izreke Oskara Vajlda \" Ništa tako dobro ne uspeva kao preterivanje \" i svoj brend gradio na tragu oslobađanja žene .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s86",
+        "text": "Osim što je otkrivala mnogo više nego što je skrivala i opstajala zahvaljujući zlatnim zihernadlama , haljina je bez sumnje od glumice načinila zvezdu .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Osim što je otkrivala mnogo više nego što je skrivala i opstajala zahvaljujući zlatnim zihernadlama , haljina je bez sumnje od glumice načinila zvezdu .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s91",
+        "text": "Za razliku od Armanija , čija se kreacije uklapaju u život , Versače je svojim klijentima prodavao potpuno nov život .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Za razliku od Armanija , čija se kreacije uklapaju u život , Versače je svojim klijentima prodavao potpuno nov život .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s104",
+        "text": "Iako su fibrociste uglavnom benigne , postoje i studije , koje ukazuju da i one predstavljaju faktor rizika za rak dojke .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Iako su fibrociste uglavnom benigne , postoje i studije , koje ukazuju da i one predstavljaju faktor rizika za rak dojke .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s114",
+        "text": "Ako ste na dijeti ne zaboravite na jod .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ako ste na dijeti ne zaboravite na jod .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s116",
+        "text": "Kada namerno smanjite unos hrane i količina unetog joda se smanjuje .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Kada namerno smanjite unos hrane i količina unetog joda se smanjuje .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s117",
+        "text": "Zato je važno da kada ste na dijeti , hrana koju unosite bude raznovrsna , jer tako čuvate svoje zdravlje .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Zato je važno da kada ste na dijeti , hrana koju unosite bude raznovrsna , jer tako čuvate svoje zdravlje .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s119",
+        "text": "A ako su to one koje su bogate jodom poput morskih plodova , ribe ili mleka i mlečnih proizvoda , onda velikom riziku izlažete ne samo tiroidnu , već i mlečne žlezde , ali i ceo organizam .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"A ako su to one koje su bogate jodom poput morskih plodova , ribe ili mleka i mlečnih proizvoda , onda velikom riziku izlažete ne samo tiroidnu , već i mlečne žlezde , ali i ceo organizam .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s127",
+        "text": "Britanska dizajnerka , kreatorka pank stila , aktivistkinja i istinska živa modna legenda , Vivijen Vestvud , jedna je od najvećih ikona našeg doba koja je definisala londonsku modnu scenu i tokom pet decenija karijere uticala na brojne svetske dizajnere .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Britanska dizajnerka , kreatorka pank stila , aktivistkinja i istinska živa modna legenda , Vivijen Vestvud , jedna je od najvećih ikona našeg doba koja je definisala londonsku modnu scenu i tokom pet decenija karijere uticala na brojne svetske dizajnere .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s131",
+        "text": "Ako bismo je pitali šta bi volela da promeni u svetu , kao iz topa bi odgovorila :",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ako bismo je pitali šta bi volela da promeni u svetu , kao iz topa bi odgovorila :\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s135",
+        "text": "Čini se da je pomalo nesvesna kako njene dobre namere ostaju u senci sopstvenog modnog biznisa i odlično pozicioniranog brenda .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Čini se da je pomalo nesvesna kako njene dobre namere ostaju u senci sopstvenog modnog biznisa i odlično pozicioniranog brenda .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s136",
+        "text": "Duboko prožeta anarhističkim duhom , koji je najbolji izraz našao u njenim kreacijama , često upire prstom u druge i ne osvrće se na sebe .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Duboko prožeta anarhističkim duhom , koji je najbolji izraz našao u njenim kreacijama , često upire prstom u druge i ne osvrće se na sebe .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s137",
+        "text": "Ali , Vivijen ne bi bila to što jeste da zbog toga ne oseća krivicu i traži opravdanje :",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ali , Vivijen ne bi bila to što jeste da zbog toga ne oseća krivicu i traži opravdanje :\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s139",
+        "text": "Imam manje proizvoda , ali oni su sami po sebi veličanstveni .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Imam manje proizvoda , ali oni su sami po sebi veličanstveni .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s143",
+        "text": "Nekoliko decenija dizajnirala je modu za individualce koji se ne uklapaju u gomilu : razmetljive , lepe , one koji plivaju uz reku .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Nekoliko decenija dizajnirala je modu za individualce koji se ne uklapaju u gomilu : razmetljive , lepe , one koji plivaju uz reku .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s144",
+        "text": "Ljudi je vole zbog toga što je sama po sebi inspiracija drugima .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Ljudi je vole zbog toga što je sama po sebi inspiracija drugima .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s145",
+        "text": "Suština njenog dizajna veoma je jednostavna : \" Život će biti zanimljiviji ako se poigravate odećom ! \"",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Suština njenog dizajna veoma je jednostavna : \" Život će biti zanimljiviji ako se poigravate odećom ! \"\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s149",
+        "text": "Kad je imala 17 godina porodica se preselila u londonsko predgrađe Harou , gde je buduća modna ikona pronašla posao u lokalnoj fabrici i počela da pohađa učiteljsku školu .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Kad je imala 17 godina porodica se preselila u londonsko predgrađe Harou , gde je buduća modna ikona pronašla posao u lokalnoj fabrici i počela da pohađa učiteljsku školu .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s150",
+        "text": "Kako se kasnije prisećala , njene godine detinjstva bile su daleko od komfornog života .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Serbian language.",
+            "user": "Sentence: \"Kako se kasnije prisećala , njene godine detinjstva bile su daleko od komfornog života .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

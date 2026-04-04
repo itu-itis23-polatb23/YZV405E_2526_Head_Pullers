@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_5.conllu 16260_5",
+        "text": "Montfort a fait valoir que le premier type, le kraken-pieuvre, a été décrit par les marins norvégiens et baleiniers américains ainsi que les anciens écrivains comme Pline l'Ancien.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Montfort a fait valoir que le premier type, le kraken-pieuvre, a été décrit par les marins norvégiens et baleiniers américains ainsi que les anciens écrivains comme Pline l'Ancien.\"\nIdiom to remove: \"fait valoir\"\nLemmas to avoid simultaneously: faire, valoir\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_5.conllu 16260_7",
+        "text": "La description correspond tout à fait à celle du kraken.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"La description correspond tout à fait à celle du kraken.\"\nIdiom to remove: \"tout à fait\"\nLemmas to avoid simultaneously: tout, à, fait\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_34.conllu 96743_32",
+        "text": "Croyant à « une société secrète [dotée] de gigantesques pouvoirs occultes », Villemarest considère la nouvelle politique économique (NEP) en URSS, le fascisme en Italie, le nazisme en Allemagne, le New Deal aux États-Unis et la Révolution nationale en France comme des phénomènes à l'identité foncièrement semblable, voulus et provoqués simultanément par la Synarchie, organisation mythique qu'il croit liée à des hautes loges de type maçonnique d’obédience martiniste.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Croyant à « une société secrète [dotée] de gigantesques pouvoirs occultes », Villemarest considère la nouvelle politique économique (NEP) en URSS, le fascisme en Italie, le nazisme en Allemagne, le New Deal aux États-Unis et la Révolution nationale en France comme des phénomènes à l'identité foncièrement semblable, voulus et provoqués simultanément par la Synarchie, organisation mythique qu'il croit liée à des hautes loges de type maçonnique d’obédience martiniste.\"\nIdiom to remove: \"société secrète\"\nLemmas to avoid simultaneously: société, secret\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_34.conllu 96743_35",
+        "text": "Il se dit persuadé de l’existence de cette organisation et déclara que, pour avoir publié le livre Le 14ᵉ complot du 13 mai, en 1960, qui révélait que cette organisation avait des membres jusque dans l’entourage du général de Gaulle, il avait été interrogé plus de cent heures d’affilée au motif de « complot », sur ordre du ministre de l’Intérieur Roger Frey qui apparemment cherchait à connaître ses sources et les documents en sa possession.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il se dit persuadé de l’existence de cette organisation et déclara que, pour avoir publié le livre Le 14ᵉ complot du 13 mai, en 1960, qui révélait que cette organisation avait des membres jusque dans l’entourage du général de Gaulle, il avait été interrogé plus de cent heures d’affilée au motif de « complot », sur ordre du ministre de l’Intérieur Roger Frey qui apparemment cherchait à connaître ses sources et les documents en sa possession.\"\nIdiom to remove: \"plus de\"\nLemmas to avoid simultaneously: plus, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_17.conllu 2404_1890",
+        "text": "Il s'agit d'un point important de la libre circulation des travailleurs qui est un droit fondamental du traité de Rome.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il s'agit d'un point important de la libre circulation des travailleurs qui est un droit fondamental du traité de Rome.\"\nIdiom to remove: \"Il s' agit\"\nLemmas to avoid simultaneously: lui, soi, agir\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_17.conllu 2404_1891",
+        "text": "Si les diplômes ne sont pas reconnus entre États membres, il est extrêmement difficile pour les travailleurs de faire preuve de mobilité.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Si les diplômes ne sont pas reconnus entre États membres, il est extrêmement difficile pour les travailleurs de faire preuve de mobilité.\"\nIdiom to remove: \"États membres\"\nLemmas to avoid simultaneously: état, membre\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_17.conllu 2404_1893",
+        "text": "Cette directive est donc la bienvenue car elle s'attaque à un problème important.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Cette directive est donc la bienvenue car elle s'attaque à un problème important.\"\nIdiom to remove: \"est bienvenue\"\nLemmas to avoid simultaneously: être, bienvenue\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_9.conllu 26732_8",
+        "text": "En 1960, le couple s'installe à Londres où Oliver Tambo dirige l'ANC en exil.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"En 1960, le couple s'installe à Londres où Oliver Tambo dirige l'ANC en exil.\"\nIdiom to remove: \"en exil\"\nLemmas to avoid simultaneously: en, exil\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_32.conllu 89247_81",
+        "text": "Une vingtaine de consoles équipent ce central.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Une vingtaine de consoles équipent ce central.\"\nIdiom to remove: \"vingtaine de\"\nLemmas to avoid simultaneously: vingtaine, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_32.conllu 89247_83",
+        "text": "Ce système peut également inter-opérer avec les éléments fournis par les capteurs d'autres forces navales, aériennes (avions de combat, Awacs) via des systèmes de transmission de données.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ce système peut également inter-opérer avec les éléments fournis par les capteurs d'autres forces navales, aériennes (avions de combat, Awacs) via des systèmes de transmission de données.\"\nIdiom to remove: \"forces navales\"\nLemmas to avoid simultaneously: force, naval\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_25.conllu 69617_17",
+        "text": "Le Balagan-Tas se trouve sur un pli anticlinal, associé à une faille.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Le Balagan-Tas se trouve sur un pli anticlinal, associé à une faille.\"\nIdiom to remove: \"se trouve\"\nLemmas to avoid simultaneously: soi, trouver\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_25.conllu 69617_18",
+        "text": "Il est apparenté au rift Moma et à la dorsale de Gakkel qui s'étend dans la mer des Laptev.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il est apparenté au rift Moma et à la dorsale de Gakkel qui s'étend dans la mer des Laptev.\"\nIdiom to remove: \"s' étend\"\nLemmas to avoid simultaneously: soi, étendre\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_27.conllu 75087_108",
+        "text": "L'allumage électromécanique d'un moteur à allumage commandé fonctionne sur le principe d'un rupteur réalisant des coupures intermittentes de courant dans l'alimentation du primaire d'une bobine alimentant par son secondaire en haute tension à tour de rôle les bougies d'allumage via le distributeur Delco.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"L'allumage électromécanique d'un moteur à allumage commandé fonctionne sur le principe d'un rupteur réalisant des coupures intermittentes de courant dans l'alimentation du primaire d'une bobine alimentant par son secondaire en haute tension à tour de rôle les bougies d'allumage via le distributeur Delco.\"\nIdiom to remove: \"moteur à allumage commandé\"\nLemmas to avoid simultaneously: moteur, à, allumage, commander\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_27.conllu 75087_110",
+        "text": "Le rupteur et le distributeur sont entraînés par un rotor, lui-même lié à l'arbre à cames.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Le rupteur et le distributeur sont entraînés par un rotor, lui-même lié à l'arbre à cames.\"\nIdiom to remove: \"lui-même\"\nLemmas to avoid simultaneously: lui-même\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_13.conllu 36632_8",
+        "text": "Il parvient lors de ce voyage à déjouer la vigilance du fort de Roumeli",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il parvient lors de ce voyage à déjouer la vigilance du fort de Roumeli\"\nIdiom to remove: \"lors de\"\nLemmas to avoid simultaneously: lors, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_13.conllu 36632_10",
+        "text": "Avec le reste de la marine assiégée, son navire reste dans la Corne d'Or, à l'abri du reste de la marine turque grâce à une chaîne qui barre le passage entre Péra et Constantinople.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Avec le reste de la marine assiégée, son navire reste dans la Corne d'Or, à l'abri du reste de la marine turque grâce à une chaîne qui barre le passage entre Péra et Constantinople.\"\nIdiom to remove: \"à l' abri de\"\nLemmas to avoid simultaneously: à, le, abri, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_26.conllu 74468_92",
+        "text": "Ces attaques sont dues notamment à la chanson \"Love Child\" qui traite des problèmes d'identification d'un homosexuel dans la société, mais aussi à cause de l'imagerie provocatrice et ambiguë de la couverture et des photos de session.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ces attaques sont dues notamment à la chanson \"Love Child\" qui traite des problèmes d'identification d'un homosexuel dans la société, mais aussi à cause de l'imagerie provocatrice et ambiguë de la couverture et des photos de session.\"\nIdiom to remove: \"à cause de\"\nLemmas to avoid simultaneously: à, cause, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_26.conllu 74468_93",
+        "text": "Ce qui a valu au groupe d'être vu comme un groupe de metal gay à l'époque.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ce qui a valu au groupe d'être vu comme un groupe de metal gay à l'époque.\"\nIdiom to remove: \"groupe de metal\"\nLemmas to avoid simultaneously: groupe, de, metal\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_3.conllu 9411_262",
+        "text": "Toutefois, cette entente eu en 1991 entre la communauté et les différents paliers de gouvernements qui devait respecter leurs coutumes, préserver leurs territoires mais aussi leur permettre de percevoir des compensations des activités de l'industrie forestière et celle de l'hydroélectricité a été suspendue en 2001 par le gouvernement fédéral.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Toutefois, cette entente eu en 1991 entre la communauté et les différents paliers de gouvernements qui devait respecter leurs coutumes, préserver leurs territoires mais aussi leur permettre de percevoir des compensations des activités de l'industrie forestière et celle de l'hydroélectricité a été suspendue en 2001 par le gouvernement fédéral.\"\nIdiom to remove: \"industrie forestière\"\nLemmas to avoid simultaneously: industrie, forestier\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_3.conllu 9411_263",
+        "text": "De plus, dans une volonté constante d'assimilation de la nation algonquine, mais aussi des peuples autochtones en général, le gouvernement fédéral en plus de ne pas reconnaitre l'Accord mentionné plus haut veut imposer à la communauté un système de gouvernance.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"De plus, dans une volonté constante d'assimilation de la nation algonquine, mais aussi des peuples autochtones en général, le gouvernement fédéral en plus de ne pas reconnaitre l'Accord mentionné plus haut veut imposer à la communauté un système de gouvernance.\"\nIdiom to remove: \"De plus\"\nLemmas to avoid simultaneously: de, plus\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_3.conllu 9411_264",
+        "text": "En vertu de la Loi sur les Indiens, une communauté autochtone a droit à son propre système de gouvernance.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"En vertu de la Loi sur les Indiens, une communauté autochtone a droit à son propre système de gouvernance.\"\nIdiom to remove: \"En vertu de\"\nLemmas to avoid simultaneously: en, vertu, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_0.conllu 2170_12",
+        "text": "Šemberas reçoit 82 sélections en équipe de Lituanie entre 1996 et 2013, sans inscrire le moindre but.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Šemberas reçoit 82 sélections en équipe de Lituanie entre 1996 et 2013, sans inscrire le moindre but.\"\nIdiom to remove: \"inscrire but\"\nLemmas to avoid simultaneously: inscrire, but\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_0.conllu 2170_14",
+        "text": "Il reçoit sa dernière sélection le 22 mars 2013, contre la Slovaquie, dans le cadre des éliminatoires du mondial 2014.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il reçoit sa dernière sélection le 22 mars 2013, contre la Slovaquie, dans le cadre des éliminatoires du mondial 2014.\"\nIdiom to remove: \"reçoit sélection\"\nLemmas to avoid simultaneously: recevoir, sélection\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_33.conllu 92287_6",
+        "text": "Lors de son adolescence, Bye rejoint la",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Lors de son adolescence, Bye rejoint la\"\nIdiom to remove: \"Lors de\"\nLemmas to avoid simultaneously: lors, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_33.conllu 92287_7",
+        "text": "Résistance norvégienne lors de l'occupation de la Norvège par le Troisième Reich dans le cadre de la Seconde Guerre mondiale.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Résistance norvégienne lors de l'occupation de la Norvège par le Troisième Reich dans le cadre de la Seconde Guerre mondiale.\"\nIdiom to remove: \"lors de\"\nLemmas to avoid simultaneously: lors, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_2.conllu 394_4329",
+        "text": "Qui veut un marché intérieur qui fonctionne a besoin d' un système de transports qui fonctionne, pour lequel s' appliquent des conditions de concurrence identiques, ou pour le moins comparables, pour tous les usagers des transports.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Qui veut un marché intérieur qui fonctionne a besoin d' un système de transports qui fonctionne, pour lequel s' appliquent des conditions de concurrence identiques, ou pour le moins comparables, pour tous les usagers des transports.\"\nIdiom to remove: \"marché intérieur\"\nLemmas to avoid simultaneously: marché, intérieur\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_2.conllu 394_4331",
+        "text": "Il est assurément important pour l' obtention, l' exploitation et la nouvelle construction d' infrastructures, de s' entendre quant au calcul des coûts, qu' il s' agisse de coûts totaux ou de coûts marginaux, de coûts marginaux sociaux ou de coûts nets sociaux.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il est assurément important pour l' obtention, l' exploitation et la nouvelle construction d' infrastructures, de s' entendre quant au calcul des coûts, qu' il s' agisse de coûts totaux ou de coûts marginaux, de coûts marginaux sociaux ou de coûts nets sociaux.\"\nIdiom to remove: \"s entendre\"\nLemmas to avoid simultaneously: oi, entendre\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_2.conllu 394_4332",
+        "text": "Il est pratiquement aussi important, pour bénéficier de mêmes chances au sein de la concurrence, que l' on se mette d' accord, et ce le plus rapidement possible.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il est pratiquement aussi important, pour bénéficier de mêmes chances au sein de la concurrence, que l' on se mette d' accord, et ce le plus rapidement possible.\"\nIdiom to remove: \"à le sein de\"\nLemmas to avoid simultaneously: à, le, sein, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_6.conllu 17490_97",
+        "text": "Depuis les élections de novembre 2016, qui voient pourtant la réélection du gouverneur démocrate de l'État Steve Bullock et de son lieutenant-gouverneur, les quatre autres postes élus de l'exécutif local sont détenus par les républicains (procureur général, auditeur, secrétaire d'État et super-intendant de l'instruction publique), contre un seul lors du précédent mandat.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Depuis les élections de novembre 2016, qui voient pourtant la réélection du gouverneur démocrate de l'État Steve Bullock et de son lieutenant-gouverneur, les quatre autres postes élus de l'exécutif local sont détenus par les républicains (procureur général, auditeur, secrétaire d'État et super-intendant de l'instruction publique), contre un seul lors du précédent mandat.\"\nIdiom to remove: \"lieutenant-gouverneur\"\nLemmas to avoid simultaneously: lieutenant-gouverneur\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_6.conllu 17490_98",
+        "text": "Au sein de la législature du Montana, siégeant au Capitole de l'État du Montana, les républicains conservent en 2016 leur majorité à la Chambre des représentants du Montana (59 républicains contre 41 démocrates) et l'accroissent au Sénat du Montana (32 contre 18).",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Au sein de la législature du Montana, siégeant au Capitole de l'État du Montana, les républicains conservent en 2016 leur majorité à la Chambre des représentants du Montana (59 républicains contre 41 démocrates) et l'accroissent au Sénat du Montana (32 contre 18).\"\nIdiom to remove: \"À le sein de\"\nLemmas to avoid simultaneously: à, le, sein, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_6.conllu 17490_99",
+        "text": "Au niveau fédéral, le Montana est représenté au Sénat des États-Unis par le démocrate Jon Tester et le républicain Steve Daines, à la Chambre des représentants Ryan Zinke siège pour le Montana, jusqu'à sa nomination au sein du gouvernement Trump.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Au niveau fédéral, le Montana est représenté au Sénat des États-Unis par le démocrate Jon Tester et le républicain Steve Daines, à la Chambre des représentants Ryan Zinke siège pour le Montana, jusqu'à sa nomination au sein du gouvernement Trump.\"\nIdiom to remove: \"À niveau\"\nLemmas to avoid simultaneously: à, niveau\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_6.conllu 17490_100",
+        "text": "Il est remplacé lors d'une élection spéciale par Greg Gianforte.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il est remplacé lors d'une élection spéciale par Greg Gianforte.\"\nIdiom to remove: \"lors d'\"\nLemmas to avoid simultaneously: lors, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_9.conllu 26959_2",
+        "text": "Une enquête publique est une procédure règlementée d'information et de consultation de citoyens, décidée par une autorité légitime, avec des champs d'applications et des moyens appropriés très variables selon chaque pays.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Une enquête publique est une procédure règlementée d'information et de consultation de citoyens, décidée par une autorité légitime, avec des champs d'applications et des moyens appropriés très variables selon chaque pays.\"\nIdiom to remove: \"enquête publique\"\nLemmas to avoid simultaneously: enquête, public\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_13.conllu 36407_72",
+        "text": "Il se cramponnait convulsivement tantôt à l’aumônier tantôt à moi.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il se cramponnait convulsivement tantôt à l’aumônier tantôt à moi.\"\nIdiom to remove: \"se cramponnait\"\nLemmas to avoid simultaneously: soi, cramponner\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_0.conllu 2104_4",
+        "text": "Il fait ses études à Fredeburg à l'école du rectorat et entre en 1899 à la congrégation des pallottins au noviciat d'Ehrenbreitstein.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il fait ses études à Fredeburg à l'école du rectorat et entre en 1899 à la congrégation des pallottins au noviciat d'Ehrenbreitstein.\"\nIdiom to remove: \"fait études\"\nLemmas to avoid simultaneously: faire, étude\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_0.conllu 2104_6",
+        "text": "Il est fasciné par les missions d'outremer depuis l'enfance et est donc envoyé au Kamerun, (nom à l'époque coloniale allemande du Cameroun).",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il est fasciné par les missions d'outremer depuis l'enfance et est donc envoyé au Kamerun, (nom à l'époque coloniale allemande du Cameroun).\"\nIdiom to remove: \"à époque\"\nLemmas to avoid simultaneously: à, époque\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_0.conllu 2104_7",
+        "text": "Il assiste le vicaire apostolique, Mᵍʳ Heinrich Vieter, et dessert les missions du Kamerun surtout à l'intérieur.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il assiste le vicaire apostolique, Mᵍʳ Heinrich Vieter, et dessert les missions du Kamerun surtout à l'intérieur.\"\nIdiom to remove: \"vicaire apostolique\"\nLemmas to avoid simultaneously: vicaire, apostolique\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_32.conllu 88816_5",
+        "text": "Histoire moderne et contemporaine",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Histoire moderne et contemporaine\"\nIdiom to remove: \"Histoire moderne\"\nLemmas to avoid simultaneously: histoire, moderne\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_32.conllu 88816_7",
+        "text": "Au moment de l'effondrement de la république espagnole, qui provoque la Retirada, d’importantes arrivées de réfugiés espagnols ont lieu.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Au moment de l'effondrement de la république espagnole, qui provoque la Retirada, d’importantes arrivées de réfugiés espagnols ont lieu.\"\nIdiom to remove: \"À moment\"\nLemmas to avoid simultaneously: à, moment\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_27.conllu 74996_21",
+        "text": "Krupp se tourne alors vers le FlaK 40 128 mm qui, modifié en arme anti-chars, devient le 128 mm PaK 44 L/55.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Krupp se tourne alors vers le FlaK 40 128 mm qui, modifié en arme anti-chars, devient le 128 mm PaK 44 L/55.\"\nIdiom to remove: \"se tourne\"\nLemmas to avoid simultaneously: soi, tourner\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_7.conllu 1050_3",
+        "text": "J'ai posé à la Commission une question orale qui était censée recevoir une réponse aujourd'hui, or j'ai été informé par la présidence que ma question était irrecevable, apparemment en vertu de l'annexe II (A) du règlement qui prévoit qu'une question est inadmissible, si elle a fait l'objet d'une réponse au cours des trois mois qui précèdent.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"J'ai posé à la Commission une question orale qui était censée recevoir une réponse aujourd'hui, or j'ai été informé par la présidence que ma question était irrecevable, apparemment en vertu de l'annexe II (A) du règlement qui prévoit qu'une question est inadmissible, si elle a fait l'objet d'une réponse au cours des trois mois qui précèdent.\"\nIdiom to remove: \"posé question\"\nLemmas to avoid simultaneously: poser, question\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_7.conllu 1050_4",
+        "text": "Or, cette question n'a pas été traitée au cours des trois derniers mois.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Or, cette question n'a pas été traitée au cours des trois derniers mois.\"\nIdiom to remove: \"à le cours de\"\nLemmas to avoid simultaneously: à, le, cours, de\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_7.conllu 1050_5",
+        "text": "Il semble que cette disposition soit appliquée en raison d'une réponse donnée par la Commission à une question orale suivie d'un débat.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il semble que cette disposition soit appliquée en raison d'une réponse donnée par la Commission à une question orale suivie d'un débat.\"\nIdiom to remove: \"Il semble\"\nLemmas to avoid simultaneously: lui, sembler\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_7.conllu 1050_6",
+        "text": "Or, l'annexe II, que cite la présidence, s'applique aux questions des députés européens visées par l'article 109 du règlement, tandis que les questions orales avec débat tombent sous le coup de l'article 108 du règlement.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Or, l'annexe II, que cite la présidence, s'applique aux questions des députés européens visées par l'article 109 du règlement, tandis que les questions orales avec débat tombent sous le coup de l'article 108 du règlement.\"\nIdiom to remove: \"députés européens\"\nLemmas to avoid simultaneously: député, européen\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_30.conllu 84513_9",
+        "text": "Elle se caractérise par son esprit d’ouverture et de cohabitation pacifique avec les autres tribus.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Elle se caractérise par son esprit d’ouverture et de cohabitation pacifique avec les autres tribus.\"\nIdiom to remove: \"esprit d’ouverture\"\nLemmas to avoid simultaneously: esprit, d’ouverture\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_12.conllu 34329_36",
+        "text": "Trois éléments appuient l'hypothèse d'une migration de population comme source de la Néolithisation du Valais, par opposition au phénomène d'acculturation privilégié dans les Alpes occidentales.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Trois éléments appuient l'hypothèse d'une migration de population comme source de la Néolithisation du Valais, par opposition au phénomène d'acculturation privilégié dans les Alpes occidentales.\"\nIdiom to remove: \"par opposition à\"\nLemmas to avoid simultaneously: par, opposition, à\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_12.conllu 34329_37",
+        "text": "Tout d'abord la simultanéité en Valais de la disparition des techniques du Mésolithique et de l'apparition de toutes les techniques du Néolithique : il n'y a pas d'état intermédiaire.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Tout d'abord la simultanéité en Valais de la disparition des techniques du Mésolithique et de l'apparition de toutes les techniques du Néolithique : il n'y a pas d'état intermédiaire.\"\nIdiom to remove: \"Tout d' abord\"\nLemmas to avoid simultaneously: tout, de, abord\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_12.conllu 34329_40",
+        "text": "Du fait de la proximité de la céramique, on admet généralement que ce sont des pasteurs du sud des Alpes qui, guidant les troupeaux à travers les cols alpins (Simplon, Théodule, Collon, etc.), ont amené les nouvelles techniques agricoles.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Du fait de la proximité de la céramique, on admet généralement que ce sont des pasteurs du sud des Alpes qui, guidant les troupeaux à travers les cols alpins (Simplon, Théodule, Collon, etc.), ont amené les nouvelles techniques agricoles.\"\nIdiom to remove: \"De fait\"\nLemmas to avoid simultaneously: de, fait\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/uncorpus_00004_10.conllu 95553_3",
+        "text": "Il fait ses études dans sa ville natale où, passionné de livres et d'érudition, il fonde une bibliothèque pour combler les lacunes dans la sienne.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Il fait ses études dans sa ville natale où, passionné de livres et d'érudition, il fonde une bibliothèque pour combler les lacunes dans la sienne.\"\nIdiom to remove: \"fait études\"\nLemmas to avoid simultaneously: faire, étude\n\nPlease rewrite the sentence naturally in French."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_27.conllu 76477_98",
+        "text": "La même année, il lance à Alger L'Appel pour une Trêve Civile, tandis qu'au dehors sont proférées à son encontre des menaces de mort.",
+        "prompt": {
+            "system": "You are an expert native speaker of French. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"La même année, il lance à Alger L'Appel pour une Trêve Civile, tandis qu'au dehors sont proférées à son encontre des menaces de mort.\"\nIdiom to remove: \"La même année\"\nLemmas to avoid simultaneously: le, même, année\n\nPlease rewrite the sentence naturally in French."
+        }
+    }
+]

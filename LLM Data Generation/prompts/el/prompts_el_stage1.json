@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3564",
+        "text": "Βλέπω έναν αριθμό κινητού μέσα σε κύκλο.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Βλέπω έναν αριθμό κινητού μέσα σε κύκλο.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3867",
+        "text": "« Το ερώτημα είναι αν τον έκλεψε για να τον πουλήσει ή αν τον πήρε , επειδή έψαχνε κάτι που βρίσκεται σ τον υπολογιστή ».",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Το ερώτημα είναι αν τον έκλεψε για να τον πουλήσει ή αν τον πήρε , επειδή έψαχνε κάτι που βρίσκεται σ τον υπολογιστή ».\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 4962",
+        "text": "Τα περί ανοιχτής πόρτας τα έχω ακούσει απ' όλους ανεξαιρέτως , λέω μέσα μου.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Τα περί ανοιχτής πόρτας τα έχω ακούσει απ' όλους ανεξαιρέτως , λέω μέσα μου.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2633",
+        "text": "Τον παίρνω τηλέφωνο και του κάνω μια λεπτομερή ενημέρωση για τους δύο φόνους , μαζί με τις σκέψεις μου.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Τον παίρνω τηλέφωνο και του κάνω μια λεπτομερή ενημέρωση για τους δύο φόνους , μαζί με τις σκέψεις μου.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 425",
+        "text": "τον ρωτάω καθ' οδόν προς Κατεχάκη.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"τον ρωτάω καθ' οδόν προς Κατεχάκη.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3516",
+        "text": "« Για να μας πει το τελευταίο » του απαντώ.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Για να μας πει το τελευταίο » του απαντώ.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 5853",
+        "text": "Σπάω το κεφάλι μου να καταλάβω πώς δε με πήρε ένα τηλέφωνο , για να μου πει ότι τον παρακολουθούν και να μου δώσει τα στοιχεία του φορτηγού και του Σουζούκι.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Σπάω το κεφάλι μου να καταλάβω πώς δε με πήρε ένα τηλέφωνο , για να μου πει ότι τον παρακολουθούν και να μου δώσει τα στοιχεία του φορτηγού και του Σουζούκι.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3429",
+        "text": "« Ναι , έκανα την υπέρβαση να εμφανιστώ μετά από πολύ καιρό σε συνέντευξη τύπου , μπας και λύσω τις απορίες μου , αλλά , όπως είδες , ούτε εγώ πήρα απάντηση ».",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Ναι , έκανα την υπέρβαση να εμφανιστώ μετά από πολύ καιρό σε συνέντευξη τύπου , μπας και λύσω τις απορίες μου , αλλά , όπως είδες , ούτε εγώ πήρα απάντηση ».\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3224",
+        "text": "Αυτό ήταν το κίνητρό μας για να επιστρέφουμε.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Αυτό ήταν το κίνητρό μας για να επιστρέφουμε.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3106",
+        "text": "Εκ των υστέρων μου κατεβαίνει ότι δεν είπα καλού-κακού σ τον Σωτηρόπουλο ότι η έρευνα είναι ακόμα απόρρητη , αλλά πρώτος αυτός μου επέβαλε τη γραμμή εχεμύθειας.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Εκ των υστέρων μου κατεβαίνει ότι δεν είπα καλού-κακού σ τον Σωτηρόπουλο ότι η έρευνα είναι ακόμα απόρρητη , αλλά πρώτος αυτός μου επέβαλε τη γραμμή εχεμύθειας.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1248",
+        "text": "« Σας κάλεσα για ν' ακούσω τα καλά νέα » μας λέει με πλατύ χαμόγελο.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Σας κάλεσα για ν' ακούσω τα καλά νέα » μας λέει με πλατύ χαμόγελο.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2982",
+        "text": "« Εγώ την πήρα σ τη λαχαναγορά , όταν άκουσα για το πλοίο που έπιασε φωτιά , για να μάθω για το φίλο μου » απαντάει αμέσως ο Σαμίρ.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Εγώ την πήρα σ τη λαχαναγορά , όταν άκουσα για το πλοίο που έπιασε φωτιά , για να μάθω για το φίλο μου » απαντάει αμέσως ο Σαμίρ.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1286",
+        "text": "Άσε που δεν πιστεύω ότι αυτή η ενημέρωση, λεπτό προς λεπτό, γίνεται για να μαθαίνει τα μυστικά του επαγγέλματος.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Άσε που δεν πιστεύω ότι αυτή η ενημέρωση, λεπτό προς λεπτό, γίνεται για να μαθαίνει τα μυστικά του επαγγέλματος.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 688",
+        "text": "« Όπως πάντα , δικαιώνεσαι εκ των υστέρων και μου σπας τα νεύρα » μου λέει καλμαρισμένος.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Όπως πάντα , δικαιώνεσαι εκ των υστέρων και μου σπας τα νεύρα » μου λέει καλμαρισμένος.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1357",
+        "text": "« Σας ευχαριστώ , μας δίνετε μεγάλη χαρά » μου λέει με πλατύ",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Σας ευχαριστώ , μας δίνετε μεγάλη χαρά » μου λέει με πλατύ\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3477",
+        "text": "« Ξέρεις , έχω την αίσθηση ότι είναι λιγότερο υπαρχηγός και περισσότερο επιβλέπων μηχανικός » μου διευκρινίζει.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Ξέρεις , έχω την αίσθηση ότι είναι λιγότερο υπαρχηγός και περισσότερο επιβλέπων μηχανικός » μου διευκρινίζει.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3274",
+        "text": "Αν δεν ήταν ο Σωτηρόπουλος , που έχει τις ίδιες αμφιβολίες μ' εμένα , θα μου είχε μπει η ιδέα ότι πάσχω από μανία καταδιώξεως.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Αν δεν ήταν ο Σωτηρόπουλος , που έχει τις ίδιες αμφιβολίες μ' εμένα , θα μου είχε μπει η ιδέα ότι πάσχω από μανία καταδιώξεως.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 982",
+        "text": "Ο Ούλι βάζει τα γέλια.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Ο Ούλι βάζει τα γέλια.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2297",
+        "text": "« Δεν ήθελε ο πατέρας μου , γιατί δεν είχε εμπιστοσύνη σ τις κυβερνήσεις της Ελλάδας ».",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Δεν ήθελε ο πατέρας μου , γιατί δεν είχε εμπιστοσύνη σ τις κυβερνήσεις της Ελλάδας ».\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 889",
+        "text": "Θα πρέπει να κάνουμε μια έρευνα σε καφενεία και σε ψαράδες , μήπως κάποιος πρόσεξε κάτι.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Θα πρέπει να κάνουμε μια έρευνα σε καφενεία και σε ψαράδες , μήπως κάποιος πρόσεξε κάτι.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3055",
+        "text": "Επειδή δε βρίσκω λύση , καταφεύγω σ το σωσίβιό μου σ' αυτήν την υπόθεση και παίρνω τηλέφωνο τον Στεργιάδη του Λιμενικού.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Επειδή δε βρίσκω λύση , καταφεύγω σ το σωσίβιό μου σ' αυτήν την υπόθεση και παίρνω τηλέφωνο τον Στεργιάδη του Λιμενικού.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2612",
+        "text": "Πρώτα απ' όλα , όσο ατζαμήδες κι αν είναι οι δυο Γεωργιανοί , δεν μπορεί να είναι και τόσο βλάκες , ώστε να χρησιμοποιήσουν σε μια απλή συμπλοκή τα όπλα του εγκλήματος , και μάλιστα να τα παρατήσουν και να το βάλουν σ τα πόδια , αφού πρώτα απειλήσουν τους αντιπάλους τους ότι θα πάθουν τα ίδια με τον εφοπλιστή.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Πρώτα απ' όλα , όσο ατζαμήδες κι αν είναι οι δυο Γεωργιανοί , δεν μπορεί να είναι και τόσο βλάκες , ώστε να χρησιμοποιήσουν σε μια απλή συμπλοκή τα όπλα του εγκλήματος , και μάλιστα να τα παρατήσουν και να το βάλουν σ τα πόδια , αφού πρώτα απειλήσουν τους αντιπάλους τους ότι θα πάθουν τα ίδια με τον εφοπλιστή.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1662",
+        "text": "Η κίνηση σ την Αθηνών-Πειραιώς είναι ακόμα πιο πυκνή και μας αναγκάζει να σταματάμε κάθε τόσο , για να ανοίξει ο δρόμος και να περάσουμε.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Η κίνηση σ την Αθηνών-Πειραιώς είναι ακόμα πιο πυκνή και μας αναγκάζει να σταματάμε κάθε τόσο , για να ανοίξει ο δρόμος και να περάσουμε.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 640",
+        "text": "Ο Λαλόπουλος δεν είχε άλλο ακίνητο , εκτός από το σπίτι του σ το Χαλάνδρι.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Ο Λαλόπουλος δεν είχε άλλο ακίνητο , εκτός από το σπίτι του σ το Χαλάνδρι.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1396",
+        "text": "« Δεν έβγαινα με τίποτα ».",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Δεν έβγαινα με τίποτα ».\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 4748",
+        "text": "« Εντάξει , δέχομαι ότι έκανες ληστεία » του λέω .",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Εντάξει , δέχομαι ότι έκανες ληστεία » του λέω .\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 5524",
+        "text": "« Να τα πούμε αύριο σ τις δέκα » του λέω και του δίνω τη διεύθυνση της καφετέριας σ τη Σπύρου Μερκούρη , που είχα καθίσει σήμερα το πρωί , για να μαζέψω τις σκέψεις μου.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Να τα πούμε αύριο σ τις δέκα » του λέω και του δίνω τη διεύθυνση της καφετέριας σ τη Σπύρου Μερκούρη , που είχα καθίσει σήμερα το πρωί , για να μαζέψω τις σκέψεις μου.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2454",
+        "text": "Και να στείλετε τα μαχαίρια σ την ιατροδικαστική , για να δει ο Ανανιάδης αν κάποιο ταιριάζει σ τις πληγές του Χαρδάκου.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Και να στείλετε τα μαχαίρια σ την ιατροδικαστική , για να δει ο Ανανιάδης αν κάποιο ταιριάζει σ τις πληγές του Χαρδάκου.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 4692",
+        "text": "Ρίχνουν πρώτα ένα βλέμμα σ' εμένα και μετά ανταλλάσσουν βλέμματα μεταξύ τους , μπας και εξηγήσουν την αναστάτωσή μου.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Ρίχνουν πρώτα ένα βλέμμα σ' εμένα και μετά ανταλλάσσουν βλέμματα μεταξύ τους , μπας και εξηγήσουν την αναστάτωσή μου.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2535",
+        "text": "« Φίλοι δεν είμαστε » του λέει σε αυστηρό ύφος , για να του κόψει τη φόρα.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"« Φίλοι δεν είμαστε » του λέει σε αυστηρό ύφος , για να του κόψει τη φόρα.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2432",
+        "text": "Σ το μεταξύ κάνω εκτενή ενημέρωση σ τους βοηθούς μου.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Σ το μεταξύ κάνω εκτενή ενημέρωση σ τους βοηθούς μου.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-ingr-20240430-headlines-UNSEEN.folia.xml 264",
+        "text": "Το Υπουργικό έτεκεν bonus για Δημόσιο, ο υφυπουργός εξόργισε με την «τίκτουσα γυνή», για το Μάτι ώδινεν όρος και έτεκεν μυν.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Το Υπουργικό έτεκεν bonus για Δημόσιο, ο υφυπουργός εξόργισε με την «τίκτουσα γυνή», για το Μάτι ώδινεν όρος και έτεκεν μυν.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-ingr-20240430-headlines-UNSEEN.folia.xml 306_split1",
+        "text": "Γάζα: Οι υπηρεσίες διάσωσης κάνουν λόγο για 23 νεκρούς σε ισραηλινά πλήγματα Σπάνια παραδοχή",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Γάζα: Οι υπηρεσίες διάσωσης κάνουν λόγο για 23 νεκρούς σε ισραηλινά πλήγματα Σπάνια παραδοχή\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-ingr-20240430-headlines-UNSEEN.folia.xml 308",
+        "text": "Οι υπηρεσίες διάσωσης κάνουν λόγο για 23 νεκρούς από ισραηλινά πλήγματα στη Γάζα Νέοι θάνατοι σημειώθηκαν στη Γάζα μετά από ισραηλινά πλήγματα, σύμφωνα με όσα αναφέρουν υπηρεσίες διάσωσης.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Οι υπηρεσίες διάσωσης κάνουν λόγο για 23 νεκρούς από ισραηλινά πλήγματα στη Γάζα Νέοι θάνατοι σημειώθηκαν στη Γάζα μετά από ισραηλινά πλήγματα, σύμφωνα με όσα αναφέρουν υπηρεσίες διάσωσης.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 7",
+        "text": "Και αν συνδυάσετε την έλλειψη τροφής με τον υπερπληθυσμό όπως και με το κρύο και την έλλειψη στέγης, έχετε τις τέλειες συνθήκες για να υπάρξει μαζική επιδημία στα παιδιά», δήλωσε ο αξιωματούχος.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Και αν συνδυάσετε την έλλειψη τροφής με τον υπερπληθυσμό όπως και με το κρύο και την έλλειψη στέγης, έχετε τις τέλειες συνθήκες για να υπάρξει μαζική επιδημία στα παιδιά», δήλωσε ο αξιωματούχος.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 21",
+        "text": "Η ένωση που διαχειρίζεται το Vollsmose λέει ότι οι αποφάσεις της βασίζονται όχι τόσο στο αν ένα κτίριο είναι σε ερειπωμένη κατάσταση, αλλά στη θέση του και στο αν θα έχει καλή απόδοση στην αγορά.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Η ένωση που διαχειρίζεται το Vollsmose λέει ότι οι αποφάσεις της βασίζονται όχι τόσο στο αν ένα κτίριο είναι σε ερειπωμένη κατάσταση, αλλά στη θέση του και στο αν θα έχει καλή απόδοση στην αγορά.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 28",
+        "text": "Παράλληλα, τον τελευταίο μήνα αυξάνονται τα κρούσματα της νέας υποπαραλλαγής, στο Ηνωμένο Βασίλειο και τη Γαλλία, καθώς και στην Κίνα και την Ινδία, αλλά και σε άλλες Ευρωπαϊκές χώρες.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Παράλληλα, τον τελευταίο μήνα αυξάνονται τα κρούσματα της νέας υποπαραλλαγής, στο Ηνωμένο Βασίλειο και τη Γαλλία, καθώς και στην Κίνα και την Ινδία, αλλά και σε άλλες Ευρωπαϊκές χώρες.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 37",
+        "text": "Στην ατζέντα του ταξιδιού του Μπλίνκεν στην περιοχή αναμένεται να κυριαρχήσει ο πόλεμος στη Μέση Ανατολή και ο διαφαινόμενος κίνδυνος διάχυσης του, ενώ τόσο στην Τουρκία όσο και στην Ελλάδα, η είδηση της άφιξης φέρνει εικασίες και για διάλογο όσον αφορά ένα ευρύτερο διπλωματικό παζάρι που συνδέεται με τις πολιτικές της Άγκυρας.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Στην ατζέντα του ταξιδιού του Μπλίνκεν στην περιοχή αναμένεται να κυριαρχήσει ο πόλεμος στη Μέση Ανατολή και ο διαφαινόμενος κίνδυνος διάχυσης του, ενώ τόσο στην Τουρκία όσο και στην Ελλάδα, η είδηση της άφιξης φέρνει εικασίες και για διάλογο όσον αφορά ένα ευρύτερο διπλωματικό παζάρι που συνδέεται με τις πολιτικές της Άγκυρας.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 51",
+        "text": "Επιβάτης της πτήσης, μιλώντας στο NHK News δήλωσε πως το πλήρωμα ήταν εξαιρετικά ψύχραιμο κατά τη διάρκεια της εκκένωσης και έδωσε την οδηγία να μην πάρει κανείς τη χειραποσκευή του.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Επιβάτης της πτήσης, μιλώντας στο NHK News δήλωσε πως το πλήρωμα ήταν εξαιρετικά ψύχραιμο κατά τη διάρκεια της εκκένωσης και έδωσε την οδηγία να μην πάρει κανείς τη χειραποσκευή του.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 55",
+        "text": "«Το Κονγκό θα είναι πρόθυμο να δεχτεί μετανάστες και είμαστε σε συζητήσεις με άλλους», δήλωσε ανώτερη πηγή στο υπουργικό συμβούλιο ασφαλείας.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"«Το Κονγκό θα είναι πρόθυμο να δεχτεί μετανάστες και είμαστε σε συζητήσεις με άλλους», δήλωσε ανώτερη πηγή στο υπουργικό συμβούλιο ασφαλείας.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 56",
+        "text": "Εν τω μεταξύ, η Γάζα αντιμετωπίζει μια εντεινόμενη ανθρωπιστική κρίση.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Εν τω μεταξύ, η Γάζα αντιμετωπίζει μια εντεινόμενη ανθρωπιστική κρίση.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 60",
+        "text": "Δεν θα υπάρξει δουλειά και το 60% της γεωργικής γης της Γάζας θα γίνει ζώνες ασφαλείας Σημειώνεται πως η κυβέρνηση του Ισραηλινού πρωθυπουργού Μπενιαμίν Νετανιάχου –συμμαχία κομμάτων της δεξιάς, της άκρας δεξιάς και υπερορθόδοξων εβραϊκών σχηματισμών– κατηγορείται ήδη πως ενίσχυσε την παρουσία των εποίκων στη Δυτική Όχθη, παλαιστινιακό έδαφος που βρίσκεται από το 1967 υπό ισραηλινή κατοχή.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Δεν θα υπάρξει δουλειά και το 60% της γεωργικής γης της Γάζας θα γίνει ζώνες ασφαλείας Σημειώνεται πως η κυβέρνηση του Ισραηλινού πρωθυπουργού Μπενιαμίν Νετανιάχου –συμμαχία κομμάτων της δεξιάς, της άκρας δεξιάς και υπερορθόδοξων εβραϊκών σχηματισμών– κατηγορείται ήδη πως ενίσχυσε την παρουσία των εποίκων στη Δυτική Όχθη, παλαιστινιακό έδαφος που βρίσκεται από το 1967 υπό ισραηλινή κατοχή.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 62",
+        "text": "Για τους σωφρονιστικούς υπαλλήλους, αποτελούσαν ένα είδος ιδιαιτερότητας και ως επί το πλείστον αγνοούνταν.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Για τους σωφρονιστικούς υπαλλήλους, αποτελούσαν ένα είδος ιδιαιτερότητας και ως επί το πλείστον αγνοούνταν.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 80",
+        "text": "Τα εντονότερα φαινόμενα αναμένεται να σημειωθούν κυρίως στη δυτική Ελλάδα, όπου αναμένεται να πέσουν 40-50 χιλιοστά βροχής, ενώ αντίστοιχο θα είναι το σκηνικό κατά τόπους και στα νησιά του νοτιοανατολικού Αιγαίου.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Τα εντονότερα φαινόμενα αναμένεται να σημειωθούν κυρίως στη δυτική Ελλάδα, όπου αναμένεται να πέσουν 40-50 χιλιοστά βροχής, ενώ αντίστοιχο θα είναι το σκηνικό κατά τόπους και στα νησιά του νοτιοανατολικού Αιγαίου.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 90",
+        "text": "Οπως αναφέρει το ΑΠΕ – ΜΠΕ, στην ανακοίνωση του Στέιτ Ντιπάρτμεντ αναφέρεται ότι «κατά τη διάρκεια της παραμονής της στην Αγκυρα, η αναπληρώτρια υπουργός Νούλαντ θα συναντηθεί με ανώτερους κυβερνητικούς αξιωματούχους και επιχειρηματικούς ηγέτες για να συζητήσουν το πλήρες φάσμα των διμερών, περιφερειακών και παγκόσμιων θεμάτων για τα οποία εργαζόμαστε από κοινού».",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Οπως αναφέρει το ΑΠΕ – ΜΠΕ, στην ανακοίνωση του Στέιτ Ντιπάρτμεντ αναφέρεται ότι «κατά τη διάρκεια της παραμονής της στην Αγκυρα, η αναπληρώτρια υπουργός Νούλαντ θα συναντηθεί με ανώτερους κυβερνητικούς αξιωματούχους και επιχειρηματικούς ηγέτες για να συζητήσουν το πλήρες φάσμα των διμερών, περιφερειακών και παγκόσμιων θεμάτων για τα οποία εργαζόμαστε από κοινού».\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 106",
+        "text": "Όταν είναι αργά και πεινάμε ή έχουμε όρεξη για ένα περιποιημένο ποτό υπό το φως των κεριών, πηγαίνουμε χωρίς δεύτερη σκέψη στο στενάκι της Τζιραίων.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Όταν είναι αργά και πεινάμε ή έχουμε όρεξη για ένα περιποιημένο ποτό υπό το φως των κεριών, πηγαίνουμε χωρίς δεύτερη σκέψη στο στενάκι της Τζιραίων.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 117",
+        "text": "Ογενικός γραμματέας των Ηνωμένων Εθνών Αντόνιο Γκουτέρες δεσμεύθηκε σήμερα ότι θα λογοδοτήσει «όποιος εργαζόμενος του ΟΗΕ έχει ανάμιξη σε τρομοκρατικές ενέργειες» ύστερα από τις καταγγελίες ότι μέλη του προσωπικού της υπηρεσίας για τους Παλαιστίνιους πρόσφυγες εμπλέκονταν στις επιθέσεις της Χαμάς κατά του Ισραήλ στις 7 Οκτωβρίου.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Ογενικός γραμματέας των Ηνωμένων Εθνών Αντόνιο Γκουτέρες δεσμεύθηκε σήμερα ότι θα λογοδοτήσει «όποιος εργαζόμενος του ΟΗΕ έχει ανάμιξη σε τρομοκρατικές ενέργειες» ύστερα από τις καταγγελίες ότι μέλη του προσωπικού της υπηρεσίας για τους Παλαιστίνιους πρόσφυγες εμπλέκονταν στις επιθέσεις της Χαμάς κατά του Ισραήλ στις 7 Οκτωβρίου.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 119",
+        "text": "«Όποιος εργαζόμενος των Ηνωμένων Εθνών έχει ανάμιξη σε τρομοκρατικές ενέργειες θα λογοδοτήσει, μεταξύ άλλων και μέσω ποινικής δίωξης», ανέφερε ο επικεφαλής του ΟΗΕ σε δήλωση.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"«Όποιος εργαζόμενος των Ηνωμένων Εθνών έχει ανάμιξη σε τρομοκρατικές ενέργειες θα λογοδοτήσει, μεταξύ άλλων και μέσω ποινικής δίωξης», ανέφερε ο επικεφαλής του ΟΗΕ σε δήλωση.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 178",
+        "text": "Η άσκηση αντικειμενικής κριτικής καθώς και η αναγνώριση θετικών πρωτοβουλιών, αποτελούν βασικά χαρακτηριστικά της λειτουργίας μιας ανεξάρτητης μη κυβερνητικής οργάνωσης.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Η άσκηση αντικειμενικής κριτικής καθώς και η αναγνώριση θετικών πρωτοβουλιών, αποτελούν βασικά χαρακτηριστικά της λειτουργίας μιας ανεξάρτητης μη κυβερνητικής οργάνωσης.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 207",
+        "text": "Ο Μεσογειακός Κανονισμός για την αλιεία (Ε.Κ. 1967/ 2006) αναγνωρίζοντας τη σημασία των λιβαδιών ποσειδωνίας, απαγορεύει την άσκηση αλιείας «με δίχτυα τράτας, δράγες, πεζότρατες (=βιντζότρατες) ή παρόμοια δίχτυα» πάνω σε αυτά, καθώς και σε όλες τις περιοχές που έχουν οριστεί για την προστασία τους.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Modern Greek language.",
+            "user": "Sentence: \"Ο Μεσογειακός Κανονισμός για την αλιεία (Ε.Κ. 1967/ 2006) αναγνωρίζοντας τη σημασία των λιβαδιών ποσειδωνίας, απαγορεύει την άσκηση αλιείας «με δίχτυα τράτας, δράγες, πεζότρατες (=βιντζότρατες) ή παρόμοια δίχτυα» πάνω σε αυτά, καθώς και σε όλες τις περιοχές που έχουν οριστεί για την προστασία τους.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

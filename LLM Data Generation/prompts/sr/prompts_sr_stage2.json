@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s7",
+        "text": "Međutim , opasnost se nazire kad se linija očaravanja pređe i transformiše u kompulzivno ponašanje .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Međutim , opasnost se nazire kad se linija očaravanja pređe i transformiše u kompulzivno ponašanje .\"\nIdiom to remove: \"se nazire\"\nLemmas to avoid simultaneously: se, nazirati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s8",
+        "text": "Za neke ljude koji su inače uznemireni i labilniji , fantazija se meša sa stvarnošću .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Za neke ljude koji su inače uznemireni i labilniji , fantazija se meša sa stvarnošću .\"\nIdiom to remove: \"se meša\"\nLemmas to avoid simultaneously: se, mešati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s11",
+        "text": "To je fantazija ( deluzija ) koja se manifestuje iznenada i bez neke prethodne istorije mentalne bolesti .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"To je fantazija ( deluzija ) koja se manifestuje iznenada i bez neke prethodne istorije mentalne bolesti .\"\nIdiom to remove: \"se manifestuje\"\nLemmas to avoid simultaneously: se, manifestovati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s12",
+        "text": "Takve osobe uglavnom se ponašaju normalno .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Takve osobe uglavnom se ponašaju normalno .\"\nIdiom to remove: \"se ponašaju\"\nLemmas to avoid simultaneously: se, ponašati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s16",
+        "text": "Ironično je da erotomanija ima veoma malo veze sa seksom i erotomanijak želi jednu idealizovanu , platonsku romansu !?",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ironično je da erotomanija ima veoma malo veze sa seksom i erotomanijak želi jednu idealizovanu , platonsku romansu !?\"\nIdiom to remove: \"ima veze\"\nLemmas to avoid simultaneously: imati, veza\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s17",
+        "text": "Ovakva opsesija usmerena na željenu osobu pojačava se naročito kad ta osoba iznese svoje protivljenje ili ne iskaže reciprocitet u pokazanim osećanjima .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ovakva opsesija usmerena na željenu osobu pojačava se naročito kad ta osoba iznese svoje protivljenje ili ne iskaže reciprocitet u pokazanim osećanjima .\"\nIdiom to remove: \"pojačava se\"\nLemmas to avoid simultaneously: pojačavati, se\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s22",
+        "text": "Fantazija je usredsređena na osobu višeg socijalnog statusa ili važnosti , privlačniju od sebe , nekad čak i stranca , neku poznatu ličnost ili nekog u radnoj okolini ko je visoko rangiran .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Fantazija je usredsređena na osobu višeg socijalnog statusa ili važnosti , privlačniju od sebe , nekad čak i stranca , neku poznatu ličnost ili nekog u radnoj okolini ko je visoko rangiran .\"\nIdiom to remove: \"socijalnog statusa\"\nLemmas to avoid simultaneously: socijalan, status\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s24",
+        "text": "Poruke koje se šalju vrlo su privatne i veoma intimne , gotovo seksi .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Poruke koje se šalju vrlo su privatne i veoma intimne , gotovo seksi .\"\nIdiom to remove: \"Poruke šalju\"\nLemmas to avoid simultaneously: poruka, slati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s27",
+        "text": "Ali , zato se trude da ulove čak i minimalan prelaz očima preko grupe u kojoj se erotomanijak nalazi , što se tumači kao važan znak očima .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ali , zato se trude da ulove čak i minimalan prelaz očima preko grupe u kojoj se erotomanijak nalazi , što se tumači kao važan znak očima .\"\nIdiom to remove: \"se trude\"\nLemmas to avoid simultaneously: se, truditi\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s34",
+        "text": "Da kao Mida taknete prekidač za ringlu , u trenutku bi se pozlatio .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Da kao Mida taknete prekidač za ringlu , u trenutku bi se pozlatio .\"\nIdiom to remove: \"u trenutku\"\nLemmas to avoid simultaneously: u, trenutak\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s36",
+        "text": "Od zlata ni traga , a ni od struje , ima je koliko i u iscureloj bateriji koju još od useljenja čuvate u fioci kao da je , bože me oprosti , relikvija .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Od zlata ni traga , a ni od struje , ima je koliko i u iscureloj bateriji koju još od useljenja čuvate u fioci kao da je , bože me oprosti , relikvija .\"\nIdiom to remove: \"kao da\"\nLemmas to avoid simultaneously: kao, da\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s37",
+        "text": "Svaka nepočupana dlaka na telu vam se ježi od pomisli da na zakazan razgovor za posao morate otići bez prve , prave jutarnje kafe !",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Svaka nepočupana dlaka na telu vam se ježi od pomisli da na zakazan razgovor za posao morate otići bez prve , prave jutarnje kafe !\"\nIdiom to remove: \"se ježi\"\nLemmas to avoid simultaneously: se, ježiti\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s39",
+        "text": "Naravno , pozvaćete najbolju prijateljicu da joj se siti izjadate .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Naravno , pozvaćete najbolju prijateljicu da joj se siti izjadate .\"\nIdiom to remove: \"se izjadate\"\nLemmas to avoid simultaneously: se, izjadati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s40",
+        "text": "Budući da prijateljica ne radi na važnom položaju u Elektrodistribuciji , nema ni ručni generator za struju niti poseduje šamanske veštine za astralnu projekciju džezve sa spasonosnim vrućim napitkom , postavlja se pitanje zašto je zovete .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Budući da prijateljica ne radi na važnom položaju u Elektrodistribuciji , nema ni ručni generator za struju niti poseduje šamanske veštine za astralnu projekciju džezve sa spasonosnim vrućim napitkom , postavlja se pitanje zašto je zovete .\"\nIdiom to remove: \"Budući da\"\nLemmas to avoid simultaneously: Budući, da\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s42",
+        "text": "Pa ona je do sada ispratila svaki sekund vašeg života , čak i onaj koji ste vi propustili , pa bi komotno mogla da napiše vašu biografiju .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Pa ona je do sada ispratila svaki sekund vašeg života , čak i onaj koji ste vi propustili , pa bi komotno mogla da napiše vašu biografiju .\"\nIdiom to remove: \"do sada\"\nLemmas to avoid simultaneously: do, sada\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s44",
+        "text": "Levom rukom .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Levom rukom .\"\nIdiom to remove: \"Levom rukom\"\nLemmas to avoid simultaneously: levi, ruka\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s46",
+        "text": "Tajna uslovnog refleksa koji smo višedecenijskim naporom uspostavile između izbijanja krize i upućivanja telefonskog poziva najboljoj prijateljici ( premda nije tajna da je zovemo i na prvi nagoveštaj problema , a pogotovo po okončanju krize ) krije se u činjenici da je prijateljica okosnica našeg svakodnevnog života .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Tajna uslovnog refleksa koji smo višedecenijskim naporom uspostavile između izbijanja krize i upućivanja telefonskog poziva najboljoj prijateljici ( premda nije tajna da je zovemo i na prvi nagoveštaj problema , a pogotovo po okončanju krize ) krije se u činjenici da je prijateljica okosnica našeg svakodnevnog života .\"\nIdiom to remove: \"uslovnog refleksa\"\nLemmas to avoid simultaneously: uslovan, refleks\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s51",
+        "text": "Ali , do neprikosnovenog mesta u našim životima ona nije došla pukim slučajem .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ali , do neprikosnovenog mesta u našim životima ona nije došla pukim slučajem .\"\nIdiom to remove: \"pukim slučajem\"\nLemmas to avoid simultaneously: puki, slučaj\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s54",
+        "text": "Kad dođu neki čudni dani i uhvati vas onaj neobjašnjiv osećaj kome je nepoznati , ali maštoviti narodni jezikotvorac dao tako prigodan naziv neizdrž , a ukućani se razbeže pred vašim smrknutim licem kao da je simptom neke ozbiljne zarazne bolesti , znate ko vas neće izneveriti .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Kad dođu neki čudni dani i uhvati vas onaj neobjašnjiv osećaj kome je nepoznati , ali maštoviti narodni jezikotvorac dao tako prigodan naziv neizdrž , a ukućani se razbeže pred vašim smrknutim licem kao da je simptom neke ozbiljne zarazne bolesti , znate ko vas neće izneveriti .\"\nIdiom to remove: \"dao naziv\"\nLemmas to avoid simultaneously: dati, naziv\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s57",
+        "text": "I maratonski telefonski razgovor , potpuno nepravedno izostavljen iz olimpijskih disciplina ( da vidim Felpsa kako pliva po zvučnim talasima tri sata bez predaha ) , može da počne .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"I maratonski telefonski razgovor , potpuno nepravedno izostavljen iz olimpijskih disciplina ( da vidim Felpsa kako pliva po zvučnim talasima tri sata bez predaha ) , može da počne .\"\nIdiom to remove: \"telefonski razgovor\"\nLemmas to avoid simultaneously: telefonski, razgovor\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s58",
+        "text": "Može najbolja prijateljica da bude u poslu do guše , i uglavnom jeste , ali čim čuje vaš glas , nepogrešivo zaključuje koliko je ozbiljna situacija .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Može najbolja prijateljica da bude u poslu do guše , i uglavnom jeste , ali čim čuje vaš glas , nepogrešivo zaključuje koliko je ozbiljna situacija .\"\nIdiom to remove: \"do guše\"\nLemmas to avoid simultaneously: do, guša\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s59",
+        "text": "I ostavlja sve , hvata virtuelno crevo za vodu i daje sve od sebe da ugasi požar .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"I ostavlja sve , hvata virtuelno crevo za vodu i daje sve od sebe da ugasi požar .\"\nIdiom to remove: \"crevo za vodu\"\nLemmas to avoid simultaneously: crevo, za, voda\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s61",
+        "text": "Napravili ste grešku .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Napravili ste grešku .\"\nIdiom to remove: \"Napravili grešku\"\nLemmas to avoid simultaneously: napraviti, greška\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s62",
+        "text": "Očešali ste auto , izgubili ste kontrolu u raspravi sa partnerom , pukao vam je film pred kolegom ...",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Očešali ste auto , izgubili ste kontrolu u raspravi sa partnerom , pukao vam je film pred kolegom ...\"\nIdiom to remove: \"izgubili kontrolu\"\nLemmas to avoid simultaneously: izgubiti, kontrola\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s66",
+        "text": "Doduše , nije vam prvi put da pogrešite , ali vaša prijateljica znalački to ostavlja po strani uz izjavu da ste prvi put pogrešili baš na taj način .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Doduše , nije vam prvi put da pogrešite , ali vaša prijateljica znalački to ostavlja po strani uz izjavu da ste prvi put pogrešili baš na taj način .\"\nIdiom to remove: \"po strani\"\nLemmas to avoid simultaneously: po, strana\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s71",
+        "text": "Danas , jedna od osam žena u Americi u toku svog života oboli od raka dojke , a pre samo tridesetak godina , rak dojke bio je dijagnostikovan kod jedne od dvadeset žena .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Danas , jedna od osam žena u Americi u toku svog života oboli od raka dojke , a pre samo tridesetak godina , rak dojke bio je dijagnostikovan kod jedne od dvadeset žena .\"\nIdiom to remove: \"u toku\"\nLemmas to avoid simultaneously: u, tok\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s72",
+        "text": "Pogoršanje je , tvrdi američki stručnjak , pre svega , rezultat promena u ishrani i činjenice da danas unosimo mnogo manje joda nego ranije .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Pogoršanje je , tvrdi američki stručnjak , pre svega , rezultat promena u ishrani i činjenice da danas unosimo mnogo manje joda nego ranije .\"\nIdiom to remove: \"pre svega\"\nLemmas to avoid simultaneously: pre, sav\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s74",
+        "text": "Tako ističe da žene u Japanu , koje unose mnogo više joda kroz namirnice bogate tim mineralom ( pre svega morske plodove , ribu ) , u značajno manjem procentu oboljevaju i od raka dojke i od problema sa tiroidnom žlezdom .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Tako ističe da žene u Japanu , koje unose mnogo više joda kroz namirnice bogate tim mineralom ( pre svega morske plodove , ribu ) , u značajno manjem procentu oboljevaju i od raka dojke i od problema sa tiroidnom žlezdom .\"\nIdiom to remove: \"pre svega\"\nLemmas to avoid simultaneously: pre, sav\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s79",
+        "text": "Ipak , promeniti način ishrane nije lako , posebno , ako se zna da nam ni alge , ni morski plodovi nisu baš bliski , ali treba reći , da se u našoj zemlji može naći mineralna voda bogata prirodno rastvorenim jodom .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ipak , promeniti način ishrane nije lako , posebno , ako se zna da nam ni alge , ni morski plodovi nisu baš bliski , ali treba reći , da se u našoj zemlji može naći mineralna voda bogata prirodno rastvorenim jodom .\"\nIdiom to remove: \"morski plodovi\"\nLemmas to avoid simultaneously: morski, plod\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s81",
+        "text": "Tokom karijere , italijanski kreator Đani Versače vodio je pravi kulturološki krstaški rat sa tadašnjim modnim čistuncima .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Tokom karijere , italijanski kreator Đani Versače vodio je pravi kulturološki krstaški rat sa tadašnjim modnim čistuncima .\"\nIdiom to remove: \"vodio rat\"\nLemmas to avoid simultaneously: voditi, rat\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s82",
+        "text": "Oni su otvoreno tvrdili da su mu kolekcije vulgarne , dok je istovremeno svetska elita zavolela to beskompromisno privlačenje pažnje .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Oni su otvoreno tvrdili da su mu kolekcije vulgarne , dok je istovremeno svetska elita zavolela to beskompromisno privlačenje pažnje .\"\nIdiom to remove: \"privlačenje pažnje\"\nLemmas to avoid simultaneously: privlačenje, pažnja\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s84",
+        "text": "U svom radu , proslavljeni modni guru Đani Versače držao se izreke Oskara Vajlda \" Ništa tako dobro ne uspeva kao preterivanje \" i svoj brend gradio na tragu oslobađanja žene .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"U svom radu , proslavljeni modni guru Đani Versače držao se izreke Oskara Vajlda \" Ništa tako dobro ne uspeva kao preterivanje \" i svoj brend gradio na tragu oslobađanja žene .\"\nIdiom to remove: \"držao se\"\nLemmas to avoid simultaneously: držati, se\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s86",
+        "text": "Osim što je otkrivala mnogo više nego što je skrivala i opstajala zahvaljujući zlatnim zihernadlama , haljina je bez sumnje od glumice načinila zvezdu .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Osim što je otkrivala mnogo više nego što je skrivala i opstajala zahvaljujući zlatnim zihernadlama , haljina je bez sumnje od glumice načinila zvezdu .\"\nIdiom to remove: \"Osim što\"\nLemmas to avoid simultaneously: osim, što\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s91",
+        "text": "Za razliku od Armanija , čija se kreacije uklapaju u život , Versače je svojim klijentima prodavao potpuno nov život .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Za razliku od Armanija , čija se kreacije uklapaju u život , Versače je svojim klijentima prodavao potpuno nov život .\"\nIdiom to remove: \"Za razliku od\"\nLemmas to avoid simultaneously: za, razlika, od\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s104",
+        "text": "Iako su fibrociste uglavnom benigne , postoje i studije , koje ukazuju da i one predstavljaju faktor rizika za rak dojke .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Iako su fibrociste uglavnom benigne , postoje i studije , koje ukazuju da i one predstavljaju faktor rizika za rak dojke .\"\nIdiom to remove: \"da i\"\nLemmas to avoid simultaneously: da, i\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s114",
+        "text": "Ako ste na dijeti ne zaboravite na jod .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ako ste na dijeti ne zaboravite na jod .\"\nIdiom to remove: \"na dijeti\"\nLemmas to avoid simultaneously: na, dijeta\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s116",
+        "text": "Kada namerno smanjite unos hrane i količina unetog joda se smanjuje .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Kada namerno smanjite unos hrane i količina unetog joda se smanjuje .\"\nIdiom to remove: \"se smanjuje\"\nLemmas to avoid simultaneously: se, smanjivati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s117",
+        "text": "Zato je važno da kada ste na dijeti , hrana koju unosite bude raznovrsna , jer tako čuvate svoje zdravlje .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Zato je važno da kada ste na dijeti , hrana koju unosite bude raznovrsna , jer tako čuvate svoje zdravlje .\"\nIdiom to remove: \"na dijeti\"\nLemmas to avoid simultaneously: na, dijeta\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s119",
+        "text": "A ako su to one koje su bogate jodom poput morskih plodova , ribe ili mleka i mlečnih proizvoda , onda velikom riziku izlažete ne samo tiroidnu , već i mlečne žlezde , ali i ceo organizam .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"A ako su to one koje su bogate jodom poput morskih plodova , ribe ili mleka i mlečnih proizvoda , onda velikom riziku izlažete ne samo tiroidnu , već i mlečne žlezde , ali i ceo organizam .\"\nIdiom to remove: \"morskih plodova\"\nLemmas to avoid simultaneously: morski, plod\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s127",
+        "text": "Britanska dizajnerka , kreatorka pank stila , aktivistkinja i istinska živa modna legenda , Vivijen Vestvud , jedna je od najvećih ikona našeg doba koja je definisala londonsku modnu scenu i tokom pet decenija karijere uticala na brojne svetske dizajnere .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Britanska dizajnerka , kreatorka pank stila , aktivistkinja i istinska živa modna legenda , Vivijen Vestvud , jedna je od najvećih ikona našeg doba koja je definisala londonsku modnu scenu i tokom pet decenija karijere uticala na brojne svetske dizajnere .\"\nIdiom to remove: \"pank stila\"\nLemmas to avoid simultaneously: pank, stilo\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s131",
+        "text": "Ako bismo je pitali šta bi volela da promeni u svetu , kao iz topa bi odgovorila :",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ako bismo je pitali šta bi volela da promeni u svetu , kao iz topa bi odgovorila :\"\nIdiom to remove: \"kao iz topa\"\nLemmas to avoid simultaneously: kao, iz, top\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s135",
+        "text": "Čini se da je pomalo nesvesna kako njene dobre namere ostaju u senci sopstvenog modnog biznisa i odlično pozicioniranog brenda .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Čini se da je pomalo nesvesna kako njene dobre namere ostaju u senci sopstvenog modnog biznisa i odlično pozicioniranog brenda .\"\nIdiom to remove: \"Čini se\"\nLemmas to avoid simultaneously: Čina, se\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s136",
+        "text": "Duboko prožeta anarhističkim duhom , koji je najbolji izraz našao u njenim kreacijama , često upire prstom u druge i ne osvrće se na sebe .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Duboko prožeta anarhističkim duhom , koji je najbolji izraz našao u njenim kreacijama , često upire prstom u druge i ne osvrće se na sebe .\"\nIdiom to remove: \"upire prstom\"\nLemmas to avoid simultaneously: upirati, prst\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s137",
+        "text": "Ali , Vivijen ne bi bila to što jeste da zbog toga ne oseća krivicu i traži opravdanje :",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ali , Vivijen ne bi bila to što jeste da zbog toga ne oseća krivicu i traži opravdanje :\"\nIdiom to remove: \"zbog toga\"\nLemmas to avoid simultaneously: zbog, taj\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s139",
+        "text": "Imam manje proizvoda , ali oni su sami po sebi veličanstveni .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Imam manje proizvoda , ali oni su sami po sebi veličanstveni .\"\nIdiom to remove: \"sami po sebi\"\nLemmas to avoid simultaneously: sam, po, sebe\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s143",
+        "text": "Nekoliko decenija dizajnirala je modu za individualce koji se ne uklapaju u gomilu : razmetljive , lepe , one koji plivaju uz reku .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Nekoliko decenija dizajnirala je modu za individualce koji se ne uklapaju u gomilu : razmetljive , lepe , one koji plivaju uz reku .\"\nIdiom to remove: \"se uklapaju\"\nLemmas to avoid simultaneously: se, uklapati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s144",
+        "text": "Ljudi je vole zbog toga što je sama po sebi inspiracija drugima .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ljudi je vole zbog toga što je sama po sebi inspiracija drugima .\"\nIdiom to remove: \"zbog toga što\"\nLemmas to avoid simultaneously: zbog, taj, što\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s145",
+        "text": "Suština njenog dizajna veoma je jednostavna : \" Život će biti zanimljiviji ako se poigravate odećom ! \"",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Suština njenog dizajna veoma je jednostavna : \" Život će biti zanimljiviji ako se poigravate odećom ! \"\"\nIdiom to remove: \"se poigravate\"\nLemmas to avoid simultaneously: se, poigravati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s149",
+        "text": "Kad je imala 17 godina porodica se preselila u londonsko predgrađe Harou , gde je buduća modna ikona pronašla posao u lokalnoj fabrici i počela da pohađa učiteljsku školu .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Kad je imala 17 godina porodica se preselila u londonsko predgrađe Harou , gde je buduća modna ikona pronašla posao u lokalnoj fabrici i počela da pohađa učiteljsku školu .\"\nIdiom to remove: \"se preselila\"\nLemmas to avoid simultaneously: se, preseliti\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    },
+    {
+        "sent_id": ". sr-bazar-2017.folia.xml s150",
+        "text": "Kako se kasnije prisećala , njene godine detinjstva bile su daleko od komfornog života .",
+        "prompt": {
+            "system": "You are an expert native speaker of Serbian. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Kako se kasnije prisećala , njene godine detinjstva bile su daleko od komfornog života .\"\nIdiom to remove: \"se prisećala\"\nLemmas to avoid simultaneously: se, prisećati\n\nPlease rewrite the sentence naturally in Serbian."
+        }
+    }
+]

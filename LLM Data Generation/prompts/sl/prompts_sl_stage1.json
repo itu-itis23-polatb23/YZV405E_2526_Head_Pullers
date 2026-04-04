@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj789.3943.14005",
+        "text": "Najmanjši parlamentarni stranki, SNS in DeSUS, si po besedah predsednikov strank, Zmaga Jelinčiča in Janka Kušarja, zaradi omejenih finančnih zmožnosti razkošnega medijskega predstavljanja ne bosta mogli privoščiti.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Najmanjši parlamentarni stranki, SNS in DeSUS, si po besedah predsednikov strank, Zmaga Jelinčiča in Janka Kušarja, zaradi omejenih finančnih zmožnosti razkošnega medijskega predstavljanja ne bosta mogli privoščiti.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj789.3943.14006",
+        "text": "DeSUS bo zato večji poudarek namenil neposrednemu stiku z volilci, namesto jumbo plakatov pa so svojim enotam na terenu poslali zgibanke.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"DeSUS bo zato večji poudarek namenil neposrednemu stiku z volilci, namesto jumbo plakatov pa so svojim enotam na terenu poslali zgibanke.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3947.14017",
+        "text": "Letos bo festival med 6. avgustom in 6. septembrom že tretje leto zapored, nastaja pa v produkciji LG Papilu pod produkcijskim in umetniškim vodstvom Maje Bavdaž Solce.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Letos bo festival med 6. avgustom in 6. septembrom že tretje leto zapored, nastaja pa v produkciji LG Papilu pod produkcijskim in umetniškim vodstvom Maje Bavdaž Solce.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3948.14019",
+        "text": "Če ima kaj od tega, potem lahko najdejo lastnika, sicer pa žival sprejmejo in zanjo poskrbijo.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Če ima kaj od tega, potem lahko najdejo lastnika, sicer pa žival sprejmejo in zanjo poskrbijo.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3948.14023",
+        "text": "Po osmih dneh postanejo last Gmajnic, če pa se potem pojavi pravi lastnik, mora plačati oskrbo za toliko časa, kolikor je bila žival tam.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Po osmih dneh postanejo last Gmajnic, če pa se potem pojavi pravi lastnik, mora plačati oskrbo za toliko časa, kolikor je bila žival tam.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3950.14031",
+        "text": "Z njo so se jedrske sile zavezale, da ne bodo prenašale jedrskega orožja v druge države, države, ki ga niso imele, pa so obljubile, da ga ne bodo sprejemale in izdelovale.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Z njo so se jedrske sile zavezale, da ne bodo prenašale jedrskega orožja v druge države, države, ki ga niso imele, pa so obljubile, da ga ne bodo sprejemale in izdelovale.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3951.14034",
+        "text": "Zato bodo izdali posebne brošure, v katerih bodo navedli splošno sprejete cene posameznega blaga in storitev, da bi s tem preprečili goljufanje.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Zato bodo izdali posebne brošure, v katerih bodo navedli splošno sprejete cene posameznega blaga in storitev, da bi s tem preprečili goljufanje.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj790.3952.14038",
+        "text": "Za zdaj kaže, da je tako.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Za zdaj kaže, da je tako.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3956.14049",
+        "text": "Piran je poleg obnovljenih razpravnih dvoran, sodniških pisarn, knjižnice, novih sanitarij in drugih prostorov dobil tudi novo računalniško mrežo, s pomočjo katere je neposredno povezan z vrhovnim sodiščem v Ljubljani.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Piran je poleg obnovljenih razpravnih dvoran, sodniških pisarn, knjižnice, novih sanitarij in drugih prostorov dobil tudi novo računalniško mrežo, s pomočjo katere je neposredno povezan z vrhovnim sodiščem v Ljubljani.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14057",
+        "text": "Glede na to, da grozilnemu pismu prvič niso takoj sledile ali pa ga celo prehitele eksplozivne pošiljke, upajo, da se pri tokratnih osumljenih ne motijo.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Glede na to, da grozilnemu pismu prvič niso takoj sledile ali pa ga celo prehitele eksplozivne pošiljke, upajo, da se pri tokratnih osumljenih ne motijo.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14058",
+        "text": "Njihova glavna teza namreč je, da tako imenovani \"sekretariat\" Bayuwarische Befreeiungs Armee, ki je doslej pripravljal in vodil vse \"napade\", trenutno ni v polni sestavi.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Njihova glavna teza namreč je, da tako imenovani \"sekretariat\" Bayuwarische Befreeiungs Armee, ki je doslej pripravljal in vodil vse \"napade\", trenutno ni v polni sestavi.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14060",
+        "text": "Trije - nekakšno poveljstvo ali, kot se same imenujejo, \"sekretariat\" - naj bi bili starejši pripadniki desne ekstremistične scene.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Trije - nekakšno poveljstvo ali, kot se same imenujejo, \"sekretariat\" - naj bi bili starejši pripadniki desne ekstremistične scene.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14062",
+        "text": "Gre za nekega starejšega pravnika iz Spodnje Avstrije in upokojenega zgodovinarja iz avstrijske Štajerske, ki naj bi bila po njihovem mnenju soavtorja grozilnih pisem BBA in hkrati člana \"sekretariata\".",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Gre za nekega starejšega pravnika iz Spodnje Avstrije in upokojenega zgodovinarja iz avstrijske Štajerske, ki naj bi bila po njihovem mnenju soavtorja grozilnih pisem BBA in hkrati člana \"sekretariata\".\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj792.3960.14065",
+        "text": "Četudi tretjemu članu \"sekretariata\", tako imenovanim \"možganom\" akcije, še niso na sledi, pa je v doslej zaupnih listinah policije kot glavni osumljeni imenovan avstrijski neonacist Gerd Honsick, ki je že dalj časa na begu v Španiji.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Četudi tretjemu članu \"sekretariata\", tako imenovanim \"možganom\" akcije, še niso na sledi, pa je v doslej zaupnih listinah policije kot glavni osumljeni imenovan avstrijski neonacist Gerd Honsick, ki je že dalj časa na begu v Španiji.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj793.3961.14068",
+        "text": "Soodvisnost meščanov in prebivalcev neposrednega zaledja mestnega središča, ki je zaznamovala dobri dve stoletji tržaške zgodovine, poskuša Etnografski oddelek Narodne in študijske knjižnice skupaj s področnimi prosvetnimi društvi in drugimi organizacijami oteti pozabi in ohraniti spomin na nekdanjo podobo skoraj povsem izgubljenega slovenskega prostora.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Soodvisnost meščanov in prebivalcev neposrednega zaledja mestnega središča, ki je zaznamovala dobri dve stoletji tržaške zgodovine, poskuša Etnografski oddelek Narodne in študijske knjižnice skupaj s področnimi prosvetnimi društvi in drugimi organizacijami oteti pozabi in ohraniti spomin na nekdanjo podobo skoraj povsem izgubljenega slovenskega prostora.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj793.3962.14071",
+        "text": "Ker se je festival šele »rodil«, izvedbeno nisem hotel biti pretenciozen.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Ker se je festival šele »rodil«, izvedbeno nisem hotel biti pretenciozen.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj793.3962.14073",
+        "text": "Naša želja je bila pokazati, kaj se dogaja v komornih gledališčih treh sosednjih držav.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Naša želja je bila pokazati, kaj se dogaja v komornih gledališčih treh sosednjih držav.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj794.3963.14074",
+        "text": "Zanimiva, prijetna zbirka inspirativnih zgodb z raznih področij duhovnosti -- med njimi so zenovske in sufijske, krščanske in budistične, zgodbe Indijancev in drugih ameriških domorodcev, polne navdihujočih namigov in anekdotičnih podukov.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Zanimiva, prijetna zbirka inspirativnih zgodb z raznih področij duhovnosti -- med njimi so zenovske in sufijske, krščanske in budistične, zgodbe Indijancev in drugih ameriških domorodcev, polne navdihujočih namigov in anekdotičnih podukov.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3967.14088",
+        "text": "Maja je bila očetova nova žena, in ko je pred koncem šolskega leta pobegnil k očetu, se z njo nista prav nič dobro razumela.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Maja je bila očetova nova žena, in ko je pred koncem šolskega leta pobegnil k očetu, se z njo nista prav nič dobro razumela.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3968.14092",
+        "text": "Navadil se je, da je enostavno odklopil telefon, ko je odšel v šolo, potem pa ga vklopil nazaj.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Navadil se je, da je enostavno odklopil telefon, ko je odšel v šolo, potem pa ga vklopil nazaj.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3968.14095",
+        "text": "Ko je prišel junij in je bilo že jasno, da Tinček ne bo izdelal razreda, mu je postalo vseeno za vse skupaj.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Ko je prišel junij in je bilo že jasno, da Tinček ne bo izdelal razreda, mu je postalo vseeno za vse skupaj.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3968.14096",
+        "text": "Lahko si je oddahnil.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Lahko si je oddahnil.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj797.3970.14102",
+        "text": "»Uf, sem se že ustrašila, da se tvoja babica heca in da bo samo čakala, da nas bo zasačila pri kakšni zadevi,« si je oddahnila Ajda.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"»Uf, sem se že ustrašila, da se tvoja babica heca in da bo samo čakala, da nas bo zasačila pri kakšni zadevi,« si je oddahnila Ajda.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj798.3972.14105",
+        "text": "Za angino pectoris je značilna bolečina, ki ne traja več kot 15 minut, ne glede na to, ali se pojavi med telesno obremenitvijo ali med mirovanjem.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Za angino pectoris je značilna bolečina, ki ne traja več kot 15 minut, ne glede na to, ali se pojavi med telesno obremenitvijo ali med mirovanjem.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj799.3973.14107",
+        "text": "Pogovarjamo se, kaj smo doživljali med poslušanjem.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Pogovarjamo se, kaj smo doživljali med poslušanjem.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj799.3973.14108",
+        "text": "Ali je kdo »videl« snežinke, kako se vrtijo v zraku, se rahlo zaletavajo, skupaj zaplešejo?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Ali je kdo »videl« snežinke, kako se vrtijo v zraku, se rahlo zaletavajo, skupaj zaplešejo?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj800.3974.14110",
+        "text": "Priporočamo vam, da se pred morebitnim nakupom pozanimate za rezultate teh testov.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Priporočamo vam, da se pred morebitnim nakupom pozanimate za rezultate teh testov.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3977.14114",
+        "text": "Na plese v Kazini ne bova več zahajala, udeleževala pa se bova plesov v graščinah mojih sorodnikov.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Na plese v Kazini ne bova več zahajala, udeleževala pa se bova plesov v graščinah mojih sorodnikov.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3977.14116",
+        "text": "Oče so šibkega zdravja in kdo ve, ali dočakajo poroko.«",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Oče so šibkega zdravja in kdo ve, ali dočakajo poroko.«\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3978.14118",
+        "text": "Ko sta s slikarjem ostala sama, se je spustila v živahen klepet.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Ko sta s slikarjem ostala sama, se je spustila v živahen klepet.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3978.14119",
+        "text": "Langus, ki je izviral iz Kamne Gorice na Gorenjskem, jo je po govoru zelo spominjal na deda.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Langus, ki je izviral iz Kamne Gorice na Gorenjskem, jo je po govoru zelo spominjal na deda.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3979.14120",
+        "text": "Julija se je počutila kakor pocestnica, ki se mora v naglici obleči in zginiti s prizorišča.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Julija se je počutila kakor pocestnica, ki se mora v naglici obleči in zginiti s prizorišča.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3980.14121",
+        "text": "Ko sta se z možem po pogrebu vrnila domov, jo je preplavil tak obup, da bi najraje skočila v Krko.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Ko sta se z možem po pogrebu vrnila domov, jo je preplavil tak obup, da bi najraje skočila v Krko.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj801.3982.14127",
+        "text": "Voda, ki je po navadi mirno tekla mimo gradiča, se je nenadoma grozljivo zavrtinčila in sredi umazanih pen se je zazibala črna krsta.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Voda, ki je po navadi mirno tekla mimo gradiča, se je nenadoma grozljivo zavrtinčila in sredi umazanih pen se je zazibala črna krsta.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3983.14128",
+        "text": "\"Pred štirimi leti sem prevzel to funkcijo s polno odgovornostjo in jo želim s polno odgovornostjo predati nasledniku.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"\"Pred štirimi leti sem prevzel to funkcijo s polno odgovornostjo in jo želim s polno odgovornostjo predati nasledniku.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3986.14138",
+        "text": "Prepričan je, da so krajane dobro in sproti obveščali, da obljube o novi grajenski šoli niso povezane z gradnjo odlagališča, da avtorica študije Darinka Ignjatovič dobro pozna lokacijo za odlagališče, da pretiravajo z ocenami o velikosti odlagališča - veliko naj bi bilo 13 in ne 18 hektarjev.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Prepričan je, da so krajane dobro in sproti obveščali, da obljube o novi grajenski šoli niso povezane z gradnjo odlagališča, da avtorica študije Darinka Ignjatovič dobro pozna lokacijo za odlagališče, da pretiravajo z ocenami o velikosti odlagališča - veliko naj bi bilo 13 in ne 18 hektarjev.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3986.14139",
+        "text": "Opozoril je še, da po mnenju biologa dr. Mitja Kaligariča na lokaciji ni nobenih posebnosti v rastlinstvu, da objekt ne bo ogrožal podtalnice, ker bo grajen vodotesno, da bi se promet po regionalni cesti skozi Vurberk zaradi odlagališča povečal le za en odstotek dnevno ter da bo vhod na odlagališče neopazen in se bodo prireditve na Vurberku lahko nemoteno odvijale.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Opozoril je še, da po mnenju biologa dr. Mitja Kaligariča na lokaciji ni nobenih posebnosti v rastlinstvu, da objekt ne bo ogrožal podtalnice, ker bo grajen vodotesno, da bi se promet po regionalni cesti skozi Vurberk zaradi odlagališča povečal le za en odstotek dnevno ter da bo vhod na odlagališče neopazen in se bodo prireditve na Vurberku lahko nemoteno odvijale.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3987.14140",
+        "text": "Igrajo: Erik Estrada, Robert Vaughn in drugi, režija: David L. Stanton",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Igrajo: Erik Estrada, Robert Vaughn in drugi, režija: David L. Stanton\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3988.14142",
+        "text": "V poprečju gimnazijci s končanimi tremi letniki.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"V poprečju gimnazijci s končanimi tremi letniki.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3988.14148",
+        "text": "Toda ti posamezniki v 29-tedenskem izobraževanju, ki se prične v začetku oktobra in sklene konec maja, praviloma ne vztrajajo in se tudi na maturo ne prijavijo.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Toda ti posamezniki v 29-tedenskem izobraževanju, ki se prične v začetku oktobra in sklene konec maja, praviloma ne vztrajajo in se tudi na maturo ne prijavijo.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3990.14150",
+        "text": "Zakonodaja torej napotuje pri določitvi konkretne dolžine letnega dopusta glede na kolektivne pogodbe oziroma interne akte.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Zakonodaja torej napotuje pri določitvi konkretne dolžine letnega dopusta glede na kolektivne pogodbe oziroma interne akte.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj802.3990.14151",
+        "text": "V zvezi s kolektivnimi pogodbami naj omenim, da ima večina tako imenovanih panožnih kolektivnih pogodb razdelane določbe v zvezi s višino letnega dopusta glede na zakonsko določene kriterije.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"V zvezi s kolektivnimi pogodbami naj omenim, da ima večina tako imenovanih panožnih kolektivnih pogodb razdelane določbe v zvezi s višino letnega dopusta glede na zakonsko določene kriterije.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj803.3992.14162",
+        "text": "Čudil sem se, zakaj neki poganja kolo - dokler nisem opazil generatorja in večih baterij.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Čudil sem se, zakaj neki poganja kolo - dokler nisem opazil generatorja in večih baterij.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj804.3995.14168",
+        "text": "Doma ga predsednik najbolj vplivne arabske države, ki je v različnih obdobjih negovala islamizem, panarabizem, palestinski nacionalizem in komunizem, izvaja s trdo roko.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Doma ga predsednik najbolj vplivne arabske države, ki je v različnih obdobjih negovala islamizem, panarabizem, palestinski nacionalizem in komunizem, izvaja s trdo roko.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj804.3995.14170",
+        "text": "Prve se v odnosih s Kairom nikdar niso otresle sumničenj zaradi njegovega miru z Izraelom.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Prve se v odnosih s Kairom nikdar niso otresle sumničenj zaradi njegovega miru z Izraelom.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj804.3996.14177",
+        "text": "Na ta način bodo namreč dali ustvarjalcem na nacionalni televiziji nov zagon in možnost, da svoje sile usmerijo v delo, od katerega imajo največ koristi prav gledalci.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Na ta način bodo namreč dali ustvarjalcem na nacionalni televiziji nov zagon in možnost, da svoje sile usmerijo v delo, od katerega imajo največ koristi prav gledalci.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj805.4000.14184",
+        "text": "Za premik je pač potreben šok,\" je povedal Gorazd Bokšan, ki se bo do konca sezone umaknil iz košarke.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Za premik je pač potreben šok,\" je povedal Gorazd Bokšan, ki se bo do konca sezone umaknil iz košarke.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj806.4001.14190",
+        "text": "Prav to možnost uporablja NLP in z njo utrjuje ugodne spomine ali spremeni nove izkušnje v prijetne, neprijetne spomine pa nevtralizira in s tem zbudi notranje moči, ki se skrivajo v človeku.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Prav to možnost uporablja NLP in z njo utrjuje ugodne spomine ali spremeni nove izkušnje v prijetne, neprijetne spomine pa nevtralizira in s tem zbudi notranje moči, ki se skrivajo v človeku.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj806.4003.14194",
+        "text": "Če si zastavimo cilj, ne da bi ga tudi časovno določili (torej se odločili, kdaj želite cilj doseči),",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Če si zastavimo cilj, ne da bi ga tudi časovno določili (torej se odločili, kdaj želite cilj doseči),\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11356/1959 SUK.TEI/ssj500k-tag.xml ssj806.4008.14202",
+        "text": "Pri tem pazite, da bo vaša nova strategija izpolnjevala vsa merila dobre strategije:",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Slovene language.",
+            "user": "Sentence: \"Pri tem pazite, da bo vaša nova strategija izpolnjevala vsa merila dobre strategije:\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2202",
+        "text": "右翼は東進し、ドナウ川へ到達しブダペストを目指した。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"右翼は東進し、ドナウ川へ到達しブダペストを目指した。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2203",
+        "text": "その後も、様々な人気ラッパーとの客演を経て現在のShady/Interscopeと契約。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"その後も、様々な人気ラッパーとの客演を経て現在のShady/Interscopeと契約。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2205",
+        "text": "モデム機能のみを持ち、その他の機能をコンピュータ側ソフトウェアで実現したものもある。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"モデム機能のみを持ち、その他の機能をコンピュータ側ソフトウェアで実現したものもある。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2206",
+        "text": "操作は十字キーによる移動。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"操作は十字キーによる移動。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2207",
+        "text": "複眼は無柄で小さく、頭胸部の前に二つ近接してついている。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"複眼は無柄で小さく、頭胸部の前に二つ近接してついている。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2213",
+        "text": "主機は海大3型bと同じズルツァー式ディーゼルを搭載したが水上速力は0.5ノット増加している。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"主機は海大3型bと同じズルツァー式ディーゼルを搭載したが水上速力は0.5ノット増加している。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2214",
+        "text": "シカゴ出身の腹話術師エドガー・バーゲンは、人形のチャーリー・マッカーシーとともに、1930年代から1940年代にかけてラジオ放送で大きな人気を得た。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"シカゴ出身の腹話術師エドガー・バーゲンは、人形のチャーリー・マッカーシーとともに、1930年代から1940年代にかけてラジオ放送で大きな人気を得た。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2215",
+        "text": "逃げていく兵士が前進してくるヘッセン兵の一隊との交戦を拒んだとき、ワシントンは乗馬鞭でその士官の何人かを殴ったとされている。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"逃げていく兵士が前進してくるヘッセン兵の一隊との交戦を拒んだとき、ワシントンは乗馬鞭でその士官の何人かを殴ったとされている。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2218",
+        "text": "ダーターの乗員を救助した後、5時55分にデイスはダーターに向けて魚雷を4本発射したが、岩礁に当たって爆発しただけだった。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"ダーターの乗員を救助した後、5時55分にデイスはダーターに向けて魚雷を4本発射したが、岩礁に当たって爆発しただけだった。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2219",
+        "text": "大津市においては,建築確認取消の審査請求自体が初めてとのことです。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"大津市においては,建築確認取消の審査請求自体が初めてとのことです。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2221",
+        "text": "ヤフーオークションに出品されている幸福の科学の関連品は,11月26日現在,317品。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"ヤフーオークションに出品されている幸福の科学の関連品は,11月26日現在,317品。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2225",
+        "text": "これによって、彼らの不仲は決定的なものとなってしまった。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"これによって、彼らの不仲は決定的なものとなってしまった。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2226",
+        "text": "おかげで体の凝りもなくなり、心身共にリフレッシュできたと思います。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"おかげで体の凝りもなくなり、心身共にリフレッシュできたと思います。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2227",
+        "text": "なかなか都合のいい日時に取れないという経験をする人は多いのです。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"なかなか都合のいい日時に取れないという経験をする人は多いのです。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2231",
+        "text": "具体的には、より使いやすく、より対話型の言語へ。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"具体的には、より使いやすく、より対話型の言語へ。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2232",
+        "text": "エピソード「ミニハウスでさわやかな夏」によれば、未来の世界では資源節約のため、人々が時折小さくなって「ミニハウス」に住むために使用されているという。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"エピソード「ミニハウスでさわやかな夏」によれば、未来の世界では資源節約のため、人々が時折小さくなって「ミニハウス」に住むために使用されているという。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2235",
+        "text": "日弁連事務総長、東京弁護士会長などを経て、92~94年に日弁連会長を務めた。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"日弁連事務総長、東京弁護士会長などを経て、92~94年に日弁連会長を務めた。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2237",
+        "text": "通り抜ける事は一切できない。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"通り抜ける事は一切できない。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2239",
+        "text": "第一シュパイアーと呼ばれているこの教会堂は、正方形の内陣と平たい外壁、付柱で分節された内壁、完全に分離した交差部を持つ、初期ロマネスク建築に特有の形態であった。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"第一シュパイアーと呼ばれているこの教会堂は、正方形の内陣と平たい外壁、付柱で分節された内壁、完全に分離した交差部を持つ、初期ロマネスク建築に特有の形態であった。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2247",
+        "text": "著作権管理団体の役割には以下のものがある。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"著作権管理団体の役割には以下のものがある。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2250",
+        "text": "このイベントは先月から企画されていたものですが,今月になってついに右派武装民兵団までもが参加を表明。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"このイベントは先月から企画されていたものですが,今月になってついに右派武装民兵団までもが参加を表明。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2255",
+        "text": "フレデリックスバーグに向かう途中、11月24日にファルマウスに到着、戦闘が発生した12月13日までその場に留まった。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"フレデリックスバーグに向かう途中、11月24日にファルマウスに到着、戦闘が発生した12月13日までその場に留まった。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2256",
+        "text": "“犬の中に柴犬のブログが増えたら柴犬カテゴリを新設する”というたとえ話が可愛いです。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"“犬の中に柴犬のブログが増えたら柴犬カテゴリを新設する”というたとえ話が可愛いです。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2257",
+        "text": "三姉妹の次女・キャサリンとは恋仲であり、彼女を通じて長女のジェーンを殺害、更に三女のドミニクをも殺害する。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"三姉妹の次女・キャサリンとは恋仲であり、彼女を通じて長女のジェーンを殺害、更に三女のドミニクをも殺害する。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2258",
+        "text": "鍛え方によっては様々に色合いが変化し、その色彩を演出するのもまた鍛冶師の腕の見せ所だそうだ。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"鍛え方によっては様々に色合いが変化し、その色彩を演出するのもまた鍛冶師の腕の見せ所だそうだ。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2260",
+        "text": "この仕事を投げ出していった者は,その瞬間までウソをついていただけで,その後も一生ウソつきで生きるしかない。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"この仕事を投げ出していった者は,その瞬間までウソをついていただけで,その後も一生ウソつきで生きるしかない。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2261",
+        "text": "誠に申し訳ありません。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"誠に申し訳ありません。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2265",
+        "text": "中学校卒業後予定通り金沢二水高校に進学し、ラグビー部に入部。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"中学校卒業後予定通り金沢二水高校に進学し、ラグビー部に入部。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2266",
+        "text": "第2回となる2月7日のセミナーでは,宣伝チラシに以下の企業名が並んでいます。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"第2回となる2月7日のセミナーでは,宣伝チラシに以下の企業名が並んでいます。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2271",
+        "text": "ここにおいて卑君に賜った印綬を奪い、更に阿羅多を立てて王とし、卑君は敦煌に還り、漢は車師後部の民三百帳をもってこれを別に属役させた。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"ここにおいて卑君に賜った印綬を奪い、更に阿羅多を立てて王とし、卑君は敦煌に還り、漢は車師後部の民三百帳をもってこれを別に属役させた。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2272",
+        "text": "電力は文明のあるほとんどの地域で便利な動力源として照明・冷暖房からモーターを動かすことによる運動を利用する機器など、様々な形で利用されており、それらの利便性を提供する機器に電力を供給することが、強電の範疇である。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"電力は文明のあるほとんどの地域で便利な動力源として照明・冷暖房からモーターを動かすことによる運動を利用する機器など、様々な形で利用されており、それらの利便性を提供する機器に電力を供給することが、強電の範疇である。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2273",
+        "text": "プレスリリースによると,DNG48と街宣について,こう説明されています。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"プレスリリースによると,DNG48と街宣について,こう説明されています。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2276",
+        "text": "バッテリーに充電することで、夜間でも4時間連続の使用が可能だ。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"バッテリーに充電することで、夜間でも4時間連続の使用が可能だ。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2279",
+        "text": "また、就職時に有利な検定試験などにもチャレンジされる生徒様も多くいらっしゃり、皆さんとても熱心に勉強に取り組んでいらっしゃります。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"また、就職時に有利な検定試験などにもチャレンジされる生徒様も多くいらっしゃり、皆さんとても熱心に勉強に取り組んでいらっしゃります。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2283",
+        "text": "まだ年が明けていない時間帯でしたが,すでにみなさん書き初めを済ませたようで,“餃子王将”“焼肉定食”“今田耕司”といった習字が飾られていました。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"まだ年が明けていない時間帯でしたが,すでにみなさん書き初めを済ませたようで,“餃子王将”“焼肉定食”“今田耕司”といった習字が飾られていました。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2284",
+        "text": "7月22日零観隊、佐世保より台湾経由で比島に向けて出発。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"7月22日零観隊、佐世保より台湾経由で比島に向けて出発。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2285",
+        "text": "この数値が計測された正門付近は,通常生徒たちはバスで通過してしまうことが多く,生徒が長時間過ごすような場所ではありません。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"この数値が計測された正門付近は,通常生徒たちはバスで通過してしまうことが多く,生徒が長時間過ごすような場所ではありません。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2286",
+        "text": "同CEOは2007年にCEOに就任して以降、買収戦略を追求してきている。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"同CEOは2007年にCEOに就任して以降、買収戦略を追求してきている。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2287",
+        "text": "予想外の利上げの背景には、ランドが昨年来で26%上昇したことが寄与し、インフレが抑制されていることがある。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"予想外の利上げの背景には、ランドが昨年来で26%上昇したことが寄与し、インフレが抑制されていることがある。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2288",
+        "text": "これに対して幸福の科学は,新たな霊言を開示。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"これに対して幸福の科学は,新たな霊言を開示。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2291",
+        "text": "ベスメルトノワは技術や表現力でも高い評価を受けていたが、その音楽性において特に優れていた。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"ベスメルトノワは技術や表現力でも高い評価を受けていたが、その音楽性において特に優れていた。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2293",
+        "text": "後藤氏は,家族から12年5ヶ月の間監禁されたとして2008年に刑事告訴。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"後藤氏は,家族から12年5ヶ月の間監禁されたとして2008年に刑事告訴。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2294",
+        "text": "日本助産師会が発表した声明は以下の通りです。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"日本助産師会が発表した声明は以下の通りです。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2295",
+        "text": "路線を芝路線へと転換するのは、3歳の2月頃からであった。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"路線を芝路線へと転換するのは、3歳の2月頃からであった。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2298",
+        "text": "かつては主演級の女優などで本名あるいは通名を非公表にする者は稀有であったが、最近の若手女優の中には本名非公表とする者も多い。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"かつては主演級の女優などで本名あるいは通名を非公表にする者は稀有であったが、最近の若手女優の中には本名非公表とする者も多い。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2299",
+        "text": "2007年6月には「大分むぎ焼酎」も地域団体商標として登録されている。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"2007年6月には「大分むぎ焼酎」も地域団体商標として登録されている。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2302",
+        "text": "花柄が本当に女の子っぽいドレスなので、ゴスロリっぽくない感じがいいですね!",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"花柄が本当に女の子っぽいドレスなので、ゴスロリっぽくない感じがいいですね!\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2309",
+        "text": "その後も『香港ラプソディー』『屋根の上のヴァイオリン弾き』『マイ・フェア・レディ』など、ミュージカルの出演が多いが、『リア王』『十二夜』などのストレートプレイにも、精力的に出演している。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"その後も『香港ラプソディー』『屋根の上のヴァイオリン弾き』『マイ・フェア・レディ』など、ミュージカルの出演が多いが、『リア王』『十二夜』などのストレートプレイにも、精力的に出演している。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2311",
+        "text": "『平家物語』は当時よく知られた物語のひとつであり、謡曲をはじめとして浄瑠璃や歌舞伎でも幾度となくその題材となっているが、本作はこうした話や人物を用い、じつは...というふうに脚色した作品である。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"『平家物語』は当時よく知られた物語のひとつであり、謡曲をはじめとして浄瑠璃や歌舞伎でも幾度となくその題材となっているが、本作はこうした話や人物を用い、じつは...というふうに脚色した作品である。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". JA_GSDLUW_train3.folia.xml train-s2316",
+        "text": "カードの表面には、パクティオーを行った従者の肖像が描かれている他、姓名、称号、徳性、方位、数字、色調、星辰、などの情報が記入されている。",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Japanese language.",
+            "user": "Sentence: \"カードの表面には、パクティオーを行った従者の肖像が描かれている他、姓名、称号、徳性、方位、数字、色調、星辰、などの情報が記入されている。\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]

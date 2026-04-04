@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3564",
+        "text": "Βλέπω έναν αριθμό κινητού μέσα σε κύκλο.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Βλέπω έναν αριθμό κινητού μέσα σε κύκλο.\"\nIdiom to remove: \"μέσα σε\"\nLemmas to avoid simultaneously: μέσα, σε\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3867",
+        "text": "« Το ερώτημα είναι αν τον έκλεψε για να τον πουλήσει ή αν τον πήρε , επειδή έψαχνε κάτι που βρίσκεται σ τον υπολογιστή ».",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Το ερώτημα είναι αν τον έκλεψε για να τον πουλήσει ή αν τον πήρε , επειδή έψαχνε κάτι που βρίσκεται σ τον υπολογιστή ».\"\nIdiom to remove: \"για να\"\nLemmas to avoid simultaneously: για, να\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 4962",
+        "text": "Τα περί ανοιχτής πόρτας τα έχω ακούσει απ' όλους ανεξαιρέτως , λέω μέσα μου.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Τα περί ανοιχτής πόρτας τα έχω ακούσει απ' όλους ανεξαιρέτως , λέω μέσα μου.\"\nIdiom to remove: \"μέσα μου\"\nLemmas to avoid simultaneously: μέσα, εγώ\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2633",
+        "text": "Τον παίρνω τηλέφωνο και του κάνω μια λεπτομερή ενημέρωση για τους δύο φόνους , μαζί με τις σκέψεις μου.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Τον παίρνω τηλέφωνο και του κάνω μια λεπτομερή ενημέρωση για τους δύο φόνους , μαζί με τις σκέψεις μου.\"\nIdiom to remove: \"παίρνω τηλέφωνο\"\nLemmas to avoid simultaneously: παίρνω, τηλέφωνο\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 425",
+        "text": "τον ρωτάω καθ' οδόν προς Κατεχάκη.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"τον ρωτάω καθ' οδόν προς Κατεχάκη.\"\nIdiom to remove: \"καθ' οδόν\"\nLemmas to avoid simultaneously: κατά, οδός\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3516",
+        "text": "« Για να μας πει το τελευταίο » του απαντώ.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Για να μας πει το τελευταίο » του απαντώ.\"\nIdiom to remove: \"Για να\"\nLemmas to avoid simultaneously: για, να\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 5853",
+        "text": "Σπάω το κεφάλι μου να καταλάβω πώς δε με πήρε ένα τηλέφωνο , για να μου πει ότι τον παρακολουθούν και να μου δώσει τα στοιχεία του φορτηγού και του Σουζούκι.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Σπάω το κεφάλι μου να καταλάβω πώς δε με πήρε ένα τηλέφωνο , για να μου πει ότι τον παρακολουθούν και να μου δώσει τα στοιχεία του φορτηγού και του Σουζούκι.\"\nIdiom to remove: \"Σπάω το κεφάλι μου\"\nLemmas to avoid simultaneously: σπάω, ο, κεφάλι, μου\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3429",
+        "text": "« Ναι , έκανα την υπέρβαση να εμφανιστώ μετά από πολύ καιρό σε συνέντευξη τύπου , μπας και λύσω τις απορίες μου , αλλά , όπως είδες , ούτε εγώ πήρα απάντηση ».",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Ναι , έκανα την υπέρβαση να εμφανιστώ μετά από πολύ καιρό σε συνέντευξη τύπου , μπας και λύσω τις απορίες μου , αλλά , όπως είδες , ούτε εγώ πήρα απάντηση ».\"\nIdiom to remove: \"έκανα υπέρβαση\"\nLemmas to avoid simultaneously: κάνω, υπέρβαση\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3224",
+        "text": "Αυτό ήταν το κίνητρό μας για να επιστρέφουμε.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Αυτό ήταν το κίνητρό μας για να επιστρέφουμε.\"\nIdiom to remove: \"για να\"\nLemmas to avoid simultaneously: για, να\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3106",
+        "text": "Εκ των υστέρων μου κατεβαίνει ότι δεν είπα καλού-κακού σ τον Σωτηρόπουλο ότι η έρευνα είναι ακόμα απόρρητη , αλλά πρώτος αυτός μου επέβαλε τη γραμμή εχεμύθειας.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Εκ των υστέρων μου κατεβαίνει ότι δεν είπα καλού-κακού σ τον Σωτηρόπουλο ότι η έρευνα είναι ακόμα απόρρητη , αλλά πρώτος αυτός μου επέβαλε τη γραμμή εχεμύθειας.\"\nIdiom to remove: \"Εκ των υστέρων\"\nLemmas to avoid simultaneously: εκ, ο, ύστερος\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1248",
+        "text": "« Σας κάλεσα για ν' ακούσω τα καλά νέα » μας λέει με πλατύ χαμόγελο.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Σας κάλεσα για ν' ακούσω τα καλά νέα » μας λέει με πλατύ χαμόγελο.\"\nIdiom to remove: \"για ν'\"\nLemmas to avoid simultaneously: για, να\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2982",
+        "text": "« Εγώ την πήρα σ τη λαχαναγορά , όταν άκουσα για το πλοίο που έπιασε φωτιά , για να μάθω για το φίλο μου » απαντάει αμέσως ο Σαμίρ.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Εγώ την πήρα σ τη λαχαναγορά , όταν άκουσα για το πλοίο που έπιασε φωτιά , για να μάθω για το φίλο μου » απαντάει αμέσως ο Σαμίρ.\"\nIdiom to remove: \"έπιασε φωτιά\"\nLemmas to avoid simultaneously: πιάνω, φωτιά\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1286",
+        "text": "Άσε που δεν πιστεύω ότι αυτή η ενημέρωση, λεπτό προς λεπτό, γίνεται για να μαθαίνει τα μυστικά του επαγγέλματος.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Άσε που δεν πιστεύω ότι αυτή η ενημέρωση, λεπτό προς λεπτό, γίνεται για να μαθαίνει τα μυστικά του επαγγέλματος.\"\nIdiom to remove: \"ενημέρωση γίνεται\"\nLemmas to avoid simultaneously: ενημέρωση, γίνομαι\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 688",
+        "text": "« Όπως πάντα , δικαιώνεσαι εκ των υστέρων και μου σπας τα νεύρα » μου λέει καλμαρισμένος.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Όπως πάντα , δικαιώνεσαι εκ των υστέρων και μου σπας τα νεύρα » μου λέει καλμαρισμένος.\"\nIdiom to remove: \"εκ των υστέρων\"\nLemmas to avoid simultaneously: εκ, ο, ύστερος\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1357",
+        "text": "« Σας ευχαριστώ , μας δίνετε μεγάλη χαρά » μου λέει με πλατύ",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Σας ευχαριστώ , μας δίνετε μεγάλη χαρά » μου λέει με πλατύ\"\nIdiom to remove: \"δίνετε χαρά\"\nLemmas to avoid simultaneously: δίνω, χαρά\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3477",
+        "text": "« Ξέρεις , έχω την αίσθηση ότι είναι λιγότερο υπαρχηγός και περισσότερο επιβλέπων μηχανικός » μου διευκρινίζει.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Ξέρεις , έχω την αίσθηση ότι είναι λιγότερο υπαρχηγός και περισσότερο επιβλέπων μηχανικός » μου διευκρινίζει.\"\nIdiom to remove: \"έχω αίσθηση\"\nLemmas to avoid simultaneously: έχω, αίσθηση\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3274",
+        "text": "Αν δεν ήταν ο Σωτηρόπουλος , που έχει τις ίδιες αμφιβολίες μ' εμένα , θα μου είχε μπει η ιδέα ότι πάσχω από μανία καταδιώξεως.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Αν δεν ήταν ο Σωτηρόπουλος , που έχει τις ίδιες αμφιβολίες μ' εμένα , θα μου είχε μπει η ιδέα ότι πάσχω από μανία καταδιώξεως.\"\nIdiom to remove: \"έχει αμφιβολίες\"\nLemmas to avoid simultaneously: έχω, αμφιβολία\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 982",
+        "text": "Ο Ούλι βάζει τα γέλια.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ο Ούλι βάζει τα γέλια.\"\nIdiom to remove: \"βάζει τα γέλια\"\nLemmas to avoid simultaneously: βάζω, ο, γέλιο\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2297",
+        "text": "« Δεν ήθελε ο πατέρας μου , γιατί δεν είχε εμπιστοσύνη σ τις κυβερνήσεις της Ελλάδας ».",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Δεν ήθελε ο πατέρας μου , γιατί δεν είχε εμπιστοσύνη σ τις κυβερνήσεις της Ελλάδας ».\"\nIdiom to remove: \"είχε εμπιστοσύνη\"\nLemmas to avoid simultaneously: έχω, εμπιστοσύνη\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 889",
+        "text": "Θα πρέπει να κάνουμε μια έρευνα σε καφενεία και σε ψαράδες , μήπως κάποιος πρόσεξε κάτι.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Θα πρέπει να κάνουμε μια έρευνα σε καφενεία και σε ψαράδες , μήπως κάποιος πρόσεξε κάτι.\"\nIdiom to remove: \"κάνουμε έρευνα\"\nLemmas to avoid simultaneously: κάνω, έρευνα\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 3055",
+        "text": "Επειδή δε βρίσκω λύση , καταφεύγω σ το σωσίβιό μου σ' αυτήν την υπόθεση και παίρνω τηλέφωνο τον Στεργιάδη του Λιμενικού.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Επειδή δε βρίσκω λύση , καταφεύγω σ το σωσίβιό μου σ' αυτήν την υπόθεση και παίρνω τηλέφωνο τον Στεργιάδη του Λιμενικού.\"\nIdiom to remove: \"παίρνω τηλέφωνο\"\nLemmas to avoid simultaneously: παίρνω, τηλέφωνο\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2612",
+        "text": "Πρώτα απ' όλα , όσο ατζαμήδες κι αν είναι οι δυο Γεωργιανοί , δεν μπορεί να είναι και τόσο βλάκες , ώστε να χρησιμοποιήσουν σε μια απλή συμπλοκή τα όπλα του εγκλήματος , και μάλιστα να τα παρατήσουν και να το βάλουν σ τα πόδια , αφού πρώτα απειλήσουν τους αντιπάλους τους ότι θα πάθουν τα ίδια με τον εφοπλιστή.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Πρώτα απ' όλα , όσο ατζαμήδες κι αν είναι οι δυο Γεωργιανοί , δεν μπορεί να είναι και τόσο βλάκες , ώστε να χρησιμοποιήσουν σε μια απλή συμπλοκή τα όπλα του εγκλήματος , και μάλιστα να τα παρατήσουν και να το βάλουν σ τα πόδια , αφού πρώτα απειλήσουν τους αντιπάλους τους ότι θα πάθουν τα ίδια με τον εφοπλιστή.\"\nIdiom to remove: \"Πρώτα απ' όλα\"\nLemmas to avoid simultaneously: πρώτα, από, όλος\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1662",
+        "text": "Η κίνηση σ την Αθηνών-Πειραιώς είναι ακόμα πιο πυκνή και μας αναγκάζει να σταματάμε κάθε τόσο , για να ανοίξει ο δρόμος και να περάσουμε.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Η κίνηση σ την Αθηνών-Πειραιώς είναι ακόμα πιο πυκνή και μας αναγκάζει να σταματάμε κάθε τόσο , για να ανοίξει ο δρόμος και να περάσουμε.\"\nIdiom to remove: \"κάθε τόσο\"\nLemmas to avoid simultaneously: κάθε, τόσο\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 640",
+        "text": "Ο Λαλόπουλος δεν είχε άλλο ακίνητο , εκτός από το σπίτι του σ το Χαλάνδρι.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ο Λαλόπουλος δεν είχε άλλο ακίνητο , εκτός από το σπίτι του σ το Χαλάνδρι.\"\nIdiom to remove: \"εκτός από\"\nLemmas to avoid simultaneously: εκτός, από\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 1396",
+        "text": "« Δεν έβγαινα με τίποτα ».",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Δεν έβγαινα με τίποτα ».\"\nIdiom to remove: \"με τίποτα\"\nLemmas to avoid simultaneously: με, τίποτα\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 4748",
+        "text": "« Εντάξει , δέχομαι ότι έκανες ληστεία » του λέω .",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Εντάξει , δέχομαι ότι έκανες ληστεία » του λέω .\"\nIdiom to remove: \"έκανες ληστεία\"\nLemmas to avoid simultaneously: κάνω, ληστεία\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 5524",
+        "text": "« Να τα πούμε αύριο σ τις δέκα » του λέω και του δίνω τη διεύθυνση της καφετέριας σ τη Σπύρου Μερκούρη , που είχα καθίσει σήμερα το πρωί , για να μαζέψω τις σκέψεις μου.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Να τα πούμε αύριο σ τις δέκα » του λέω και του δίνω τη διεύθυνση της καφετέριας σ τη Σπύρου Μερκούρη , που είχα καθίσει σήμερα το πρωί , για να μαζέψω τις σκέψεις μου.\"\nIdiom to remove: \"τα πούμε\"\nLemmas to avoid simultaneously: εγώ, λέω\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2454",
+        "text": "Και να στείλετε τα μαχαίρια σ την ιατροδικαστική , για να δει ο Ανανιάδης αν κάποιο ταιριάζει σ τις πληγές του Χαρδάκου.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Και να στείλετε τα μαχαίρια σ την ιατροδικαστική , για να δει ο Ανανιάδης αν κάποιο ταιριάζει σ τις πληγές του Χαρδάκου.\"\nIdiom to remove: \"για να\"\nLemmas to avoid simultaneously: για, να\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 4692",
+        "text": "Ρίχνουν πρώτα ένα βλέμμα σ' εμένα και μετά ανταλλάσσουν βλέμματα μεταξύ τους , μπας και εξηγήσουν την αναστάτωσή μου.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ρίχνουν πρώτα ένα βλέμμα σ' εμένα και μετά ανταλλάσσουν βλέμματα μεταξύ τους , μπας και εξηγήσουν την αναστάτωσή μου.\"\nIdiom to remove: \"μπας και\"\nLemmas to avoid simultaneously: μπας, και\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2535",
+        "text": "« Φίλοι δεν είμαστε » του λέει σε αυστηρό ύφος , για να του κόψει τη φόρα.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"« Φίλοι δεν είμαστε » του λέει σε αυστηρό ύφος , για να του κόψει τη φόρα.\"\nIdiom to remove: \"για να\"\nLemmas to avoid simultaneously: για, να\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-gud-ud-test-UNSEEN.folia.xml 2432",
+        "text": "Σ το μεταξύ κάνω εκτενή ενημέρωση σ τους βοηθούς μου.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Σ το μεταξύ κάνω εκτενή ενημέρωση σ τους βοηθούς μου.\"\nIdiom to remove: \"Σ το μεταξύ\"\nLemmas to avoid simultaneously: σε, ο, μεταξύ\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-ingr-20240430-headlines-UNSEEN.folia.xml 264",
+        "text": "Το Υπουργικό έτεκεν bonus για Δημόσιο, ο υφυπουργός εξόργισε με την «τίκτουσα γυνή», για το Μάτι ώδινεν όρος και έτεκεν μυν.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Το Υπουργικό έτεκεν bonus για Δημόσιο, ο υφυπουργός εξόργισε με την «τίκτουσα γυνή», για το Μάτι ώδινεν όρος και έτεκεν μυν.\"\nIdiom to remove: \"τίκτουσα γυνή\"\nLemmas to avoid simultaneously: τίκτουσα, γυνή\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-ingr-20240430-headlines-UNSEEN.folia.xml 306_split1",
+        "text": "Γάζα: Οι υπηρεσίες διάσωσης κάνουν λόγο για 23 νεκρούς σε ισραηλινά πλήγματα Σπάνια παραδοχή",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Γάζα: Οι υπηρεσίες διάσωσης κάνουν λόγο για 23 νεκρούς σε ισραηλινά πλήγματα Σπάνια παραδοχή\"\nIdiom to remove: \"κάνουν λόγο\"\nLemmas to avoid simultaneously: κάνω, λόγος\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-ingr-20240430-headlines-UNSEEN.folia.xml 308",
+        "text": "Οι υπηρεσίες διάσωσης κάνουν λόγο για 23 νεκρούς από ισραηλινά πλήγματα στη Γάζα Νέοι θάνατοι σημειώθηκαν στη Γάζα μετά από ισραηλινά πλήγματα, σύμφωνα με όσα αναφέρουν υπηρεσίες διάσωσης.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Οι υπηρεσίες διάσωσης κάνουν λόγο για 23 νεκρούς από ισραηλινά πλήγματα στη Γάζα Νέοι θάνατοι σημειώθηκαν στη Γάζα μετά από ισραηλινά πλήγματα, σύμφωνα με όσα αναφέρουν υπηρεσίες διάσωσης.\"\nIdiom to remove: \"κάνουν λόγο\"\nLemmas to avoid simultaneously: κάνω, λόγος\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 7",
+        "text": "Και αν συνδυάσετε την έλλειψη τροφής με τον υπερπληθυσμό όπως και με το κρύο και την έλλειψη στέγης, έχετε τις τέλειες συνθήκες για να υπάρξει μαζική επιδημία στα παιδιά», δήλωσε ο αξιωματούχος.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Και αν συνδυάσετε την έλλειψη τροφής με τον υπερπληθυσμό όπως και με το κρύο και την έλλειψη στέγης, έχετε τις τέλειες συνθήκες για να υπάρξει μαζική επιδημία στα παιδιά», δήλωσε ο αξιωματούχος.\"\nIdiom to remove: \"για να\"\nLemmas to avoid simultaneously: για, να\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 21",
+        "text": "Η ένωση που διαχειρίζεται το Vollsmose λέει ότι οι αποφάσεις της βασίζονται όχι τόσο στο αν ένα κτίριο είναι σε ερειπωμένη κατάσταση, αλλά στη θέση του και στο αν θα έχει καλή απόδοση στην αγορά.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Η ένωση που διαχειρίζεται το Vollsmose λέει ότι οι αποφάσεις της βασίζονται όχι τόσο στο αν ένα κτίριο είναι σε ερειπωμένη κατάσταση, αλλά στη θέση του και στο αν θα έχει καλή απόδοση στην αγορά.\"\nIdiom to remove: \"έχει απόδοση\"\nLemmas to avoid simultaneously: έχω, απόδοση\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 28",
+        "text": "Παράλληλα, τον τελευταίο μήνα αυξάνονται τα κρούσματα της νέας υποπαραλλαγής, στο Ηνωμένο Βασίλειο και τη Γαλλία, καθώς και στην Κίνα και την Ινδία, αλλά και σε άλλες Ευρωπαϊκές χώρες.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Παράλληλα, τον τελευταίο μήνα αυξάνονται τα κρούσματα της νέας υποπαραλλαγής, στο Ηνωμένο Βασίλειο και τη Γαλλία, καθώς και στην Κίνα και την Ινδία, αλλά και σε άλλες Ευρωπαϊκές χώρες.\"\nIdiom to remove: \"καθώς και\"\nLemmas to avoid simultaneously: καθώς, και\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 37",
+        "text": "Στην ατζέντα του ταξιδιού του Μπλίνκεν στην περιοχή αναμένεται να κυριαρχήσει ο πόλεμος στη Μέση Ανατολή και ο διαφαινόμενος κίνδυνος διάχυσης του, ενώ τόσο στην Τουρκία όσο και στην Ελλάδα, η είδηση της άφιξης φέρνει εικασίες και για διάλογο όσον αφορά ένα ευρύτερο διπλωματικό παζάρι που συνδέεται με τις πολιτικές της Άγκυρας.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Στην ατζέντα του ταξιδιού του Μπλίνκεν στην περιοχή αναμένεται να κυριαρχήσει ο πόλεμος στη Μέση Ανατολή και ο διαφαινόμενος κίνδυνος διάχυσης του, ενώ τόσο στην Τουρκία όσο και στην Ελλάδα, η είδηση της άφιξης φέρνει εικασίες και για διάλογο όσον αφορά ένα ευρύτερο διπλωματικό παζάρι που συνδέεται με τις πολιτικές της Άγκυρας.\"\nIdiom to remove: \"όσον αφορά\"\nLemmas to avoid simultaneously: όσο, αφορώ\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 51",
+        "text": "Επιβάτης της πτήσης, μιλώντας στο NHK News δήλωσε πως το πλήρωμα ήταν εξαιρετικά ψύχραιμο κατά τη διάρκεια της εκκένωσης και έδωσε την οδηγία να μην πάρει κανείς τη χειραποσκευή του.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Επιβάτης της πτήσης, μιλώντας στο NHK News δήλωσε πως το πλήρωμα ήταν εξαιρετικά ψύχραιμο κατά τη διάρκεια της εκκένωσης και έδωσε την οδηγία να μην πάρει κανείς τη χειραποσκευή του.\"\nIdiom to remove: \"έδωσε οδηγία\"\nLemmas to avoid simultaneously: δίνω, οδηγία\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 55",
+        "text": "«Το Κονγκό θα είναι πρόθυμο να δεχτεί μετανάστες και είμαστε σε συζητήσεις με άλλους», δήλωσε ανώτερη πηγή στο υπουργικό συμβούλιο ασφαλείας.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"«Το Κονγκό θα είναι πρόθυμο να δεχτεί μετανάστες και είμαστε σε συζητήσεις με άλλους», δήλωσε ανώτερη πηγή στο υπουργικό συμβούλιο ασφαλείας.\"\nIdiom to remove: \"είμαστε σε συζητήσεις\"\nLemmas to avoid simultaneously: είμαι, σε, συζήτηση\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 56",
+        "text": "Εν τω μεταξύ, η Γάζα αντιμετωπίζει μια εντεινόμενη ανθρωπιστική κρίση.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Εν τω μεταξύ, η Γάζα αντιμετωπίζει μια εντεινόμενη ανθρωπιστική κρίση.\"\nIdiom to remove: \"Εν τω μεταξύ\"\nLemmas to avoid simultaneously: εν, ο, μεταξύ\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 60",
+        "text": "Δεν θα υπάρξει δουλειά και το 60% της γεωργικής γης της Γάζας θα γίνει ζώνες ασφαλείας Σημειώνεται πως η κυβέρνηση του Ισραηλινού πρωθυπουργού Μπενιαμίν Νετανιάχου –συμμαχία κομμάτων της δεξιάς, της άκρας δεξιάς και υπερορθόδοξων εβραϊκών σχηματισμών– κατηγορείται ήδη πως ενίσχυσε την παρουσία των εποίκων στη Δυτική Όχθη, παλαιστινιακό έδαφος που βρίσκεται από το 1967 υπό ισραηλινή κατοχή.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Δεν θα υπάρξει δουλειά και το 60% της γεωργικής γης της Γάζας θα γίνει ζώνες ασφαλείας Σημειώνεται πως η κυβέρνηση του Ισραηλινού πρωθυπουργού Μπενιαμίν Νετανιάχου –συμμαχία κομμάτων της δεξιάς, της άκρας δεξιάς και υπερορθόδοξων εβραϊκών σχηματισμών– κατηγορείται ήδη πως ενίσχυσε την παρουσία των εποίκων στη Δυτική Όχθη, παλαιστινιακό έδαφος που βρίσκεται από το 1967 υπό ισραηλινή κατοχή.\"\nIdiom to remove: \"ζώνες ασφαλείας\"\nLemmas to avoid simultaneously: ζώνη, ασφάλεια\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 62",
+        "text": "Για τους σωφρονιστικούς υπαλλήλους, αποτελούσαν ένα είδος ιδιαιτερότητας και ως επί το πλείστον αγνοούνταν.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Για τους σωφρονιστικούς υπαλλήλους, αποτελούσαν ένα είδος ιδιαιτερότητας και ως επί το πλείστον αγνοούνταν.\"\nIdiom to remove: \"ως επί το πλείστον\"\nLemmas to avoid simultaneously: ως, επί, ο, πλείστο\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 80",
+        "text": "Τα εντονότερα φαινόμενα αναμένεται να σημειωθούν κυρίως στη δυτική Ελλάδα, όπου αναμένεται να πέσουν 40-50 χιλιοστά βροχής, ενώ αντίστοιχο θα είναι το σκηνικό κατά τόπους και στα νησιά του νοτιοανατολικού Αιγαίου.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Τα εντονότερα φαινόμενα αναμένεται να σημειωθούν κυρίως στη δυτική Ελλάδα, όπου αναμένεται να πέσουν 40-50 χιλιοστά βροχής, ενώ αντίστοιχο θα είναι το σκηνικό κατά τόπους και στα νησιά του νοτιοανατολικού Αιγαίου.\"\nIdiom to remove: \"κατά τόπους\"\nLemmas to avoid simultaneously: κατά, τόπος\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 90",
+        "text": "Οπως αναφέρει το ΑΠΕ – ΜΠΕ, στην ανακοίνωση του Στέιτ Ντιπάρτμεντ αναφέρεται ότι «κατά τη διάρκεια της παραμονής της στην Αγκυρα, η αναπληρώτρια υπουργός Νούλαντ θα συναντηθεί με ανώτερους κυβερνητικούς αξιωματούχους και επιχειρηματικούς ηγέτες για να συζητήσουν το πλήρες φάσμα των διμερών, περιφερειακών και παγκόσμιων θεμάτων για τα οποία εργαζόμαστε από κοινού».",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Οπως αναφέρει το ΑΠΕ – ΜΠΕ, στην ανακοίνωση του Στέιτ Ντιπάρτμεντ αναφέρεται ότι «κατά τη διάρκεια της παραμονής της στην Αγκυρα, η αναπληρώτρια υπουργός Νούλαντ θα συναντηθεί με ανώτερους κυβερνητικούς αξιωματούχους και επιχειρηματικούς ηγέτες για να συζητήσουν το πλήρες φάσμα των διμερών, περιφερειακών και παγκόσμιων θεμάτων για τα οποία εργαζόμαστε από κοινού».\"\nIdiom to remove: \"για να\"\nLemmas to avoid simultaneously: για, να\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 106",
+        "text": "Όταν είναι αργά και πεινάμε ή έχουμε όρεξη για ένα περιποιημένο ποτό υπό το φως των κεριών, πηγαίνουμε χωρίς δεύτερη σκέψη στο στενάκι της Τζιραίων.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Όταν είναι αργά και πεινάμε ή έχουμε όρεξη για ένα περιποιημένο ποτό υπό το φως των κεριών, πηγαίνουμε χωρίς δεύτερη σκέψη στο στενάκι της Τζιραίων.\"\nIdiom to remove: \"έχουμε όρεξη\"\nLemmas to avoid simultaneously: έχω, όρεξη\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 117",
+        "text": "Ογενικός γραμματέας των Ηνωμένων Εθνών Αντόνιο Γκουτέρες δεσμεύθηκε σήμερα ότι θα λογοδοτήσει «όποιος εργαζόμενος του ΟΗΕ έχει ανάμιξη σε τρομοκρατικές ενέργειες» ύστερα από τις καταγγελίες ότι μέλη του προσωπικού της υπηρεσίας για τους Παλαιστίνιους πρόσφυγες εμπλέκονταν στις επιθέσεις της Χαμάς κατά του Ισραήλ στις 7 Οκτωβρίου.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ογενικός γραμματέας των Ηνωμένων Εθνών Αντόνιο Γκουτέρες δεσμεύθηκε σήμερα ότι θα λογοδοτήσει «όποιος εργαζόμενος του ΟΗΕ έχει ανάμιξη σε τρομοκρατικές ενέργειες» ύστερα από τις καταγγελίες ότι μέλη του προσωπικού της υπηρεσίας για τους Παλαιστίνιους πρόσφυγες εμπλέκονταν στις επιθέσεις της Χαμάς κατά του Ισραήλ στις 7 Οκτωβρίου.\"\nIdiom to remove: \"έχει ανάμιξη\"\nLemmas to avoid simultaneously: έχω, ανάμιξη\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 119",
+        "text": "«Όποιος εργαζόμενος των Ηνωμένων Εθνών έχει ανάμιξη σε τρομοκρατικές ενέργειες θα λογοδοτήσει, μεταξύ άλλων και μέσω ποινικής δίωξης», ανέφερε ο επικεφαλής του ΟΗΕ σε δήλωση.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"«Όποιος εργαζόμενος των Ηνωμένων Εθνών έχει ανάμιξη σε τρομοκρατικές ενέργειες θα λογοδοτήσει, μεταξύ άλλων και μέσω ποινικής δίωξης», ανέφερε ο επικεφαλής του ΟΗΕ σε δήλωση.\"\nIdiom to remove: \"έχει ανάμιξη\"\nLemmas to avoid simultaneously: έχω, ανάμιξη\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 178",
+        "text": "Η άσκηση αντικειμενικής κριτικής καθώς και η αναγνώριση θετικών πρωτοβουλιών, αποτελούν βασικά χαρακτηριστικά της λειτουργίας μιας ανεξάρτητης μη κυβερνητικής οργάνωσης.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Η άσκηση αντικειμενικής κριτικής καθώς και η αναγνώριση θετικών πρωτοβουλιών, αποτελούν βασικά χαρακτηριστικά της λειτουργίας μιας ανεξάρτητης μη κυβερνητικής οργάνωσης.\"\nIdiom to remove: \"άσκηση κριτικής\"\nLemmas to avoid simultaneously: άσκηση, κριτική\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    },
+    {
+        "sent_id": ". EL-trialNonVMWE-UNSEEN.folia.xml 207",
+        "text": "Ο Μεσογειακός Κανονισμός για την αλιεία (Ε.Κ. 1967/ 2006) αναγνωρίζοντας τη σημασία των λιβαδιών ποσειδωνίας, απαγορεύει την άσκηση αλιείας «με δίχτυα τράτας, δράγες, πεζότρατες (=βιντζότρατες) ή παρόμοια δίχτυα» πάνω σε αυτά, καθώς και σε όλες τις περιοχές που έχουν οριστεί για την προστασία τους.",
+        "prompt": {
+            "system": "You are an expert native speaker of Modern Greek. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ο Μεσογειακός Κανονισμός για την αλιεία (Ε.Κ. 1967/ 2006) αναγνωρίζοντας τη σημασία των λιβαδιών ποσειδωνίας, απαγορεύει την άσκηση αλιείας «με δίχτυα τράτας, δράγες, πεζότρατες (=βιντζότρατες) ή παρόμοια δίχτυα» πάνω σε αυτά, καθώς και σε όλες τις περιοχές που έχουν οριστεί για την προστασία τους.\"\nIdiom to remove: \"άσκηση αλιείας\"\nLemmas to avoid simultaneously: άσκηση, αλιεία\n\nPlease rewrite the sentence naturally in Modern Greek."
+        }
+    }
+]

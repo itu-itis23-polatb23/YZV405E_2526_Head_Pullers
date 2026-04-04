@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s232",
+        "text": "Na pewno zaśpiewam swoje stare, znane piosenki.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Na pewno zaśpiewam swoje stare, znane piosenki.\"\nIdiom to remove: \"Na pewno\"\nLemmas to avoid simultaneously: na, pewno\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s245",
+        "text": "Ale trochę się wstydzę...",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ale trochę się wstydzę...\"\nIdiom to remove: \"się wstydzę\"\nLemmas to avoid simultaneously: się, wstydzić\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s260",
+        "text": "Urzędnicy zapewniają, że wszystko jest w porządku.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Urzędnicy zapewniają, że wszystko jest w porządku.\"\nIdiom to remove: \"w porządku\"\nLemmas to avoid simultaneously: w, porządek\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s261",
+        "text": "Udział w rozgrywkach wzięły reprezentacje 3 szkół.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Udział w rozgrywkach wzięły reprezentacje 3 szkół.\"\nIdiom to remove: \"Udział wzięły\"\nLemmas to avoid simultaneously: udział, wziąć\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s578",
+        "text": "Bardzo mi się podobała.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Bardzo mi się podobała.\"\nIdiom to remove: \"się podobała\"\nLemmas to avoid simultaneously: się, podobać\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s599",
+        "text": "Nie wiem, naprawdę nie wiem, jak się zachowają.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Nie wiem, naprawdę nie wiem, jak się zachowają.\"\nIdiom to remove: \"się zachowają\"\nLemmas to avoid simultaneously: się, zachować\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s612",
+        "text": "Niestety nie możemy brać w niej udziału.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Niestety nie możemy brać w niej udziału.\"\nIdiom to remove: \"brać udziału\"\nLemmas to avoid simultaneously: brać, udział\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s764",
+        "text": "Opaski przeglądamy w lipcu i niszczymy znajdujące się tam gąsienice.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Opaski przeglądamy w lipcu i niszczymy znajdujące się tam gąsienice.\"\nIdiom to remove: \"znajdujące się\"\nLemmas to avoid simultaneously: znajdować, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s777",
+        "text": "- A sam transfer dokumentów pomiędzy urzędami pracy, samorządami lokalnymi i pomocą socjalną o rejestracji i udzielaniu świadczeń zdrowotnych bezrobotnym kosztuje 200 mln zł - wyjaśnia \"Rzeczpopspolitej\" wiceminister.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"- A sam transfer dokumentów pomiędzy urzędami pracy, samorządami lokalnymi i pomocą socjalną o rejestracji i udzielaniu świadczeń zdrowotnych bezrobotnym kosztuje 200 mln zł - wyjaśnia \"Rzeczpopspolitej\" wiceminister.\"\nIdiom to remove: \"udzielaniu świadczeń\"\nLemmas to avoid simultaneously: udzielać, świadczenie\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s788",
+        "text": "Co gorsza nie mamy szansy na pełną konkurencję.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Co gorsza nie mamy szansy na pełną konkurencję.\"\nIdiom to remove: \"Co gorsza\"\nLemmas to avoid simultaneously: co, zły\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s834",
+        "text": "I w związku z tym mam pytanie: czy jest to jakaś obowiązująca norma językowa, czy też pęd ludzi do \"literackości\" wypowiedzi i unikanie regionalizmów (jak to było z \"domawianiem się\" zamiast \"dogadywaniem\" na przykład)?",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"I w związku z tym mam pytanie: czy jest to jakaś obowiązująca norma językowa, czy też pęd ludzi do \"literackości\" wypowiedzi i unikanie regionalizmów (jak to było z \"domawianiem się\" zamiast \"dogadywaniem\" na przykład)?\"\nIdiom to remove: \"w związku z\"\nLemmas to avoid simultaneously: w, związek, z\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s845",
+        "text": "Wyjaśnia on w przystępny sposób tajniki stosowanych w programie konwencji.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Wyjaśnia on w przystępny sposób tajniki stosowanych w programie konwencji.\"\nIdiom to remove: \"w sposób\"\nLemmas to avoid simultaneously: w, sposób\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s857",
+        "text": "Tak jak po wojnie... zabierzcie wszystko tym co mają, spierdolcie co jeszcze jako tako chodzi i będzie biznes jak cholera!",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Tak jak po wojnie... zabierzcie wszystko tym co mają, spierdolcie co jeszcze jako tako chodzi i będzie biznes jak cholera!\"\nIdiom to remove: \"jako tako\"\nLemmas to avoid simultaneously: jako, tako\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s890",
+        "text": "Młodym ludziom wydaje się, że bezkarnie mogą lekceważyć potrzeby organizmu.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Młodym ludziom wydaje się, że bezkarnie mogą lekceważyć potrzeby organizmu.\"\nIdiom to remove: \"wydaje się\"\nLemmas to avoid simultaneously: wydawać, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s947",
+        "text": "Królik jest w stosunku do innych zwierząt swego gatunku bardzo towarzyski, zajmuje nory wspólne i żyje całymi koloniami.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Królik jest w stosunku do innych zwierząt swego gatunku bardzo towarzyski, zajmuje nory wspólne i żyje całymi koloniami.\"\nIdiom to remove: \"w stosunku do\"\nLemmas to avoid simultaneously: w, stosunek, do\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s960",
+        "text": "Zgadzam, się z tym, że \"w Internecie\" jest najlepsze, ale formę \"w sieci Internet\" uważam za dopuszczalną.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Zgadzam, się z tym, że \"w Internecie\" jest najlepsze, ale formę \"w sieci Internet\" uważam za dopuszczalną.\"\nIdiom to remove: \"Zgadzam się\"\nLemmas to avoid simultaneously: zgadzać, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1015",
+        "text": "Trudno mi uwierzyć, że nie zauważyłeś, że trzeba wymienić uszczelkę, bo jeszcze pół roku temu takie naprawy robiłeś od ręki.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Trudno mi uwierzyć, że nie zauważyłeś, że trzeba wymienić uszczelkę, bo jeszcze pół roku temu takie naprawy robiłeś od ręki.\"\nIdiom to remove: \"od ręki\"\nLemmas to avoid simultaneously: od, ręka\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1032",
+        "text": "Krew, pot i łzy, przekleństwa rzucane pod adresem włodarzy miasta, śpiewy patriotyczne, kibolska zadyma, nadmierne prezentowanie siły przez ochroniarzy, którzy nie umieli się zachować, nieszczęsna reakcja Policji, brak koordynacji w kierowaniu akcją i w tym wszystkim osoba komornika - wszystko to tworzyło całość jakiegoś nieudanego i źle przygotowanego przedstawienia.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Krew, pot i łzy, przekleństwa rzucane pod adresem włodarzy miasta, śpiewy patriotyczne, kibolska zadyma, nadmierne prezentowanie siły przez ochroniarzy, którzy nie umieli się zachować, nieszczęsna reakcja Policji, brak koordynacji w kierowaniu akcją i w tym wszystkim osoba komornika - wszystko to tworzyło całość jakiegoś nieudanego i źle przygotowanego przedstawienia.\"\nIdiom to remove: \"przekleństwa rzucane\"\nLemmas to avoid simultaneously: przekleństwo, rzucać\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1043",
+        "text": "Jeszcze gorzej przedstawia się sytuacja z pracą laboratoriów w przedsiębiorstwach budowlano-montażowych.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Jeszcze gorzej przedstawia się sytuacja z pracą laboratoriów w przedsiębiorstwach budowlano-montażowych.\"\nIdiom to remove: \"przedstawia się\"\nLemmas to avoid simultaneously: przedstawiać, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1055",
+        "text": "Poza główną substancją odniesienia dodaje się czasem pomocnicze substancje wzorcowe (np.: jeśli przesunięcia chemiczne badanej substancji leżą w nietypowym zakresie, oddalonym od sygnałów wzorca lub z innych względów).",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Poza główną substancją odniesienia dodaje się czasem pomocnicze substancje wzorcowe (np.: jeśli przesunięcia chemiczne badanej substancji leżą w nietypowym zakresie, oddalonym od sygnałów wzorca lub z innych względów).\"\nIdiom to remove: \"np .\"\nLemmas to avoid simultaneously: na_przykład, .\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1123",
+        "text": "Sen w tym wypadku jest najczulszym instrumentem.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Sen w tym wypadku jest najczulszym instrumentem.\"\nIdiom to remove: \"w wypadku\"\nLemmas to avoid simultaneously: w, wypadek\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1171",
+        "text": "Grzanka jako jedna z pierwszych dziewczyn trafiła do zespołu i z marszu, też jako jedna z pierwszych, złapała za dwa łańcuchy.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Grzanka jako jedna z pierwszych dziewczyn trafiła do zespołu i z marszu, też jako jedna z pierwszych, złapała za dwa łańcuchy.\"\nIdiom to remove: \"z marszu\"\nLemmas to avoid simultaneously: z, marsz\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1212",
+        "text": "(Kiedyś też miałam takie ambicje, zrezygnowałam.)",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"(Kiedyś też miałam takie ambicje, zrezygnowałam.)\"\nIdiom to remove: \"miała ambicje\"\nLemmas to avoid simultaneously: mieć, ambicja\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1292",
+        "text": "Z inicjatywy mocarstw postronnych doszło wkrótce do negocjacji, które doprowadziły do zawarcia pokoju.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Z inicjatywy mocarstw postronnych doszło wkrótce do negocjacji, które doprowadziły do zawarcia pokoju.\"\nIdiom to remove: \"Z inicjatywy\"\nLemmas to avoid simultaneously: z, inicjatywa\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1359",
+        "text": "To na pewno nie jest przyjemne.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"To na pewno nie jest przyjemne.\"\nIdiom to remove: \"na pewno\"\nLemmas to avoid simultaneously: na, pewno\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1387",
+        "text": "Na przemian straszą i obiecują.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Na przemian straszą i obiecują.\"\nIdiom to remove: \"Na przemian\"\nLemmas to avoid simultaneously: na, przemian\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1389",
+        "text": "A poza tym płakałam, bo uważałam, że jestem tam gruba i brzydka.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"A poza tym płakałam, bo uważałam, że jestem tam gruba i brzydka.\"\nIdiom to remove: \"poza tym\"\nLemmas to avoid simultaneously: poza, to\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1436",
+        "text": "J.G.: A co tak naprawdę zmieniło się w SLD, oprócz tego, że jest młodzież, lider i starzy działacze partyjni już tak często nie wypowiadają się w mediach?",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"J.G.: A co tak naprawdę zmieniło się w SLD, oprócz tego, że jest młodzież, lider i starzy działacze partyjni już tak często nie wypowiadają się w mediach?\"\nIdiom to remove: \"wypowiadają się\"\nLemmas to avoid simultaneously: wypowiadać, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1449",
+        "text": "Niekiedy prosi o wiadomości na temat przebiegu rewolucji.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Niekiedy prosi o wiadomości na temat przebiegu rewolucji.\"\nIdiom to remove: \"na temat\"\nLemmas to avoid simultaneously: na, temat\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1493",
+        "text": "Jeszcze większe wrażenie na współczesnych sprawiał Tomasz z Akwinu, dyktując dwa albo trzy traktaty filozoficzne.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Jeszcze większe wrażenie na współczesnych sprawiał Tomasz z Akwinu, dyktując dwa albo trzy traktaty filozoficzne.\"\nIdiom to remove: \"wrażenie sprawiał\"\nLemmas to avoid simultaneously: wrażenie, sprawiać\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s228",
+        "text": "Kobieta z reguły nie ma przed tym oporów.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Kobieta z reguły nie ma przed tym oporów.\"\nIdiom to remove: \"z reguły\"\nLemmas to avoid simultaneously: z, reguła\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s231",
+        "text": "Dlatego właśnie przed laty do Monako przenosili się masowo szwedzcy tenisiści.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Dlatego właśnie przed laty do Monako przenosili się masowo szwedzcy tenisiści.\"\nIdiom to remove: \"przed laty\"\nLemmas to avoid simultaneously: przed, rok\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s238",
+        "text": "Mówi, że dobrze się na nich bawi.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Mówi, że dobrze się na nich bawi.\"\nIdiom to remove: \"się bawi\"\nLemmas to avoid simultaneously: się, bawić\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s255",
+        "text": "Na wszelki wypadek władze twardo dzierżą mężczyźni.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Na wszelki wypadek władze twardo dzierżą mężczyźni.\"\nIdiom to remove: \"Na wszelki wypadek\"\nLemmas to avoid simultaneously: na, wszelki, wypadek\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s267",
+        "text": "Ocknął się dopiero w szpitalu.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Ocknął się dopiero w szpitalu.\"\nIdiom to remove: \"Ocknął się\"\nLemmas to avoid simultaneously: ocknąć, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s273",
+        "text": "Trzeba się rozerwać, żeby ochłonąć.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Trzeba się rozerwać, żeby ochłonąć.\"\nIdiom to remove: \"się rozerwać\"\nLemmas to avoid simultaneously: się, rozerwać\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s489",
+        "text": "Reszta poległa bądź dostała się do niewoli.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Reszta poległa bądź dostała się do niewoli.\"\nIdiom to remove: \"dostała się\"\nLemmas to avoid simultaneously: dostać, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s492",
+        "text": "Co prawda, moja siostra nie zniosłaby związku bez mamy.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Co prawda, moja siostra nie zniosłaby związku bez mamy.\"\nIdiom to remove: \"Co prawda\"\nLemmas to avoid simultaneously: co, prawda\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s505",
+        "text": "Stałem obok ojca i przyglądałem się grze.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Stałem obok ojca i przyglądałem się grze.\"\nIdiom to remove: \"przyglądał się\"\nLemmas to avoid simultaneously: przyglądać, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s515",
+        "text": "- Wiesz, mam spotkanie z Chopinem...",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"- Wiesz, mam spotkanie z Chopinem...\"\nIdiom to remove: \"mam spotkanie\"\nLemmas to avoid simultaneously: mieć, spotkanie\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s526",
+        "text": "W ten sposób tworzy się twój własny styl zajmowania się dzieckiem.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"W ten sposób tworzy się twój własny styl zajmowania się dzieckiem.\"\nIdiom to remove: \"W sposób\"\nLemmas to avoid simultaneously: w, sposób\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s527",
+        "text": "Popełniłam jakiś błąd?",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Popełniłam jakiś błąd?\"\nIdiom to remove: \"Popełniła błąd\"\nLemmas to avoid simultaneously: popełnić, błąd\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s536",
+        "text": "Lepiej na wszelki wypadek zostawić wszystko w rękach Centrali.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Lepiej na wszelki wypadek zostawić wszystko w rękach Centrali.\"\nIdiom to remove: \"na wszelki wypadek\"\nLemmas to avoid simultaneously: na, wszelki, wypadek\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s539",
+        "text": "Znajduje się tutaj kilka gospodarstw rolnych i domów mieszkalnych.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Znajduje się tutaj kilka gospodarstw rolnych i domów mieszkalnych.\"\nIdiom to remove: \"Znajduje się\"\nLemmas to avoid simultaneously: znajdować, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s694",
+        "text": "Trudno zresztą mowić o 'przygotowaniu' - startowali ten program z bardzo ogolnie zakreśloną formułą, sami do końca nie wiedząc, o co im chodzi, wymyślając różne grepsy z odcinka na odcinek, przede wszystkim intensywnie kopiując Big Brothera.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Trudno zresztą mowić o 'przygotowaniu' - startowali ten program z bardzo ogolnie zakreśloną formułą, sami do końca nie wiedząc, o co im chodzi, wymyślając różne grepsy z odcinka na odcinek, przede wszystkim intensywnie kopiując Big Brothera.\"\nIdiom to remove: \"przede wszystkim\"\nLemmas to avoid simultaneously: przed, wszystko\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s721",
+        "text": "Jak członkowie grup skinów odnoszą się do przejawów przemocy?",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Jak członkowie grup skinów odnoszą się do przejawów przemocy?\"\nIdiom to remove: \"odnoszą się\"\nLemmas to avoid simultaneously: odnosić, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s785",
+        "text": "Czy bojkot dnia rodzinnego da efekt?",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Czy bojkot dnia rodzinnego da efekt?\"\nIdiom to remove: \"da efekt\"\nLemmas to avoid simultaneously: dać, efekt\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s819",
+        "text": "Poczytaj moje posty, zanim zrozumiesz moje stanowisko na tyle by je krytykować.....",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Poczytaj moje posty, zanim zrozumiesz moje stanowisko na tyle by je krytykować.....\"\nIdiom to remove: \"na tyle\"\nLemmas to avoid simultaneously: na, tyle\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s890",
+        "text": "Do spa udają się osoby świadome, dla których dbanie o siebie to przyjemność.",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Do spa udają się osoby świadome, dla których dbanie o siebie to przyjemność.\"\nIdiom to remove: \"udają się\"\nLemmas to avoid simultaneously: udawać, się\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    },
+    {
+        "sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s902",
+        "text": "Czy jej brak ma istotny wpływ na jakość amerykańskiego systemu szkolnictwa wyższego?",
+        "prompt": {
+            "system": "You are an expert native speaker of Polish. Your task is to accurately paraphrase a sentence, removing the specified idiom while maintaining semantic meaning.",
+            "user": "Original Sentence: \"Czy jej brak ma istotny wpływ na jakość amerykańskiego systemu szkolnictwa wyższego?\"\nIdiom to remove: \"ma wpływ\"\nLemmas to avoid simultaneously: mieć, wpływ\n\nPlease rewrite the sentence naturally in Polish."
+        }
+    }
+]

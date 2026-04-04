@@ -1,0 +1,402 @@
+[
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4673",
+        "text": "Fiindcă noul formular indică faptul că elevul trebuie să fie apartenent al etniei române dacă vrea să învețe limba română”.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Fiindcă noul formular indică faptul că elevul trebuie să fie apartenent al etniei române dacă vrea să învețe limba română”.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4675",
+        "text": "Comorile energetice -resursele de hidrocarburi estimate a exista în zona Polului Nord, precum și avantajele economice și strategice atrag ca un magnet interesele mai multor state, care duc o adevărată bătălie pentru supremație în regiune.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Comorile energetice -resursele de hidrocarburi estimate a exista în zona Polului Nord, precum și avantajele economice și strategice atrag ca un magnet interesele mai multor state, care duc o adevărată bătălie pentru supremație în regiune.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4677",
+        "text": "De peste două decenii, Oceanul Arctic a devenit zonă de competiție geopolitică.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"De peste două decenii, Oceanul Arctic a devenit zonă de competiție geopolitică.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4678",
+        "text": "Zona Arctică, mai exact frontiera nordică a Rusiei, Norvegiei, Danemarcei, Statelor Unite și Canadei ascunde, potrivit studiilor, circa 22% din resursele nedescoperite de petrol și gaze naturale ale lumii.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Zona Arctică, mai exact frontiera nordică a Rusiei, Norvegiei, Danemarcei, Statelor Unite și Canadei ascunde, potrivit studiilor, circa 22% din resursele nedescoperite de petrol și gaze naturale ale lumii.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4679",
+        "text": "Este vorba, spun experții americani (susținuți în estimări de specialiștii ruși), despre aproximativ 90 de miliarde de barili de petrol, două trilioane de metri cubi de gaz natural și circa 44 miliarde de metri cubi gaze lichefiate, majoritatea în largul mării.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Este vorba, spun experții americani (susținuți în estimări de specialiștii ruși), despre aproximativ 90 de miliarde de barili de petrol, două trilioane de metri cubi de gaz natural și circa 44 miliarde de metri cubi gaze lichefiate, majoritatea în largul mării.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4680",
+        "text": "Nu este de mirare, în aceste condiții, că statele care se învecinează cu aceste comori sunt în plină competiție și fac tot felul de demersuri - locale și internaționale - pentru a-și extinde dominația în zonă.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Nu este de mirare, în aceste condiții, că statele care se învecinează cu aceste comori sunt în plină competiție și fac tot felul de demersuri - locale și internaționale - pentru a-și extinde dominația în zonă.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4681",
+        "text": "Situația actuală arată că nici un stat nu deține și nici nu ar putea deține în întregime Zona Arctică.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Situația actuală arată că nici un stat nu deține și nici nu ar putea deține în întregime Zona Arctică.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4682",
+        "text": "Amintitele țări, care au hotarele în vecinătate, țintesc, pe de o parte, exploatarea celor 200 de mile marine la care le dă dreptul legea internațională, iar pe de altă parte extinderea suveranității cât mai adânc în jurul Polului Nord.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Amintitele țări, care au hotarele în vecinătate, țintesc, pe de o parte, exploatarea celor 200 de mile marine la care le dă dreptul legea internațională, iar pe de altă parte extinderea suveranității cât mai adânc în jurul Polului Nord.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4685",
+        "text": "De pildă, Danemarca a prezentat Organizației Națiunilor Unite, la sfârșitul anului 2014, o cerere de revendicare, susținând că zona care înconjoară Polul Nord este legată de platforma continentală a Groenlandei, teritoriu autonom danez.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"De pildă, Danemarca a prezentat Organizației Națiunilor Unite, la sfârșitul anului 2014, o cerere de revendicare, susținând că zona care înconjoară Polul Nord este legată de platforma continentală a Groenlandei, teritoriu autonom danez.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4687",
+        "text": "La rândul lor, Statele Unite par mult mai interesate de subiect în ultima perioadă, elaborând un „Arctic Action Plan” considerat ambițios și menit să-i ajungă din urmă pe ceilalți competitori implicați în cursa pentru dominația regională.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"La rândul lor, Statele Unite par mult mai interesate de subiect în ultima perioadă, elaborând un „Arctic Action Plan” considerat ambițios și menit să-i ajungă din urmă pe ceilalți competitori implicați în cursa pentru dominația regională.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4688",
+        "text": "Nu în ultimul rând, Rusia, așa cum a obișnuit comunitatea internațională, sare peste etapele de negocieri etalând „avertismente” militare: revendică la ONU extinderea propriilor hotare arctice cu 1,2 milioane de km pătrați, simultan deschizând noi porturi militare și propunându-și ca până în 2025 să aibă în regiune 13 aeroporturi și 10 stații antiradar.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Nu în ultimul rând, Rusia, așa cum a obișnuit comunitatea internațională, sare peste etapele de negocieri etalând „avertismente” militare: revendică la ONU extinderea propriilor hotare arctice cu 1,2 milioane de km pătrați, simultan deschizând noi porturi militare și propunându-și ca până în 2025 să aibă în regiune 13 aeroporturi și 10 stații antiradar.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4689",
+        "text": "De altfel, în acest an, Flota Nordică a Rusiei participă la exerciții în Zona Arctică, „pentru a se pregăti în vederea unor activități militare în regiune”.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"De altfel, în acest an, Flota Nordică a Rusiei participă la exerciții în Zona Arctică, „pentru a se pregăti în vederea unor activități militare în regiune”.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4690",
+        "text": "Mai mult, Moscova a anunțat că va stabili o structură de comandă militară în regiunea arctică până în anul 2017, urmărindu-se „redeschiderea tuturor fostelor structuri sovietice de apărare din regiune”.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Mai mult, Moscova a anunțat că va stabili o structură de comandă militară în regiunea arctică până în anul 2017, urmărindu-se „redeschiderea tuturor fostelor structuri sovietice de apărare din regiune”.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4691",
+        "text": "Ca urmare a acțiunilor Rusiei, celelalte state (cum ar fi Canada, care are o nouă bază la Resolute Bay) au introdus și ele componenta militară în activitățile lor din Zona Arctică, sporindu-și efectivele și modernizând infrastructura de acest tip.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Ca urmare a acțiunilor Rusiei, celelalte state (cum ar fi Canada, care are o nouă bază la Resolute Bay) au introdus și ele componenta militară în activitățile lor din Zona Arctică, sporindu-și efectivele și modernizând infrastructura de acest tip.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4692",
+        "text": "„Nevoia de a domina Zona Arctică include și o cursă a înarmărilor”, atrage atenția expertul internațional Patrick L Young.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"„Nevoia de a domina Zona Arctică include și o cursă a înarmărilor”, atrage atenția expertul internațional Patrick L Young.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4693",
+        "text": "În paralel, etalările de „spărgătoare de gheață” de ultimă generație nu mai contenesc.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"În paralel, etalările de „spărgătoare de gheață” de ultimă generație nu mai contenesc.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4694",
+        "text": "Ca întotdeauna atunci când vine vorba despre lupta pentru resurse și putere, interesele se pot ciocni.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Ca întotdeauna atunci când vine vorba despre lupta pentru resurse și putere, interesele se pot ciocni.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4696",
+        "text": "Doar că Institutul rusesc de Oceanologie a desfășurat cercetări în zonă încă din 2007, concluzionând că aceasta este parte componentă a platformei continentale rusești!",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Doar că Institutul rusesc de Oceanologie a desfășurat cercetări în zonă încă din 2007, concluzionând că aceasta este parte componentă a platformei continentale rusești!\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4699",
+        "text": "Alături de menționatele comori energetice din adâncuri, este vorba despre faptul că accesul în Zona Arctică înseamnă și controlul asupra rutelor nordice, dezvoltare economică, lărgirea perspectivelor strategice.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Alături de menționatele comori energetice din adâncuri, este vorba despre faptul că accesul în Zona Arctică înseamnă și controlul asupra rutelor nordice, dezvoltare economică, lărgirea perspectivelor strategice.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4700",
+        "text": "Un argument economic ar fi acela că, odată cu topirea accelerată a gheții, transportul naval prin nordul pământului ar putea deveni cea mai rapidă cale de a face comerț în jurul lumii, mai exact de la durate ale transportului de 48 de zile în prezent s-ar ajunge la 35 de zile, ceea ce nu este deloc puțin când se vorbește despre comerț intercontinental.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Un argument economic ar fi acela că, odată cu topirea accelerată a gheții, transportul naval prin nordul pământului ar putea deveni cea mai rapidă cale de a face comerț în jurul lumii, mai exact de la durate ale transportului de 48 de zile în prezent s-ar ajunge la 35 de zile, ceea ce nu este deloc puțin când se vorbește despre comerț intercontinental.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4701",
+        "text": "Iar din punct de vedere strategic, Polul Nord nu poate fi de neglijat din perspectiva amplasării de baze și sisteme militare care să întărească dominația.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Iar din punct de vedere strategic, Polul Nord nu poate fi de neglijat din perspectiva amplasării de baze și sisteme militare care să întărească dominația.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4703",
+        "text": "Pentru Uniunea Europeană în ansamblu, ca mare putere mondială, este tot mai important să aibă un cuvânt de spus în „jocul” geopolitic ce vizează Zona Arctică.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Pentru Uniunea Europeană în ansamblu, ca mare putere mondială, este tot mai important să aibă un cuvânt de spus în „jocul” geopolitic ce vizează Zona Arctică.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4705",
+        "text": "UE are și motive să-și susțină poziția, dat fiind faptul că a alocat 1,14 miliarde euro pentru proiecte sociale și de de dezvoltare economică ale regiunii (în special nordul Finlandei și Groenlanda) în perioada 2007 - 2013.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"UE are și motive să-și susțină poziția, dat fiind faptul că a alocat 1,14 miliarde euro pentru proiecte sociale și de de dezvoltare economică ale regiunii (în special nordul Finlandei și Groenlanda) în perioada 2007 - 2013.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4706",
+        "text": "Din aceste considerente, încă din 2008, liderii europeni atrăgeau atenția, într-un raport al Comisiei Europene, asupra evoluțiilor, perspectivelor și atitudinii Uniunii față de regiune, menționând că „există riscul unui conflict cu Rusia pe motiv de exploatare a resurselor” și că „încălzirea globală crește amenințările la securitatea internațională”.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Din aceste considerente, încă din 2008, liderii europeni atrăgeau atenția, într-un raport al Comisiei Europene, asupra evoluțiilor, perspectivelor și atitudinii Uniunii față de regiune, menționând că „există riscul unui conflict cu Rusia pe motiv de exploatare a resurselor” și că „încălzirea globală crește amenințările la securitatea internațională”.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4707",
+        "text": "Documentul avertiza totodată că „Uniunea Europeană trebuie să se dovedească capabilă să facă față noilor provocări și să-și apere interesele”.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Documentul avertiza totodată că „Uniunea Europeană trebuie să se dovedească capabilă să facă față noilor provocări și să-și apere interesele”.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4708",
+        "text": "Pe lângă faptul că evoluțiile din Ucraina au confirmat avertismentele cuprinse în raport, ce altceva se mai poate observa la șapte ani de la semnalele documentului?",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Pe lângă faptul că evoluțiile din Ucraina au confirmat avertismentele cuprinse în raport, ce altceva se mai poate observa la șapte ani de la semnalele documentului?\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4711",
+        "text": "S-a vorbit atunci despre „politici, tendințe, implicații, perspective”, dar acțiunile concrete prin care Uniunea Europeană să-și urmărească interesele în Zona Arctică se lasă și azi așteptate.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"S-a vorbit atunci despre „politici, tendințe, implicații, perspective”, dar acțiunile concrete prin care Uniunea Europeană să-și urmărească interesele în Zona Arctică se lasă și azi așteptate.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4712",
+        "text": "Încă nu este foarte clar ce atitudine va avea noua Comisie Europeană față de tema Nordului, cum vor evolua structurile deja existente, dacă va fi pus în aplicare preconizatul „Centru de Informații Arctic” al Uniunii Europene, dacă se va putea separa tema arctică de contextul nefavorabil al relațiilor UE-Rusia, dacă Uniunea va reuși să acționeze ca un tot unitar în materie.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Încă nu este foarte clar ce atitudine va avea noua Comisie Europeană față de tema Nordului, cum vor evolua structurile deja existente, dacă va fi pus în aplicare preconizatul „Centru de Informații Arctic” al Uniunii Europene, dacă se va putea separa tema arctică de contextul nefavorabil al relațiilor UE-Rusia, dacă Uniunea va reuși să acționeze ca un tot unitar în materie.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4713",
+        "text": "Iar auspiciile nu sunt dintre cele mai bune: UE prezintă un tablou fragmentat când vine vorba despre Zona Arctică, lăsată până acum în seama Serviciului de Acțiune Externă (din perspectivă diplomatică) și a multor comisii și directori (din pescuit, politică regională, mediu, transport etc) din punct de vedere economic.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Iar auspiciile nu sunt dintre cele mai bune: UE prezintă un tablou fragmentat când vine vorba despre Zona Arctică, lăsată până acum în seama Serviciului de Acțiune Externă (din perspectivă diplomatică) și a multor comisii și directori (din pescuit, politică regională, mediu, transport etc) din punct de vedere economic.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4714",
+        "text": "Așadar, nici vorbă de o voce unitară a Uniunii Europene în fața evoluțiilor de anvergură din zona Polului Nord.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Așadar, nici vorbă de o voce unitară a Uniunii Europene în fața evoluțiilor de anvergură din zona Polului Nord.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4716",
+        "text": "Politicile comunitare pentru Zona Arctică se aplică deja în Finlanda, Suedia, Danemarca, precum și în Islanda și Norvegia.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Politicile comunitare pentru Zona Arctică se aplică deja în Finlanda, Suedia, Danemarca, precum și în Islanda și Norvegia.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4718",
+        "text": "Pe lângă această intrare, prin nenumăratele programe și acorduri de parteneriat care se derulează, Uniunea Europeană poate fi tot mai mult percepută ca un actor major al Zonei Arctice, arată o rezoluție a Parlamentului European din 2014.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Pe lângă această intrare, prin nenumăratele programe și acorduri de parteneriat care se derulează, Uniunea Europeană poate fi tot mai mult percepută ca un actor major al Zonei Arctice, arată o rezoluție a Parlamentului European din 2014.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4720",
+        "text": "Unul dintre evenimentele cele mai importante ale demersului pentru unitate este Protocolul românilor/vlahilor din Șerbia de Răsărit, semnat de 12 asociații ale comunității românești, precum și de numeroși lideri de opinie.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Unul dintre evenimentele cele mai importante ale demersului pentru unitate este Protocolul românilor/vlahilor din Șerbia de Răsărit, semnat de 12 asociații ale comunității românești, precum și de numeroși lideri de opinie.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4721",
+        "text": "Documentul stipulează, printre altele:- drepturile persoanelor care își asumă în mod liber identitatea culturală română se referă la „persoanele de origine română și cele aparținând filonului lingvistic și cultural românesc, care locuiesc în afara frontierelor României, indiferent de modul în care aceștia sunt apelați (armâni, armânji, aromani, basarabeni, bucovineni, cuțovlahi, dacoromâni, fărșeroți, herțeni, istroromani, latini dunăreni, macedoromâni, macedoromâni, maramureșeni, megleniți, meglenoromani, moldoveni, moldovlahi, rrămâni, rumâni, valahi, vlahi, vlasi, volohi, macedo-armânji, precum și toate celelalte forme lexicale înrudite semantic cu cele de mai sus), denumite în continuare români de pretutindeni”;",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Documentul stipulează, printre altele:- drepturile persoanelor care își asumă în mod liber identitatea culturală română se referă la „persoanele de origine română și cele aparținând filonului lingvistic și cultural românesc, care locuiesc în afara frontierelor României, indiferent de modul în care aceștia sunt apelați (armâni, armânji, aromani, basarabeni, bucovineni, cuțovlahi, dacoromâni, fărșeroți, herțeni, istroromani, latini dunăreni, macedoromâni, macedoromâni, maramureșeni, megleniți, meglenoromani, moldoveni, moldovlahi, rrămâni, rumâni, valahi, vlahi, vlasi, volohi, macedo-armânji, precum și toate celelalte forme lexicale înrudite semantic cu cele de mai sus), denumite în continuare români de pretutindeni”;\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4722",
+        "text": "- noi toti - români, rumâni, vlahi, valahi sau vlasi - suntem un singur neam și suntem români originari în zona în care trăim;",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"- noi toti - români, rumâni, vlahi, valahi sau vlasi - suntem un singur neam și suntem români originari în zona în care trăim;\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4724",
+        "text": "-indiferent ce spun legile Șerbiei - țara în care trăim și ai cărei cetățeni loiali suntem - care se pot schimba oricând legat de Consiliile naționale, îmbrățișam fără rezerve prevederile clare și de mare folos practic ale Legii 299 din Țară mama, România, care arată că, din punct de vedere juridic, român=rumân=vlah=român/vlah.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"-indiferent ce spun legile Șerbiei - țara în care trăim și ai cărei cetățeni loiali suntem - care se pot schimba oricând legat de Consiliile naționale, îmbrățișam fără rezerve prevederile clare și de mare folos practic ale Legii 299 din Țară mama, România, care arată că, din punct de vedere juridic, român=rumân=vlah=român/vlah.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4731",
+        "text": "În 1935, jurnalistul american George Gallup punea bazele unui proces fără de care imaginea politicienilor actuali a ajuns de neconceput: măsurarea prin sondaj a indicilor de încredere în lideri, pe scurt a felului în care mai-marii lumii își fac treaba în fruntea statelor și guvernelor.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"În 1935, jurnalistul american George Gallup punea bazele unui proces fără de care imaginea politicienilor actuali a ajuns de neconceput: măsurarea prin sondaj a indicilor de încredere în lideri, pe scurt a felului în care mai-marii lumii își fac treaba în fruntea statelor și guvernelor.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4733",
+        "text": "De pildă, George W. Bush, votat pe „rankopedia.com” ca fiind unul dintre „cei mai slabi lideri”, cădea de la 62% susținere în momentul realegerii la 28% în 2008, un an înainte de încetarea celui de-al doilea mandat.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"De pildă, George W. Bush, votat pe „rankopedia.com” ca fiind unul dintre „cei mai slabi lideri”, cădea de la 62% susținere în momentul realegerii la 28% în 2008, un an înainte de încetarea celui de-al doilea mandat.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4735",
+        "text": "O mare diferență, așadar, față de față de cele 90 de procente susținere înregistrate în anul 2002 și, totodată, o mare distanță de scorul de peste 60% cu care predecesorul său, Bill Clinton, își încheia ciclul prezidențial.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"O mare diferență, așadar, față de față de cele 90 de procente susținere înregistrate în anul 2002 și, totodată, o mare distanță de scorul de peste 60% cu care predecesorul său, Bill Clinton, își încheia ciclul prezidențial.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4736",
+        "text": "Și Barak Obama, ales la început cu entuziasm, resimte efectele erodării în fruntea statului, situându-se sub media de popularitate a președinților americani, de 53%, la o distanță de peste zece procente.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Și Barak Obama, ales la început cu entuziasm, resimte efectele erodării în fruntea statului, situându-se sub media de popularitate a președinților americani, de 53%, la o distanță de peste zece procente.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4738",
+        "text": "De pildă, dincolo de Canalul Mânecii dăm de indicii din dreptul actualului premier britanic David Cameron.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"De pildă, dincolo de Canalul Mânecii dăm de indicii din dreptul actualului premier britanic David Cameron.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4739",
+        "text": "În cadrul unuia dintre cele mai recente sondaje, întrebați ce notă i-ar da șefului guvernului pe o scară de la 1 la 10, britanicii au indicat.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"În cadrul unuia dintre cele mai recente sondaje, întrebați ce notă i-ar da șefului guvernului pe o scară de la 1 la 10, britanicii au indicat.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4740",
+        "text": "3.5. Reiese că primul ministru a scăzut și mai mult în ochii celor pe care îi guvernează, după ce oricum nu avusese scoruri însemnate nici în 2010, când înregistra 5.1.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"3.5. Reiese că primul ministru a scăzut și mai mult în ochii celor pe care îi guvernează, după ce oricum nu avusese scoruri însemnate nici în 2010, când înregistra 5.1.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4741",
+        "text": "Interesant de menționat este faptul că celebra sa înaintașă pe linie politică, Margaret Thatcher, figurează în topuri ca unul dintre cei mai buni lideri ai lumii din toate timpurile!",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Interesant de menționat este faptul că celebra sa înaintașă pe linie politică, Margaret Thatcher, figurează în topuri ca unul dintre cei mai buni lideri ai lumii din toate timpurile!\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4742",
+        "text": "Cu totul altfel stau lucrurile în interiorul unui alt gigant european, Germania.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Cu totul altfel stau lucrurile în interiorul unui alt gigant european, Germania.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4743",
+        "text": "Aici se remarcă pe deplin tradiționala încredere pe care o au cetățenii nordici în guvernele lor: cancelarul german Angela Merkel nu a scăzut niciodată sub 50% susținere și este votată cu regularitate drept cel mai popular politician.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Aici se remarcă pe deplin tradiționala încredere pe care o au cetățenii nordici în guvernele lor: cancelarul german Angela Merkel nu a scăzut niciodată sub 50% susținere și este votată cu regularitate drept cel mai popular politician.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4745",
+        "text": "Totuși, electoratul german nu glumește când vine vorba despre muncă și „taxează” cu promptitudine prezența la datorie.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Totuși, electoratul german nu glumește când vine vorba despre muncă și „taxează” cu promptitudine prezența la datorie.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4747",
+        "text": "Așadar, actualul cancelar german, primul provenit din fosta RDG, are toate șansele să rămână, per ansamblu, aproape de nivelul de popularitate pe care l-a păstrat până azi fostul cancelar Willy Brandt (cu un scor general de 72.26).La celălalt pol (geografic) al puterii mondiale se află Vladimir Putin.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Așadar, actualul cancelar german, primul provenit din fosta RDG, are toate șansele să rămână, per ansamblu, aproape de nivelul de popularitate pe care l-a păstrat până azi fostul cancelar Willy Brandt (cu un scor general de 72.26).La celălalt pol (geografic) al puterii mondiale se află Vladimir Putin.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4749",
+        "text": "Alte câteva luni mai târziu, când se credea că urmează un război cu Ucraina, popularitatea lui Putin ajungea la 87% (așa cum în 2002, după atentatele de la World Trade Center, americanii se aliniaseră în spatele politicii de ripostă militară a lui George W. Bush în proporție de 90%!).",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Alte câteva luni mai târziu, când se credea că urmează un război cu Ucraina, popularitatea lui Putin ajungea la 87% (așa cum în 2002, după atentatele de la World Trade Center, americanii se aliniaseră în spatele politicii de ripostă militară a lui George W. Bush în proporție de 90%!).\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    },
+    {
+        "sent_id": ". RO-testnou.10.folia.xml BsE-corola-4750",
+        "text": "Nici colapsul rublei, de la sfârșitul anului trecut, generat de sancțiunile internaționale, chiar dacă a adus dificultăți financiare populației, nu a știrbit decât câteva procente din încrederea de care se bucură cel care a fost declarat „omul anului” în Federația Rusă 15 ani consecutiv.",
+        "prompt": {
+            "system": "You are a multilingual linguistics expert specialising in the Romanian language.",
+            "user": "Sentence: \"Nici colapsul rublei, de la sfârșitul anului trecut, generat de sancțiunile internaționale, chiar dacă a adus dificultăți financiare populației, nu a știrbit decât câteva procente din încrederea de care se bucură cel care a fost declarat „omul anului” în Federația Rusă 15 ani consecutiv.\"\n\nIdentify any Multiword Expressions (MWE) or idioms in the sentence above. Respond ONLY with the exact short quoted phrase."
+        }
+    }
+]
