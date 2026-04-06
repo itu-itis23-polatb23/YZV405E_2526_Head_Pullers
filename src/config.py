@@ -10,12 +10,9 @@ API key setup (Google AI Studio — free):
 """
 
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
 
 # ── API ───────────────────────────────────────────────────────────────────────
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_API_KEY = "AIzaSyB-QUVaArWdyv6lEb5XkAmmMUozCp72AQI"  # Replace with your own
 
 MODEL_NAME = "gemini-3.1-flash-lite-preview"
 TEMPERATURE = 0.3

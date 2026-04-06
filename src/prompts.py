@@ -5,9 +5,8 @@ Prompt templates for MWE detection and paraphrasing.
 """
 
 DETECTION_SYSTEM = """\
-You are an expert linguist. Given a sentence, identify the multiword expression (MWE) 
-that is idiomatic (non‑compositional). Return the exact span of the MWE as it appears 
-in the sentence, and list its lemmas (base forms, lowercase).
+You are an expert linguist. Given a sentence, identify the multiword expression (MWE) in it.\
+Return the exact span of the MWE as it appears in the sentence, and list its lemmas (base forms, lowercase).
 
 Output **only** a valid JSON object with keys: "mwe_span" (string or null) and "lemmas" (list of strings).
 Example: {"mwe_span": "kicked the bucket", "lemmas": ["kick", "bucket"]}
@@ -40,10 +39,10 @@ FEW_SHOT_EXAMPLES = [
     },
     {
         "language"   : "English",
-        "sentence"   : "She made up her mind to leave the company.",
-        "mwe"        : "made up her mind",
-        "lemmas"     : ["make", "mind"],
-        "paraphrase" : "She decided to leave the company.",
+        "sentence"   : "By and large, students performed well on the exam.",
+        "mwe"        : "by and large", 
+        "lemmas"     : ["by", "and", "large"],
+        "paraphrase" : "Overall, students did well on the exam.",
     },
     {
         "language"   : "English",
@@ -52,12 +51,19 @@ FEW_SHOT_EXAMPLES = [
         "lemmas"     : ["kick", "bucket"],
         "paraphrase" : "He died after a long illness.",
     },
+    {
+        "language"   : "English",
+        "sentence"   : "She decided to have a hot dog for lunch.",
+        "mwe"        : "hot dog",
+        "lemmas"     : ["hot", "dog"],
+        "paraphrase" : "She decided to have a warm sausage sandwich for lunch.",
+    }
 ]
 
 PARAPHRASE_SYSTEM = """\
 You are an expert multilingual paraphrasing specialist.
 
-You will be given a sentence containing an idiomatic expression (MWE),
+You will be given a sentence containing a multiword expression (MWE),
 the MWE itself, and a list of its component lemmas.
 
 Your task: rewrite the sentence so that the MWE is removed and replaced

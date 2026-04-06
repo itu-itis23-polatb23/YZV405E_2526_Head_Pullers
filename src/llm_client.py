@@ -55,7 +55,7 @@ def call_llm(
             return _clean(text)
         except Exception as e:
             err = str(e)
-            wait = 2**attempt
+            wait = 30
             if "429" in err or "quota" in err.lower() or "rate" in err.lower():
                 logger.warning(f"[LLM] Rate limit (attempt {attempt}/{max_attempts}). Waiting {wait}s...")
                 time.sleep(wait)
