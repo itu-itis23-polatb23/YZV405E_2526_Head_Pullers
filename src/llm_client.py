@@ -7,7 +7,7 @@ Gemini API wrapper using the official google-genai SDK.
 import time
 import logging
 from typing import Optional
-from config import ATTEMPTS_ON_THIS_SESSION 
+
 
 logger = logging.getLogger(__name__)
 
@@ -33,7 +33,7 @@ def call_llm(
     api_key_index: int = 0,
 ) -> Optional[str]:
     from google.genai import types
-    from config import MODEL_NAME, TEMPERATURE, MAX_TOKENS
+    from config import MODEL_NAME, TEMPERATURE, MAX_TOKENS, ATTEMPTS_ON_THIS_SESSION
 
     model = model or MODEL_NAME
     temperature = temperature if temperature is not None else TEMPERATURE
@@ -47,6 +47,7 @@ def call_llm(
         max_output_tokens=max_tokens,
         system_instruction=system_text or None,
     )
+    print("Total attempts on this session: ", ATTEMPTS_ON_THIS_SESSION)
 
     for attempt in range(1, max_attempts + 1):
         try:
