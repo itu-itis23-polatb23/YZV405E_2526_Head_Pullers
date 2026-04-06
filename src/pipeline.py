@@ -11,7 +11,7 @@ import logging
 from dataclasses import dataclass
 from typing import List, Optional
 
-from config import LANGUAGES, MAX_RETRIES, DETECTION_TEMPERATURE, DETECTION_MAX_TOKENS, TEMPERATURE, ATTEMPTS_ON_THIS_SESSION
+from config import LANGUAGES, MAX_RETRIES, DETECTION_TEMPERATURE, DETECTION_MAX_TOKENS, TEMPERATURE
 from llm_client import call_llm
 from prompts import (
     build_paraphrase_messages,
@@ -53,6 +53,8 @@ class PipelineResult:
 
 def detect_mwe(sentence: str, lang_code: str, max_attempts: int = 3) -> tuple:
     """Call LLM to detect MWE span and lemmas. Returns (mwe_span, lemmas_list)."""
+    import attempt_counter
+
     messages = build_detection_messages(sentence)
     for attempt in range(1, max_attempts + 1):
         response = call_llm(
@@ -60,7 +62,7 @@ def detect_mwe(sentence: str, lang_code: str, max_attempts: int = 3) -> tuple:
             temperature= DETECTION_TEMPERATURE,
             max_tokens= DETECTION_MAX_TOKENS,
             max_attempts= max_attempts,
-            api_key_index= ATTEMPTS_ON_THIS_SESSION // 470,  # Rotate API key every 470 attempts
+            api_key_index= attempt_counter.attempts_in_this_session // 470,  # Rotate API key every 470 attempts
         )
         if not response:
             continue
@@ -91,6 +93,8 @@ def detect_mwe(sentence: str, lang_code: str, max_attempts: int = 3) -> tuple:
     return None, []
 
 def run_single(record: dict, use_few_shot: bool = True) -> PipelineResult:
+    import attempt_counter
+
     lang_code = record["language"]
     lang_name = LANGUAGES.get(lang_code, lang_code)
     sentence = record["sentence"]
@@ -132,7 +136,7 @@ def run_single(record: dict, use_few_shot: bool = True) -> PipelineResult:
         lemmas=lemmas,
         use_few_shot=use_few_shot,
     )
-    paraphrase = call_llm(messages, temperature=TEMPERATURE, api_key_index=ATTEMPTS_ON_THIS_SESSION // 470, max_attempts=MAX_RETRIES)
+    paraphrase = call_llm(messages, temperature=TEMPERATURE, api_key_index=attempt_counter.attempts_in_this_session // 470, max_attempts=MAX_RETRIES)
     if not paraphrase:
         result.error = "LLM returned empty response"
         result.paraphrase = sentence

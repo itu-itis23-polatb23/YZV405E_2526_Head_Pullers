@@ -33,7 +33,8 @@ def call_llm(
     api_key_index: int = 0,
 ) -> Optional[str]:
     from google.genai import types
-    from config import MODEL_NAME, TEMPERATURE, MAX_TOKENS, ATTEMPTS_ON_THIS_SESSION
+    from config import MODEL_NAME, TEMPERATURE, MAX_TOKENS
+    import attempt_counter
 
     model = model or MODEL_NAME
     temperature = temperature if temperature is not None else TEMPERATURE
@@ -47,16 +48,16 @@ def call_llm(
         max_output_tokens=max_tokens,
         system_instruction=system_text or None,
     )
-    print("Total attempts on this session: ", ATTEMPTS_ON_THIS_SESSION)
+    print("Total attempts on this session: ", attempt_counter.attempts_in_this_session)
 
     for attempt in range(1, max_attempts + 1):
+        attempt_counter.attempts_in_this_session += 1
         try:
             response = client.models.generate_content(
                 model=model,
                 contents=gemini_contents,
                 config=config,
             )
-            ATTEMPTS_ON_THIS_SESSION += 1
             text = response.text
             return _clean(text)
         except Exception as e:
