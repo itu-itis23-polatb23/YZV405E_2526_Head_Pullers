@@ -11,7 +11,7 @@ import logging
 from dataclasses import dataclass
 from typing import List, Optional
 
-from config import LANGUAGES, MAX_RETRIES, DETECTION_TEMPERATURE, DETECTION_MAX_TOKENS
+from config import LANGUAGES, MAX_RETRIES, DETECTION_TEMPERATURE, DETECTION_MAX_TOKENS, TEMPERATURE
 from llm_client import call_llm
 from prompts import (
     build_paraphrase_messages,
@@ -21,6 +21,7 @@ from prompts import (
 from lemmatizer import check_constraint
 
 logger = logging.getLogger(__name__)
+global _attempts_on_this_session
 
 @dataclass
 class PipelineResult:
@@ -56,9 +57,10 @@ def detect_mwe(sentence: str, lang_code: str, max_attempts: int = 3) -> tuple:
     for attempt in range(1, max_attempts + 1):
         response = call_llm(
             messages,
-            temperature=DETECTION_TEMPERATURE,
-            max_tokens=DETECTION_MAX_TOKENS,
-            max_attempts=1
+            temperature= DETECTION_TEMPERATURE,
+            max_tokens= DETECTION_MAX_TOKENS,
+            max_attempts= max_attempts,
+            api_key_index= _attempts_on_this_session // 470,  # Rotate API key every 470 attempts
         )
         if not response:
             continue
@@ -130,7 +132,7 @@ def run_single(record: dict, use_few_shot: bool = True) -> PipelineResult:
         lemmas=lemmas,
         use_few_shot=use_few_shot,
     )
-    paraphrase = call_llm(messages)
+    paraphrase = call_llm(messages, temperature=TEMPERATURE, api_key_index= _attempts_on_this_session // 470, max_attempts=MAX_RETRIES)
     if not paraphrase:
         result.error = "LLM returned empty response"
         result.paraphrase = sentence

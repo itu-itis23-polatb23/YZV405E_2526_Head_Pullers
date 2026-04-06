@@ -12,12 +12,15 @@ logger = logging.getLogger(__name__)
 
 _client = None
 
-def _get_client():
+global _attempts_on_this_session
+_attempts_on_this_session = 0
+
+def _get_client(api_key_index: int = 0):
     global _client
     if _client is None:
         from google import genai
-        from config import GEMINI_API_KEY
-        _client = genai.Client(api_key=GEMINI_API_KEY)
+        from config import GEMINI_API_KEYS
+        _client = genai.Client(api_key=GEMINI_API_KEYS[api_key_index])
         logger.info("[LLM] Gemini client initialised")
     return _client
 
@@ -27,6 +30,7 @@ def call_llm(
     temperature=None,
     max_tokens: int = None,
     max_attempts: int = 5,
+    api_key_index: int = 0,
 ) -> Optional[str]:
     from google.genai import types
     from config import MODEL_NAME, TEMPERATURE, MAX_TOKENS
@@ -35,7 +39,7 @@ def call_llm(
     temperature = temperature if temperature is not None else TEMPERATURE
     max_tokens = max_tokens or MAX_TOKENS
 
-    client = _get_client()
+    client = _get_client(api_key_index)
     system_text, gemini_contents = _convert_messages(messages)
 
     config = types.GenerateContentConfig(
@@ -51,6 +55,7 @@ def call_llm(
                 contents=gemini_contents,
                 config=config,
             )
+            _attempts_on_this_session += 1
             text = response.text
             return _clean(text)
         except Exception as e:
