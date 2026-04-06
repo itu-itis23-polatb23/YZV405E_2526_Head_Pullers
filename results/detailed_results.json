@@ -1,0 +1,47 @@
+[
+  {
+    "id": "31629_17",
+    "language": "FR",
+    "raw_text": "La [[musique sacrée]]",
+    "sentence": "La musique sacrée",
+    "mwe": "musique sacrée",
+    "mwe_lemmas": [
+      "musiqu",
+      "sacrer"
+    ],
+    "paraphrase": "Les chants religieux",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "116_1326",
+    "language": "FR",
+    "raw_text": "Malone L' année 1996 a été qualifiée par les Nations Unies d' [[année internationale]] pour l' élimination de la pauvreté .",
+    "sentence": "Malone L' année 1996 a été qualifiée par les Nations Unies d' année internationale pour l' élimination de la pauvreté .",
+    "mwe": "année internationale",
+    "mwe_lemmas": [
+      "international",
+      "année"
+    ],
+    "paraphrase": "Malone, l'exercice 1996 a été désigné par les Nations Unies comme une période mondiale consacrée à l'élimination de la pauvreté.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "69617_20",
+    "language": "FR",
+    "raw_text": "L' un de les personnages de le roman en sculpte de les reproductions , destinées à être utilisées pour une [[animation touristique]] .",
+    "sentence": "L' un de les personnages de le roman en sculpte de les reproductions , destinées à être utilisées pour une animation touristique .",
+    "mwe": "animation touristique",
+    "mwe_lemmas": [
+      "touristique",
+      "animation"
+    ],
+    "paraphrase": "L'un des personnages du roman en sculpte des reproductions, destinées à servir lors d'activités de loisirs pour les visiteurs.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  }
+]

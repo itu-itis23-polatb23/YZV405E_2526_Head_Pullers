@@ -1,0 +1,318 @@
+[
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s267",
+        "raw_text": "W poprzednim numerze informowaliśmy o związkach zawodowych w naszym mieście."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s575",
+        "raw_text": "Potrafi ono oddzielić plewy od ziarna."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s671",
+        "raw_text": "A Mafia to ponoć chłop jak dąb."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s941",
+        "raw_text": "Większa liczba emerytów oznacza przecież, że ludzie aktywni zawodowo będą musieli wydajniej pracować, wzrośnie również obciążenie służby zdrowia i służb socjalnych."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s997",
+        "raw_text": "OJ: Lata mijają i sport jest moją fascynacją, moim hobby, moim życiem, ale kiedyś będę chciała mieć rodzinę i żyć normalnie, nie na walizkach."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1079",
+        "raw_text": "Jesienią 1937 Stroop wchodzi w skład wyższej elity SS-owskiej."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1151",
+        "raw_text": "W strukturze współczesnego systemu szkonictwa wyższego w Polsce państwowe i niepaństwowe uczelnie dzielimy na dwie kategorie."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1440",
+        "raw_text": "Naprawdę liczy Pan na to, że ktoś Panu uwierzy na słowo, przecież efekt będzie dokładnie odwrotny, bo każdy sobie pomyśli - tam musi być coś ciekawego, ale to może tak jak z UPR-owską agitacją, która zamiast przyciągać skutecznie odstrasza."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1492",
+        "raw_text": "Biała plama zniknęła, cały glob był opasany siecią wspólnot."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1620",
+        "raw_text": "Jednak już wkrótce Nizioł i Wapiński ze zdumieniem odkryli, że Łapiński nie dotrzymuje wcześniej danego słowa."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s277",
+        "raw_text": "Dlaczego czuję miętę do tej starszej kobiety?"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s719",
+        "raw_text": "Zakończenie pięknej piłkarskiej kariery wcale nie oznaczało końca przygody z piłką nożną."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s1101",
+        "raw_text": "Nie ma mowy o marnowaniu powierzchni."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s1222",
+        "raw_text": "Myślałem, że jest bierny, że wypłynął na fali."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s1331",
+        "raw_text": "Wróciło do łask w 1960 r."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-test.conllu test-s1521",
+        "raw_text": "Dyskrecja, takt i skromność to podstawowe pojęcia bon tonu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s1709",
+        "raw_text": "- Mieliśmy gorące głowy, on nas tonował."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s1731",
+        "raw_text": "Zaprószono ogień i wybuchł poważny pożar na górnych piętrach."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s1757",
+        "raw_text": "Wprowadzenie planu w życie wymaga uchwalenia bądź zmiany kilkunastu ustaw."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s1944",
+        "raw_text": "Pani Młoda wystąpiła w białej, włoskiej kreacji."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s2006",
+        "raw_text": "Teraz Bóg jeden raczy wiedzieć."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s2031",
+        "raw_text": "Twoje słowa trafiły na podatny grunt."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s2054",
+        "raw_text": "Trudno zachować olimpijski spokój."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s2114",
+        "raw_text": "Zwracajmy szczególną uwagę na bezpieczeństwo dzieci."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s3487",
+        "raw_text": "Spada koniunktura dla brunatnych koszul."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s3525",
+        "raw_text": "Pędzę do pokojówki z tą hiobową wieścią."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s3705",
+        "raw_text": "Opadły mi ręce..."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s3769",
+        "raw_text": "Ale to nie znaczy, że świat stanął w miejscu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s3798",
+        "raw_text": "I nie myśl, że mam Ci to za złe."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s4531",
+        "raw_text": "Poczucie realizmu, pragmatyzmu, interesu narodowego nakazuje nazywać po imieniu błędy i zaniechania rządu Jerzego Buzka."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s4571",
+        "raw_text": "NIK skontrolowała także 21 inwestycji służby zdrowia."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s4967",
+        "raw_text": "Z ich punktu widzenia wyrwaliśmy tylko natkę od marchewki, pozostawiając korzeń w ziemi."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5067",
+        "raw_text": "W uliczce nie ma żywego ducha."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5070",
+        "raw_text": "W dniu Debaty zamykam się razem ze stosem dokumentacji w pokoju redakcyjnym, wyłączam telefon komórkowy i nie ma mnie praktycznie dla nikogo."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5146",
+        "raw_text": "Tylko w takim państwie - przyjaznym obywatelom, przejrzystym, z czytelnymi regułami gry - może rozwijać się demokracja, społeczeństwo obywatelskie, przedsiębiorczość."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5168",
+        "raw_text": "Używaj zawsze tych samych słów i określeń."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5242",
+        "raw_text": "- Czy czarny scenariusz jest brany pod uwagę w zachodnich kołach finansowych?"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5504",
+        "raw_text": "Są ponadto zależni od społeczności wyższych, które mają zwyczajowe prawo ingerowania w życie tych ludzi."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5554",
+        "raw_text": "Masz za sobą astrologiczny półmetek."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5744",
+        "raw_text": "Nie ma co dramatyzować, jest jeszcze news:pl.rec.kuchnia :-)"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5747",
+        "raw_text": "Za nimi uplasowało się Ministerstwo Finansów, które jako jedyne w całej stawce prognozowało wzrost PKB na poziomie niższym, niż to faktycznie miało miejsce."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5806",
+        "raw_text": "Pokonał nieznane, ale nie było mu dane opowiedzieć o tym..."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5898",
+        "raw_text": "Zwyciężył SLD-UP uzyskując 8 mandatów,a indywidualnie wicemarszałek Marek Borowski - 149233 głosy, bijąc dotychczasowy \"rekord Polski\" Aleksandra Kwaśniewskiego z 1993 r."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5960",
+        "raw_text": "Tymczasem w liceach prowadzonych przez Społeczne Towarzystwo Oświatowe zdanie egzaminu dojrzałości nie należy do najłatwiejszych."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5984",
+        "raw_text": "Wcześniej jednak na tapetę wzięły przedstawiony przez Zarząd Gminy projekt budżetu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s6014",
+        "raw_text": "Tylko uważaj, żeby Ci maszynka do golenia nie odmówiła posłuszeństwa, no bo jak tak wejść nieogolonym w rok 2000 - toż to katastrofa!"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s6302",
+        "raw_text": "Ten obraz szybko się poprawi - jeśli historia przestanie nas wreszcie tarmosić, jeśli ze dwa, trzy pokolenia Polaków pożyją wreszcie w jakim takim pokoju, wolności, dobrobycie wreszcie."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s6424",
+        "raw_text": "Czemu wyniki tej ankiety są takie poprażające skoro dyr. personalny Andrzej Piętka w FWN twierdzi, że w FAP jest tak pięknie jak w \"Krainie mlekiem i miodem płynącym???"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s6672",
+        "raw_text": "Medykamenty współczesne dostępne są na czarnym rynku."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s6859",
+        "raw_text": "Gdy po wypiciu trunku siedlczanin chciał opuścić towarzystwo, został prawdopodobnie uderzony w głowę i stracił przytomność."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s7433",
+        "raw_text": "Polacy kochają \"święty spokój\", nieprawdaż?"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s7510",
+        "raw_text": "Przez cały czas trwania ćwiczenia oddychaj, zwracając szczególną uwagę na wydech."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s7738",
+        "raw_text": "Reszta prawdopodobnie przeznaczona jest na propagandę i może wikt i opierunek, bo przecież potęgą przemysłowo-gospodarczą owo państwo nie jest i nie było."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s7867",
+        "raw_text": "Pokora uczyniła go cichym i tylko miłość w nim płonie, dlatego spogląda na wszystkie rzeczy takimi samymi oczami."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s7899",
+        "raw_text": "W naszym kraju funkcjonuje 391 państwowych domów dziecka oraz 117 rodzinnych."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s8017",
+        "raw_text": "Do dziś dziękuję Bogu, że trafiłem na takich porządnych ludzi, którzy dali nam dach nad głową i przysłowiowy talerz zupy."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s8539",
+        "raw_text": "Mażoretki, mające na koncie tytuły mistrzowskie w Polsce, pojechały na europejski championat do Bratysławy."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s8589",
+        "raw_text": "- Z tego punktu widzenia kryzys może być pożytecznym ograniczeniem."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s8849",
+        "raw_text": "Skutecznym wentylem bezpieczeństwa jest gimnastyka."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9006",
+        "raw_text": "Dla Związku Radzieckiego było to również mniejsze zło."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9012",
+        "raw_text": "W 2000 r. na światowych giełdach nastąpił krach, a zawyżone kursy akcji spółek internetowych spadły na łeb."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9457",
+        "raw_text": "W niedzielę 7 czerwca o godz. 17 Odra podejmuje Inę, a Mieszko o tej samej godzinie u siebie gra z Dąbrovią."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9465",
+        "raw_text": "We znaki dały się też niewyczyszczone przed zimą przewody kominowe."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9819",
+        "raw_text": "Weź to pod uwagę."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9974",
+        "raw_text": "Rifamycyny są szczególnie przydatne w leczeniu mykobakterioz takich jak: gruźlica, trąd czy zakażenia bakteriami wchodzącymi w skład mycobacterium avium complex (MAC)."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s10107",
+        "raw_text": "Chyba z tych samych względów wstrzymany został remont Synagogi pod Białym Bocianem we Wrocławiu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s10545",
+        "raw_text": "- Idę w ślady ojca, on też kucharzy."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s10843",
+        "raw_text": "Robert czekał już na mnie przy tym samym stoliku, przy którym spotkaliśmy się wczoraj rano."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s10860",
+        "raw_text": "Zdarzenie miało miejsce 20 kwietnia tego roku."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11040",
+        "raw_text": "Powołał do życia Centralne Biuro Śledcze."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11051",
+        "raw_text": "Dzięki jego zaangażowaniu w naszym mieście nadal funkcjonuje sekcja piłki nożnej na odpowiednim poziomie sportowym, promująca Jarosław na terenie Polski południowo - wschodniej."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11225",
+        "raw_text": "Właściwie tylko Białostockie Przedsiębiorstwo Budownictwa Przemysłowego posiada laboratorium z prawdziwego zdarzenia."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11463",
+        "raw_text": "Adam po pobycie w Nowym Jorku nie mógł już w Krośnie złapać oddechu, postanowił zbudować dom pod Krakowem."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11688",
+        "raw_text": "Przed tygodniem rzesze ostrzeszowian odprowadziły go na miejsce wiecznego spoczynku."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11735",
+        "raw_text": "W tym samym miejscu będzie także Urząd Stanu Cywilnego."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11839",
+        "raw_text": "Ale lepsi byli tylko w gadu-gadu przed kamerą."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s12063",
+        "raw_text": "Wtedy głos zabrali solidni krytycy."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s12157",
+        "raw_text": "Temat ten na dzień dzisiejszy, jako jedno z haseł wyborczych, jest przysłowiową musztardą po obiedzie."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s12913",
+        "raw_text": "Uważałem je i dalej uważam za wyrok sądu kapturowego."
+    }
+]

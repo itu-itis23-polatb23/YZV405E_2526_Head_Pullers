@@ -1,0 +1,24 @@
+# MWE Paraphrasing Pipeline — Requirements
+# Install with: pip install -r requirements.txt
+
+# ── LLM API (Google Gemini — free on AI Studio) ───────────────────────────────
+google-genai>=1.0.0
+
+# ── Lemmatization ─────────────────────────────────────────────────────────────
+spacy>=3.7.0
+stanza>=1.7.0
+
+# ── Evaluation ────────────────────────────────────────────────────────────────
+bert-score>=0.3.13
+sacremoses>=0.1.1       # tokenization used internally by bert-score
+
+# ── mT5 fine-tuning (secondary model) ────────────────────────────────────────
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.18.0
+sentencepiece>=0.1.99   # required by mT5 tokenizer
+accelerate>=0.29.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm
+dotenv

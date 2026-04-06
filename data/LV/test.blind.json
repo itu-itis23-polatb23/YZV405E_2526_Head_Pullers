@@ -1,0 +1,570 @@
+[
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12611-p1s11",
+        "raw_text": "Upe aizsalst nevienmērīgi, tāpēc nevajag izaicināt likteni cerībā, ka paveiksies."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2273-p3s2",
+        "raw_text": "Gūsta vietā Madridē ieradās Angulēmas Margarita un, lai atbrīvotu brāli Francisku I, viņa lika lietā savu diplomātes un stāstnieces talantu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6735-p1s1",
+        "raw_text": "Maija beigās latviešu režisors Dž.Dž.Džilindžers par sesto sievu apņēma Ingu Grencberu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9013-p2s13",
+        "raw_text": "“Šovu vērtēju jau pagājušogad, bet šogad latiņa dalībniekiem bija pacelta ievērojami augstāk."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p134-p19s1",
+        "raw_text": "Ņemot vērā minēto, autors uzskata, ka Administratīvā procesa likuma 195.panta pirmajai daļai būtu jābūt izteiktai šādā redakcijā:"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2519-p6s1",
+        "raw_text": "Vēl vairāk, ja runājam, piemēram, par augiem, tad ievērojamu daļu no 2500 sugām, kas «kolonizējušas» reģionu un cīnās par vietu zem Saules ar vietējām sugām, tiešā nozīmē ieviesa valdība vai dārznieki."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3770-p7s2",
+        "raw_text": "Ministra vizītes ietvaros darba kārtībā būs arī jautājums, kas saistīts ar Kadagas ciema satiksmes drošības uzlabojumu projektu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9038-p13s1",
+        "raw_text": "Ir jāvēro, vai neattīstās tā saucamā krusteniskā alerģija pret pārtiku."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3312-p47s1",
+        "raw_text": "Damokla zobens tagad karājas virs visiem, tāpēc, sākot jauno sezonu, gaisotne bija padrūma."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3297-p18s6",
+        "raw_text": "Iespējams, iemesls ir tas, ka pūrā nenāk bērni no divām pusēm, bet tikai no vienas."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p154-p18s2",
+        "raw_text": "Protams, priekšroku mēs dodam izglītotiem cilvēkiem."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p10182-p2s7",
+        "raw_text": "B. Talcei Dzejas dienas ir tikšanās ar spalvas brāļiem."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p216-p38s7",
+        "raw_text": "Tiem, kas tur nonākuši no vidusslāņa, prātā tikai viena doma – nedod, Dievs, pazaudēt šo labi apmaksāto vietu!"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d8-p127s2",
+        "raw_text": "Viņa nemana nedz Nelliju, kas klusi šņukst, sagumusi uz krēsla līdzās karalienes gultai, nedz Fredi, kas, taisns kā olekti norijis, pavisam baltu kabatlakatu rokās murcīdams, stāv turpat līdzās, pa brīdim pieglauzdams kā nolakotus gludos matus."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9-p4s3",
+        "raw_text": "Šajā brīdī sapratu, ka atpakaļceļa vairs nav."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2790-p6s5",
+        "raw_text": "Iemesli var būt visdažādākie – sākotnējā piegāde bija iespējama, jo tuvojās zāļu derīguma termiņa beigas un šīm zālēm kādā valstī bija samazināta cena, bet mirkli vēlāk šī iespēja, protams, zuda; tika atrasts kāds novatorisks veids, kā nopirkt zāles no kādas īpašas palīdzības programmas, kurā cena noteikta zem pašizmaksas, bet tad šis „iespējas logs” aizvērās, jo kāds atklāja noplūdi; šādus iespējamus īstermiņa pasākumus varētu turpināt uzskaitīt."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p5341-p3s1",
+        "raw_text": "Situācija sekojoša – viņa iekāpj, apsēžās un sāk rupji izteikties, savā valodā, ka ja dzemdē bērnus, vajag mašīnu, lai nav citiem nervi jābojā braucot ar tiem autobusos."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3297-p19s16",
+        "raw_text": "Katram ir jātiek pie vārda un jāizsaka savs viedoklis."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6768-p6s1",
+        "raw_text": "Glorijai nebija ne jausmas, ka viņas sievu māc šaubas un viņa vēlas anulēt laulību un to pamest."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2985-p3s5",
+        "raw_text": "Bērns jūtās labi vai viņam ir nelieli veselības traucējumi - nelielas vēdersāpes, nedaudz slikta dūša."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-d87-p90s5",
+        "raw_text": "Ja tu zinātu, cik naudas tevis dēļ ir zemē nomests!"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-d197-p124s2",
+        "raw_text": "Tu esi pilnā?"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6933-p1s1",
+        "raw_text": "Realitātes šovu zvaigznes Klojas Kardašjanas un basketbola zvaigznes Lamara Odoma attiecības atgādina ziepju operu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p1094-p9s3",
+        "raw_text": "Zivis meklē, kur dziļāk, sportisti, kur lētāk."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p13850-p14s2",
+        "raw_text": "Cēloņi viņa sakāpinātajai misionāra apziņai izrādē ir dziļi personiski – žēlums un solidaritāte ar māti, ko tēva izlaidīgais dzīvesveids novedis kapā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p154-p30s2",
+        "raw_text": "Mēs tagad savu \"lielo brāli\" uztveram vispirms kā lielu tirgu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p154-p1s1",
+        "raw_text": "Zivs meklē, kur dziļāk..."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2422-p23s1",
+        "raw_text": "Arī Izraēlas arābi sarīkoja virkni protestu, bet arābu valstīs ielās izgāja simtiem protestētāju, dedzinot Izraēlas un ASV karogus."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-d60-p4s5",
+        "raw_text": "Un kad tu izej no rīta ārā, galošās, naktskreklā vēl, auksti nav, kaut uz ūdens vannītes plāna ledus kārtiņa turas, vēl gultas siltums glabājas starp sakarsušo ādu un flaneļa audumu, kad pārlaid skatu pagalmam, - visas taciņas nogrābstītas, viss daudzmaz kārtībā, sulas negribīgi tek toverī no bērza: pak, pak, pak."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12384-p3s1",
+        "raw_text": "Protams, SEB banka ir privātuzņēmums, un lēmumi par biznesa restrukturizāciju pilnībā gulstas uz tās vadības sirdsapziņu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p5549-p3s1",
+        "raw_text": "Aktieris, saglabājot vēsu prātu, centies rokmūzikas izpildītāju nomierināt, bet nekas neizdevās."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2801-p3s9",
+        "raw_text": "Bailēs dzīvojot var sajukt prātā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-d60-p137s3",
+        "raw_text": "Vārds atbilst izskatam, staigā kā slotas kātu norijusi, gara un stīva, slīpi sametušies kā no jūras vēja, lūr ar' tā ieslīpi no apakšas, nekad tieši acīs."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d184-p148s2",
+        "raw_text": "Cilvēks, kurš pa dienu spēlēja klarneti, dodas pie miera vienos naktī, un viņa vecā gulta nočīkst, bet pēc brīža tā nočīkst vēlreiz, lai gultā sāktos rosība, čuksti un aprautas elsas."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d129-p513s3",
+        "raw_text": "Pamanīju, ka mūsu visu iemīļotais kritiķis, kuru nu jau pelnīti varēja uzskatīt par Katrīnas romāna līdzautoru, nespēja no jaunizceptās rakstnieces atraut ne acu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9084-p5s3",
+        "raw_text": "Neizklausās daudz, taču, ņemot vērā mūsu slinkumu, tas tomēr ir vairāk kā nekas."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3427-p8s14",
+        "raw_text": "Un atkal jāpadomā – vai mēs tik ļoti neesam iegrimuši skumjās, ka pat aizmirstam par tām darīt zināmu mūsu skumju objektam?"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6008-p3s1",
+        "raw_text": "Aktrise, lai parādītu dubultos standartus, atklāj: ja vīrietis aizkavē visu filmēšanas grupu, tas tiek uzskatīts par normālu parādību, ja nokavē sieviete, viņai piedēvē dīvas titulu un zvaigžņu slimību."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p154-p23s1",
+        "raw_text": "Veiksmes stāsta patiesā cena"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d221-p3s1",
+        "raw_text": "Drīz ciems panīka un attapās gandrīz pasaules malā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d221-p8s4",
+        "raw_text": "„Man patiesi žēl, ka nekrīt arī skujas,” viņš pauda, „tad mums būtu vēl vairāk darba šajā Dieva pamestajā nostūrī.”"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p2899-p3s1",
+        "raw_text": "Ņemot vērā to, ka Latvijā uzņēmēju starpā valda liela konkurence, ir pavērtas iespējas negodīgā veidā izrēķināties ar saviem konkurentiem, iesniedzot nepamatotu prasību tiesā un tādējādi iznīcinot savus konkurentus."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d204-p437s5",
+        "raw_text": "Sākumā Krancis sola krietni vairāk par to, ko viņi cer dabūt, pārdodot juvelierizstrādājumus oficiāli, bet beigās izrādās, ka dabū mazāk, jo pircējam padomā ir desmitiem paņēmienu, ar kuru palīdzību viņš nosit cenu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p8035-p1s1",
+        "raw_text": "Mūžībā aizgājis tautā iemīļotā Rēzeknes Zaļo pakalnu kora solists Lauris Komuls."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6610-p1s3",
+        "raw_text": "Amala gan neseko aktiera vēlmēm un vienmēr uzņemas skandalozas, «skaļas» lietas, kuras var novest pie letāla iznākuma."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p9308-p19s1",
+        "raw_text": "Rīsiem pievieno pusi piena, vaniļas cukuru un uz lēnas uguns, vienmērīgi maisot, turpina vārīt 3-5 minūtes."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p7602-p6s1",
+        "raw_text": "«Dežurants uzreiz saprata, par ko ir runa, un neviltoti sapriecājās."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-d197-p156s1",
+        "raw_text": "Turklāt Sanī slikti turējās kājās, un man bija jāuzmana, lai viņa nepaslīd uz dušas kabīnes flīzēm."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p5756-p3s1",
+        "raw_text": "Alkoholismā aktieris vaino tēva nāvi un šķiršanos, tieši šīs lietas viņu iebīdījušas nepareizās sliedēs, toties mātes nāve likusi aktierim pilnībā salūzt."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p539-p13s1",
+        "raw_text": "“Nesen ir stājušies spēkā grozījumi tabakas izstrādājumu realizācijas, reklāmas un smēķēšanas ierobežošanas likumā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9774-p6s1",
+        "raw_text": "Medūzas parasti augustā un septembra sākumā tiek izskalotas krastā, jo tās pabeigušas dzīves galveno misiju - vairošanos - un iet bojā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d218-p2s2",
+        "raw_text": "Tur viņš uzmet acis pulkstenim un atvieglots noelšas."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12782-p9s2",
+        "raw_text": "It sevišķi, ja ņem vērā Latvijas politiskās elites attieksmi pret Austrumlatviju."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p13850-p14s1",
+        "raw_text": "Gundara Grasberga Grēgerss, noplukušā vējjakā ģērbies, izskatās pēc predestinēta pasaules lāpītāja."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p147-p3s3",
+        "raw_text": "Kā atskaites punkts ņemts 2001.gads, kad Latvijā uz autoceļiem dzīvību zaudēja 558 cilvēki."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-d207-p717s9",
+        "raw_text": "Iepriekš nepabrīdinājis, viņš varēja mani puspliku izraut no mājas un aizvest divu dienu ekskursijā uz Londonu, neņemot vērā, ka man varbūt bija pašai savi plāni."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p13513-p2s9",
+        "raw_text": "Mājīguma sajūtu turpinot, šefpavārs Mārtiņš Brūveris no restorāna “Burga” pasniedza dārza salātus ābolu-meža aveņu medus vingreta mērcē ar cāļa, liellopa filejas strēmelītēm meža aveņu medus un gaišā alus marinādē, radot prātā vīziju par saulainu vasaras dienu, dārza veltēm un to apvienošanu maltītes baudīšanā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p13269-p1s2",
+        "raw_text": "Kādēļ lauzīt galvu, ja vieglāk ir nospiest pāris pogu un rezultāts būs daudz ātrāk?"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p5341-p3s9",
+        "raw_text": "Nevis aizņem vietu, un krīti uz nerviem ar savu bērnu te!"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3084-p9s4",
+        "raw_text": "Abas ir gluži netipiskas lomas un pretstati Ģirta tēlotajam romantiķim un mieramikam Leonam no seriāla “Neprāta cena”, taču jāatzīst, ka dziļāko dziņu apmierinājums būs gan garantēts, jo trakajiem jau pieder pasaule!"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p9296-p5s3",
+        "raw_text": "Tavas smadzenes seksa laikā spēlē svarīgu lomu, reģistrējot sajūtas un izstrādājot endorfīnus (laimes un labsajūtas hormonu) ķermenī."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p170-p20s2",
+        "raw_text": "Ierobežojums uzturēties un brīvi pārvietoties mežā ir spēkā tikai tad, ja tas izdarīts."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p11532-p3s4",
+        "raw_text": "Savukārt Ufo aicinās uz Ufo golfu - \"lidojošo šķīvīšu\" golfu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3312-p13s7",
+        "raw_text": "Jūtot, ka vadzis tūlīt lūzīs, sākām meklēt risinājumu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3297-p10s4",
+        "raw_text": "Bet, protams, tāds laiks kā mēnesis vai divi šajā gadījumā ir tikai piliens jūrā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p13078-p8s1",
+        "raw_text": "Pirms Austrumeiropas līgas fināliem vēl tiks piešauti Daugavas sporta nama grozi?"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12821-p8s1",
+        "raw_text": "Iepriekšējā gada beigās Latvijas Finanšu ministrija nāca klajā ar iniciatīvu papildināt Pievienotās vērtības nodokļa likumu — aplikt ar PVN dzīvojamo māju pārvaldīšanas pakalpojumu sniedzējus, dzīvokļu īpašnieku kooperatīvās sabiedrības un mājas pārvaldniekus."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6098-p6s4",
+        "raw_text": "Visvairāk man patika, ka programma uztrenē labu izrunu – tas man bija lielākais klupšanas akmens, kāpēc agrāk ļoti kaunējos runāt angliski."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-d197-p34s1",
+        "raw_text": "Pāris apsēdās nostāk, abi tādi jau krietni gados, starp piecdesmit un piecdesmit pieci, nesaderīgi, kā caur iepazīšanās dienestu satikušies, - es nodomāju, - un atnākuši uz pirmo randiņu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p155-p1s1",
+        "raw_text": "Devītais vilnis, kurā dzima brīvība"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p155-p24s1",
+        "raw_text": "Viņi neņēma vērā, ka bijuši seši Gorbačova atklātības gadi."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3259-p20s1",
+        "raw_text": "Santa (30) to ir izjutusi uz savas ādas: “Jaungadu ar vīru sagaidījām pie mūsu draugiem."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p10738-p1s1",
+        "raw_text": "Šorīt 73 gadu vecumā mūžībā aizgājis latviešu estrādes dziedātājs Ojārs Grinbergs."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6370-p2s1",
+        "raw_text": "Producents intervijā atklājis, ka sazinās ar abiem aktierim un jau tiek kalti plāni par sadarbību vecā sastāva ietvaros."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3736-p2s2",
+        "raw_text": "Trešdienas vakarā 79 gadu vecumā mūžībā aizgājis tautā mīlētais dzejnieks Imants Ziedonis, aģentūrai LETA apstiprināja Kultūras ministrijā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p13273-p13s15",
+        "raw_text": "Tāpēc turpat noklāj galdu, pasēž un atceras aizgājēju."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p11002-p8s2",
+        "raw_text": "Tajā teikts, ka daži viltoti dokumenti tika nosūtīti arī Nobela prēmijas piešķiršanas komitejas locekļiem 1982.gadā, lai liktu šķēršļus prēmijas piešķiršanai Valensam."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d204-p129s4",
+        "raw_text": "Pats būdams liels tējas cienītājs, es apmeklētājus labprāt cienāju ar Liptona melno vai Monkey King zaļo tēju vai labu kafiju, neatteikdamies pa reizei arī izvilkt no bāriņa un ieliet pa malkam stiprāka dzēriena, kādu nu kuro reizi tepat stāva veikaliņa par valūtu varēja dabūt."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p7814-p8s1",
+        "raw_text": "Vairums viesu visu vakaru riņķoja pa kluba zāli no vienas sarunas pārejot uz nākamo, jo tik kuplā lokā satikt sava amata brāļus mūziķiem nenākas bieži."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p142-p1s1",
+        "raw_text": "Inflācija sit devītā viļņa augstumus"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2790-p8s2",
+        "raw_text": "Eiropas Komisija ir pieteikusi karu zāļu viltojumiem."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9793-p1s1",
+        "raw_text": "Priecīgu ziņu pavēstījis grupas The Hobos līderis Rolands Ūdris – viņš apņēmis par sievu ilggadējo draudzeni, ventspilnieci, dziedātāju un rakstnieci Ilonu Balodi."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p1189-p5s4",
+        "raw_text": "Abas ir absurdas un liek vien kaukt uz debesīm par to, kā varējām nonākt tur, kur esam."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-z29-p4s1",
+        "raw_text": "Tīkla plānošanas problēmas vispārējā nostādne ilgtermiņa un vidēja termiņa sadales tīklu plānošanas mērķis ir atrast tādu tīkla attīstības stratēģiju, lai pieprasījums pēc slodzes pieauguma un izmaiņām tiktu apmierināts visā plānošanas perioda laikā ekonomiski un droši, ņemot vērā noteiktos ekspluatācijas ierobežojumus."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p19s2",
+        "raw_text": "Visu garo vakaru viņš mani burtiski ēd ar acīm, vairākas reizes nāk klāt, mēģina iepazīties, viņu sauc Vitālijs."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d53-p31s7",
+        "raw_text": "Cilvēki plūda uz Sabīnes atdusas vietu, lai čukstētu «Skuiviņš zina, Skuiviņš zina»."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9007-p10s1",
+        "raw_text": "Kopš Everestā 1953.gadā pirmo reizi uzkāpa Edmunds Hilarijs un Tencings Norgejs, pasaules augstākā kalna nogāzēs dzīvību zaudējuši vairāk nekā 300 cilvēku."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p8061-p11s3",
+        "raw_text": "Ministrs apturējis automašīnu, izkāpis ārā un iesaistījies vārdu apmaiņā ar cilvēkiem."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12703-p3s5",
+        "raw_text": "Piemēram, būtu svētīgi aprēķināt, cik miljonu šajos 25 gados aizgājis melnajā caurumā, ko sauc par reformām."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p6240-p6s1",
+        "raw_text": "Basketboliste iesaka ikvienam priecāties par savu ķermeni, novērtēt atšķirības, jo tieši atšķirības liek mums priecāties par otro pusīšu ķermeņiem."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12749-p16s3",
+        "raw_text": "Bet vajadzētu rīkoties, savu dzīvi veidot, strādāt, noslaukot no lielās skatuves negodprātīgus politiķus, kuri ar vārdiem Eiropā, ar darbiem — aizkrāsnē."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p381-p3s2",
+        "raw_text": "\"Saņemties uz solokoncertu nav tik vienkārši, ņemot vērā dzīves un darba ritmu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d223-p7s3",
+        "raw_text": "Apšu kundziņi ir eleganti kā franti, tiem seko bērzu beciņas – siltās peciņas, vēlās vieses rudmieses, čigānenes un cūcenes, arī alksnenītes, un kā lepnas kundzenes nāk saulsardzenes, atmateņu pavadītas."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12259-p3s1",
+        "raw_text": "Restorāna “Rozālija” čaklās darbinieces tekalēja kā skudriņas, palīdzot sagriezt, sakārtot un izvietot visu līdzpaņemto, līdz galdi vai lūza no ēdienu bagātības."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-d60-p105s6",
+        "raw_text": "Vai, kā saka mana kaimiņiene, večiem jāpiš smadzenes, tad viņi tev apkārt lēkās."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9311-p4s1",
+        "raw_text": "Obligāti novērtē arī sezonas aktuālo modes izlasi, kas liks tavai sirdij sisties straujāk un lūkoties pēc košiem un pamanāmiem pavasara toņiem!"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3764-p1s1",
+        "raw_text": "Valsts pirmā lēdija Dace Seisuma apmeklēs Latvijas Audžuģimeņu biedrību"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d198-p57s1",
+        "raw_text": "Es tieku galā ar saviem sapņiem un savu seju, pirms pamostas vīrs un bērni, no vannasistabas es iznāku gaiša, pat ja gaišums nav gluži īsts."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p5341-p3s6",
+        "raw_text": "Uz ko viņa, nu jau paceļot balsi, atbildēja – Es nesaprotu ko tu saki, es tavu valodu nesaprotu un negribu saprast."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-d197-p75s2",
+        "raw_text": "Meitene paraustīja plecus."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d16-p41s10",
+        "raw_text": "Jautri pačalojuši, vīri dāmu dēļ bija gatavi drusku pavicināt dūres, kad pēkšņi Kaktusa zieds šausmīgi iespiedzās."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p9296-p5s4",
+        "raw_text": "Katrs sīkums, kas novērš uzmanību, izsit tavas smadzenes no sliedēm."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p14185-p5s7",
+        "raw_text": "Un tā būtu labāka pieeja nekā uztvert visu par baltu patiesību."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6907-p3s3",
+        "raw_text": "Viss notika kā palēlinātā filmā, Ņikita nometās uz viena ceļa un lūdz manu roku, biju apmulsusi, priecīga un aizkustināta, ļoti smaidīga... un teicu JĀ,» priecīgi stāsta Laura."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p13842-p18s4",
+        "raw_text": "Bet telefona būdā reizēm var pateikt tādas lietas, ka cilvēks otrā galā mirst vai dabū trieku."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p5699-p3s1",
+        "raw_text": "Mākslinieku ieraudzīja līgavas tēvs un palūdza viņu apmeklēt kāzas, nofotografēties ar jauno pāri un vēlēt jaunlaulātajiem laimi."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p1494-p5s9",
+        "raw_text": "Jums ar steigu jāievēl cits, kas var tikt galā ar šiem pienākumiem, — aicināja M. Bērzlaps."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p7915-p1s1",
+        "raw_text": "Sestdien Igaunijas dienvidos – Hallistes baznīcā – Igaunijas prezidents Tomass Hendriks Ilvess (62) par sievu apņēma latviešu ierēdni Ievu Kupci (38)."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1027-p18s2",
+        "raw_text": "Uzmetis kūkumu kā lielu jautājuma zīmi, viņš no kabatas izvilka elegantu iemuti un aizsmēķēja, dūmu tērcītei iestiepjoties augstu, augstu griestos."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p10802-p6s2",
+        "raw_text": "Tomēr daudzi vecāki atzīst, ka nesteidz gādāt par ģimenes pieaugumu izmaksu dēļ."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p12700-p1s2",
+        "raw_text": "Valsts ieņēmumu dienesta augstākās amatpersonas cenšas atmazgāties, publiski nododot “saplosīšanai” mazākos gariņus, tādus kā Cēsu VIDa ierindas darbiniece."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p147-p3s1",
+        "raw_text": "Satiksmes ministrijas (SM) iesniegtais Ceļu satiksmes drošības programmas (2007- 2013) projekts, kurš otrdien tika skatīts Ministru kabinetā, izstrādāts, ņemot vērā Eiropas Savienības (ES) transporta Baltajā grāmatā izvirzīto mērķi - līdz 2010.gadam divkārt samazināt ceļu satiksmes negadījumos (CSN) bojāgājušo skaitu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2313-p15s1",
+        "raw_text": "Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d128-p13s7",
+        "raw_text": "Apstājās pie ceļa stabiņa nolaist ūdeni."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2323-p8s1",
+        "raw_text": "Aicinu ikvienu, kuram nav vienaldzīgi šie jautājumi, atbalstīt jaunās māmiņas viņu aktivitātēs, jo runa ir par dārgāko, kas mums ir, — par mūsu bērniem!"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p1094-p2s3",
+        "raw_text": "Nav ko domāt bez bremzēšanas tikt lejā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-c61-p64s7",
+        "raw_text": "Nesaudzīgas mežu izciršanas rezultātā Baltijas jūras un Rīgas līča piekrastē 18. un 19. gs. veidojās ceļojošās kāpas, kā rezultātā smiltis vēja iedarbības dēļ pārvietojās no krasta uz zemes iekšieni."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p8078-p23s2",
+        "raw_text": "Viņš atkārtoti tika ievēlēts arī uz nākamo termiņu, tomēr Čakste aizgāja aizsaulē, pirms bija beidzies viņa pilnvaru laiks."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12458-p1s1",
+        "raw_text": "Silta pirtiņa, zāļu tēja un labs noskaņojums – tie ir galvenie profilakses līdzekļi cīņā ar vīrusiem, uzskata pirtniece Dzintra Abarone."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p11216-p1s2",
+        "raw_text": "Izstādē redzamas Ilmāra Znotiņa, Aivara Liepiņa, Romāna Kokšarova un Zigismunda Zālmaņa fotogrāfijas, kurās tverti Latvijas olimpiešu spilgtākie mirkļi un emocijas Soču spēlēs šogad februārī."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12449-p1s5",
+        "raw_text": "Vienu dienu sirds velk uz mazuļu zābaciņu adīšanu, citu dienu gribas uzcakot skaistu šalli."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-z46-p9s1",
+        "raw_text": "Noteiktu lomu skolotāju skaita izmaiņās spēlē arī ekonomiskā situācija."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d221-p5s2",
+        "raw_text": "Velnam pagāja gadsimts, līdz viņš atguvās un izdomāja karjeras iespējas, un darīja zināmu, ka viņš neiebilstot pret vēlmi kļūt gudriem un bagātiem, bet to neesot iespējams panākt šeit."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p715-p16s3",
+        "raw_text": "Izvairīšanās no kredītu nomaksas Dubaijā nav nekāda joka lieta, jo nemaksātājus var ieslodzīt parādnieku cietumā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d102-p66s2",
+        "raw_text": "Laikam pati sev roku pielika."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p10112-p4s2",
+        "raw_text": "Bet vasarā, treniņnometnēs, gadās arī svelmainie treniņi: no rīta ir rīta rosme, kam seko brokastis, tad rīta treniņi četru stundu garumā, no 9.00 līdz 12.30, otrs treniņš ir no 16.00 vai 16.30 līdz 18.00, 18.30."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3365-p2s3",
+        "raw_text": "Kuras Latvijas dziedātājas un ar ko liek aizrauties Ventspils mēra elpai?"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d102-p56s4",
+        "raw_text": "Un vispār, Ellasprāt, viņai nebija visi mājās."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p6536-p3s1",
+        "raw_text": "Niks atpūties bārā un vēlāk devies ārā kauties ar citu bāra apmeklētāju, kurš nav licis dziedātājam mieru."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p10954-p11s3",
+        "raw_text": "Tiesa, ja laiks ir labs, no šīm vietām, īsinot laiku, ir iespēja vērot garāmbraucošo cilvēku reakciju."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1191-p4s6",
+        "raw_text": "Mums iet uz augšu."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1270-p14s1",
+        "raw_text": "– Es, – Jurelis sūrojās, – nedēdēšu taču viens kā pirksts tajā teātrī!"
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p8230-p2s2",
+        "raw_text": "- Ārsts no ātrās palīdzības mani piedzērušos pataisīja mākslīgi."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p134-p25s1",
+        "raw_text": "Autors nesaskata šķērsli piemērot administratīvā akta darbības apturēšanas institūtu arī citās tiesu instancēs, it īpaši ņemot vērā to, ka pagaidu noregulējuma institūts un administratīvā akta darbības apturēšanas institūts ir savstarpēji nošķirami."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d223-p4s1",
+        "raw_text": "Viņas slēpjas lapās un damakšņās, kaitējas, nedodamās rokās un bēgdamas no nazīša."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p8575-p3s1",
+        "raw_text": "Jau šonedēļ dziedātāja Jenny May laiž klajā jaunu singlu un videoklips “Dzīres”."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-d60-p109s7",
+        "raw_text": "Tādiem ar uzbļāvienu muti neaizbāzīsi."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3735-p14s2",
+        "raw_text": "Par kukuļdošanu ierosināts saukt pie atbildības četrus ārvalstu komercuzņēmumu pilnvarotos pārstāvjus, savukārt par noziedzīgi iegūtu līdzekļu legalizēšanu - astoņas personas, vienu arī par starpniecību kukuļošanā, kas izdarīta atkārtoti."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p5670-p3s1",
+        "raw_text": "Šī nav pirmā reize, kad zvaigzne publiski aizvaino savu māti, un parasti Dīna atbildi parādā nepaliek."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p1927-p6s6",
+        "raw_text": "Atzinīgi vērtējot Zemgales kolēģes mērķtiecību, G. Tomsone ir pārliecināta, ka nevajag pārsteigties, izvēloties šinšillu audzēšanu, jo viņa labi zina arī šīs jomas ēnas puses."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p1966-p8s1",
+        "raw_text": "Ņemot vērā Latvijai piešķirto pārejas periodu un palielinājuma grafiku ES minimālās degvielas akcīzes likmes sasniegšanai, Latvijai ar 2008.gada 1.janvāri ir jāpalielina akcīzes nodokļa pamatlikmes bezsvina benzīnam – no 209 līdz 226 latiem par 1000 litriem jeb par 1,7 santīmiem litrā, petrolejai un dīzeļdegvielai – no 178 līdz 192 latiem par 1000 litriem jeb par 1,4 santīmiem litrā."
+    },
+    {
+        "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p133-p5s5",
+        "raw_text": "Andris Guļāns atzina, ka tā būtu katra tiesneša goda lieta - piedalīties judikatūras datu bāzes saturiskā piepildīšanā ar savām domām un atziņām."
+    }
+]

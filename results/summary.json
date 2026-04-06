@@ -1,0 +1,12 @@
+{
+  "global_avg_masked_bertscore": 0.8141,
+  "zero_score_rate": 0.0,
+  "total_sentences": 3,
+  "per_language": {
+    "FR": {
+      "n": 3,
+      "avg": 0.8141,
+      "zeros": 0
+    }
+  }
+}

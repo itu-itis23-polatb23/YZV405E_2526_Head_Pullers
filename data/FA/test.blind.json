@@ -1,0 +1,418 @@
+[
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s2",
+        "raw_text": "واشنگتن - خبرگزاری جمهوری اسلامی"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s3",
+        "raw_text": "ستاره‌شناسان می‌گویند که ممکن است اولین سیاره خارج از منظومه شمسی را دیده باشند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s17",
+        "raw_text": "استفاده از بالش‌های پر برای بیماران مبتلا به آسم، مناسبتر از بالش‌های ساخته‌شده از الیاف‌ مصنوعی است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s28",
+        "raw_text": "پدرش کارگر راه‌آهن بود و تأمین معاش زندگی برایش سخت."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s30",
+        "raw_text": "در ۱۹۴۹ به تحصیل در رشته هنرهای زیبا در دانشگاه چارلز پراگ مشغول شد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s51",
+        "raw_text": "قدرت خیره‌کننده طراحی و مهارت فنی او، حتی در کارهای بسیار ساده‌اش بخوبی ملموس است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s57",
+        "raw_text": "فیلمنامه کوتاه وسوسه نسرین صالحی"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s61",
+        "raw_text": "مادر! پا شو!"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s63",
+        "raw_text": "مادر: احمد پا شو، مدرسه‌ات دیر شد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s87",
+        "raw_text": "احمد: دلم داره یه جوری می‌شه."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s99",
+        "raw_text": "مریم نخودی می‌خندد و دندانهای کرم‌خورده - اما نازش - نمایان می‌شود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s123",
+        "raw_text": "یک مغازه او را متوقف می‌کند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s141",
+        "raw_text": "[ردیف میانی نیمکت‌ها] اولی: منم هستم ا… ببین."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s171",
+        "raw_text": "سکوت بر کلاس حاکم می‌شود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s175",
+        "raw_text": "معلم بچه‌ها را از زیر نگاه می‌گذراند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s195",
+        "raw_text": "گزها را در نیمکت جای می‌دهد؛ به بچه‌ها می‌نگرد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s209",
+        "raw_text": "دهانش آب افتاده است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s210",
+        "raw_text": "با دو دست، با سری خمیده، گوشه زرورق را پاره می‌کند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s211",
+        "raw_text": "صدای زرورق او را نگران می‌کند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s256",
+        "raw_text": "به نرده‌های پارک رسیده‌اند و حال راهشان از هم جدا می‌شود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s270",
+        "raw_text": "دختربچه دور می‌شود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s285",
+        "raw_text": "احمد چشم می‌بندد که «بهتر ببیند» [دقیقا حضور را در ذهن مجسم می‌کند]."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s296",
+        "raw_text": "مادر سفره را میان تخت پهن کرده است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s313",
+        "raw_text": "مادر: آهان، آبلیمو."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s328",
+        "raw_text": "مادر آبلیمو به یک دست و رادیو در دست دیگر می‌آید."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s329",
+        "raw_text": "رادیو را کنار تخت، و شیشه آبلیمو را در سفره می‌نهد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s340",
+        "raw_text": "پدر متوجه نگاه مادر می‌شود و به احمد می‌نگرد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s350",
+        "raw_text": "احمد با شانه دست را پس می‌زند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s362",
+        "raw_text": "لب به خنده می‌گشاید و دندانهای کرم‌خورده - اما نازش - نمایان می‌شود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s363",
+        "raw_text": "پدر لحظه‌ای مریم را می‌نگرد و بار دیگر صدای مادر، او را متوجه احمد می‌کند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s375",
+        "raw_text": "] مکث [دلمو خون نکن دم غروبی."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s385",
+        "raw_text": "لحظه‌ای همگی متوجه مریم می‌شوند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s399",
+        "raw_text": "احمد دست پدر را می‌گیرد و بر پا می‌شود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s437",
+        "raw_text": "واقعا جاهایی بزرگترین آدمها هم دست به بزرگترین جرائم می‌زنند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s445",
+        "raw_text": "مشاجره و دعوا، بچه تا این‌ها را می‌بیند می‌زند بیرون…"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s454",
+        "raw_text": "یعنی منابع تحقیقات دانشگاهی یا آکادمیک هم داشتید یا نظریات جامعه‌شناسی؟"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s469",
+        "raw_text": "چون این سؤالی است که خودم نشستم ببینم که راهکاری در برنامه می‌بینیم یا نه."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s481",
+        "raw_text": "ما آمدیم گفتیم آقا دلم می‌خواست…"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s498",
+        "raw_text": "اما دیشب برنامه شما را دیدم و منصرف شدم."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s499",
+        "raw_text": "گفتم همین یکی هم اگر باشد خوب است؛ اما من سؤال شما را درست متوجه نشدم."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s531",
+        "raw_text": "مثلا یکی از نمونه‌ها در تیتراژ پایانی برنامه دو تا نوازنده نوجوان هستند و یکی از آن‌ها در یکی از چشمهایش یک غده دارد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s552",
+        "raw_text": "آیا ممکن بود این‌ها مثلا ورزشکار باشند؟"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s604",
+        "raw_text": "این مورد را که شما گفتید من دو بخش می‌کنم: تصویربرداری و مونتاژ."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s608",
+        "raw_text": "به جرات می‌توانم بگویم که شکلی که از این برنامه در ابتدای کار داشتیم با شکلی که الان به دست آوردیم، کاملا متفاوت است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s621",
+        "raw_text": "خیلی از صاحب‌نظران معتقدند که شرط تحقیق اجتماعی موفق این است که محقق بی‌طرف باشد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s644",
+        "raw_text": "خط قرمز چیزی که در تلویزیون مشخص نیست و لازمه‌اش این است که بنشینند و قانونمندش کنند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s650",
+        "raw_text": "خانم یوسفی در جریان هستند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s708",
+        "raw_text": "این بخش از تحقیقات معطوف به تجربه پخش مذهبی از شبکه‌های جدید تلویزیون است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s759",
+        "raw_text": "تفاوت در نوع درگیریهای بچه‌های جدید با بچه‌های قدیم است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s764",
+        "raw_text": "در برنامه‌های تلویزیونی که بچه‌های ما می‌گیرند، خیلی درگیر آن آدمها نمی‌شوند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s766",
+        "raw_text": "چرا درگیری کمتر شد؟"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s775",
+        "raw_text": "دوره قهرمان‌بازی و این حرفها گذشته."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s783",
+        "raw_text": "این خیلی خاص است و در پنجاه سال در هر مملکت یک مورد این جوری می‌شود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s831",
+        "raw_text": "چون الان ادبیات جوانهای ما این جوری است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s849",
+        "raw_text": "سریال این جوری خیلی داشتیم."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s911",
+        "raw_text": "برای خیلی‌ها تصور این حالت خیلی مشکل است که رایس این جمع فرهنگی این جوری باشد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s921",
+        "raw_text": "بعد دیدیم که نه، اتفاقا برعکس شد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s957",
+        "raw_text": "هیچ قانون نوشته‌شده‌ای در سازمان صداوسیما نداریم که بگوید آقا سراغ این موضوع نباید بروید."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s964",
+        "raw_text": "اولا شما وقتی سراغ موضوعی مثل فقر می‌روید، حتما باید جایی بروید که محله‌ای فقیرنشین باشد و دیگر شما نمی‌توانید در یک آپارتمان بنشینید و در سه روز پنجاه دقیقه پر کنید و پول حسابی بگیرید."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s978",
+        "raw_text": "قسمت چهارم برعکس شد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s981",
+        "raw_text": "یک نفر می‌رود خواستگاری و هفت‌تیر می‌کشد و یکی را می‌کشد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s989",
+        "raw_text": "آن فضای گزندگی قابل پیش‌بینی می‌شود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1023",
+        "raw_text": "اتفاقا تماشاگر راضی‌تر بود و همیشه دیده بود که به هم می‌رسند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1029",
+        "raw_text": "حالا سریال‌های دیگر چرا این جوری است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1038",
+        "raw_text": "ببینید ما در سری قبل قسمتی داشتیم که خوش‌فرجام بود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1043",
+        "raw_text": "در آن مورد لازم بود که قصه خوش‌فرجام باشد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1051",
+        "raw_text": "اتفاقا این خوب است؛ هم سؤال است هم پیشنهاد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1057",
+        "raw_text": "در قسمت دوازدهم سریال زن و شوهری هستند که در دادگاه خیلی راحت از هم جدا می‌شوند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1069",
+        "raw_text": "متوجه هستید؟"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1091",
+        "raw_text": "حالا چیزی اصلا مد نظرتان نبوده؟"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1100",
+        "raw_text": "با این شرایط، باید استحاله‌ای در دلش پیش بیاید."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1114",
+        "raw_text": "نفرتی بین خودش و بچه‌های دیگر پیدا شد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1128",
+        "raw_text": "چیز دیگری در کار این‌ها هست که در سریال‌های دیگر چیزی به اسم روزمرگی نمی‌بینی."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1129",
+        "raw_text": "یعنی در سریال‌ها دستشویی رفتن آدمها و غذا خوردنشان را نمی‌بینیم."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1133",
+        "raw_text": "در کارهای من خیلی از آدمها دستشویی می‌روند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1138",
+        "raw_text": "مثلا در سری قبل «داستان یک شهر»، موبایل یکی از بچه‌ها می‌افتد در دستشویی."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1164",
+        "raw_text": "در «داستان یک شهر» چه طور است؟"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1246",
+        "raw_text": "آقای خاتمی از جریان اصلاحات عقب مانده است!"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1257",
+        "raw_text": "ماجرا از این قرار بود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1303",
+        "raw_text": "نسل دوم انقلاب از این خوش‌خاطرگی محروم است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1316",
+        "raw_text": "جنابعالی یکی از چهره‌های شاخص فرهنگی کشور نیز می‌باشید."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1358",
+        "raw_text": "حالا ما همین پس‌پریروز ۱۶ ساله شده‌ایم."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1367",
+        "raw_text": "هشتاد روز کم بود، چند ماه دیگر می‌خواهد آدم را بگذارد سر کار."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1371",
+        "raw_text": "ما دیگر حوصله‌مان سر رفت."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1432",
+        "raw_text": "معاویه در هر قبیله‌ای نماینده‌ای را منصوب کرده بود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1461",
+        "raw_text": "مزرعه‌ای که در عقیق بود و درآمد آن سالی هشت هزار دینار بود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1470",
+        "raw_text": "به عبدالله‌بن‌زبیر گفت: سه پیشنهاد دارم."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1543",
+        "raw_text": "تیم ملی داخل سالن ایران در رقابتهای دور مقدماتی جام جهانی با تیم‌های ژاپن، ماکااو، قرقیزستان و ازبکستان هم‌گروه بود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1544",
+        "raw_text": "تیم فوتسال ایران هر چهار دیدار مرحله مقدماتی را با پیروزی قاطع پشت سر گذاشت."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1554",
+        "raw_text": "در رقابتهای دونفره مردان تیم تایوان و در رده زنان تیم دونفره کره جنوبی به مقام نخست آسیا دست یافتند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1556",
+        "raw_text": "تیم‌های کره جنوبی و ژاپن مشترکاً عنوان سوم را به دست آوردند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1644",
+        "raw_text": "مجسمه‌هایی مرمرین که از معبد پارتنون که متعلق به لرد آلجین بوده‌اند موضوع یکی از بحث‌های امروز میراث فرهنگی است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1729",
+        "raw_text": "اگر دارای ناهنجاری ریختی هستید!"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1731",
+        "raw_text": "ملاک ما برای انتخاب مجریان تلویزیونی فراتر از این مسائل پیش‌پا‌افتاده است!"
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1781",
+        "raw_text": "منبع اصلی کربوهیدرات جانوری شیر است که حاوی لاکتوز فراوان است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1832",
+        "raw_text": "بارزی‌برون به هزینهٔ برگزاری مراسم عروسی و میزان شیربها می‌گویند."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1861",
+        "raw_text": "تعداد مراجعات در ماه آخر بارداری هفته‌ای یک بار و در هفت ماهگی دو هفته یک بار است."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1884",
+        "raw_text": "کلک بهار نقش نگاه پگاه را از گرده‌های نم‌نم باران کشیده بود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1888",
+        "raw_text": "لبخند او به دیدهٔ نمناک صبحگاه زیباتر از شکوفهٔ باران چشیده بود."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1895",
+        "raw_text": "علی حجتی کرمانی در سال ۶۱۳۱ در خانواده‌ای اصیل و روحانی در شهر کرمان به دنیا آمد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1927",
+        "raw_text": "راه‌آهن سرخس ۵۳ میلیون دلار حق ترانزیت گرفت."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1949",
+        "raw_text": "این که نمی‌شود در گفت و گو همه‌اش گو باشد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1964",
+        "raw_text": "مروری بر نتایج سه مورد انتخابات ریاست‌جمهوری سال ۷۶، شوراهای اسلامی شهر و روستا سال ۷۷ و مجلس ششم سال ۷۸ این واقعیت را به‌خوبی، روشن و آشکار می‌سازد."
+    },
+    {
+        "source_sent_id": ". formal-Persian-train.folia.xml train-s1977",
+        "raw_text": "این افراد و چهره‌های صاحب نفوذ به‌خوبی می‌دانند که قدرت واقعی، مردم‌اند، نه زور و سرنیزه و قوه قهریه."
+    }
+]
