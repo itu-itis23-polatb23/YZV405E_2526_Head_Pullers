@@ -7,13 +7,13 @@ Gemini API wrapper using the official google-genai SDK.
 import time
 import logging
 from typing import Optional
+from config import ATTEMPTS_ON_THIS_SESSION 
 
 logger = logging.getLogger(__name__)
 
 _client = None
 
-global _attempts_on_this_session
-_attempts_on_this_session = 0
+
 
 def _get_client(api_key_index: int = 0):
     global _client
@@ -55,7 +55,7 @@ def call_llm(
                 contents=gemini_contents,
                 config=config,
             )
-            _attempts_on_this_session += 1
+            ATTEMPTS_ON_THIS_SESSION += 1
             text = response.text
             return _clean(text)
         except Exception as e:

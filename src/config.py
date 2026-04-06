@@ -12,8 +12,7 @@ API key setup (Google AI Studio — free):
 import os
 
 # ── API ───────────────────────────────────────────────────────────────────────
-GEMINI_API_KEYS = ["AIzaSyCa2HCX4wmwB1C2M6eoxB6SMGSoIF8SBbs",
-                   "AIzaSyDZ9CZ3wJt-H9_JTcOPxL1SkEDU9YsZ7UI",
+GEMINI_API_KEYS = ["AIzaSyDZ9CZ3wJt-H9_JTcOPxL1SkEDU9YsZ7UI",
                    "AIzaSyCdE51xhGik2cFKFHn9hhWKg81FaWS5xtg"]  
 
 MODEL_NAME = "gemini-3.1-flash-lite-preview"
@@ -21,6 +20,7 @@ TEMPERATURE = 0.3
 MAX_TOKENS = 512
 MAX_RETRIES = 3
 REQUEST_DELAY_SEC = 15
+ATTEMPTS_ON_THIS_SESSION = 0
 
 # ── Languages covered in Subtask 2 ───────────────────────────────────────────
 LANGUAGES = {
