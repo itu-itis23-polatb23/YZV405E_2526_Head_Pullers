@@ -10,11 +10,13 @@ API key setup (Google AI Studio — free):
 """
 
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # ── API ───────────────────────────────────────────────────────────────────────
-GEMINI_API_KEYS = ["AIzaSyDlQLPfR8pFDJi6BT9FOAz3C387WKZOiKA",
-                   "AIzaSyAbtttikrdVWQMCe-6tkGovvuJ7JS9RdcM",
-                   "AIzaSyBWpJpVy3ujVvSqqLJMA6PXmuAebeRH8BM"]  
+GEMINI_API_KEYS = os.getenv("GEMINI_API_KEYS").split(",")  # Support multiple keys for rotation
 
 MODEL_NAME = "gemini-3.1-flash-lite-preview"
 TEMPERATURE = 0.3

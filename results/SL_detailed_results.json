@@ -1,0 +1,1985 @@
+[
+  {
+    "id": "-7703251272307751462",
+    "language": "SL",
+    "raw_text": "»Če me nima na grbi.",
+    "sentence": "»Če me nima na grbi.",
+    "mwe": "imeti na grbi",
+    "mwe_lemmas": [
+      "imeti",
+      "na",
+      "grba"
+    ],
+    "paraphrase": "Če me ne nadleguje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6206262999581220931",
+    "language": "SL",
+    "raw_text": "Seveda je vse v božjih rokah.",
+    "sentence": "Seveda je vse v božjih rokah.",
+    "mwe": "v božjih rokah",
+    "mwe_lemmas": [
+      "v",
+      "božji",
+      "roka"
+    ],
+    "paraphrase": "Seveda je vse odvisno od usode.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6412992803659839887",
+    "language": "SL",
+    "raw_text": "Ostala je brez očeta, brat ji je umrl v najlepših letih, zdaj pa je izgubila še svojo drago mamo.",
+    "sentence": "Ostala je brez očeta, brat ji je umrl v najlepših letih, zdaj pa je izgubila še svojo drago mamo.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Ostala je brez očeta, brat ji je umrl v najlepših letih, zdaj pa je izgubila še svojo drago mamo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "5858683088172729068",
+    "language": "SL",
+    "raw_text": "Druga je zaradi njega z njim zlezla v posteljo.",
+    "sentence": "Druga je zaradi njega z njim zlezla v posteljo.",
+    "mwe": "zlezla v posteljo",
+    "mwe_lemmas": [
+      "zlesti",
+      "v",
+      "postelja"
+    ],
+    "paraphrase": "Druga je zaradi njega z njim legla k počitku.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8936958901415644619",
+    "language": "SL",
+    "raw_text": "Tihotapci so bili morda prvi, ki so črnogorski osamosvojitvi obrnili hrbet, četudi so nove oblasti v Beogradu napovedale vojno vsem oblikam kriminala.",
+    "sentence": "Tihotapci so bili morda prvi, ki so črnogorski osamosvojitvi obrnili hrbet, četudi so nove oblasti v Beogradu napovedale vojno vsem oblikam kriminala.",
+    "mwe": "obrnili hrbet",
+    "mwe_lemmas": [
+      "obrniti",
+      "hrbet"
+    ],
+    "paraphrase": "Tihotapci so bili morda prvi, ki so črnogorski osamosvojitvi zaprli vrata, četudi so nove oblasti v Beogradu napovedale vojno vsem oblikam kriminala.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1364058281823583388",
+    "language": "SL",
+    "raw_text": "Danilu Polajžerju, ustanovitelju kluba, so na pomoč priskočili člani njegovega matičnega kluba in tako bo ptujski šahovski klub prevzel tehnično organizacijo, Millenium pa sponzorsko plat.",
+    "sentence": "Danilu Polajžerju, ustanovitelju kluba, so na pomoč priskočili člani njegovega matičnega kluba in tako bo ptujski šahovski klub prevzel tehnično organizacijo, Millenium pa sponzorsko plat.",
+    "mwe": "na pomoč priskočili",
+    "mwe_lemmas": [
+      "na pomoč",
+      "priskočiti"
+    ],
+    "paraphrase": "Danilu Polajžerju, ustanovitelju kluba, so pomagali člani njegovega matičnega kluba in tako bo ptujski šahovski klub prevzel tehnično organizacijo, Millenium pa sponzorsko plat.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-815882854895033000",
+    "language": "SL",
+    "raw_text": "Pri nepravilni prehrani, ki je zli duh večine vsaj srednje bogatih nacij, tudi primarij Tomislav Majić opozarja na življenjsko pomembno razmerje med nasičenimi in nenasičenimi maščobnimi kislinami.",
+    "sentence": "Pri nepravilni prehrani, ki je zli duh večine vsaj srednje bogatih nacij, tudi primarij Tomislav Majić opozarja na življenjsko pomembno razmerje med nasičenimi in nenasičenimi maščobnimi kislinami.",
+    "mwe": "zli duh",
+    "mwe_lemmas": [
+      "zli",
+      "duh"
+    ],
+    "paraphrase": "Pri nepravilni prehrani, ki je poglavitna težava večine vsaj srednje bogatih nacij, tudi primarij Tomislav Majić opozarja na življenjsko pomembno razmerje med nasičenimi in nenasičenimi maščobnimi kislinami.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5406510163551849985",
+    "language": "SL",
+    "raw_text": "Južno od Perzeja oko sreča majhno, a vpadljivo zvezdno skupino Plejade.",
+    "sentence": "Južno od Perzeja oko sreča majhno, a vpadljivo zvezdno skupino Plejade.",
+    "mwe": "zvezdno skupino",
+    "mwe_lemmas": [
+      "zvezden",
+      "skupina"
+    ],
+    "paraphrase": "Južno od Perzeja oko sreča majhno, a vpadljivo kopico Plejade.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-987694499121370900",
+    "language": "SL",
+    "raw_text": "Antarktični otoki so svet zase, že zato, ker jih naseljujejo tudi ljudje.",
+    "sentence": "Antarktični otoki so svet zase, že zato, ker jih naseljujejo tudi ljudje.",
+    "mwe": "svet zase",
+    "mwe_lemmas": [
+      "svet",
+      "zase"
+    ],
+    "paraphrase": "Antarktični otoki so edinstveni, že zato, ker jih naseljujejo tudi ljudje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4407624428812574140",
+    "language": "SL",
+    "raw_text": "V celjskem Gradisu so se delavci postavili po robu predsednici uprave Lidiji Žagar",
+    "sentence": "V celjskem Gradisu so se delavci postavili po robu predsednici uprave Lidiji Žagar",
+    "mwe": "postavili po robu",
+    "mwe_lemmas": [
+      "postaviti",
+      "po",
+      "rob"
+    ],
+    "paraphrase": "V celjskem Gradisu so se delavci uprli predsednici uprave Lidiji Žagar.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1606357083765291825",
+    "language": "SL",
+    "raw_text": "Ne uklanjajte naših hrbtov, da bi na njih sekali drva za bolje obložene ražnje.",
+    "sentence": "Ne uklanjajte naših hrbtov, da bi na njih sekali drva za bolje obložene ražnje.",
+    "mwe": "sekali drva",
+    "mwe_lemmas": [
+      "sekati",
+      "drva"
+    ],
+    "paraphrase": "Ne uklanjajte naših hrbtov, da bi na njih pripravljali polena za bolje obložene ražnje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2071057884228157545",
+    "language": "SL",
+    "raw_text": "Pa še smolo ima, da ga podpirata desnica in tudi opozicija.",
+    "sentence": "Pa še smolo ima, da ga podpirata desnica in tudi opozicija.",
+    "mwe": "imeti smolo",
+    "mwe_lemmas": [
+      "imeti",
+      "smola"
+    ],
+    "paraphrase": "Prav tako nima sreče, saj ga podpirata desnica in tudi opozicija.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1856018276275242101",
+    "language": "SL",
+    "raw_text": "Čeprav trdijo, da je previdnost mati modrosti.",
+    "sentence": "Čeprav trdijo, da je previdnost mati modrosti.",
+    "mwe": "previdnost mati modrosti",
+    "mwe_lemmas": [
+      "previdnost",
+      "mati",
+      "modrost"
+    ],
+    "paraphrase": "Čeprav trdijo, da je pazljivost vir razumnosti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4335645220580953578",
+    "language": "SL",
+    "raw_text": "Deset pred deveto se je v Londonu pred dobrim tednom dni ustavil čas.",
+    "sentence": "Deset pred deveto se je v Londonu pred dobrim tednom dni ustavil čas.",
+    "mwe": "ustavil čas",
+    "mwe_lemmas": [
+      "ustaviti",
+      "čas"
+    ],
+    "paraphrase": "Deset pred deveto se je v Londonu pred dobrim tednom dni življenje popolnoma zaustavilo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3520676257734229153",
+    "language": "SL",
+    "raw_text": "Energijo, ki jo potrebujemo, dobimo samo od toka, proti kateremu plavamo.",
+    "sentence": "Energijo, ki jo potrebujemo, dobimo samo od toka, proti kateremu plavamo.",
+    "mwe": "proti kateremu plavamo",
+    "mwe_lemmas": [
+      "proti",
+      "kateri",
+      "plavati"
+    ],
+    "paraphrase": "Energijo, ki jo potrebujemo, dobimo zgolj iz nasprotnega toka, ki ga premagujemo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3066472617247256695",
+    "language": "SL",
+    "raw_text": "O tem, da so bile v Iskri potrebne spremembe, so čivkali že vrabci na veji, pravi.",
+    "sentence": "O tem, da so bile v Iskri potrebne spremembe, so čivkali že vrabci na veji, pravi.",
+    "mwe": "čivkali že vrabci na veji",
+    "mwe_lemmas": [
+      "čivkati",
+      "že",
+      "vrabec",
+      "na",
+      "veja"
+    ],
+    "paraphrase": "Vsi so vedeli, da so bile v Iskri potrebne spremembe, pravi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "9066096993417676495",
+    "language": "SL",
+    "raw_text": "Ta izkušnja je pustila močan pečat na njegovih poznejših delih.",
+    "sentence": "Ta izkušnja je pustila močan pečat na njegovih poznejših delih.",
+    "mwe": "pustila močan pečat",
+    "mwe_lemmas": [
+      "pustiti",
+      "močan",
+      "pečat"
+    ],
+    "paraphrase": "Ta izkušnja je bistveno zaznamovala njegova poznejša dela.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3665993500381563995",
+    "language": "SL",
+    "raw_text": "Hipokrat je zapisal, da »zajetnost ni le bolezen sama po sebi, temveč tudi glasnica drugih bolezni«.",
+    "sentence": "Hipokrat je zapisal, da »zajetnost ni le bolezen sama po sebi, temveč tudi glasnica drugih bolezni«.",
+    "mwe": "po sebi",
+    "mwe_lemmas": [
+      "po",
+      "sebe"
+    ],
+    "paraphrase": "Hipokrat je zapisal, da »zajetnost ni le bolezen v svojem bistvu, temveč tudi glasnica drugih bolezni«.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4479997925135616126",
+    "language": "SL",
+    "raw_text": "Sedeči način življenja igra pomembno vlogo pri debelosti.",
+    "sentence": "Sedeči način življenja igra pomembno vlogo pri debelosti.",
+    "mwe": "igra pomembno vlogo",
+    "mwe_lemmas": [
+      "igrati",
+      "pomemben",
+      "vloga"
+    ],
+    "paraphrase": "Sedeči način življenja znatno prispeva k debelosti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8883488927473163019",
+    "language": "SL",
+    "raw_text": "Gasimov je začel peti pri rosnih letih in nastopil je na več koncertih v različnih mestih v Azerbajdžanu in Rusiji.",
+    "sentence": "Gasimov je začel peti pri rosnih letih in nastopil je na več koncertih v različnih mestih v Azerbajdžanu in Rusiji.",
+    "mwe": "rosnih letih",
+    "mwe_lemmas": [
+      "rosen",
+      "leto"
+    ],
+    "paraphrase": "Gasimov je začel peti v svojem zgodnjem otroštvu in nastopil je na več koncertih v različnih mestih v Azerbajdžanu in Rusiji.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8990326107338834292",
+    "language": "SL",
+    "raw_text": "Lee je imel v mislih večje načrte.",
+    "sentence": "Lee je imel v mislih večje načrte.",
+    "mwe": "imel v mislih",
+    "mwe_lemmas": [
+      "imeti",
+      "v",
+      "misel"
+    ],
+    "paraphrase": "Lee je načrtoval večje stvari.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2845910728873508749",
+    "language": "SL",
+    "raw_text": "Do zgodnjih jutranjih ur je bila vsa Grčija v rokah polkovnikov.",
+    "sentence": "Do zgodnjih jutranjih ur je bila vsa Grčija v rokah polkovnikov.",
+    "mwe": "v rokah",
+    "mwe_lemmas": [
+      "v",
+      "roka"
+    ],
+    "paraphrase": "Do zgodnjih jutranjih ur je bila vsa Grčija pod nadzorom polkovnikov.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "220914449105446696",
+    "language": "SL",
+    "raw_text": "Zelo rad ima svojega sina.",
+    "sentence": "Zelo rad ima svojega sina.",
+    "mwe": "rad ima",
+    "mwe_lemmas": [
+      "rad",
+      "imeti"
+    ],
+    "paraphrase": "Zelo ljubi svojega sina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1749615594914825468",
+    "language": "SL",
+    "raw_text": "Tako smo predstavili najljubše sopotnike podserije 5, 7 in 9, kot zadnjega pa predstavljamo še paradnega konja med GO-ji, torej GO 930.",
+    "sentence": "Tako smo predstavili najljubše sopotnike podserije 5, 7 in 9, kot zadnjega pa predstavljamo še paradnega konja med GO-ji, torej GO 930.",
+    "mwe": "paradnega konja",
+    "mwe_lemmas": [
+      "paradni",
+      "konj"
+    ],
+    "paraphrase": "Tako smo predstavili najljubše sopotnike podserije 5, 7 in 9, kot zadnjega pa predstavljamo še vodilni model med GO-ji, torej GO 930.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7420146870018743011",
+    "language": "SL",
+    "raw_text": "Cilji so bili izpolnjeni, vedenje športnikov primerno, žal pa ostaja zgolj črna pika nad dopinškim primerom Žige Jegliča.",
+    "sentence": "Cilji so bili izpolnjeni, vedenje športnikov primerno, žal pa ostaja zgolj črna pika nad dopinškim primerom Žige Jegliča.",
+    "mwe": "črna pika",
+    "mwe_lemmas": [
+      "črn",
+      "pika"
+    ],
+    "paraphrase": "Cilji so bili izpolnjeni, vedenje športnikov primerno, žal pa ostaja zgolj madež nad dopinškim primerom Žige Jegliča.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "640071574959995281",
+    "language": "SL",
+    "raw_text": "Edini resnično črni oblak na obzorju so morebitni novi zakonodajni eksperimenti v imenu evropskosti.",
+    "sentence": "Edini resnično črni oblak na obzorju so morebitni novi zakonodajni eksperimenti v imenu evropskosti.",
+    "mwe": "črni oblak",
+    "mwe_lemmas": [
+      "črn",
+      "oblak"
+    ],
+    "paraphrase": "Edina resna grožnja na obzorju so morebitni novi zakonodajni eksperimenti v imenu evropskosti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8050824775846481711",
+    "language": "SL",
+    "raw_text": "Varčevanje je slepa ulica in ga je treba končati, menijo v Etucu in poudarjajo, da krize ne moremo več reševati z žrtvovanjem plač in socialne zaščite.",
+    "sentence": "Varčevanje je slepa ulica in ga je treba končati, menijo v Etucu in poudarjajo, da krize ne moremo več reševati z žrtvovanjem plač in socialne zaščite.",
+    "mwe": "slepa ulica",
+    "mwe_lemmas": [
+      "slep",
+      "ulica"
+    ],
+    "paraphrase": "Varčevanje je brezizhoden položaj in ga je treba končati, menijo v Etucu in poudarjajo, da krize ne moremo več reševati z žrtvovanjem plač in socialne zaščite.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8556134251135685792",
+    "language": "SL",
+    "raw_text": "Ko je nekdanja Janševa vlada z ruskim plinskim monopolistom Gazpromom podpisala sporazum o Južnem toku, je obveljala za trojanskega konja ruskih interesov v Evropski uniji.",
+    "sentence": "Ko je nekdanja Janševa vlada z ruskim plinskim monopolistom Gazpromom podpisala sporazum o Južnem toku, je obveljala za trojanskega konja ruskih interesov v Evropski uniji.",
+    "mwe": "trojanskega konja",
+    "mwe_lemmas": [
+      "trojanski",
+      "konj"
+    ],
+    "paraphrase": "Ko je nekdanja Janševa vlada z ruskim plinskim monopolistom Gazpromom podpisala sporazum o Južnem toku, je veljala za prikrito orodje ruskih interesov v Evropski uniji.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2917948590872605409",
+    "language": "SL",
+    "raw_text": "Verjetno ni treba posebej poudarjati, kaj status evroligaša pomeni vlečnemu konju slovenske košarke.",
+    "sentence": "Verjetno ni treba posebej poudarjati, kaj status evroligaša pomeni vlečnemu konju slovenske košarke.",
+    "mwe": "vlečnemu konju",
+    "mwe_lemmas": [
+      "vlečen",
+      "konj"
+    ],
+    "paraphrase": "Verjetno ni treba posebej poudarjati, kaj status evroligaša pomeni glavnemu nosilcu slovenske košarke.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4141535387002087925",
+    "language": "SL",
+    "raw_text": "Poznavalci trga pravijo, da je slovenski Telekom pravzaprav gnilo jajce med evropskimi telekomi, da je hudo precenjen in da zato zanj ni prevelikega zanimanja med uglednimi evropskimi telekomi.",
+    "sentence": "Poznavalci trga pravijo, da je slovenski Telekom pravzaprav gnilo jajce med evropskimi telekomi, da je hudo precenjen in da zato zanj ni prevelikega zanimanja med uglednimi evropskimi telekomi.",
+    "mwe": "gnilo jajce",
+    "mwe_lemmas": [
+      "gnil",
+      "jajce"
+    ],
+    "paraphrase": "Poznavalci trga pravijo, da je slovenski Telekom pravzaprav slaba naložba med evropskimi telekomi, da je hudo precenjen in da zato zanj ni prevelikega zanimanja med uglednimi evropskimi telekomi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "613513817470170299",
+    "language": "SL",
+    "raw_text": "Denar: ste opazili, da ste blizu rdečih številk?",
+    "sentence": "Denar: ste opazili, da ste blizu rdečih številk?",
+    "mwe": "rdečih številk",
+    "mwe_lemmas": [
+      "rdeč",
+      "številka"
+    ],
+    "paraphrase": "Denar: ste opazili, da ste blizu finančne izgube?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5583968730102639831",
+    "language": "SL",
+    "raw_text": "Malo čudno je zgledalo, ko sem imel že na štartu na stopalih neopren, vendar so kmalu vsi nejeverni Tomaži prikimavali moji odločitvi.",
+    "sentence": "Malo čudno je zgledalo, ko sem imel že na štartu na stopalih neopren, vendar so kmalu vsi nejeverni Tomaži prikimavali moji odločitvi.",
+    "mwe": "nejeverni Tomaži",
+    "mwe_lemmas": [
+      "nejeveren",
+      "tomaž"
+    ],
+    "paraphrase": "Malo čudno je zgledalo, ko sem imel že na štartu na stopalih neopren, vendar so kmalu vsi skeptiki prikimavali moji odločitvi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5764113624870655161",
+    "language": "SL",
+    "raw_text": "(mm) Vipavčan Žiga Herberstein je bil fant od fare.",
+    "sentence": "(mm) Vipavčan Žiga Herberstein je bil fant od fare.",
+    "mwe": "fant od fare",
+    "mwe_lemmas": [
+      "fant",
+      "od",
+      "fara"
+    ],
+    "paraphrase": "Vipavčan Žiga Herberstein je bil izjemen človek.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5369740945096398186",
+    "language": "SL",
+    "raw_text": "Toda Hazard ni navdušil samo s svojo predstavo, temveč je po koncu srečanja pokazal še, da je človek na mestu.",
+    "sentence": "Toda Hazard ni navdušil samo s svojo predstavo, temveč je po koncu srečanja pokazal še, da je človek na mestu.",
+    "mwe": "človek na mestu",
+    "mwe_lemmas": [
+      "človek",
+      "na",
+      "mesto"
+    ],
+    "paraphrase": "Toda Hazard ni navdušil samo s svojo predstavo, temveč je po koncu srečanja pokazal še, da je poštena oseba.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3978002897024192232",
+    "language": "SL",
+    "raw_text": "Tako kot ti sem tudi jaz zelo dosledna in predvsem mož beseda, saj nikoli še nisem nikogar izdala.",
+    "sentence": "Tako kot ti sem tudi jaz zelo dosledna in predvsem mož beseda, saj nikoli še nisem nikogar izdala.",
+    "mwe": "mož beseda",
+    "mwe_lemmas": [
+      "mož",
+      "beseda"
+    ],
+    "paraphrase": "Tako kot ti sem tudi jaz zelo dosledna in predvsem zanesljiva oseba, saj nikoli še nisem nikogar izdala.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4026895289754823607",
+    "language": "SL",
+    "raw_text": "Cruise in Kidmanova sta svoj desetletni zakon končala leta 2001, še malo pred tem pa sta posnela izredno globok, razkrivajoč in seksi film Oči široko zaprte, ki je bil obenem labodji spev legendarnega Stanleyja Kubricka.",
+    "sentence": "Cruise in Kidmanova sta svoj desetletni zakon končala leta 2001, še malo pred tem pa sta posnela izredno globok, razkrivajoč in seksi film Oči široko zaprte, ki je bil obenem labodji spev legendarnega Stanleyja Kubricka.",
+    "mwe": "labodji spev",
+    "mwe_lemmas": [
+      "labodji",
+      "spev"
+    ],
+    "paraphrase": "Cruise in Kidmanova sta svoj desetletni zakon končala leta 2001, še malo pred tem pa sta posnela izredno globok, razkrivajoč in seksi film Oči široko zaprte, ki je bil obenem zadnje delo legendarnega Stanleyja Kubricka.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7048187638508287574",
+    "language": "SL",
+    "raw_text": "Afera Panamski dokumenti, ki je izbruhnila aprila, je razkrila številna znana imena imetnikov tajnih računov in slamnatih podjetij v Panami.",
+    "sentence": "Afera Panamski dokumenti, ki je izbruhnila aprila, je razkrila številna znana imena imetnikov tajnih računov in slamnatih podjetij v Panami.",
+    "mwe": "Panamski dokumenti",
+    "mwe_lemmas": [
+      "panamski",
+      "dokument"
+    ],
+    "paraphrase": "Afera, ki je izbruhnila aprila, je razkrila številna znana imena imetnikov tajnih računov in slamnatih podjetij v tej srednjeameriški državi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6114619270652405129",
+    "language": "SL",
+    "raw_text": "Živa duša ne sme slišati o njih.",
+    "sentence": "Živa duša ne sme slišati o njih.",
+    "mwe": "Živa duša",
+    "mwe_lemmas": [
+      "živ",
+      "duša"
+    ],
+    "paraphrase": "Nihče ne sme slišati o njih.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-767957307817006484",
+    "language": "SL",
+    "raw_text": "Vsakodnevno razvažanje je v mnogih primerih za otroke prav medvedja usluga.",
+    "sentence": "Vsakodnevno razvažanje je v mnogih primerih za otroke prav medvedja usluga.",
+    "mwe": "medvedja usluga",
+    "mwe_lemmas": [
+      "medvedji",
+      "usluga"
+    ],
+    "paraphrase": "Vsakodnevno razvažanje je v mnogih primerih za otroke v resnici škodljivo dejanje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4823485762719821436",
+    "language": "SL",
+    "raw_text": "Zastor nad dogajanjem v ženskem rokometu v letošnji sezoni bo padel v zadnjih dneh maja.",
+    "sentence": "Zastor nad dogajanjem v ženskem rokometu v letošnji sezoni bo padel v zadnjih dneh maja.",
+    "mwe": "zastor bo padel",
+    "mwe_lemmas": [
+      "zastor",
+      "biti",
+      "pasti"
+    ],
+    "paraphrase": "Dogajanje v ženskem rokometu se bo v letošnji sezoni zaključilo v zadnjih dneh maja.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3471398324153973056",
+    "language": "SL",
+    "raw_text": "Ko je na mizi zagledala hrano, se ji je obrnil želodec.",
+    "sentence": "Ko je na mizi zagledala hrano, se ji je obrnil želodec.",
+    "mwe": "se ji je obrnil želodec",
+    "mwe_lemmas": [
+      "se",
+      "on",
+      "biti",
+      "obrniti",
+      "želodec"
+    ],
+    "paraphrase": "Ob pogledu na hrano na mizi ji je postalo slabo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "519220197041633673",
+    "language": "SL",
+    "raw_text": "Dobila sem debelo kožo, vendar je zelo lepo, ko dobiš prijaznega sogovornika.",
+    "sentence": "Dobila sem debelo kožo, vendar je zelo lepo, ko dobiš prijaznega sogovornika.",
+    "mwe": "debela koža",
+    "mwe_lemmas": [
+      "debel",
+      "koža"
+    ],
+    "paraphrase": "Postala sem neobčutljiva, vendar je zelo lepo, ko dobiš prijaznega sogovornika.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-13706939386482919",
+    "language": "SL",
+    "raw_text": "Vedno dobim ošpice, ko razni \"ekonomisti\" razglabljajo o javnem sektorju.",
+    "sentence": "Vedno dobim ošpice, ko razni \"ekonomisti\" razglabljajo o javnem sektorju.",
+    "mwe": "dobim ošpice",
+    "mwe_lemmas": [
+      "dobiti",
+      "ošpice"
+    ],
+    "paraphrase": "Vedno postanem izjemno razdražen, ko razni \"ekonomisti\" razglabljajo o javnem sektorju.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "552925996419801343",
+    "language": "SL",
+    "raw_text": "V vodstvu države imamo ljudi, ki so ponarejali, lagali in varali ali pri tem \"držali vrečo\" drugim.",
+    "sentence": "V vodstvu države imamo ljudi, ki so ponarejali, lagali in varali ali pri tem \"držali vrečo\" drugim.",
+    "mwe": "držali vrečo",
+    "mwe_lemmas": [
+      "držati",
+      "vreča"
+    ],
+    "paraphrase": "V vodstvu države imamo ljudi, ki so ponarejali, lagali in varali ali pri tem pomagali drugim pri prikrivanju dejanj.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5090514890754797726",
+    "language": "SL",
+    "raw_text": "Kdor ima tako močan želodec, da brca nemočno institucijo, ima ta čas sijajno priložnost.",
+    "sentence": "Kdor ima tako močan želodec, da brca nemočno institucijo, ima ta čas sijajno priložnost.",
+    "mwe": "ima močan želodec",
+    "mwe_lemmas": [
+      "imeti",
+      "močan",
+      "želodec"
+    ],
+    "paraphrase": "Kdor premore dovolj trdnosti, da brca nemočno institucijo, ima ta čas sijajno priložnost.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5337535393027581211",
+    "language": "SL",
+    "raw_text": "Hiša, ki jo je videla pred seboj, pa ji je jemala dih.",
+    "sentence": "Hiša, ki jo je videla pred seboj, pa ji je jemala dih.",
+    "mwe": "jemala dih",
+    "mwe_lemmas": [
+      "jemati",
+      "dih"
+    ],
+    "paraphrase": "Hiša, ki jo je videla pred seboj, pa ji je jemala dih.",
+    "constraint_satisfied": false,
+    "retries_used": 0,
+    "error": "LLM returned empty response"
+  },
+  {
+    "id": "-2859536321713821654",
+    "language": "SL",
+    "raw_text": "Policijska vztrajnost pa je po petih dneh le rodila sadove.",
+    "sentence": "Policijska vztrajnost pa je po petih dneh le rodila sadove.",
+    "mwe": "rodila sadove",
+    "mwe_lemmas": [
+      "roditi",
+      "sad"
+    ],
+    "paraphrase": "Policijska vztrajnost pa je po petih dneh le prinesla rezultate.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8749254892294831168",
+    "language": "SL",
+    "raw_text": "Za njegove predmete bi si marsikateri muzej na svetu obliznil vse prste.",
+    "sentence": "Za njegove predmete bi si marsikateri muzej na svetu obliznil vse prste.",
+    "mwe": "obliznil vse prste",
+    "mwe_lemmas": [
+      "oblizniti",
+      "ves",
+      "prst"
+    ],
+    "paraphrase": "Za njegove predmete bi si marsikateri muzej na svetu močno želel.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-851156533803832496",
+    "language": "SL",
+    "raw_text": "Toda Laura ne more iz svoje kože in tako prevara svoje partnerje ter z izkupičkom pobegne v Pariz.",
+    "sentence": "Toda Laura ne more iz svoje kože in tako prevara svoje partnerje ter z izkupičkom pobegne v Pariz.",
+    "mwe": "iz svoje kože",
+    "mwe_lemmas": [
+      "iz",
+      "svoj",
+      "koža"
+    ],
+    "paraphrase": "Toda Laura ne more spremeniti svoje narave in tako prevara svoje partnerje ter z izkupičkom pobegne v Pariz.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3541520706064422296",
+    "language": "SL",
+    "raw_text": "Danielu in Gillesu sem samo hotel pokazati, da nisem po juhi priplaval.",
+    "sentence": "Danielu in Gillesu sem samo hotel pokazati, da nisem po juhi priplaval.",
+    "mwe": "po juhi priplaval",
+    "mwe_lemmas": [
+      "po",
+      "juha",
+      "priplavati"
+    ],
+    "paraphrase": "Danielu in Gillesu sem samo hotel pokazati, da nisem naiven.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3077007769108376088",
+    "language": "SL",
+    "raw_text": "Televizija je v Bosni, zlasti med vojno, sedla ljudem v dušo.",
+    "sentence": "Televizija je v Bosni, zlasti med vojno, sedla ljudem v dušo.",
+    "mwe": "sedla ljudem v dušo",
+    "mwe_lemmas": [
+      "sesti",
+      "človek",
+      "v",
+      "duša"
+    ],
+    "paraphrase": "Televizija je v Bosni, še posebej med vojno, postala zelo priljubljena med prebivalstvom.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1490989189414342640",
+    "language": "SL",
+    "raw_text": "Vsekakor bomo za ugoden razplet morali zabiti gol, kar je nazorno pokazala zadnja tekma z Nizozemsko, toda ne smemo riniti z glavo skozi zid.",
+    "sentence": "Vsekakor bomo za ugoden razplet morali zabiti gol, kar je nazorno pokazala zadnja tekma z Nizozemsko, toda ne smemo riniti z glavo skozi zid.",
+    "mwe": "riniti z glavo skozi zid",
+    "mwe_lemmas": [
+      "riniti",
+      "z",
+      "glava",
+      "skozi",
+      "zid"
+    ],
+    "paraphrase": "Vsekakor bomo za ugoden razplet morali zabiti gol, kar je nazorno pokazala zadnja tekma z Nizozemsko, toda ne smemo ravnati nepremišljeno.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1965976436250992579",
+    "language": "SL",
+    "raw_text": "Monaška princesa Stephanie je prava mala črna ovca na dvoru.",
+    "sentence": "Monaška princesa Stephanie je prava mala črna ovca na dvoru.",
+    "mwe": "črna ovca",
+    "mwe_lemmas": [
+      "črn",
+      "ovca"
+    ],
+    "paraphrase": "Monaška princesa Stephanie je prava izobčenka na dvoru.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6403850754759801877",
+    "language": "SL",
+    "raw_text": "Dragulj v kroni pa predstavlja natisnjen Nuvolarijev znak v obliki želve in z njegovima začetnicama.",
+    "sentence": "Dragulj v kroni pa predstavlja natisnjen Nuvolarijev znak v obliki želve in z njegovima začetnicama.",
+    "mwe": "dragulj v kroni",
+    "mwe_lemmas": [
+      "dragulj",
+      "v",
+      "krona"
+    ],
+    "paraphrase": "Glavni vrhunec pa predstavlja natisnjen Nuvolarijev znak v obliki želve in z njegovima začetnicama.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7121376608348925530",
+    "language": "SL",
+    "raw_text": "Zgodovinska ironija je, da je bila, ko so leta 1949 objavili njegovo remek delo 1984, Burma na začetku demokratične poti vzpostavljanja samostojne republike.",
+    "sentence": "Zgodovinska ironija je, da je bila, ko so leta 1949 objavili njegovo remek delo 1984, Burma na začetku demokratične poti vzpostavljanja samostojne republike.",
+    "mwe": "remek delo",
+    "mwe_lemmas": [
+      "remek-delo"
+    ],
+    "paraphrase": "Zgodovinska ironija je, da je bila, ko so leta 1949 objavili njegovo mojstrovino 1984, Burma na začetku demokratične poti vzpostavljanja samostojne republike.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8027495894233542382",
+    "language": "SL",
+    "raw_text": "Sanja o svojem princu na belem konju, ki ga uteleša prijatelj Arthur.",
+    "sentence": "Sanja o svojem princu na belem konju, ki ga uteleša prijatelj Arthur.",
+    "mwe": "princu na belem konju",
+    "mwe_lemmas": [
+      "princ",
+      "na",
+      "bel",
+      "konj"
+    ],
+    "paraphrase": "Sanja o svojem idealnem partnerju, ki ga uteleša prijatelj Arthur.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5197479003031106209",
+    "language": "SL",
+    "raw_text": "Bolj židane volje je Katančev džoker z južnoameriške turneje Rajko Rotman.",
+    "sentence": "Bolj židane volje je Katančev džoker z južnoameriške turneje Rajko Rotman.",
+    "mwe": "židane volje",
+    "mwe_lemmas": [
+      "židan",
+      "volja"
+    ],
+    "paraphrase": "Boljše razpoložen je Katančev džoker z južnoameriške turneje Rajko Rotman.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4460958872347129667",
+    "language": "SL",
+    "raw_text": "Marjan Jager - manj znani brat uspešnega mariborskega pekarnarja je v službi v bolnišnici sicer blažen med ženami, a še vedno čaka na pravo.",
+    "sentence": "Marjan Jager - manj znani brat uspešnega mariborskega pekarnarja je v službi v bolnišnici sicer blažen med ženami, a še vedno čaka na pravo.",
+    "mwe": "blažen med ženami",
+    "mwe_lemmas": [
+      "blažen",
+      "med",
+      "žena"
+    ],
+    "paraphrase": "Marjan Jager - manj znani brat uspešnega mariborskega pekarnarja je v službi v bolnišnici obkrožen zgolj s sodelavkami, a še vedno čaka na pravo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7330150330688314644",
+    "language": "SL",
+    "raw_text": "Sicer pa je mučno gledati vso to množico najrazličnejših oseb, ko moraš nič kriv nič dolžan odgovarjati na njihova vprašanja.",
+    "sentence": "Sicer pa je mučno gledati vso to množico najrazličnejših oseb, ko moraš nič kriv nič dolžan odgovarjati na njihova vprašanja.",
+    "mwe": "nič kriv nič dolžan",
+    "mwe_lemmas": [
+      "nič",
+      "kriv",
+      "nič",
+      "dolžan"
+    ],
+    "paraphrase": "Sicer pa je mučno gledati vso to množico najrazličnejših oseb, ko moraš povsem nedolžen odgovarjati na njihova vprašanja.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "798162723903601671",
+    "language": "SL",
+    "raw_text": "Kot ste rekli, to so javni podatki, vzame ti pet minut, da jih odkriješ, a nekateri novinarji nimajo niti pet minut in potem streljajo kozle.",
+    "sentence": "Kot ste rekli, to so javni podatki, vzame ti pet minut, da jih odkriješ, a nekateri novinarji nimajo niti pet minut in potem streljajo kozle.",
+    "mwe": "streljajo kozle",
+    "mwe_lemmas": [
+      "streljati",
+      "kozel"
+    ],
+    "paraphrase": "Kot ste rekli, to so javni podatki, vzame ti pet minut, da jih odkriješ, a nekateri novinarji nimajo niti pet minut in potem govorijo neumnosti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7152371990081281846",
+    "language": "SL",
+    "raw_text": "Poleg otroka smo seveda pomembni tudi mi sami; če ne bomo zadovoljni s seboj, bomo slabo voljo prenašali na otroka, če ne znamo poskrbeti zase, tudi za otroka ne bomo znali – in začaran krog je tu.",
+    "sentence": "Poleg otroka smo seveda pomembni tudi mi sami; če ne bomo zadovoljni s seboj, bomo slabo voljo prenašali na otroka, če ne znamo poskrbeti zase, tudi za otroka ne bomo znali – in začaran krog je tu.",
+    "mwe": "začaran krog",
+    "mwe_lemmas": [
+      "začaran",
+      "krog"
+    ],
+    "paraphrase": "Poleg otroka smo seveda pomembni tudi mi sami; če ne bomo zadovoljni s seboj, bomo slabo voljo prenašali na otroka, če ne znamo poskrbeti zase, tudi za otroka ne bomo znali – in neskončna zanka je tu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1289318710349641542",
+    "language": "SL",
+    "raw_text": "Madonni tesno za petami sledita še dve igralski kolegici, Whoopi Goldberg z otroškim bontonom - slikanico Big Book of Manners in – pravzaprav že veteranka s šestimi knjigami in štirimi milijoni prodanih izvodov – JAMIE LEE CURTIS, ki je napisala priročnik o odraščanju z naslovom Is There Really a Human Race?",
+    "sentence": "Madonni tesno za petami sledita še dve igralski kolegici, Whoopi Goldberg z otroškim bontonom - slikanico Big Book of Manners in – pravzaprav že veteranka s šestimi knjigami in štirimi milijoni prodanih izvodov – JAMIE LEE CURTIS, ki je napisala priročnik o odraščanju z naslovom Is There Really a Human Race?",
+    "mwe": "tesno za petami",
+    "mwe_lemmas": [
+      "tesno",
+      "za",
+      "peta"
+    ],
+    "paraphrase": "Madonni sledita še dve igralski kolegici, Whoopi Goldberg z otroškim bontonom - slikanico Big Book of Manners in – pravzaprav že veteranka s šestimi knjigami in štirimi milijoni prodanih izvodov – JAMIE LEE CURTIS, ki je napisala priročnik o odraščanju z naslovom Is There Really a Human Race?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4115823231427959785",
+    "language": "SL",
+    "raw_text": "Kleč: ta hči ne spravi skupaj ničesar.",
+    "sentence": "Kleč: ta hči ne spravi skupaj ničesar.",
+    "mwe": "spravi skupaj",
+    "mwe_lemmas": [
+      "spraviti",
+      "skupaj"
+    ],
+    "paraphrase": "Kleč: ta hči ne ustvari ničesar.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2436716752885540373",
+    "language": "SL",
+    "raw_text": "Lisjaki so tokrat v napadu stisnili rep med noge in zmago ter nove točke prepustili gostom iz Madžarske, ki so zmagali z 8:3.",
+    "sentence": "Lisjaki so tokrat v napadu stisnili rep med noge in zmago ter nove točke prepustili gostom iz Madžarske, ki so zmagali z 8:3.",
+    "mwe": "stisnili rep med noge",
+    "mwe_lemmas": [
+      "stisniti",
+      "rep",
+      "med",
+      "noga"
+    ],
+    "paraphrase": "Lisjaki so tokrat v napadu pokazali strahopetnost in zmago ter nove točke prepustili gostom iz Madžarske, ki so zmagali z 8:3.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7609487472431238547",
+    "language": "SL",
+    "raw_text": "Opozoril bi, da ustavimo konje, saj to obtoževanje dejansko ustvarja histerijo in slabo politično klimo.",
+    "sentence": "Opozoril bi, da ustavimo konje, saj to obtoževanje dejansko ustvarja histerijo in slabo politično klimo.",
+    "mwe": "ustavimo konje",
+    "mwe_lemmas": [
+      "ustaviti",
+      "konj"
+    ],
+    "paraphrase": "Opozoril bi, da se umirimo, saj to obtoževanje dejansko ustvarja histerijo in slabo politično klimo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2799709539049526775",
+    "language": "SL",
+    "raw_text": "Kot na dlani je torej, da domačine čaka zahtevna preizkušnja.",
+    "sentence": "Kot na dlani je torej, da domačine čaka zahtevna preizkušnja.",
+    "mwe": "Kot na dlani",
+    "mwe_lemmas": [
+      "kot",
+      "na",
+      "dlan"
+    ],
+    "paraphrase": "Očitno je torej, da domačine čaka zahtevna preizkušnja.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5106713735222291654",
+    "language": "SL",
+    "raw_text": "Acerjev in Medionov model, ki imata običajen zaslon (razmerje 4:3), sta za rep ujela oceno dobro za računalniško zmogljivost.",
+    "sentence": "Acerjev in Medionov model, ki imata običajen zaslon (razmerje 4:3), sta za rep ujela oceno dobro za računalniško zmogljivost.",
+    "mwe": "za rep ujela",
+    "mwe_lemmas": [
+      "za",
+      "rep",
+      "ujeti"
+    ],
+    "paraphrase": "Acerjev in Medionov model, ki imata običajen zaslon (razmerje 4:3), sta komaj dosegla oceno dobro za računalniško zmogljivost.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3163772705370786493",
+    "language": "SL",
+    "raw_text": "Bila je razumevajoča, pripravljena kadarkoli pomagati, globoko čuteča, prav ganljivo zaljubljena v otroke, bila je polna neverjetne moči, pa veselega srca, družabna, duhovita in predvsem tudi polna neuničljivega optimizma, ki ji je pomagal tudi v zadnjih letih hude bolezni.",
+    "sentence": "Bila je razumevajoča, pripravljena kadarkoli pomagati, globoko čuteča, prav ganljivo zaljubljena v otroke, bila je polna neverjetne moči, pa veselega srca, družabna, duhovita in predvsem tudi polna neuničljivega optimizma, ki ji je pomagal tudi v zadnjih letih hude bolezni.",
+    "mwe": "veselega srca",
+    "mwe_lemmas": [
+      "vesel",
+      "srce"
+    ],
+    "paraphrase": "Bila je razumevajoča, pripravljena kadarkoli pomagati, globoko čuteča, prav ganljivo zaljubljena v otroke, bila je polna neverjetne moči, pa dobre volje, družabna, duhovita in predvsem tudi polna neuničljivega optimizma, ki ji je pomagal tudi v zadnjih letih hude bolezni.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "841394485823816833",
+    "language": "SL",
+    "raw_text": "V to kislo jabolko bodo Goričani morali ugrizniti: igrati tako, da bo vsako tekmo spremljalo vsaj 1500 gledalcev.",
+    "sentence": "V to kislo jabolko bodo Goričani morali ugrizniti: igrati tako, da bo vsako tekmo spremljalo vsaj 1500 gledalcev.",
+    "mwe": "kislo jabolko",
+    "mwe_lemmas": [
+      "kisel",
+      "jabolko"
+    ],
+    "paraphrase": "Goričani bodo morali sprejeti to neprijetno dejstvo: igrati tako, da bo vsako tekmo spremljalo vsaj 1500 gledalcev.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6565073450240620503",
+    "language": "SL",
+    "raw_text": "S tujim perjem pa se kiti slavni supermodel Cindy Crawford.",
+    "sentence": "S tujim perjem pa se kiti slavni supermodel Cindy Crawford.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "S tujim perjem pa se kiti slavni supermodel Cindy Crawford.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "3513296827884736915",
+    "language": "SL",
+    "raw_text": "(og) LJUBLJANA Neznani moški, ki je v četrtek vstopil v knjigarno na Miklošičevi cesti, je najverjetneje knjižni molj s finančnimi težavami.",
+    "sentence": "(og) LJUBLJANA Neznani moški, ki je v četrtek vstopil v knjigarno na Miklošičevi cesti, je najverjetneje knjižni molj s finančnimi težavami.",
+    "mwe": "knjižni molj",
+    "mwe_lemmas": [
+      "knjižni",
+      "molj"
+    ],
+    "paraphrase": "(og) LJUBLJANA Neznani moški, ki je v četrtek vstopil v knjigarno na Miklošičevi cesti, je najverjetneje strasten bralec s finančnimi težavami.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7467777408569198400",
+    "language": "SL",
+    "raw_text": "- Kocka je torej padla: Drnovškov poskus je spodletel, zaupnice ni dobil, predčasnih volitev tudi ni.",
+    "sentence": "- Kocka je torej padla: Drnovškov poskus je spodletel, zaupnice ni dobil, predčasnih volitev tudi ni.",
+    "mwe": "Kocka je padla",
+    "mwe_lemmas": [
+      "kocka",
+      "biti",
+      "pasti"
+    ],
+    "paraphrase": "Odločitev je torej sprejeta: Drnovškov poskus je spodletel, zaupnice ni dobil, predčasnih volitev tudi ni.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8934810452629532901",
+    "language": "SL",
+    "raw_text": "Drug vtis je, da lahko preštejem na prste ene roke tiste, ki jim je bil všeč.",
+    "sentence": "Drug vtis je, da lahko preštejem na prste ene roke tiste, ki jim je bil všeč.",
+    "mwe": "preštejem na prste ene roke",
+    "mwe_lemmas": [
+      "prešteti",
+      "na",
+      "prst",
+      "ena",
+      "roka"
+    ],
+    "paraphrase": "Drug vtis je, da je zelo malo tistih, ki jim je bil všeč.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8872731113114053512",
+    "language": "SL",
+    "raw_text": "Aryo je oblila kurja polt.",
+    "sentence": "Aryo je oblila kurja polt.",
+    "mwe": "oblila kurja polt",
+    "mwe_lemmas": [
+      "obliti",
+      "kurja",
+      "polt"
+    ],
+    "paraphrase": "Arya so se naježile dlake.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "279921390909990184",
+    "language": "SL",
+    "raw_text": "No, seveda bi bilo lepo, če bi mi veliki met uspel prav na tekmi sezone.",
+    "sentence": "No, seveda bi bilo lepo, če bi mi veliki met uspel prav na tekmi sezone.",
+    "mwe": "veliki met",
+    "mwe_lemmas": [
+      "velik",
+      "met"
+    ],
+    "paraphrase": "No, seveda bi bilo lepo, če bi mi izjemen uspeh uspel prav na tekmi sezone.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6885911815164893153",
+    "language": "SL",
+    "raw_text": "Rešitev je kot vedno preprosta, nekakšno Kolumbovo jajce.",
+    "sentence": "Rešitev je kot vedno preprosta, nekakšno Kolumbovo jajce.",
+    "mwe": "Kolumbovo jajce",
+    "mwe_lemmas": [
+      "kolumbovo",
+      "jajce"
+    ],
+    "paraphrase": "Rešitev je kot vedno preprosta, nekakšna domiselna pogruntavščina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-38319027502377860",
+    "language": "SL",
+    "raw_text": "Humor, če naj bo učinkovit, mora biti izjemno koncizen, konciznost je pa prevajalcu nebeška mana.",
+    "sentence": "Humor, če naj bo učinkovit, mora biti izjemno koncizen, konciznost je pa prevajalcu nebeška mana.",
+    "mwe": "nebeška mana",
+    "mwe_lemmas": [
+      "nebeški",
+      "mana"
+    ],
+    "paraphrase": "Humor, če naj bo učinkovit, mora biti izjemno koncizen, konciznost pa je za prevajalca pravi blagoslov.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3850760679527619061",
+    "language": "SL",
+    "raw_text": "Tudi Štefanu Tratnjeku, nekdanjemu direktorju lendavskega Gidosa, ne cvetijo rožice.",
+    "sentence": "Tudi Štefanu Tratnjeku, nekdanjemu direktorju lendavskega Gidosa, ne cvetijo rožice.",
+    "mwe": "ne cvetijo rožice",
+    "mwe_lemmas": [
+      "ne",
+      "cveteti",
+      "rožica"
+    ],
+    "paraphrase": "Tudi Štefanu Tratnjeku, nekdanjemu direktorju lendavskega Gidosa, gre slabo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8555757221092895869",
+    "language": "SL",
+    "raw_text": "Ministrov izbranec je šel gladko skozi vladno proceduro, čeprav so skeptiki ves čas napovedovali, da ne bo šlo kot po maslu.",
+    "sentence": "Ministrov izbranec je šel gladko skozi vladno proceduro, čeprav so skeptiki ves čas napovedovali, da ne bo šlo kot po maslu.",
+    "mwe": "šlo kot po maslu",
+    "mwe_lemmas": [
+      "iti",
+      "kot",
+      "po",
+      "maslo"
+    ],
+    "paraphrase": "Ministrov izbranec je uspešno prestal vladno proceduro, čeprav so skeptiki ves čas napovedovali, da ne bo potekalo brez težav.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3565289540790762369",
+    "language": "SL",
+    "raw_text": "Slaba stran letošnjega prizorišča pa je bojda veter, ki pogosto kroji usodo tekmovanja.",
+    "sentence": "Slaba stran letošnjega prizorišča pa je bojda veter, ki pogosto kroji usodo tekmovanja.",
+    "mwe": "kroji usodo",
+    "mwe_lemmas": [
+      "krojiti",
+      "usoda"
+    ],
+    "paraphrase": "Slaba stran letošnjega prizorišča pa je bojda veter, ki pogosto odloča o izidu tekmovanja.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4877607238535021269",
+    "language": "SL",
+    "raw_text": "Če bomo v teh dveh elementih igre zatajili, nam bo trda predla.",
+    "sentence": "Če bomo v teh dveh elementih igre zatajili, nam bo trda predla.",
+    "mwe": "trda predla",
+    "mwe_lemmas": [
+      "trd",
+      "presti"
+    ],
+    "paraphrase": "Če bomo v teh dveh elementih igre zatajili, se nam slabo piše.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5973243304154995279",
+    "language": "SL",
+    "raw_text": "Vaše Popevke sploh ni bilo, Split me ni zanimal, zagrebški festival životari, Šibenik ima sicer večere dalmatinskih šansonov, a sem sam bolj volk samotar.",
+    "sentence": "Vaše Popevke sploh ni bilo, Split me ni zanimal, zagrebški festival životari, Šibenik ima sicer večere dalmatinskih šansonov, a sem sam bolj volk samotar.",
+    "mwe": "volk samotar",
+    "mwe_lemmas": [
+      "volk",
+      "samotar"
+    ],
+    "paraphrase": "Vaše Popevke sploh ni bilo, Split me ni zanimal, zagrebški festival životari, Šibenik ima sicer večere dalmatinskih šansonov, a sem sam bolj samotna oseba.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8750719573578077436",
+    "language": "SL",
+    "raw_text": "Ampak med vrsticami beremo, da ni daleč od serijske izdelave.",
+    "sentence": "Ampak med vrsticami beremo, da ni daleč od serijske izdelave.",
+    "mwe": "med vrsticami beremo",
+    "mwe_lemmas": [
+      "med",
+      "vrstica",
+      "brati"
+    ],
+    "paraphrase": "Vendar iz skritega pomena izhaja, da ni daleč od serijske izdelave.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5702771746919410347",
+    "language": "SL",
+    "raw_text": "Dečko je postaven in jezik mu dobro teče, a je brez pravih idej.",
+    "sentence": "Dečko je postaven in jezik mu dobro teče, a je brez pravih idej.",
+    "mwe": "jezik mu dobro teče",
+    "mwe_lemmas": [
+      "jezik",
+      "on",
+      "dobro",
+      "teči"
+    ],
+    "paraphrase": "Dečko je postaven in zgovoren, a je brez pravih idej.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7659417297483626219",
+    "language": "SL",
+    "raw_text": "Mis Universe in bivši punci pevca Marka (Game Over) se očitno cedita med in mleko.",
+    "sentence": "Mis Universe in bivši punci pevca Marka (Game Over) se očitno cedita med in mleko.",
+    "mwe": "cedita med in mleko",
+    "mwe_lemmas": [
+      "cediti",
+      "med",
+      "in",
+      "mleko"
+    ],
+    "paraphrase": "Mis Universe in bivši punci pevca Marka (Game Over) očitno živita v izobilju.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8610434343276352942",
+    "language": "SL",
+    "raw_text": "Tudi o mojih novih spoznanjih se mu ne sanja.",
+    "sentence": "Tudi o mojih novih spoznanjih se mu ne sanja.",
+    "mwe": "se mu ne sanja",
+    "mwe_lemmas": [
+      "se",
+      "on",
+      "ne",
+      "sanja se"
+    ],
+    "paraphrase": "Prav tako nima pojma o mojih novih spoznanjih.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-676142599424042344",
+    "language": "SL",
+    "raw_text": "Praznujejo pač tedaj, ko jim veli srce, in ne tedaj, ko jim zaukaže koledar.",
+    "sentence": "Praznujejo pač tedaj, ko jim veli srce, in ne tedaj, ko jim zaukaže koledar.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Praznujejo pač tedaj, ko jim veli srce, in ne tedaj, ko jim zaukaže koledar.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-2055437376396943359",
+    "language": "SL",
+    "raw_text": "V glavi ji je vrelo, ko je odklepala vrata.",
+    "sentence": "V glavi ji je vrelo, ko je odklepala vrata.",
+    "mwe": "v glavi ji je vrelo",
+    "mwe_lemmas": [
+      "v",
+      "glava",
+      "on",
+      "biti",
+      "vreti"
+    ],
+    "paraphrase": "Besna je bila, ko je odklepala vrata.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4802111164107878922",
+    "language": "SL",
+    "raw_text": "Brcni me v rit, da grem na vajo!",
+    "sentence": "Brcni me v rit, da grem na vajo!",
+    "mwe": "brcni me v rit",
+    "mwe_lemmas": [
+      "brcniti",
+      "jaz",
+      "v",
+      "rit"
+    ],
+    "paraphrase": "Spodbudi me, da odidem na vajo!",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1936437887243123879",
+    "language": "SL",
+    "raw_text": "Ob imenih, ki jih je bral, je Sansi zastal dah.",
+    "sentence": "Ob imenih, ki jih je bral, je Sansi zastal dah.",
+    "mwe": "zastal dah",
+    "mwe_lemmas": [
+      "zastati",
+      "dah"
+    ],
+    "paraphrase": "Ob imenih, ki jih je bral, je Sansi za trenutek prenehalo biti srce.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-546214920443359583",
+    "language": "SL",
+    "raw_text": "Naslednjič so desnici zrasla krila, ko so haaški preiskovalci začeli prekopavati grobnice na območju Gospića.",
+    "sentence": "Naslednjič so desnici zrasla krila, ko so haaški preiskovalci začeli prekopavati grobnice na območju Gospića.",
+    "mwe": "zrasla krila",
+    "mwe_lemmas": [
+      "zrasti",
+      "krilo"
+    ],
+    "paraphrase": "Naslednjič so desničarji postali samozavestni, ko so haaški preiskovalci začeli prekopavati grobnice na območju Gospića.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-9007121545856770799",
+    "language": "SL",
+    "raw_text": "- V koprski občini so lani za šolske prevoze odšteli okroglih 272 milijonov tolarjev, kar lep del proračunske pogače.",
+    "sentence": "- V koprski občini so lani za šolske prevoze odšteli okroglih 272 milijonov tolarjev, kar lep del proračunske pogače.",
+    "mwe": "proračunske pogače",
+    "mwe_lemmas": [
+      "proračunski",
+      "pogača"
+    ],
+    "paraphrase": "V koprski občini so lani za šolske prevoze odšteli okroglih 272 milijonov tolarjev, kar predstavlja znaten delež javnih sredstev.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8923466701799016626",
+    "language": "SL",
+    "raw_text": "Erazem se je zavedal, da je za dosego idealov potreben boj na vsej črti.",
+    "sentence": "Erazem se je zavedal, da je za dosego idealov potreben boj na vsej črti.",
+    "mwe": "na vsej črti",
+    "mwe_lemmas": [
+      "na",
+      "ves",
+      "črta"
+    ],
+    "paraphrase": "Erazem se je zavedal, da je za dosego idealov potreben popoln boj.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-342205739950736017",
+    "language": "SL",
+    "raw_text": "Po zadnji, najbolj prepričljivi uradni izjavi na temo Ronaldinho je sicer kazalo, da je bela zastava pripravljena.",
+    "sentence": "Po zadnji, najbolj prepričljivi uradni izjavi na temo Ronaldinho je sicer kazalo, da je bela zastava pripravljena.",
+    "mwe": "bela zastava",
+    "mwe_lemmas": [
+      "bela",
+      "zastava"
+    ],
+    "paraphrase": "Po zadnji, najbolj prepričljivi uradni izjavi na temo Ronaldinho je sicer kazalo, da je vdaja pripravljena.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7628093433217633339",
+    "language": "SL",
+    "raw_text": "V Doboju sta na avto odpadu prodala avtomobil, trgovcu z mobilnimi napravami pa Tržačanov mobitel, takoj zatem sta odpotovala v Črno goro, saj sta izvedela, da jima gori za petami.",
+    "sentence": "V Doboju sta na avto odpadu prodala avtomobil, trgovcu z mobilnimi napravami pa Tržačanov mobitel, takoj zatem sta odpotovala v Črno goro, saj sta izvedela, da jima gori za petami.",
+    "mwe": "gori za petami",
+    "mwe_lemmas": [
+      "goreti",
+      "za",
+      "peta"
+    ],
+    "paraphrase": "V Doboju sta na avto odpadu prodala avtomobil, trgovcu z mobilnimi napravami pa Tržačanov mobitel, takoj zatem sta odpotovala v Črno goro, saj sta izvedela, da ju policija zasleduje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3050835289262683441",
+    "language": "SL",
+    "raw_text": "Rojaki Angleži so ga kovali v zvezde in ga zasuli z nagradami.",
+    "sentence": "Rojaki Angleži so ga kovali v zvezde in ga zasuli z nagradami.",
+    "mwe": "kovali v zvezde",
+    "mwe_lemmas": [
+      "kovati",
+      "v",
+      "zvezda"
+    ],
+    "paraphrase": "Rojaki Angleži so ga neizmerno hvalili in ga zasuli z nagradami.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4357765940979517867",
+    "language": "SL",
+    "raw_text": "Jaz že ne bom tisti, ki bo rekel, da mu ne bo uspelo!« je bil skromen drugače poln samega sebe Allen Iverson.",
+    "sentence": "Jaz že ne bom tisti, ki bo rekel, da mu ne bo uspelo!« je bil skromen drugače poln samega sebe Allen Iverson.",
+    "mwe": "poln samega sebe",
+    "mwe_lemmas": [
+      "poln",
+      "sam",
+      "sebe"
+    ],
+    "paraphrase": "»Jaz že ne bom tisti, ki bo rekel, da mu ne bo uspelo!« je bil skromen drugače domišljav Allen Iverson.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5538372724462273770",
+    "language": "SL",
+    "raw_text": "In še eno vroče železo bomo imeli Slovenci v nedeljo popoldan (14.45) v ognju - Heleno Javornik, ki je v zadnjih štirih nastopih dosegla tri državne rekorde.",
+    "sentence": "In še eno vroče železo bomo imeli Slovenci v nedeljo popoldan (14.45) v ognju - Heleno Javornik, ki je v zadnjih štirih nastopih dosegla tri državne rekorde.",
+    "mwe": "vroče železo ... v ognju",
+    "mwe_lemmas": [
+      "vroč",
+      "železo",
+      "v",
+      "ogenj"
+    ],
+    "paraphrase": "Slovenci bomo v nedeljo popoldan (14.45) imeli še eno močno tekmovalko, Heleno Javornik, ki je v zadnjih štirih nastopih dosegla tri državne rekorde.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2021299405472747755",
+    "language": "SL",
+    "raw_text": "Koža se mi ježi, ko vidim, kako zlahka je osvajalska oblast razdirala pred tem skrbno čuvano avstralsko vesoljstvo.",
+    "sentence": "Koža se mi ježi, ko vidim, kako zlahka je osvajalska oblast razdirala pred tem skrbno čuvano avstralsko vesoljstvo.",
+    "mwe": "Koža se mi ježi",
+    "mwe_lemmas": [
+      "koža",
+      "se",
+      "jaz",
+      "ježiti"
+    ],
+    "paraphrase": "Občutim grozo, ko vidim, kako zlahka je osvajalska oblast razdirala pred tem skrbno čuvano avstralsko vesoljstvo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2922833954586098191",
+    "language": "SL",
+    "raw_text": "Razvaja jih z okusno kuho, hišo kot iz škatlice in odličnimi piškoti.",
+    "sentence": "Razvaja jih z okusno kuho, hišo kot iz škatlice in odličnimi piškoti.",
+    "mwe": "kot iz škatlice",
+    "mwe_lemmas": [
+      "kot",
+      "iz",
+      "škatlica"
+    ],
+    "paraphrase": "Razvaja jih z okusno kuho, brezhibno urejeno hišo in odličnimi piškoti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5729252916376975475",
+    "language": "SL",
+    "raw_text": "Zato sama nudi vsebinske rešitve in ne le kozmetične popravke.",
+    "sentence": "Zato sama nudi vsebinske rešitve in ne le kozmetične popravke.",
+    "mwe": "kozmetične popravke",
+    "mwe_lemmas": [
+      "kozmetičen",
+      "popravek"
+    ],
+    "paraphrase": "Zato sama nudi vsebinske rešitve in ne le površinskih sprememb.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5658566568298609419",
+    "language": "SL",
+    "raw_text": "Na AVK priznavajo, da so brezzobi tiger, saj pravijo, da državni organi mnenja AVK niso dolžni upoštevati, za nadaljnje ukrepanje pa nimajo zakonske podlage.",
+    "sentence": "Na AVK priznavajo, da so brezzobi tiger, saj pravijo, da državni organi mnenja AVK niso dolžni upoštevati, za nadaljnje ukrepanje pa nimajo zakonske podlage.",
+    "mwe": "brezzobi tiger",
+    "mwe_lemmas": [
+      "brezzob",
+      "tiger"
+    ],
+    "paraphrase": "Na AVK priznavajo, da so popolnoma nemočni, saj pravijo, da državni organi mnenja AVK niso dolžni upoštevati, za nadaljnje ukrepanje pa nimajo zakonske podlage.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-505874632764415985",
+    "language": "SL",
+    "raw_text": "Koncentracija ptic z vseh vetrov lahko pomeni prenašanje kužnih bolezni.",
+    "sentence": "Koncentracija ptic z vseh vetrov lahko pomeni prenašanje kužnih bolezni.",
+    "mwe": "z vseh vetrov",
+    "mwe_lemmas": [
+      "z",
+      "ves",
+      "veter"
+    ],
+    "paraphrase": "Zbiranje ptic iz različnih krajev lahko pomeni prenašanje kužnih bolezni.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8396203172998826764",
+    "language": "SL",
+    "raw_text": "Gostje jim bodo skušali prekrižati načrte brez poškodovanih Davida Razgorja in Žige Mlakarja.",
+    "sentence": "Gostje jim bodo skušali prekrižati načrte brez poškodovanih Davida Razgorja in Žige Mlakarja.",
+    "mwe": "prekrižati načrte",
+    "mwe_lemmas": [
+      "prekrižati",
+      "načrt"
+    ],
+    "paraphrase": "Gostje jim bodo skušali preprečiti namere brez poškodovanih Davida Razgorja in Žige Mlakarja.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5517371098859114746",
+    "language": "SL",
+    "raw_text": "Ne bo vam padla krona z glave, če priznate napako.",
+    "sentence": "Ne bo vam padla krona z glave, če priznate napako.",
+    "mwe": "padla krona z glave",
+    "mwe_lemmas": [
+      "pasti",
+      "krona",
+      "z",
+      "glava"
+    ],
+    "paraphrase": "Nič se vam ne bo zgodilo, če priznate napako.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1144310493255610788",
+    "language": "SL",
+    "raw_text": "Tiho zre skozi okno in kuha mulo.",
+    "sentence": "Tiho zre skozi okno in kuha mulo.",
+    "mwe": "kuha mulo",
+    "mwe_lemmas": [
+      "kuhati",
+      "mula"
+    ],
+    "paraphrase": "Tiho zre skozi okno in se užaljeno drži.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5437573978315208743",
+    "language": "SL",
+    "raw_text": "Bil je brihtna buča, veliko je vedel in veliko je znal.",
+    "sentence": "Bil je brihtna buča, veliko je vedel in veliko je znal.",
+    "mwe": "brihtna buča",
+    "mwe_lemmas": [
+      "brihten",
+      "buča"
+    ],
+    "paraphrase": "Bil je zelo inteligenten, veliko je vedel in veliko je znal.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6396939743247384290",
+    "language": "SL",
+    "raw_text": "Če to drži, so kupcem stanovanj v Ulici Slavka Gruma prodali mačka v žaklju.",
+    "sentence": "Če to drži, so kupcem stanovanj v Ulici Slavka Gruma prodali mačka v žaklju.",
+    "mwe": "mačka v žaklju",
+    "mwe_lemmas": [
+      "maček",
+      "v",
+      "žakelj"
+    ],
+    "paraphrase": "Če to drži, so kupcem stanovanj v Ulici Slavka Gruma prodali nekaj nepreverjenega.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8998358874863173714",
+    "language": "SL",
+    "raw_text": "Če bo bodoče kliente branil tako kot nakup falcona, bo še kakšen kurji tat obsojen na dvajset let zapora.",
+    "sentence": "Če bo bodoče kliente branil tako kot nakup falcona, bo še kakšen kurji tat obsojen na dvajset let zapora.",
+    "mwe": "kurji tat",
+    "mwe_lemmas": [
+      "kurji",
+      "tat"
+    ],
+    "paraphrase": "Če bo bodoče kliente branil tako kot nakup falcona, bo še kakšen malopridnež obsojen na dvajset let zapora.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5943128246810773315",
+    "language": "SL",
+    "raw_text": "Zelenim iz okoljevarstvenega ministrstva gredo ob tem lasje pokonci, saj premog še veliko bolj onesnažuje okolje.",
+    "sentence": "Zelenim iz okoljevarstvenega ministrstva gredo ob tem lasje pokonci, saj premog še veliko bolj onesnažuje okolje.",
+    "mwe": "gredo ... lasje pokonci",
+    "mwe_lemmas": [
+      "iti",
+      "las",
+      "pokonci"
+    ],
+    "paraphrase": "Zeleni iz okoljevarstvenega ministrstva so ob tem zgroženi, saj premog še veliko bolj onesnažuje okolje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3078908620516874696",
+    "language": "SL",
+    "raw_text": "Kdo brije norce iz Korošcev?",
+    "sentence": "Kdo brije norce iz Korošcev?",
+    "mwe": "brije norce",
+    "mwe_lemmas": [
+      "briti",
+      "norec"
+    ],
+    "paraphrase": "Kdo se norčuje iz Korošcev?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6218375518371562890",
+    "language": "SL",
+    "raw_text": "Tako si lomiš jezik že ob omenjanju krajev, v katere si namenjen.",
+    "sentence": "Tako si lomiš jezik že ob omenjanju krajev, v katere si namenjen.",
+    "mwe": "lomiš jezik",
+    "mwe_lemmas": [
+      "lomiti",
+      "jezik"
+    ],
+    "paraphrase": "Tako se mučiš z izgovorjavo že ob omenjanju krajev, v katere si namenjen.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4125093263268130032",
+    "language": "SL",
+    "raw_text": "Vzgojiti lepo, zdravo orhidejo, ki bo pogosto cvetela, ni mačji kašelj.",
+    "sentence": "Vzgojiti lepo, zdravo orhidejo, ki bo pogosto cvetela, ni mačji kašelj.",
+    "mwe": "mačji kašelj",
+    "mwe_lemmas": [
+      "mačji",
+      "kašelj"
+    ],
+    "paraphrase": "Vzgojiti lepo, zdravo orhidejo, ki bo pogosto cvetela, ni lahka naloga.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5853152022947693393",
+    "language": "SL",
+    "raw_text": "Ljubljana – Bo novinec na nemški trenerski sceni Bojan Prašnikar zasenčil starega lisjaka Huuba Stevensa?",
+    "sentence": "Ljubljana – Bo novinec na nemški trenerski sceni Bojan Prašnikar zasenčil starega lisjaka Huuba Stevensa?",
+    "mwe": "starega lisjaka",
+    "mwe_lemmas": [
+      "star",
+      "lisjak"
+    ],
+    "paraphrase": "Ljubljana – Bo novinec na nemški trenerski sceni Bojan Prašnikar zasenčil izkušenega prebrisanega mačka Huuba Stevensa?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-888733505996479764",
+    "language": "SL",
+    "raw_text": "V moški kategoriji je drugo mesto pripadlo jadralcu, morskemu volku iz Izole Vasiliju Žbogarju, ki je poleti v Braziliji osvojil že svojo tretjo olimpijsko kolajno.",
+    "sentence": "V moški kategoriji je drugo mesto pripadlo jadralcu, morskemu volku iz Izole Vasiliju Žbogarju, ki je poleti v Braziliji osvojil že svojo tretjo olimpijsko kolajno.",
+    "mwe": "morskemu volku",
+    "mwe_lemmas": [
+      "morski",
+      "volk"
+    ],
+    "paraphrase": "V moški kategoriji je drugo mesto pripadlo jadralcu, izkušenemu pomorščaku iz Izole Vasiliju Žbogarju, ki je poleti v Braziliji osvojil že svojo tretjo olimpijsko kolajno.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8696081442597881060",
+    "language": "SL",
+    "raw_text": "Sedaj se bo v ta obmorski biser valila jara kača vozil in najbrž bo pol urice skoraj zadostovalo za krog po mestu, ki je doslej stal sto tolarjev.",
+    "sentence": "Sedaj se bo v ta obmorski biser valila jara kača vozil in najbrž bo pol urice skoraj zadostovalo za krog po mestu, ki je doslej stal sto tolarjev.",
+    "mwe": "jara kača",
+    "mwe_lemmas": [
+      "jara",
+      "kača"
+    ],
+    "paraphrase": "Sedaj se bo v ta obmorski biser vila neskončna kolona vozil in najbrž bo pol urice skoraj zadostovalo za krog po mestu, ki je doslej stal sto tolarjev.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7965222325273528757",
+    "language": "SL",
+    "raw_text": "Na treningih in na dirki za VN Italije so bili rdeči šele druga violina.",
+    "sentence": "Na treningih in na dirki za VN Italije so bili rdeči šele druga violina.",
+    "mwe": "druga violina",
+    "mwe_lemmas": [
+      "drug",
+      "violina"
+    ],
+    "paraphrase": "Na treningih in na dirki za VN Italije so bili rdeči šele v podrejenem položaju.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8705453133416081530",
+    "language": "SL",
+    "raw_text": "Ali pa če ni župana na vsako pasjo procesijo, ga že razglasijo za sovražnika asociacije, ki je pripravila fešto.",
+    "sentence": "Ali pa če ni župana na vsako pasjo procesijo, ga že razglasijo za sovražnika asociacije, ki je pripravila fešto.",
+    "mwe": "pasjo procesijo",
+    "mwe_lemmas": [
+      "pasji",
+      "procesija"
+    ],
+    "paraphrase": "Ali pa če župana ni na vsak nepomemben dogodek, ga že razglasijo za sovražnika asociacije, ki je pripravila fešto.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6928656721852078835",
+    "language": "SL",
+    "raw_text": "Grabus je pot od takrat do danes opisal kot križev pot, ki ga muslimani v Sloveniji niso pričakovali.",
+    "sentence": "Grabus je pot od takrat do danes opisal kot križev pot, ki ga muslimani v Sloveniji niso pričakovali.",
+    "mwe": "križev pot",
+    "mwe_lemmas": [
+      "križev",
+      "pot"
+    ],
+    "paraphrase": "Grabus je pot od takrat do danes opisal kot mučno preizkušnjo, ki je muslimani v Sloveniji niso pričakovali.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1164235095847394895",
+    "language": "SL",
+    "raw_text": "Očitno mlademu zvezdniku glavo mešajo predvsem Angležinje.",
+    "sentence": "Očitno mlademu zvezdniku glavo mešajo predvsem Angležinje.",
+    "mwe": "glavo mešajo",
+    "mwe_lemmas": [
+      "glava",
+      "mešati"
+    ],
+    "paraphrase": "Očitno mladega zvezdnika zapeljujejo predvsem Angležinje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4102099704181086333",
+    "language": "SL",
+    "raw_text": "No, primer sprevrženosti pa so tudi krokodilje solze ob izbiranju urednika Maga.",
+    "sentence": "No, primer sprevrženosti pa so tudi krokodilje solze ob izbiranju urednika Maga.",
+    "mwe": "krokodilje solze",
+    "mwe_lemmas": [
+      "krokodilji",
+      "solza"
+    ],
+    "paraphrase": "Primer sprevrženosti pa je tudi hinavsko objokovanje ob izbiranju urednika Maga.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5861478897234718918",
+    "language": "SL",
+    "raw_text": "Oba so naju potegnili za nos.",
+    "sentence": "Oba so naju potegnili za nos.",
+    "mwe": "potegnili za nos",
+    "mwe_lemmas": [
+      "potegniti",
+      "za",
+      "nos"
+    ],
+    "paraphrase": "Oba sta naju prevarala.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "439497535543098477",
+    "language": "SL",
+    "raw_text": "Sporen zakon o financiranju občin ima že dolgo brado",
+    "sentence": "Sporen zakon o financiranju občin ima že dolgo brado",
+    "mwe": "dolgo brado",
+    "mwe_lemmas": [
+      "dolg",
+      "brada"
+    ],
+    "paraphrase": "Sloven zakon o financiranju občin je že precej zastarel.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "301620193752940870",
+    "language": "SL",
+    "raw_text": "Jabolko spora je vračilo vlaganj v telekomunikacijsko omrežje, kar izhaja še iz mandata prejšnjega župana Mojmirja Pustoslemška.",
+    "sentence": "Jabolko spora je vračilo vlaganj v telekomunikacijsko omrežje, kar izhaja še iz mandata prejšnjega župana Mojmirja Pustoslemška.",
+    "mwe": "Jabolko spora",
+    "mwe_lemmas": [
+      "jabolko",
+      "spor"
+    ],
+    "paraphrase": "Glavni razlog za nesoglasje je vračilo vlaganj v telekomunikacijsko omrežje, kar izhaja še iz mandata prejšnjega župana Mojmirja Pustoslemška.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3133881439709308243",
+    "language": "SL",
+    "raw_text": "Zelo zoprno je, če iz ne prav pametnega programa nekdo samo višino posojil proglasi za sveto kravo, ki je vredna vsega spoštovanja.",
+    "sentence": "Zelo zoprno je, če iz ne prav pametnega programa nekdo samo višino posojil proglasi za sveto kravo, ki je vredna vsega spoštovanja.",
+    "mwe": "sveto kravo",
+    "mwe_lemmas": [
+      "sveta",
+      "krava"
+    ],
+    "paraphrase": "Zelo zoprno je, če iz ne prav pametnega programa nekdo samo višino posojil proglasi za nedotakljivo merilo, ki je vredno vsega spoštovanja.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4149136050347440920",
+    "language": "SL",
+    "raw_text": "Februarja je slovensko nogometno reprezentanco v Genku pričakalo pasje vreme.",
+    "sentence": "Februarja je slovensko nogometno reprezentanco v Genku pričakalo pasje vreme.",
+    "mwe": "pasje vreme",
+    "mwe_lemmas": [
+      "pasji",
+      "vreme"
+    ],
+    "paraphrase": "Februarja je slovensko nogometno reprezentanco v Genku pričakalo zelo slabo podnebje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-63133056536334065",
+    "language": "SL",
+    "raw_text": "Žal je namreč tako, da so glasbene zvrsti preveč ločene in tako je za klasičnega glasbenika jazz ponavadi španska vas.",
+    "sentence": "Žal je namreč tako, da so glasbene zvrsti preveč ločene in tako je za klasičnega glasbenika jazz ponavadi španska vas.",
+    "mwe": "španska vas",
+    "mwe_lemmas": [
+      "španski",
+      "vas"
+    ],
+    "paraphrase": "Žal je namreč tako, da so glasbene zvrsti preveč ločene in tako je za klasičnega glasbenika jazz ponavadi popolna neznanka.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "223680722993547885",
+    "language": "SL",
+    "raw_text": "Prevozil sem že ogromno kilometrov, nisem nedeljski voznik, nikoli nisem imel nesreče ali prekrškov.",
+    "sentence": "Prevozil sem že ogromno kilometrov, nisem nedeljski voznik, nikoli nisem imel nesreče ali prekrškov.",
+    "mwe": "nedeljski voznik",
+    "mwe_lemmas": [
+      "nedeljski",
+      "voznik"
+    ],
+    "paraphrase": "Prevozil sem že ogromno kilometrov, nisem neizkušen šofer, nikoli nisem imel nesreče ali prekrškov.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  }
+]

@@ -30,8 +30,9 @@ def call_llm(
     temperature=None,
     max_tokens: int = None,
     max_attempts: int = 5,
-    api_key_index: int = 0,
+    api_key_index: int = 0
 ) -> Optional[str]:
+    global _client
     from google.genai import types
     from config import MODEL_NAME, TEMPERATURE, MAX_TOKENS
     import attempt_counter
@@ -40,7 +41,11 @@ def call_llm(
     temperature = temperature if temperature is not None else TEMPERATURE
     max_tokens = max_tokens or MAX_TOKENS
 
-    client = _get_client(api_key_index)
+    if attempt_counter.attempts_in_this_session % 470 == 0 and attempt_counter.attempts_in_this_session > 0:
+        logger.info(f"[LLM] Switching API key after {attempt_counter.attempts_in_this_session} attempts.")
+        _client = None
+
+    client = _get_client(attempt_counter.attempts_in_this_session // 470)
     system_text, gemini_contents = _convert_messages(messages)
 
     config = types.GenerateContentConfig(

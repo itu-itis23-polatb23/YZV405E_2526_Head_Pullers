@@ -1,0 +1,2107 @@
+[
+  {
+    "id": "-4107761073642555463",
+    "language": "SR",
+    "raw_text": "Prvi svetski rat izbio je 1914.",
+    "sentence": "Prvi svetski rat izbio je 1914.",
+    "mwe": "Prvi svetski rat",
+    "mwe_lemmas": [
+      "prvi",
+      "svetski",
+      "rat"
+    ],
+    "paraphrase": "Veliki sukob globalnih razmera počeo je 1914.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5088655949179808424",
+    "language": "SR",
+    "raw_text": "Sa rediteljkom i glumicom Maiven snimio je jednu intenzivnu , destruktivnu ljubavnu priču Mon roi , gde se i sam našao na nekoj vrsti terapije :",
+    "sentence": "Sa rediteljkom i glumicom Maiven snimio je jednu intenzivnu , destruktivnu ljubavnu priču Mon roi , gde se i sam našao na nekoj vrsti terapije :",
+    "mwe": "nekoj vrsti",
+    "mwe_lemmas": [
+      "neki",
+      "vrsta"
+    ],
+    "paraphrase": "Sa rediteljkom i glumicom Maiven snimio je jednu intenzivnu, destruktivnu ljubavnu priču Mon roi, gde se i sam našao u svojevrsnoj terapiji:",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1123273506415603792",
+    "language": "SR",
+    "raw_text": "Mesje 110 ili M110 , takođe poznat i kao NGC 205 , jeste patuljasta eliptična galaksija koja je satelit galaksije Andromeda .",
+    "sentence": "Mesje 110 ili M110 , takođe poznat i kao NGC 205 , jeste patuljasta eliptična galaksija koja je satelit galaksije Andromeda .",
+    "mwe": "patuljasta eliptična galaksija",
+    "mwe_lemmas": [
+      "patuljast",
+      "eliptičan",
+      "galaksija"
+    ],
+    "paraphrase": "Mesje 110 ili M110, takođe poznat i kao NGC 205, jeste minijaturni ovalni zvezdani sistem koji kruži oko Andromede.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3451974246574268861",
+    "language": "SR",
+    "raw_text": "Pozvao je na napredak u pravljenju robota i veštačke inteligencije .",
+    "sentence": "Pozvao je na napredak u pravljenju robota i veštačke inteligencije .",
+    "mwe": "veštačke inteligencije",
+    "mwe_lemmas": [
+      "veštački",
+      "inteligencija"
+    ],
+    "paraphrase": "Pozvao je na napredak u pravljenju robota i kompjuterskog razuma.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3083371633334610908",
+    "language": "SR",
+    "raw_text": "Smatram da treba da postoji više neverovatnih uloga koje će biti napisane za žene i verujem da je odgovornost za to upravo na muškarcima zaposlenim u industriji zabave . \"",
+    "sentence": "Smatram da treba da postoji više neverovatnih uloga koje će biti napisane za žene i verujem da je odgovornost za to upravo na muškarcima zaposlenim u industriji zabave . \"",
+    "mwe": "industriji zabave",
+    "mwe_lemmas": [
+      "industrija",
+      "zabava"
+    ],
+    "paraphrase": "Smatram da treba da postoji više neverovatnih uloga koje će biti napisane za žene i verujem da je odgovornost za to upravo na muškarcima zaposlenim u sektoru šou-biznisa.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6251991836309170945",
+    "language": "SR",
+    "raw_text": "Film je prošao sasvim nezapaženo .",
+    "sentence": "Film je prošao sasvim nezapaženo .",
+    "mwe": "prošao nezapaženo",
+    "mwe_lemmas": [
+      "proći",
+      "nezapaženo"
+    ],
+    "paraphrase": "Film niko nije primetio.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7380295994184611577",
+    "language": "SR",
+    "raw_text": "Zelena boja kože govori o bolestima i emocionalnim stanjima osobe koja ima obolelu jetru ili žučnu kesicu .",
+    "sentence": "Zelena boja kože govori o bolestima i emocionalnim stanjima osobe koja ima obolelu jetru ili žučnu kesicu .",
+    "mwe": "žučnu kesicu",
+    "mwe_lemmas": [
+      "žučan",
+      "kesica"
+    ],
+    "paraphrase": "Zelena boja kože govori o bolestima i emocionalnim stanjima osobe koja ima obolelu jetru ili žučni mehur.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8248301449101323890",
+    "language": "SR",
+    "raw_text": "Naša sagovornica naglašava da je u partnerskom odnosu važno izbeći zamke traženja krivca , jer to smanjuje osećaj zajedništva i međusobnu saradnju i podršku .",
+    "sentence": "Naša sagovornica naglašava da je u partnerskom odnosu važno izbeći zamke traženja krivca , jer to smanjuje osećaj zajedništva i međusobnu saradnju i podršku .",
+    "mwe": "traženja krivca",
+    "mwe_lemmas": [
+      "traženje",
+      "krivac"
+    ],
+    "paraphrase": "Naša sagovornica naglašava da je u partnerskom odnosu važno izbeći zamke upiranja prstom u drugu osobu, jer to smanjuje osećaj zajedništva i međusobnu saradnju i podršku.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6622209314927033917",
+    "language": "SR",
+    "raw_text": "Azijske BB kreme kvalitetom i dalje dominiraju svetskom kozmetičkom scenom .",
+    "sentence": "Azijske BB kreme kvalitetom i dalje dominiraju svetskom kozmetičkom scenom .",
+    "mwe": "BB kreme",
+    "mwe_lemmas": [
+      "bb",
+      "krema"
+    ],
+    "paraphrase": "Azijski tonirani preparati za negu lica kvalitetom i dalje dominiraju svetskom kozmetičkom scenom.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4629374282207325180",
+    "language": "SR",
+    "raw_text": "Odeon World Travel ne prestaje sa iznenađenjima tokom trajanja Sajma , te je i za sve posetioce štanda pripremljena nagradna igra u kojoj je potrebno popuniti nagradni kupon .",
+    "sentence": "Odeon World Travel ne prestaje sa iznenađenjima tokom trajanja Sajma , te je i za sve posetioce štanda pripremljena nagradna igra u kojoj je potrebno popuniti nagradni kupon .",
+    "mwe": "nagradna igra",
+    "mwe_lemmas": [
+      "nagradan",
+      "igra"
+    ],
+    "paraphrase": "Odeon World Travel ne prestaje sa iznenađenjima tokom trajanja Sajma , te je i za sve posetioce štanda pripremljeno takmičenje u kojem je potrebno popuniti nagradni kupon .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7303947107090072444",
+    "language": "SR",
+    "raw_text": "Većinu specijalnih efekata uradila je Industrial Light & Magic .",
+    "sentence": "Većinu specijalnih efekata uradila je Industrial Light & Magic .",
+    "mwe": "Industrial Light & Magic",
+    "mwe_lemmas": [
+      "industrial",
+      "light",
+      "&",
+      "magic"
+    ],
+    "paraphrase": "Većinu specijalnih efekata kreirala je pomenuta kompanija za vizuelne efekte.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4535404926487191442",
+    "language": "SR",
+    "raw_text": "\" Poznato je da Džilenhol nikada nije voleo da priča za medije o svojim ljubavnim vezama .",
+    "sentence": "\" Poznato je da Džilenhol nikada nije voleo da priča za medije o svojim ljubavnim vezama .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "\" Poznato je da Džilenhol nikada nije voleo da priča za medije o svojim ljubavnim vezama .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "3106713886169707293",
+    "language": "SR",
+    "raw_text": "Stručnjaci ističu da je jod jedan od najvažnijih hranljivih elemenata za razvoj neuronske mreže .",
+    "sentence": "Stručnjaci ističu da je jod jedan od najvažnijih hranljivih elemenata za razvoj neuronske mreže .",
+    "mwe": "neuronske mreže",
+    "mwe_lemmas": [
+      "neuronski",
+      "mreža"
+    ],
+    "paraphrase": "Stručnjaci ističu da je jod jedan od najvažnijih hranljivih elemenata za razvoj nervnog sistema.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4598234363974782363",
+    "language": "SR",
+    "raw_text": "Oko 33 odsto obolelih je hospitalizovano , a komplikacije od malih boginja registrovane su kod 267 osoba .",
+    "sentence": "Oko 33 odsto obolelih je hospitalizovano , a komplikacije od malih boginja registrovane su kod 267 osoba .",
+    "mwe": "male boginje",
+    "mwe_lemmas": [
+      "mali",
+      "boginja"
+    ],
+    "paraphrase": "Oko 33 odsto obolelih je hospitalizovano, a komplikacije od morbila registrovane su kod 267 osoba.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-118189535994707560",
+    "language": "SR",
+    "raw_text": "Istražuju manje poznate etape u razvoju radiofonije u Srbiji , koja baštini tradiciju još od 1924 . godine , a slušaocima predstavljamo i kvalitetne snimke iz bogate riznice Tonskog arhiva Radio Beograda .",
+    "sentence": "Istražuju manje poznate etape u razvoju radiofonije u Srbiji , koja baštini tradiciju još od 1924 . godine , a slušaocima predstavljamo i kvalitetne snimke iz bogate riznice Tonskog arhiva Radio Beograda .",
+    "mwe": "Radio Beograda",
+    "mwe_lemmas": [
+      "radio",
+      "beograd"
+    ],
+    "paraphrase": "Istražuju manje poznate etape u razvoju radiofonije u Srbiji , koja baštini tradiciju još od 1924 . godine , a slušaocima predstavljamo i kvalitetne snimke iz bogate riznice Tonskog arhiva prestoničke stanice .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4301786119252093734",
+    "language": "SR",
+    "raw_text": "UV zraci na mnogo načina mogu da utiču na izgled i stanje epidermisa , a jedan od najvažnijih je prevremeno starenje .",
+    "sentence": "UV zraci na mnogo načina mogu da utiču na izgled i stanje epidermisa , a jedan od najvažnijih je prevremeno starenje .",
+    "mwe": "prevremeno starenje",
+    "mwe_lemmas": [
+      "prevremen",
+      "starenje"
+    ],
+    "paraphrase": "UV zraci na mnogo načina mogu da utiču na izgled i stanje epidermisa, a jedan od najvažnijih je ubrzano propadanje kože.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8096455587988815822",
+    "language": "SR",
+    "raw_text": "Zvezda žuti patuljak , srednje veličine , poput Sunca , ostaće na glavnoj sekvenci oko 10 milijardi godina .",
+    "sentence": "Zvezda žuti patuljak , srednje veličine , poput Sunca , ostaće na glavnoj sekvenci oko 10 milijardi godina .",
+    "mwe": "glavnoj sekvenci",
+    "mwe_lemmas": [
+      "glavna",
+      "sekvenca"
+    ],
+    "paraphrase": "Zvezda žuti patuljak, srednje veličine, poput Sunca, ostaće u fazi stabilnog sagorevanja vodonika oko 10 milijardi godina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-185549821068496359",
+    "language": "SR",
+    "raw_text": "Širenje organizama je olakšano kada postoje faktori rizika .",
+    "sentence": "Širenje organizama je olakšano kada postoje faktori rizika .",
+    "mwe": "faktori rizika",
+    "mwe_lemmas": [
+      "faktor",
+      "rizik"
+    ],
+    "paraphrase": "Širenje organizama je olakšano kada postoje opasne okolnosti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8875470107665175604",
+    "language": "SR",
+    "raw_text": "U hrišćanskom učenju sujeta je primer gordosti , jednog od sedam smrtnih grehova .",
+    "sentence": "U hrišćanskom učenju sujeta je primer gordosti , jednog od sedam smrtnih grehova .",
+    "mwe": "sedam smrtnih grehova",
+    "mwe_lemmas": [
+      "sedam",
+      "smrtan",
+      "greh"
+    ],
+    "paraphrase": "U hrišćanskom učenju sujeta je primer gordosti, jedne od glavnih duhovnih prestupa koji vode u propast.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8484307258324486709",
+    "language": "SR",
+    "raw_text": "Budite se radosni i osećate da će vam sve krenuti od ruke .",
+    "sentence": "Budite se radosni i osećate da će vam sve krenuti od ruke .",
+    "mwe": "krenuti od ruke",
+    "mwe_lemmas": [
+      "krenuti",
+      "od",
+      "ruka"
+    ],
+    "paraphrase": "Budite se radosni i osećate da ćete biti uspešni u svemu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5518840068367698206",
+    "language": "SR",
+    "raw_text": "Stavite na ringlu da se još malo prokuva , potom skinite s ringle , dodajte vanilin šećer i dobro izmešajte .",
+    "sentence": "Stavite na ringlu da se još malo prokuva , potom skinite s ringle , dodajte vanilin šećer i dobro izmešajte .",
+    "mwe": "vanilin šećer",
+    "mwe_lemmas": [
+      "vanilin",
+      "šećer"
+    ],
+    "paraphrase": "Stavite na ringlu da se još malo prokuva, potom skinite s ringle, dodajte aromu vanile i dobro izmešajte.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7030324060614546494",
+    "language": "SR",
+    "raw_text": "Temperatura u ovoj sauni iznosi od 35 do 45 stepeni Celzijusa , a vlažnost je stopostotna .",
+    "sentence": "Temperatura u ovoj sauni iznosi od 35 do 45 stepeni Celzijusa , a vlažnost je stopostotna .",
+    "mwe": "stepeni Celzijusa",
+    "mwe_lemmas": [
+      "stepen",
+      "celzijus"
+    ],
+    "paraphrase": "Temperatura u ovoj sauni iznosi od 35 do 45 jedinica na Celzijusovoj skali, a vlažnost je stopostotna.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6998785821430833266",
+    "language": "SR",
+    "raw_text": "Kada imuni sistem odreaguje na infekciju , može doći do još većeg oštećenja pluća .",
+    "sentence": "Kada imuni sistem odreaguje na infekciju , može doći do još većeg oštećenja pluća .",
+    "mwe": "imuni sistem",
+    "mwe_lemmas": [
+      "imuni",
+      "sistem"
+    ],
+    "paraphrase": "Kada odbrambeni mehanizam organizma odreaguje na infekciju, može doći do još većeg oštećenja pluća.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4154612659590352385",
+    "language": "SR",
+    "raw_text": "Dmitrij Mendeljejev je predstavio prvi periodni sistem Ruskom hemijskom društvu .",
+    "sentence": "Dmitrij Mendeljejev je predstavio prvi periodni sistem Ruskom hemijskom društvu .",
+    "mwe": "periodni sistem",
+    "mwe_lemmas": [
+      "periodni",
+      "sistem"
+    ],
+    "paraphrase": "Dmitrij Mendeljejev je predstavio prvu tabelu hemijskih elemenata Ruskom hemijskom društvu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2849810932416970071",
+    "language": "SR",
+    "raw_text": "Njene kreacije su i dalje hrabre i ekstravagantne , a inspiraciju nalazi u detaljima iz istorije umetnosti , istorijskim citatima i književnosti .",
+    "sentence": "Njene kreacije su i dalje hrabre i ekstravagantne , a inspiraciju nalazi u detaljima iz istorije umetnosti , istorijskim citatima i književnosti .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Njene kreacije su i dalje hrabre i ekstravagantne , a inspiraciju nalazi u detaljima iz istorije umetnosti , istorijskim citatima i književnosti .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "3818206711946461383",
+    "language": "SR",
+    "raw_text": "On je od onih glumaca koji ne vole da govore o svom privatnom životu .",
+    "sentence": "On je od onih glumaca koji ne vole da govore o svom privatnom životu .",
+    "mwe": "privatnom životu",
+    "mwe_lemmas": [
+      "privatan",
+      "život"
+    ],
+    "paraphrase": "On je od onih glumaca koji ne vole da govore o svojoj intimi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-813158419341121424",
+    "language": "SR",
+    "raw_text": "To košta 50 dolara po korisničkom nalogu godišnje .",
+    "sentence": "To košta 50 dolara po korisničkom nalogu godišnje .",
+    "mwe": "po korisničkom nalogu",
+    "mwe_lemmas": [
+      "po",
+      "korisnički",
+      "nalog"
+    ],
+    "paraphrase": "To košta 50 dolara za svaki profil svake godine.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-406952006943807030",
+    "language": "SR",
+    "raw_text": "Za ulogu legendarnog muzičara Blančetova je dobila nominacije umetničkog udruženja Screen Actors Guild Award , Golden Globe i Oskara za sporednu ulogu .",
+    "sentence": "Za ulogu legendarnog muzičara Blančetova je dobila nominacije umetničkog udruženja Screen Actors Guild Award , Golden Globe i Oskara za sporednu ulogu .",
+    "mwe": "Screen Actors Guild Award",
+    "mwe_lemmas": [
+      "screen",
+      "actor",
+      "guild",
+      "award"
+    ],
+    "paraphrase": "Za ulogu legendarnog muzičara Blančetova je dobila nominacije udruženja filmskih glumaca, Zlatni globus i Oskara za sporednu ulogu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7799899052637995095",
+    "language": "SR",
+    "raw_text": "Dušan je otvorio nove trgovačke rute i ojačao državnu ekonomiju .",
+    "sentence": "Dušan je otvorio nove trgovačke rute i ojačao državnu ekonomiju .",
+    "mwe": "otvorio nove trgovačke rute",
+    "mwe_lemmas": [
+      "otvoriti",
+      "nov",
+      "trgovački",
+      "ruta"
+    ],
+    "paraphrase": "Dušan je uspostavio sveže komercijalne puteve i ojačao državnu ekonomiju.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8692251577924726901",
+    "language": "SR",
+    "raw_text": "11 žumanaca , 120 g šećera , 60 ml mleka , 300 g čokolade za kuvanje , 300 g putera",
+    "sentence": "11 žumanaca , 120 g šećera , 60 ml mleka , 300 g čokolade za kuvanje , 300 g putera",
+    "mwe": "čokolade za kuvanje",
+    "mwe_lemmas": [
+      "čokolada",
+      "za",
+      "kuvanje"
+    ],
+    "paraphrase": "11 žumanaca , 120 g šećera , 60 ml mleka , 300 g tamne poslastice sa visokim sadržajem kakaoa , 300 g putera",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4039863036050756321",
+    "language": "SR",
+    "raw_text": "Čudo od deteta",
+    "sentence": "Čudo od deteta",
+    "mwe": "Čudo od deteta",
+    "mwe_lemmas": [
+      "čudo",
+      "od",
+      "dete"
+    ],
+    "paraphrase": "Genijalno dete",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6143305610878437041",
+    "language": "SR",
+    "raw_text": "Sunce izbeljuje i prirodnu i veštačku boju kose , pa tokom leta treba birati proizvode za zaštitu boje iz linija za negu kose sa UV filterima .",
+    "sentence": "Sunce izbeljuje i prirodnu i veštačku boju kose , pa tokom leta treba birati proizvode za zaštitu boje iz linija za negu kose sa UV filterima .",
+    "mwe": "nega kose",
+    "mwe_lemmas": [
+      "nega",
+      "kosa"
+    ],
+    "paraphrase": "Sunce izbeljuje i prirodnu i veštačku boju kose, pa tokom leta treba birati proizvode za zaštitu boje iz linija za održavanje vlasi sa UV filterima.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6638191667478509274",
+    "language": "SR",
+    "raw_text": "Okrećemo drugi list u knjizi života .",
+    "sentence": "Okrećemo drugi list u knjizi života .",
+    "mwe": "okrećemo drugi list",
+    "mwe_lemmas": [
+      "okretati",
+      "drugi",
+      "list"
+    ],
+    "paraphrase": "Započinjemo novo poglavlje u knjizi života.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5798905606160195640",
+    "language": "SR",
+    "raw_text": "To je robustan slepi miš iz porodice repaša Molossidae .",
+    "sentence": "To je robustan slepi miš iz porodice repaša Molossidae .",
+    "mwe": "slepi miš",
+    "mwe_lemmas": [
+      "slepi",
+      "miš"
+    ],
+    "paraphrase": "To je robustan chiroptera iz porodice repaša Molossidae.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1665752355428500248",
+    "language": "SR",
+    "raw_text": "Asteroid ili mala planeta",
+    "sentence": "Asteroid ili mala planeta",
+    "mwe": "mala planeta",
+    "mwe_lemmas": [
+      "mali",
+      "planeta"
+    ],
+    "paraphrase": "Asteroid ili patuljasto nebesko telo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5000711447072885329",
+    "language": "SR",
+    "raw_text": "Uvek kada kožu želimo da osvežimo glikolnim pilingom koji nije foto-senzitivan i koji prati O2 ( kiseonična ) stimulacija za poboljšanje metabolizma kože , posvetljivanje tena , vidljivi sjaj i blistavost .",
+    "sentence": "Uvek kada kožu želimo da osvežimo glikolnim pilingom koji nije foto-senzitivan i koji prati O2 ( kiseonična ) stimulacija za poboljšanje metabolizma kože , posvetljivanje tena , vidljivi sjaj i blistavost .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Uvek kada kožu želimo da osvežimo glikolnim pilingom koji nije foto-senzitivan i koji prati O2 ( kiseonična ) stimulacija za poboljšanje metabolizma kože , posvetljivanje tena , vidljivi sjaj i blistavost .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "4530312792589924150",
+    "language": "SR",
+    "raw_text": "Životinje ( školjke , škampi ... ) koje zajedničkim imenom nazivamo plodovi mora , apsorbuju veliku količinu joda iz mora .",
+    "sentence": "Životinje ( školjke , škampi ... ) koje zajedničkim imenom nazivamo plodovi mora , apsorbuju veliku količinu joda iz mora .",
+    "mwe": "plodovi mora",
+    "mwe_lemmas": [
+      "plod",
+      "more"
+    ],
+    "paraphrase": "Životinje ( školjke , škampi ... ) koje zajedničkim imenom nazivamo morski organizmi , apsorbuju veliku količinu joda iz vode .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8617450675221577297",
+    "language": "SR",
+    "raw_text": "Neke metode kontrole začeća mogu se koristiti odmah nakon porođaja , dok druge zahtevaju pauzu do šest meseci .",
+    "sentence": "Neke metode kontrole začeća mogu se koristiti odmah nakon porođaja , dok druge zahtevaju pauzu do šest meseci .",
+    "mwe": "kontrole začeća",
+    "mwe_lemmas": [
+      "kontrola",
+      "začeće"
+    ],
+    "paraphrase": "Neke metode sprečavanja trudnoće mogu se koristiti odmah nakon porođaja, dok druge zahtevaju pauzu do šest meseci.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1145617066932931534",
+    "language": "SR",
+    "raw_text": "Frojd je ovu spoznaju smatrao odlučujućim momentom u nizu tranzicija ka zreloj ženskoj seksualnosti i rodnom identitetu .",
+    "sentence": "Frojd je ovu spoznaju smatrao odlučujućim momentom u nizu tranzicija ka zreloj ženskoj seksualnosti i rodnom identitetu .",
+    "mwe": "odlučujućim momentom",
+    "mwe_lemmas": [
+      "odlučujući",
+      "moment"
+    ],
+    "paraphrase": "Frojd je ovu spoznaju smatrao ključnom tačkom u nizu tranzicija ka zreloj ženskoj seksualnosti i rodnom identitetu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6489515924077792521",
+    "language": "SR",
+    "raw_text": "Bolest i porodične obaveze često su prekidale naučni rad Henrijete Levit na Harvardu .",
+    "sentence": "Bolest i porodične obaveze često su prekidale naučni rad Henrijete Levit na Harvardu .",
+    "mwe": "naučni rad",
+    "mwe_lemmas": [
+      "naučni",
+      "rad"
+    ],
+    "paraphrase": "Bolest i porodične obaveze često su prekidale istraživačku delatnost Henrijete Levit na Harvardu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2595003504005240224",
+    "language": "SR",
+    "raw_text": "\" Važno je konstruisanje visokopreciznog avijaciono-raketnog kompleksa kome nema ravnog u svetu .",
+    "sentence": "\" Važno je konstruisanje visokopreciznog avijaciono-raketnog kompleksa kome nema ravnog u svetu .",
+    "mwe": "nema ravnog",
+    "mwe_lemmas": [
+      "nemati",
+      "ravan"
+    ],
+    "paraphrase": "Važno je konstruisanje visokopreciznog avijaciono-raketnog kompleksa koji je bez premca u svetu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3659098513703494560",
+    "language": "SR",
+    "raw_text": "Dvadeset i šest švajcarskih kantona ima autonomiju u saveznoj državi .",
+    "sentence": "Dvadeset i šest švajcarskih kantona ima autonomiju u saveznoj državi .",
+    "mwe": "saveznoj državi",
+    "mwe_lemmas": [
+      "savezna",
+      "država"
+    ],
+    "paraphrase": "Dvadeset i šest švajcarskih kantona ima autonomiju u okviru konfederacije.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8429081735751411650",
+    "language": "SR",
+    "raw_text": "Kampanju za parlamentarne izbore u Italiji obeležile su tenzije zbog migranata , rast popularnosti pokreta Pet zvezda , evroskepticizma i povratak Berluskonija , nekadašnjeg italijanskog premijera koji je vođa stranke Napred Italija .",
+    "sentence": "Kampanju za parlamentarne izbore u Italiji obeležile su tenzije zbog migranata , rast popularnosti pokreta Pet zvezda , evroskepticizma i povratak Berluskonija , nekadašnjeg italijanskog premijera koji je vođa stranke Napred Italija .",
+    "mwe": "Pet zvezda",
+    "mwe_lemmas": [
+      "pet",
+      "zvezda"
+    ],
+    "paraphrase": "Kampanju za parlamentarne izbore u Italiji obeležile su tenzije zbog migranata, rast popularnosti pokreta koji nosi naziv kvinteta nebeskih tela, evroskepticizma i povratak Berluskonija, nekadašnjeg italijanskog premijera koji je vođa stranke Napred Italija.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1855396069845535287",
+    "language": "SR",
+    "raw_text": "Da je Deklaracija o opstanku Srba , sa sadržajem koji je sasvim suprotan svemu gore navedenom , svojevrsni blam i za njene idejne tvorce i realizatore , odnosno glavnog od njih - Aleksandra Vučića , dokazuje i to što je odustao od prvobitne namere da predstavi njen sadržaj na Sretenje .",
+    "sentence": "Da je Deklaracija o opstanku Srba , sa sadržajem koji je sasvim suprotan svemu gore navedenom , svojevrsni blam i za njene idejne tvorce i realizatore , odnosno glavnog od njih - Aleksandra Vučića , dokazuje i to što je odustao od prvobitne namere da predstavi njen sadržaj na Sretenje .",
+    "mwe": "kicked the bucket",
+    "mwe_lemmas": [
+      "kick",
+      "bucket"
+    ],
+    "paraphrase": "Da je Deklaracija o opstanku Srba, sa sadržajem koji je sasvim suprotan svemu gore navedenom, svojevrsni blam i za njene idejne tvorce i realizatore, odnosno glavnog od njih - Aleksandra Vučića, dokazuje i to što je odustao od prvobitne namere da predstavi njen sadržaj na Sretenje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2206661172080728207",
+    "language": "SR",
+    "raw_text": "Tirozin ili 4-hidroksifenilalanin je jedna od 20 uobičajenih amino - kiselina koje ćelije koriste za sintezu proteina .",
+    "sentence": "Tirozin ili 4-hidroksifenilalanin je jedna od 20 uobičajenih amino - kiselina koje ćelije koriste za sintezu proteina .",
+    "mwe": "amino - kiselina",
+    "mwe_lemmas": [
+      "amino",
+      "kiselina"
+    ],
+    "paraphrase": "Tirozin ili 4-hidroksifenilalanin je jedna od 20 uobičajenih organskih jedinjenja koja ćelije koriste za sintezu proteina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7097898807970526681",
+    "language": "SR",
+    "raw_text": "Ostavila je muža kad je upoznala Malkolma Meklarena , studenta umetnosti i budućeg menadžera pank benda Sex Pistols , s kojim je dobila sina Džozefa .",
+    "sentence": "Ostavila je muža kad je upoznala Malkolma Meklarena , studenta umetnosti i budućeg menadžera pank benda Sex Pistols , s kojim je dobila sina Džozefa .",
+    "mwe": "Sex Pistols",
+    "mwe_lemmas": [
+      "sex",
+      "pistols"
+    ],
+    "paraphrase": "Ostavila je muža kad je upoznala Malkolma Meklarena, studenta umetnosti i budućeg menadžera pank grupe, s kojim je dobila sina Džozefa.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8928877190080643556",
+    "language": "SR",
+    "raw_text": "SMTP ( engl. Simple Mail Transfer Protocol ) jeste internet standard za prenos elektronske pošte .",
+    "sentence": "SMTP ( engl. Simple Mail Transfer Protocol ) jeste internet standard za prenos elektronske pošte .",
+    "mwe": "elektronske pošte",
+    "mwe_lemmas": [
+      "elektronski",
+      "pošta"
+    ],
+    "paraphrase": "SMTP ( engl. Simple Mail Transfer Protocol ) jeste internet standard za prenos digitalnih poruka .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2588946518401903369",
+    "language": "SR",
+    "raw_text": "Počelo je neobavezno : tematski miksevi novih stvari koje je autor Nebojša Krivokuća želeo da podeli sa čitaocima svog bloga Prešlicavanje , ali i nekih starih kojih nema na frekvencijama radio-stanica .",
+    "sentence": "Počelo je neobavezno : tematski miksevi novih stvari koje je autor Nebojša Krivokuća želeo da podeli sa čitaocima svog bloga Prešlicavanje , ali i nekih starih kojih nema na frekvencijama radio-stanica .",
+    "mwe": "radio-stanica",
+    "mwe_lemmas": [
+      "radio-stanica"
+    ],
+    "paraphrase": "Počelo je neobavezno : tematski miksevi novih stvari koje je autor Nebojša Krivokuća želeo da podeli sa čitaocima svog bloga Prešlicavanje , ali i nekih starih kojih nema na frekvencijama emitera programa .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4084814181363348323",
+    "language": "SR",
+    "raw_text": "Samo dva meseca nakon diplomiranja objavio je svoj prvi rad o opštoj teoriji relativnosti Alberta Ajnštajna .",
+    "sentence": "Samo dva meseca nakon diplomiranja objavio je svoj prvi rad o opštoj teoriji relativnosti Alberta Ajnštajna .",
+    "mwe": "opštoj teoriji relativnosti",
+    "mwe_lemmas": [
+      "opšti",
+      "teorija",
+      "relativnost"
+    ],
+    "paraphrase": "Samo dva meseca nakon diplomiranja objavio je svoj prvi rad o Ajnštajnovom univerzalnom modelu gravitacije.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6537545932532074781",
+    "language": "SR",
+    "raw_text": "\" Ljudi treba češće da mi organizuju ljubavne sastanke .",
+    "sentence": "\" Ljudi treba češće da mi organizuju ljubavne sastanke .",
+    "mwe": "ljubavne sastanke",
+    "mwe_lemmas": [
+      "ljubavan",
+      "sastanak"
+    ],
+    "paraphrase": "Ljudi treba češće da mi ugovaraju romantične susrete.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8626315474042135120",
+    "language": "SR",
+    "raw_text": "Zvanični odgovor Kine na nove protektionističke mere predsednika SAD još se čeka , a u strahu da bi mogao da počne veliki trgovinski rat dve najveće ekonomije sveta gotovo sve berze su reagovale padom vrednosti akcija .",
+    "sentence": "Zvanični odgovor Kine na nove protektionističke mere predsednika SAD još se čeka , a u strahu da bi mogao da počne veliki trgovinski rat dve najveće ekonomije sveta gotovo sve berze su reagovale padom vrednosti akcija .",
+    "mwe": "trgovinski rat",
+    "mwe_lemmas": [
+      "trgovinski",
+      "rat"
+    ],
+    "paraphrase": "Zvanični odgovor Kine na nove protektionističke mere predsednika SAD još se čeka , a u strahu da bi moglo da počne veliko ekonomsko nadmetanje dve najveće ekonomije sveta gotovo sve berze su reagovale padom vrednosti akcija .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5233721462869347747",
+    "language": "SR",
+    "raw_text": "UB40 je engleski rege i pop - bend , osnovan decembra 1978. u Birmingemu u Engleskoj .",
+    "sentence": "UB40 je engleski rege i pop - bend , osnovan decembra 1978. u Birmingemu u Engleskoj .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "UB40 je engleski rege i pop - bend , osnovan decembra 1978. u Birmingemu u Engleskoj .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "6478759494814338304",
+    "language": "SR",
+    "raw_text": "Razne forme infekcija , koje su uglavnom u kategoriji seksualno prenosivih bolesti , takođe mogu biti razlog za neplodnost .",
+    "sentence": "Razne forme infekcija , koje su uglavnom u kategoriji seksualno prenosivih bolesti , takođe mogu biti razlog za neplodnost .",
+    "mwe": "seksualno prenosivih bolesti",
+    "mwe_lemmas": [
+      "seksualno",
+      "prenosiv",
+      "bolest"
+    ],
+    "paraphrase": "Razne forme infekcija, koje su većinom kategorisane kao polne zaraze, takođe mogu biti razlog za neplodnost.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4121000617079438905",
+    "language": "SR",
+    "raw_text": "\" Ovo nije mirovni sporazum za Siriju , tekst je čisto humanitaran \" , rekao je švedski ambasador u UN Olof Skog , jedan od predlagača rezolucije .",
+    "sentence": "\" Ovo nije mirovni sporazum za Siriju , tekst je čisto humanitaran \" , rekao je švedski ambasador u UN Olof Skog , jedan od predlagača rezolucije .",
+    "mwe": "mirovni sporazum",
+    "mwe_lemmas": [
+      "mirovni",
+      "sporazum"
+    ],
+    "paraphrase": "„ Ovo nije dogovor o uspostavljanju mira za Siriju , tekst je čisto humanitaran \" , rekao je švedski ambasador u UN Olof Skog , jedan od predlagača rezolucije .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7259146949802057931",
+    "language": "SR",
+    "raw_text": "Neki zakoni zahtevaju i komunikaciju između država članica i Evropske komisije ( na primer , za obaveštavanje o nacionalnim merama za implementaciju prava Evropske unije ) .",
+    "sentence": "Neki zakoni zahtevaju i komunikaciju između država članica i Evropske komisije ( na primer , za obaveštavanje o nacionalnim merama za implementaciju prava Evropske unije ) .",
+    "mwe": "Evropske unije",
+    "mwe_lemmas": [
+      "evropski",
+      "unija"
+    ],
+    "paraphrase": "Neki zakoni zahtevaju i komunikaciju između država članica i Evropske komisije ( na primer , za obaveštavanje o nacionalnim merama za implementaciju prava zajednice evropskih naroda ) .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2726057904275583146",
+    "language": "SR",
+    "raw_text": "Mišljenje je neobavezujuće , pa se ne zna kako će Ustavni sud Hrvatske reagovati .",
+    "sentence": "Mišljenje je neobavezujuće , pa se ne zna kako će Ustavni sud Hrvatske reagovati .",
+    "mwe": "Ustavni sud",
+    "mwe_lemmas": [
+      "ustavni",
+      "sud"
+    ],
+    "paraphrase": "Mišljenje je neobavezujuće , pa se ne zna kako će najviša pravosudna institucija Hrvatske reagovati .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7786379222420183405",
+    "language": "SR",
+    "raw_text": "Sa skoro 130 različitih nijansi plava je takođe ostala neprevaziđena kada je reč o raznovrsnosti nijansi .",
+    "sentence": "Sa skoro 130 različitih nijansi plava je takođe ostala neprevaziđena kada je reč o raznovrsnosti nijansi .",
+    "mwe": "kada je reč o",
+    "mwe_lemmas": [
+      "kada",
+      "biti",
+      "reč",
+      "o"
+    ],
+    "paraphrase": "Sa skoro 130 različitih nijansi plava je takođe ostala neprevaziđena po pitanju raznovrsnosti nijansi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2039096359474742097",
+    "language": "SR",
+    "raw_text": "Šta znači kad je neko lud od ljubavi ?",
+    "sentence": "Šta znači kad je neko lud od ljubavi ?",
+    "mwe": "lud od ljubavi",
+    "mwe_lemmas": [
+      "lud",
+      "od",
+      "ljubav"
+    ],
+    "paraphrase": "Šta znači kad je neko strastveno zaljubljen?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6267866582750364511",
+    "language": "SR",
+    "raw_text": "Stambeno poslovni kompleks \" Voždove Kapije \" ukupne površine 70.000 kvadratnih metara , biće prvi kondominijum izgrađen na Voždovcu i svojim budućim stanarima ponudiće kvalitet , sigurnost i udobnost .",
+    "sentence": "Stambeno poslovni kompleks \" Voždove Kapije \" ukupne površine 70.000 kvadratnih metara , biće prvi kondominijum izgrađen na Voždovcu i svojim budućim stanarima ponudiće kvalitet , sigurnost i udobnost .",
+    "mwe": "Stambeno poslovni kompleks",
+    "mwe_lemmas": [
+      "stambeno-poslovni",
+      "kompleks"
+    ],
+    "paraphrase": "Objekat namenjen stanovanju i radu \"Voždove Kapije\", ukupne površine 70.000 kvadratnih metara, biće prvi kondominijum izgrađen na Voždovcu i svojim budućim stanarima ponudiće kvalitet, sigurnost i udobnost.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5359548843130944862",
+    "language": "SR",
+    "raw_text": "- Nedvosmisleno sam spoznao da mi nismo samo fizičko telo , već nelokalizovana ( vremenski i prostorno ) bića sa lokalnim ( fizičkim i zemaljskim ) iskustvom .",
+    "sentence": "- Nedvosmisleno sam spoznao da mi nismo samo fizičko telo , već nelokalizovana ( vremenski i prostorno ) bića sa lokalnim ( fizičkim i zemaljskim ) iskustvom .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "- Nedvosmisleno sam spoznao da mi nismo samo fizičko telo , već nelokalizovana ( vremenski i prostorno ) bića sa lokalnim ( fizičkim i zemaljskim ) iskustvom .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-9078536424773245805",
+    "language": "SR",
+    "raw_text": "Filmski kadrovi ( 1977 - 1980 ) predstavljaju seriju crno-belih fotografija gde je maskiranjem sebe stavila u uloge koje ne postoje , a deo su scenografije iz filmova slavnih reditelja .",
+    "sentence": "Filmski kadrovi ( 1977 - 1980 ) predstavljaju seriju crno-belih fotografija gde je maskiranjem sebe stavila u uloge koje ne postoje , a deo su scenografije iz filmova slavnih reditelja .",
+    "mwe": "crno-belih",
+    "mwe_lemmas": [
+      "crno-beo"
+    ],
+    "paraphrase": "Filmski kadrovi ( 1977 - 1980 ) predstavljaju seriju fotografija u nijansama sive gde je maskiranjem sebe stavila u uloge koje ne postoje , a deo su scenografije iz filmova slavnih reditelja .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2977219855515374926",
+    "language": "SR",
+    "raw_text": "Teška situacija - Nema šta da se krije , situacija je veoma teška , ali dajemo sve od sebe .",
+    "sentence": "Teška situacija - Nema šta da se krije , situacija je veoma teška , ali dajemo sve od sebe .",
+    "mwe": "dajemo sve od sebe",
+    "mwe_lemmas": [
+      "dati",
+      "sve",
+      "od",
+      "sebe"
+    ],
+    "paraphrase": "Teška situacija - Nema šta da se krije, situacija je veoma teška, ali ulažemo maksimalan napor.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4229064564880732163",
+    "language": "SR",
+    "raw_text": "Danas medicina priznaje da je nedostatak joda , posebno u prvom tromesečju trudnoće , glavni uzrok mentalne retardacije .",
+    "sentence": "Danas medicina priznaje da je nedostatak joda , posebno u prvom tromesečju trudnoće , glavni uzrok mentalne retardacije .",
+    "mwe": "mentalne retardacije",
+    "mwe_lemmas": [
+      "mentalan",
+      "retardacija"
+    ],
+    "paraphrase": "Danas medicina priznaje da je nedostatak joda, posebno u prvom tromesečju trudnoće, glavni uzrok intelektualne zaostalosti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-842668212075452641",
+    "language": "SR",
+    "raw_text": "Ovu malu planetu otkrio je još 1938. srpski astronom Milan B. Protić i nazvao ju je po svom rodnom gradu .",
+    "sentence": "Ovu malu planetu otkrio je još 1938. srpski astronom Milan B. Protić i nazvao ju je po svom rodnom gradu .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Ovu malu planetu otkrio je još 1938. srpski astronom Milan B. Protić i nazvao ju je po svom rodnom gradu .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "2149705812109561362",
+    "language": "SR",
+    "raw_text": "Pošto je veći deo katedrale izgrađen za samo 38 godina , ona ima jedinstven ujednačen arhitektonski stil – ranu englesku gotiku .",
+    "sentence": "Pošto je veći deo katedrale izgrađen za samo 38 godina , ona ima jedinstven ujednačen arhitektonski stil – ranu englesku gotiku .",
+    "mwe": "ranu englesku gotiku",
+    "mwe_lemmas": [
+      "rana",
+      "engleska",
+      "gotika"
+    ],
+    "paraphrase": "Pošto je veći deo katedrale izgrađen za samo 38 godina, ona ima jedinstven ujednačen arhitektonski stil – stil koji se razvio u Engleskoj tokom prvog perioda gotičke umetnosti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5414117183762505633",
+    "language": "SR",
+    "raw_text": "Šta ovu ljubavnu priči čini hrabrom , pošto je ona skoro cela izmišljena ?",
+    "sentence": "Šta ovu ljubavnu priči čini hrabrom , pošto je ona skoro cela izmišljena ?",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Šta ovu ljubavnu priči čini hrabrom , pošto je ona skoro cela izmišljena ?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-9170211378414179750",
+    "language": "SR",
+    "raw_text": "Brašno i prašak za pecivo izmešajte pa postepeno sipajte u smesu od jaja i šećera i pažljivo umutite mikserom .",
+    "sentence": "Brašno i prašak za pecivo izmešajte pa postepeno sipajte u smesu od jaja i šećera i pažljivo umutite mikserom .",
+    "mwe": "prašak za pecivo",
+    "mwe_lemmas": [
+      "prašak",
+      "za",
+      "pecivo"
+    ],
+    "paraphrase": "Brašno i sredstvo za dizanje testa izmešajte pa postepeno sipajte u smesu od jaja i šećera i pažljivo umutite mikserom.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7123029378311699850",
+    "language": "SR",
+    "raw_text": "Pored toga , pojedini ljudi koji ranije sebi nisu mogli da priušte razne stvari , nekadašnju oskudicu kompenzuju konstantnom kupovinom i gomilanjem statusnih simbola .",
+    "sentence": "Pored toga , pojedini ljudi koji ranije sebi nisu mogli da priušte razne stvari , nekadašnju oskudicu kompenzuju konstantnom kupovinom i gomilanjem statusnih simbola .",
+    "mwe": "priušte",
+    "mwe_lemmas": [
+      "priuštiti"
+    ],
+    "paraphrase": "Pored toga , pojedini ljudi koji ranije nisu imali dovoljno novca za razne stvari , nekadašnju oskudicu kompenzuju konstantnom kupovinom i gomilanjem statusnih simbola .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5624698551092174891",
+    "language": "SR",
+    "raw_text": "Samo oni koji su joj prijatelji na društvenim mrežama , znali su da piše knjigu .",
+    "sentence": "Samo oni koji su joj prijatelji na društvenim mrežama , znali su da piše knjigu .",
+    "mwe": "društvenim mrežama",
+    "mwe_lemmas": [
+      "društven",
+      "mreža"
+    ],
+    "paraphrase": "Samo oni koji su joj prijatelji na internet platformama, znali su da piše knjigu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5550118407787732923",
+    "language": "SR",
+    "raw_text": "Govoreći o digitalnom udžbeniku \" Biologija 5 \" , Šarčević je naveo da je Nacionalna geografija potvrdila da se radi o kvalitetnom nastavnom materijalu .",
+    "sentence": "Govoreći o digitalnom udžbeniku \" Biologija 5 \" , Šarčević je naveo da je Nacionalna geografija potvrdila da se radi o kvalitetnom nastavnom materijalu .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Govoreći o digitalnom udžbeniku \" Biologija 5 \" , Šarčević je naveo da je Nacionalna geografija potvrdila da se radi o kvalitetnom nastavnom materijalu .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-8069467670841427241",
+    "language": "SR",
+    "raw_text": "Većina ove dodatne energije iz hrane je poticala od povećanog konzumiranja ugljenih hidrata , a ne od konzumiranja masti .",
+    "sentence": "Većina ove dodatne energije iz hrane je poticala od povećanog konzumiranja ugljenih hidrata , a ne od konzumiranja masti .",
+    "mwe": "ugljenih hidrata",
+    "mwe_lemmas": [
+      "ugljen",
+      "hidrat"
+    ],
+    "paraphrase": "Većina ove dodatne energije iz hrane je poticala od povećanog konzumiranja šećera i skroba, a ne od konzumiranja masti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2323688622324198051",
+    "language": "SR",
+    "raw_text": "Ako bi se koristilo francusko nuklearno oružje , naredba za paljbu bi mogla proći kroz ovaj relej .",
+    "sentence": "Ako bi se koristilo francusko nuklearno oružje , naredba za paljbu bi mogla proći kroz ovaj relej .",
+    "mwe": "nuklearno oružje",
+    "mwe_lemmas": [
+      "nuklearno",
+      "oružje"
+    ],
+    "paraphrase": "Ako bi se koristila francuska atomska sredstva, naredba za paljbu bi mogla proći kroz ovaj relej.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5344704931714199328",
+    "language": "SR",
+    "raw_text": "Tu je i elektronska biblioteka Italijanskog instituta za kulturu .",
+    "sentence": "Tu je i elektronska biblioteka Italijanskog instituta za kulturu .",
+    "mwe": "Italijanskog instituta za kulturu",
+    "mwe_lemmas": [
+      "italijanski",
+      "institut",
+      "za",
+      "kultura"
+    ],
+    "paraphrase": "Tu se nalazi i digitalna zbirka knjiga ustanove koja promoviše italijansko stvaralaštvo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1881642168278064033",
+    "language": "SR",
+    "raw_text": "Pošto se Kula smatrala neosvojivom tvrđavom na strateški važnom položaju , posed je bio na ceni .",
+    "sentence": "Pošto se Kula smatrala neosvojivom tvrđavom na strateški važnom položaju , posed je bio na ceni .",
+    "mwe": "bio na ceni",
+    "mwe_lemmas": [
+      "biti",
+      "na",
+      "cena"
+    ],
+    "paraphrase": "Pošto se Kula smatrala neosvojivom tvrđavom na strateški važnom položaju, posed je imao veliku vrednost.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8952249588858546981",
+    "language": "SR",
+    "raw_text": "Radikali su važni u sagorevanju , atmosferskoj hemiji , polimerizaciji , hemiji plazme , biohemiji i mnogim drugim hemijskim procesima .",
+    "sentence": "Radikali su važni u sagorevanju , atmosferskoj hemiji , polimerizaciji , hemiji plazme , biohemiji i mnogim drugim hemijskim procesima .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Radikali su važni u sagorevanju , atmosferskoj hemiji , polimerizaciji , hemiji plazme , biohemiji i mnogim drugim hemijskim procesima .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-3985830922896810893",
+    "language": "SR",
+    "raw_text": "Njegov porodični život nije bio srećan .",
+    "sentence": "Njegov porodični život nije bio srećan .",
+    "mwe": "porodični život",
+    "mwe_lemmas": [
+      "porodičan",
+      "život"
+    ],
+    "paraphrase": "Njegova situacija kod kuće nije bila srećna.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2487160979835940010",
+    "language": "SR",
+    "raw_text": "Svakog radnog dana u 10 sati",
+    "sentence": "Svakog radnog dana u 10 sati",
+    "mwe": "svakog radnog dana",
+    "mwe_lemmas": [
+      "svaki",
+      "radni",
+      "dan"
+    ],
+    "paraphrase": "Od ponedeljka do petka u 10 sati",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4333026748219252276",
+    "language": "SR",
+    "raw_text": "Uz crnu , sivu i srebrnu , ahromatske boje i dalje su najzastupljenije .",
+    "sentence": "Uz crnu , sivu i srebrnu , ahromatske boje i dalje su najzastupljenije .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Uz crnu , sivu i srebrnu , ahromatske boje i dalje su najzastupljenije .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-6808013907376782276",
+    "language": "SR",
+    "raw_text": "O tome da imam čoveka koji vredi svu ljubav ovog sveta i da to moram da čuvam i negujem .",
+    "sentence": "O tome da imam čoveka koji vredi svu ljubav ovog sveta i da to moram da čuvam i negujem .",
+    "mwe": "vredi svu ljubav ovog sveta",
+    "mwe_lemmas": [
+      "vredeti",
+      "sav",
+      "ljubav",
+      "ovaj",
+      "svet"
+    ],
+    "paraphrase": "O tome da imam osobu koja zaslužuje svu moju naklonost i da to moram da čuvam i negujem.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5285999678452736639",
+    "language": "SR",
+    "raw_text": "Igrao je dr Votsona sa Robertom Daunijem Juniorom u ulozi slavnog detektiva Šerloka Holmsa , u komediji Spy gde je odlično odigrao rolu tajnog agenta ( uvek je u širem izboru za najboljeg od svih , Džejmsa Bonda ) , a glumio je i u Ani Karenjinoj ( 2012 ) upečatljivi karakter Alekseja Karenjina .",
+    "sentence": "Igrao je dr Votsona sa Robertom Daunijem Juniorom u ulozi slavnog detektiva Šerloka Holmsa , u komediji Spy gde je odlično odigrao rolu tajnog agenta ( uvek je u širem izboru za najboljeg od svih , Džejmsa Bonda ) , a glumio je i u Ani Karenjinoj ( 2012 ) upečatljivi karakter Alekseja Karenjina .",
+    "mwe": "u ulozi",
+    "mwe_lemmas": [
+      "u",
+      "uloga"
+    ],
+    "paraphrase": "Igrao je dr Votsona sa Robertom Daunijem Juniorom kao slavnim detektivom Šerlokom Holmsom, u komediji Spy gde je odlično odigrao rolu tajnog agenta ( uvek je u širem izboru za najboljeg od svih , Džejmsa Bonda ) , a glumio je i u Ani Karenjinoj ( 2012 ) upečatljivi karakter Alekseja Karenjina .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6031939179124174823",
+    "language": "SR",
+    "raw_text": "Milica je nakon doktorata radila na brojnim međunarodnim projektima , a danas vodi Inovacioni centar koji zapošljava 18 studenata na doktorskim studijama .",
+    "sentence": "Milica je nakon doktorata radila na brojnim međunarodnim projektima , a danas vodi Inovacioni centar koji zapošljava 18 studenata na doktorskim studijama .",
+    "mwe": "doktorskim studijama",
+    "mwe_lemmas": [
+      "doktorski",
+      "studija"
+    ],
+    "paraphrase": "Milica je nakon doktorata radila na brojnim međunarodnim projektima, a danas vodi Inovacioni centar koji zapošljava 18 polaznika trećeg stepena visokog obrazovanja.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5907156150807870727",
+    "language": "SR",
+    "raw_text": "Taj odnos je postao poznat kao Hablov zakon .",
+    "sentence": "Taj odnos je postao poznat kao Hablov zakon .",
+    "mwe": "Hablov zakon",
+    "mwe_lemmas": [
+      "hablov",
+      "zakon"
+    ],
+    "paraphrase": "Taj odnos je postao poznat kao Hablova relacija.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3526008266415159928",
+    "language": "SR",
+    "raw_text": "EuroBillTracker ( EBT ) jeste veb stranica dizajnirana za praćenje novčanica evra .",
+    "sentence": "EuroBillTracker ( EBT ) jeste veb stranica dizajnirana za praćenje novčanica evra .",
+    "mwe": "veb stranica",
+    "mwe_lemmas": [
+      "veb",
+      "stranica"
+    ],
+    "paraphrase": "EuroBillTracker ( EBT ) jeste internet prezentacija dizajnirana za praćenje novčanica evra .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1506131385705715947",
+    "language": "SR",
+    "raw_text": "Geografski informacioni sistem ( GIS ) je sistem dizajniran da prikuplja , skladišti , analizira i predstavlja prostorne ili geografske informacije i da njima manipuliše i upravlja .",
+    "sentence": "Geografski informacioni sistem ( GIS ) je sistem dizajniran da prikuplja , skladišti , analizira i predstavlja prostorne ili geografske informacije i da njima manipuliše i upravlja .",
+    "mwe": "Geografski informacioni sistem",
+    "mwe_lemmas": [
+      "geografski",
+      "informacioni",
+      "sistem"
+    ],
+    "paraphrase": "Softver za obradu prostornih podataka je alat osmišljen da prikuplja, skladišti, analizira i predstavlja prostorne ili geografske informacije i da njima manipuliše i upravlja.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "9210486760429126974",
+    "language": "SR",
+    "raw_text": "Tuberkuloza može preći u hroničnu bolest i dovesti do velikih ožiljaka u gornjim režnjevima pluća .",
+    "sentence": "Tuberkuloza može preći u hroničnu bolest i dovesti do velikih ožiljaka u gornjim režnjevima pluća .",
+    "mwe": "preći u",
+    "mwe_lemmas": [
+      "preći",
+      "u"
+    ],
+    "paraphrase": "Tuberkuloza može postati hronična bolest i dovesti do velikih ožiljaka u gornjim režnjevima pluća.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4688040199024014652",
+    "language": "SR",
+    "raw_text": "Delovi Dartmura korišćeni su kao vojni poligoni više od 200 godina .",
+    "sentence": "Delovi Dartmura korišćeni su kao vojni poligoni više od 200 godina .",
+    "mwe": "više od",
+    "mwe_lemmas": [
+      "više",
+      "od"
+    ],
+    "paraphrase": "Delovi Dartmura korišćeni su kao vojni poligoni preko 200 godina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8253033866238050308",
+    "language": "SR",
+    "raw_text": "Originalna licenca BSD je korišćena za istoimeni BSD ( Berkeley Software Distribution ) operativni sistem , sličan Unix-u .",
+    "sentence": "Originalna licenca BSD je korišćena za istoimeni BSD ( Berkeley Software Distribution ) operativni sistem , sličan Unix-u .",
+    "mwe": "Berkeley Software Distribution",
+    "mwe_lemmas": [
+      "berkeley",
+      "software",
+      "distribution"
+    ],
+    "paraphrase": "Originalna licenca BSD je korišćena za istoimeni operativni sistem iz Berklija, sličan Unix-u.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5145425759467206232",
+    "language": "SR",
+    "raw_text": "Definitivno posedujem tu crtu alfa mužjaka u sebi .",
+    "sentence": "Definitivno posedujem tu crtu alfa mužjaka u sebi .",
+    "mwe": "alfa mužjaka",
+    "mwe_lemmas": [
+      "alfa",
+      "mužjak"
+    ],
+    "paraphrase": "Definitivno posedujem tu dominantnu crtu u sebi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3090818453889115796",
+    "language": "SR",
+    "raw_text": "Nju Jorker je američki časopis koji objavljuje novinske članke , komentare , kritike , eseje , književne tekstove , satiru , stripove i poeziju .",
+    "sentence": "Nju Jorker je američki časopis koji objavljuje novinske članke , komentare , kritike , eseje , književne tekstove , satiru , stripove i poeziju .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Nju Jorker je američki časopis koji objavljuje novinske članke , komentare , kritike , eseje , književne tekstove , satiru , stripove i poeziju .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "8748278576480247234",
+    "language": "SR",
+    "raw_text": "Većina organizama koristi DNK , ali genetski materijal mnogih virusa je RNK .",
+    "sentence": "Većina organizama koristi DNK , ali genetski materijal mnogih virusa je RNK .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Većina organizama koristi DNK , ali genetski materijal mnogih virusa je RNK .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-8683418014402434814",
+    "language": "SR",
+    "raw_text": "NEOČEKIVANI AKCIONI HEROJ",
+    "sentence": "NEOČEKIVANI AKCIONI HEROJ",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "NEOČEKIVANI AKCIONI HEROJ",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-4541394902280884354",
+    "language": "SR",
+    "raw_text": "Načelnik Vojne akademije pukovnik Miroslav Talijan istakao je da su u stroju naslednici znanja , veština , navika i naučenih lekcija naših slavnih srpskih vojskovođa i oficira .",
+    "sentence": "Načelnik Vojne akademije pukovnik Miroslav Talijan istakao je da su u stroju naslednici znanja , veština , navika i naučenih lekcija naših slavnih srpskih vojskovođa i oficira .",
+    "mwe": "Vojne akademije",
+    "mwe_lemmas": [
+      "vojna",
+      "akademija"
+    ],
+    "paraphrase": "Načelnik škole za obuku oficira pukovnik Miroslav Talijan istakao je da su u stroju naslednici znanja , veština , navika i naučenih lekcija naših slavnih srpskih vojskovođa i oficira .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1044940353582039676",
+    "language": "SR",
+    "raw_text": "Saradnja sa lekarima opšte prakse , urologom , psihologom i ostalim kvalifikovanim stručnim osobljem , izuzetno je važna za otkrivanje bitnih elemenata uključenih u problem neplodnosti .",
+    "sentence": "Saradnja sa lekarima opšte prakse , urologom , psihologom i ostalim kvalifikovanim stručnim osobljem , izuzetno je važna za otkrivanje bitnih elemenata uključenih u problem neplodnosti .",
+    "mwe": "opšte prakse",
+    "mwe_lemmas": [
+      "opšti",
+      "praksa"
+    ],
+    "paraphrase": "Saradnja sa lekarima primarne zdravstvene zaštite , urologom , psihologom i ostalim kvalifikovanim stručnim osobljem , izuzetno je važna za otkrivanje bitnih elemenata uključenih u problem neplodnosti .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2461533642301127796",
+    "language": "SR",
+    "raw_text": "Za završni sloj soku od limete dodajte malo zelene boje , stavite da prokuva i sipajte sadržaj iz kesice providnog preliva za torte .",
+    "sentence": "Za završni sloj soku od limete dodajte malo zelene boje , stavite da prokuva i sipajte sadržaj iz kesice providnog preliva za torte .",
+    "mwe": "prokuva",
+    "mwe_lemmas": [
+      "prokuvati"
+    ],
+    "paraphrase": "Za završni sloj soku od limete dodajte malo zelene boje, ostavite da ključa i sipajte sadržaj iz kesice providnog preliva za torte.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2686820821757302699",
+    "language": "SR",
+    "raw_text": "Među izuzetnim ženama Srbije XXI veka , u ovom broju Bazara predstavljamo profil svetski priznate modne kreatorke Roksande Ilinčić .",
+    "sentence": "Među izuzetnim ženama Srbije XXI veka , u ovom broju Bazara predstavljamo profil svetski priznate modne kreatorke Roksande Ilinčić .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Među izuzetnim ženama Srbije XXI veka , u ovom broju Bazara predstavljamo profil svetski priznate modne kreatorke Roksande Ilinčić .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "1202958317629762874",
+    "language": "SR",
+    "raw_text": "To je glavni uzrok smrti među svim starosnim grupama , što dovodi do 4 miliona smrtnih slučajeva ( 7 % ukupne smrtnosti u svetu ) godišnje .",
+    "sentence": "To je glavni uzrok smrti među svim starosnim grupama , što dovodi do 4 miliona smrtnih slučajeva ( 7 % ukupne smrtnosti u svetu ) godišnje .",
+    "mwe": "smrtnih slučajeva",
+    "mwe_lemmas": [
+      "smrtan",
+      "slučaj"
+    ],
+    "paraphrase": "To je glavni uzrok smrti među svim starosnim grupama, što dovodi do 4 miliona preminulih (7 % ukupne smrtnosti u svetu) godišnje.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "423794119111286309",
+    "language": "SR",
+    "raw_text": "Jupiter je peta planeta od Sunca i najveća u Sunčevom sistemu .",
+    "sentence": "Jupiter je peta planeta od Sunca i najveća u Sunčevom sistemu .",
+    "mwe": "Sunčevom sistemu",
+    "mwe_lemmas": [
+      "sunčev",
+      "sistem"
+    ],
+    "paraphrase": "Jupiter je peta planeta od Sunca i najveća u našoj planetarnoj zajednici.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8379003343638997578",
+    "language": "SR",
+    "raw_text": "Ovo nije Bilbao efekat jer grad nije u ekonomskim problemima niti je zaboravljen , ali želi zgradu koja će mu promeniti stil .",
+    "sentence": "Ovo nije Bilbao efekat jer grad nije u ekonomskim problemima niti je zaboravljen , ali želi zgradu koja će mu promeniti stil .",
+    "mwe": "Bilbao efekat",
+    "mwe_lemmas": [
+      "bilbao",
+      "efekat"
+    ],
+    "paraphrase": "Ovo nije fenomen urbane revitalizacije jer grad nije u ekonomskim problemima niti je zaboravljen, ali želi zgradu koja će mu promeniti stil.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2850495151363611651",
+    "language": "SR",
+    "raw_text": "Zatim je otputovao do Jamure kako bi proveo vreme s prijateljem .",
+    "sentence": "Zatim je otputovao do Jamure kako bi proveo vreme s prijateljem .",
+    "mwe": "proveo vreme",
+    "mwe_lemmas": [
+      "provesti",
+      "vreme"
+    ],
+    "paraphrase": "Zatim je otputovao do Jamure kako bi se družio s prijateljem.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3547502968134849711",
+    "language": "SR",
+    "raw_text": "Razgovor o javnim prostorima",
+    "sentence": "Razgovor o javnim prostorima",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Razgovor o javnim prostorima",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "7545330220131263834",
+    "language": "SR",
+    "raw_text": "Koreni su ozbiljno književno delo i taj roman ima nešto psihološki i mentalitetski istinito .",
+    "sentence": "Koreni su ozbiljno književno delo i taj roman ima nešto psihološki i mentalitetski istinito .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Koreni su ozbiljno književno delo i taj roman ima nešto psihološki i mentalitetski istinito .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-4289508035842485228",
+    "language": "SR",
+    "raw_text": "Brojne studije pokazale su da postoji jasna veza između poremećaja u radu tiroidne žlezde i raka dojke , a upravo jod može biti faktor koji ih povezuje , tvrdi nutricionista Teri Lemerond .",
+    "sentence": "Brojne studije pokazale su da postoji jasna veza između poremećaja u radu tiroidne žlezde i raka dojke , a upravo jod može biti faktor koji ih povezuje , tvrdi nutricionista Teri Lemerond .",
+    "mwe": "tiroidne žlezde",
+    "mwe_lemmas": [
+      "tiroidna",
+      "žlezda"
+    ],
+    "paraphrase": "Brojne studije pokazale su da postoji jasna veza između poremećaja u radu štitaste žlezde i raka dojke , a upravo jod može biti faktor koji ih povezuje , tvrdi nutricionista Teri Lemerond .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5129525806180617238",
+    "language": "SR",
+    "raw_text": "Životni vek je do 6 godina .",
+    "sentence": "Životni vek je do 6 godina .",
+    "mwe": "Životni vek",
+    "mwe_lemmas": [
+      "životni",
+      "vek"
+    ],
+    "paraphrase": "Trajanje života je do 6 godina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2251233873105426186",
+    "language": "SR",
+    "raw_text": "Fondevilov izgled počeo je da se prožima kroz njegovu umetnost i ostao je kamen temeljac sve do njegove smrti .",
+    "sentence": "Fondevilov izgled počeo je da se prožima kroz njegovu umetnost i ostao je kamen temeljac sve do njegove smrti .",
+    "mwe": "kamen temeljac",
+    "mwe_lemmas": [
+      "kamen",
+      "temeljac"
+    ],
+    "paraphrase": "Fondevilov izgled počeo je da se prožima kroz njegovu umetnost i ostao je osnovni oslonac sve do njegove smrti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5026505305085191981",
+    "language": "SR",
+    "raw_text": "Evropski odbor regija ( CoR ) takođe može da sačini mišljenje na sopstvenu inicijativu , što mu omogućava da stavlja pitanja na dnevni red EU .",
+    "sentence": "Evropski odbor regija ( CoR ) takođe može da sačini mišljenje na sopstvenu inicijativu , što mu omogućava da stavlja pitanja na dnevni red EU .",
+    "mwe": "stavlja pitanja na dnevni red",
+    "mwe_lemmas": [
+      "staviti",
+      "pitanje",
+      "na",
+      "dnevni",
+      "red"
+    ],
+    "paraphrase": "Evropski odbor regija (CoR) takođe može da sačini mišljenje na sopstvenu inicijativu, što mu omogućava da pokreće teme o kojima će se raspravljati u EU.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6453124813040734682",
+    "language": "SR",
+    "raw_text": "Nakon smrti kralj mora najpre ustati iz groba .",
+    "sentence": "Nakon smrti kralj mora najpre ustati iz groba .",
+    "mwe": "ustati iz groba",
+    "mwe_lemmas": [
+      "ustati",
+      "iz",
+      "grob"
+    ],
+    "paraphrase": "Nakon smrti kralj mora najpre vaskrsnuti.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-535387698936097840",
+    "language": "SR",
+    "raw_text": "Može doći do komplikacija , naročito kod starijih i kod osoba sa drugim zdravstvenim problemima .",
+    "sentence": "Može doći do komplikacija , naročito kod starijih i kod osoba sa drugim zdravstvenim problemima .",
+    "mwe": "doći do",
+    "mwe_lemmas": [
+      "doći",
+      "do"
+    ],
+    "paraphrase": "Komplikacije se mogu pojaviti, naročito kod starijih i kod osoba sa drugim zdravstvenim problemima.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7648565225739481733",
+    "language": "SR",
+    "raw_text": "Znaci otopljavanja odnosa između Severne i Južne Koreje",
+    "sentence": "Znaci otopljavanja odnosa između Severne i Južne Koreje",
+    "mwe": "otopljavanje odnosa",
+    "mwe_lemmas": [
+      "otopljavanje",
+      "odnos"
+    ],
+    "paraphrase": "Znaci poboljšanja komunikacije između Severne i Južne Koreje",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5270312203319581206",
+    "language": "SR",
+    "raw_text": "Elektrokardiogram se koristi da bi se utvrdilo da li je srce pod opterećenjem zbog visokog krvnog pritiska .",
+    "sentence": "Elektrokardiogram se koristi da bi se utvrdilo da li je srce pod opterećenjem zbog visokog krvnog pritiska .",
+    "mwe": "krvnog pritiska",
+    "mwe_lemmas": [
+      "krvni",
+      "pritisak"
+    ],
+    "paraphrase": "Elektrokardiogram se koristi da bi se utvrdilo da li je srce pod opterećenjem zbog hipertenzije.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8536215002632668838",
+    "language": "SR",
+    "raw_text": "Šta vas je inspirisalo da zaigrate u TV seriji Koreni rađenoj po romanu Dobrice Ćosića ?",
+    "sentence": "Šta vas je inspirisalo da zaigrate u TV seriji Koreni rađenoj po romanu Dobrice Ćosića ?",
+    "mwe": "zaigrate u",
+    "mwe_lemmas": [
+      "zaigrati",
+      "u"
+    ],
+    "paraphrase": "Šta vas je inspirisalo da glumite u TV seriji Koreni rađenoj po romanu Dobrice Ćosića?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2784625390690761473",
+    "language": "SR",
+    "raw_text": "Nižnji Novgorod je bio domaćin prijateljske utakmice za mlade fudbalere FK Volga , a odrasli igrači kluba su vodili zagrevanje i trening za decu .",
+    "sentence": "Nižnji Novgorod je bio domaćin prijateljske utakmice za mlade fudbalere FK Volga , a odrasli igrači kluba su vodili zagrevanje i trening za decu .",
+    "mwe": "vodili zagrevanje",
+    "mwe_lemmas": [
+      "voditi",
+      "zagrevanje"
+    ],
+    "paraphrase": "Nižnji Novgorod je bio domaćin prijateljske utakmice za mlade fudbalere FK Volga, a odrasli igrači kluba su pripremali decu kroz vežbe istezanja i trening.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8116348497888442793",
+    "language": "SR",
+    "raw_text": "Grenland je prvi put došao na ideju o sopstvenoj zastavi 1973. godine , kada je pet Grenlanđana predložilo zastavu u zelenoj , beloj i plavoj boji .",
+    "sentence": "Grenland je prvi put došao na ideju o sopstvenoj zastavi 1973. godine , kada je pet Grenlanđana predložilo zastavu u zelenoj , beloj i plavoj boji .",
+    "mwe": "došao na ideju",
+    "mwe_lemmas": [
+      "doći",
+      "na",
+      "ideja"
+    ],
+    "paraphrase": "Grenland je prvi put osmislio sopstvenu zastavu 1973. godine, kada je pet Grenlanđana predložilo zastavu u zelenoj, beloj i plavoj boji.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8393241392990387839",
+    "language": "SR",
+    "raw_text": "Dizajn je bio totalna antiteza eleganciji Đorđa Armanija koji je Versačea optužio da je modu pretvorio u porno šou .",
+    "sentence": "Dizajn je bio totalna antiteza eleganciji Đorđa Armanija koji je Versačea optužio da je modu pretvorio u porno šou .",
+    "mwe": "porno šou",
+    "mwe_lemmas": [
+      "porno",
+      "šou"
+    ],
+    "paraphrase": "Dizajn je bio totalna antiteza eleganciji Đorđa Armanija koji je Versačea optužio da je modu pretvorio u vulgarnu predstavu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "940223182613231040",
+    "language": "SR",
+    "raw_text": "Bajker nije bio baš uveren kako bi trebalo da učestvuje u romansiranim video-klipovima , međutim , pevačica je mirno rekla :",
+    "sentence": "Bajker nije bio baš uveren kako bi trebalo da učestvuje u romansiranim video-klipovima , međutim , pevačica je mirno rekla :",
+    "mwe": "video-klipovima",
+    "mwe_lemmas": [
+      "video-klip"
+    ],
+    "paraphrase": "Bajker nije bio baš uveren kako bi trebalo da učestvuje u romansiranim video-zapisima , međutim , pevačica je mirno rekla :",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8583200572068862757",
+    "language": "SR",
+    "raw_text": "Direktiva Evropskog saveta 92 / 43 / EEC od 21. maja 1992. o očuvanju prirodnih staništa i divlje faune i flore .",
+    "sentence": "Direktiva Evropskog saveta 92 / 43 / EEC od 21. maja 1992. o očuvanju prirodnih staništa i divlje faune i flore .",
+    "mwe": "Evropskog saveta",
+    "mwe_lemmas": [
+      "evropski",
+      "savet"
+    ],
+    "paraphrase": "Direktiva tela Evropske unije 92 / 43 / EEC od 21. maja 1992. o očuvanju prirodnih staništa i divlje faune i flore .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-128812224055159296",
+    "language": "SR",
+    "raw_text": "Ipak , na poslu je uspešna , vodi vrlo gledan informativni program , ima mnogo prijatelja , i uglavnom je zadovoljna svojim životom .",
+    "sentence": "Ipak , na poslu je uspešna , vodi vrlo gledan informativni program , ima mnogo prijatelja , i uglavnom je zadovoljna svojim životom .",
+    "mwe": "vodi ... program",
+    "mwe_lemmas": [
+      "voditi",
+      "program"
+    ],
+    "paraphrase": "Ipak , na poslu je uspešna , uređuje vrlo gledanu informativnu emisiju , ima mnogo prijatelja , i uglavnom je zadovoljna svojim životom .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2188347510847515918",
+    "language": "SR",
+    "raw_text": "Najsjajniji među njima bio je na talasnoj dužini od 500,7 nanometara , što nije odgovaralo liniji nijednog poznatog elementa .",
+    "sentence": "Najsjajniji među njima bio je na talasnoj dužini od 500,7 nanometara , što nije odgovaralo liniji nijednog poznatog elementa .",
+    "mwe": "talasnoj dužini",
+    "mwe_lemmas": [
+      "talasna",
+      "dužina"
+    ],
+    "paraphrase": "Najsjajniji među njima emitovao je svetlost od 500,7 nanometara, što nije odgovaralo liniji nijednog poznatog elementa.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2607657855888849399",
+    "language": "SR",
+    "raw_text": "More većim delom leži na evropskom kontinentalnom pragu .",
+    "sentence": "More većim delom leži na evropskom kontinentalnom pragu .",
+    "mwe": "većim delom",
+    "mwe_lemmas": [
+      "veći",
+      "deo"
+    ],
+    "paraphrase": "More uglavnom leži na evropskom kontinentalnom pragu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2811282474161961498",
+    "language": "SR",
+    "raw_text": "Međunarodni dečji pres centar objedinjuje pobednike nacionalnih takmičenja za najboljeg mladog novinara , mlade blogere , fotografe i pisce .",
+    "sentence": "Međunarodni dečji pres centar objedinjuje pobednike nacionalnih takmičenja za najboljeg mladog novinara , mlade blogere , fotografe i pisce .",
+    "mwe": "Međunarodni dečji pres centar",
+    "mwe_lemmas": [
+      "međunarodni",
+      "dečji",
+      "pres",
+      "centar"
+    ],
+    "paraphrase": "Globalna organizacija za mlade novinare okuplja pobednike nacionalnih takmičenja za najboljeg mladog novinara, mlade blogere, fotografe i pisce.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6835547166196261006",
+    "language": "SR",
+    "raw_text": "Ovaj egzotičan oblik materije poznat je kao degenerisana materija .",
+    "sentence": "Ovaj egzotičan oblik materije poznat je kao degenerisana materija .",
+    "mwe": "degenerisana materija",
+    "mwe_lemmas": [
+      "degenerisan",
+      "materija"
+    ],
+    "paraphrase": "Ovaj egzotičan oblik supstance poznat je kao zbijena građa.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5928223488448728501",
+    "language": "SR",
+    "raw_text": "Rexx ( Restructured Extended Executor ) je interpretativni programski jezik koji je razvio Majk Kaulišo u IBM-u .",
+    "sentence": "Rexx ( Restructured Extended Executor ) je interpretativni programski jezik koji je razvio Majk Kaulišo u IBM-u .",
+    "mwe": "programski jezik",
+    "mwe_lemmas": [
+      "programski",
+      "jezik"
+    ],
+    "paraphrase": "Rexx ( Restructured Extended Executor ) je interpretativna alatka za pisanje koda koju je razvio Majk Kaulišo u IBM-u .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4201135881164544312",
+    "language": "SR",
+    "raw_text": "Zajedno provodimo divno vreme .",
+    "sentence": "Zajedno provodimo divno vreme .",
+    "mwe": "provodimo vreme",
+    "mwe_lemmas": [
+      "provoditi",
+      "vreme"
+    ],
+    "paraphrase": "Zajedno uživamo u svakom trenutku.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5627268354097255554",
+    "language": "SR",
+    "raw_text": "Povodom restauracije rukopis je fotografisan u Belgijskom kraljevskom institutu za kulturno nasleđe .",
+    "sentence": "Povodom restauracije rukopis je fotografisan u Belgijskom kraljevskom institutu za kulturno nasleđe .",
+    "mwe": "kulturno nasleđe",
+    "mwe_lemmas": [
+      "kulturan",
+      "nasleđe"
+    ],
+    "paraphrase": "Povodom restauracije rukopis je fotografisan u Belgijskom kraljevskom institutu za zaštitu umetničkih dobara.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5921872766177266905",
+    "language": "SR",
+    "raw_text": "Krajem prošle godine NURDOR je otpočeo radove na drugoj fazi projekta - unutrašnji zanatski radovi i postavljanje instalacija , završetak se očekuje sredinom marta meseca 2018. godine .",
+    "sentence": "Krajem prošle godine NURDOR je otpočeo radove na drugoj fazi projekta - unutrašnji zanatski radovi i postavljanje instalacija , završetak se očekuje sredinom marta meseca 2018. godine .",
+    "mwe": "mart meseca",
+    "mwe_lemmas": [
+      "mart",
+      "mesec"
+    ],
+    "paraphrase": "Krajem prošle godine NURDOR je otpočeo radove na drugoj fazi projekta - unutrašnji zanatski radovi i postavljanje instalacija, završetak se očekuje sredinom trećeg meseca 2018. godine.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1608456626704207071",
+    "language": "SR",
+    "raw_text": "Sve je shvatao ozbiljno , pravio je beleške , preživljavao pravu agoniju tokom stvaranja uloge i ubeđivao sebe da je na pravom putu .",
+    "sentence": "Sve je shvatao ozbiljno , pravio je beleške , preživljavao pravu agoniju tokom stvaranja uloge i ubeđivao sebe da je na pravom putu .",
+    "mwe": "na pravom putu",
+    "mwe_lemmas": [
+      "na",
+      "prav",
+      "put"
+    ],
+    "paraphrase": "Sve je shvatao ozbiljno, pravio je beleške, preživljavao pravu agoniju tokom stvaranja uloge i ubeđivao sebe da ispravno postupa.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3766861118979747817",
+    "language": "SR",
+    "raw_text": "Mjehur na mreži pravi korak ka budućnosti , a svaki njegov miks jedna je lekcija o pop kulturi .",
+    "sentence": "Mjehur na mreži pravi korak ka budućnosti , a svaki njegov miks jedna je lekcija o pop kulturi .",
+    "mwe": "pravi korak",
+    "mwe_lemmas": [
+      "praviti",
+      "korak"
+    ],
+    "paraphrase": "Mjehur na mreži napreduje ka budućnosti, a svaki njegov miks jedna je lekcija o pop kulturi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8985615754724350301",
+    "language": "SR",
+    "raw_text": "Treća Republika Južne Koreje počela je da preuzima sve značajniju ulogu u međunarodnim odnosima .",
+    "sentence": "Treća Republika Južne Koreje počela je da preuzima sve značajniju ulogu u međunarodnim odnosima .",
+    "mwe": "međunarodnim odnosima",
+    "mwe_lemmas": [
+      "međunarodni",
+      "odnos"
+    ],
+    "paraphrase": "Treća Republika Južne Koreje počela je da preuzima sve značajniju ulogu u globalnoj politici.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-820282056549307208",
+    "language": "SR",
+    "raw_text": "Ulazak u grad plaća se tri dolara , a ako ste u centar pošli kolima koja nisu puna , dužni ste da povezete nekog od putnika s autobuskih stanica ili prolaznika koji idu u istom smeru",
+    "sentence": "Ulazak u grad plaća se tri dolara , a ako ste u centar pošli kolima koja nisu puna , dužni ste da povezete nekog od putnika s autobuskih stanica ili prolaznika koji idu u istom smeru",
+    "mwe": "plaća se",
+    "mwe_lemmas": [
+      "plaćati",
+      "se"
+    ],
+    "paraphrase": "Ulazak u grad košta tri dolara, a ako ste u centar pošli kolima koja nisu puna, dužni ste da povezete nekog od putnika s autobuskih stanica ili prolaznika koji idu u istom smeru.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "983244142137819978",
+    "language": "SR",
+    "raw_text": "Irski je 1. januara 2007. postao zvanični radni jezik EU .",
+    "sentence": "Irski je 1. januara 2007. postao zvanični radni jezik EU .",
+    "mwe": "radni jezik",
+    "mwe_lemmas": [
+      "radni",
+      "jezik"
+    ],
+    "paraphrase": "Irski je 1. januara 2007. postao službeno sredstvo komunikacije EU.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6981681806403443382",
+    "language": "SR",
+    "raw_text": "Trup je porinut u aprilu 1989. godine u pomorskom brodogradilištu DCNS u Brestu .",
+    "sentence": "Trup je porinut u aprilu 1989. godine u pomorskom brodogradilištu DCNS u Brestu .",
+    "mwe": "porinut u",
+    "mwe_lemmas": [
+      "porinuti",
+      "u"
+    ],
+    "paraphrase": "Trup je spušten u vodu tokom aprila 1989. godine u pomorskom brodogradilištu DCNS u Brestu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8308883078869350820",
+    "language": "SR",
+    "raw_text": "Iako je bilo najavljivano i venčanje , a njihova romansa neprekidno zauzimala naslovne strane svetskih magazina , iznenada je i prekinuta .",
+    "sentence": "Iako je bilo najavljivano i venčanje , a njihova romansa neprekidno zauzimala naslovne strane svetskih magazina , iznenada je i prekinuta .",
+    "mwe": "zauzimala naslovne strane",
+    "mwe_lemmas": [
+      "zauzimati",
+      "naslovna",
+      "strana"
+    ],
+    "paraphrase": "Iako je bilo najavljivano i venčanje, a njihova romansa neprekidno bila glavna tema svetskih magazina, iznenada je i prekinuta.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8731037075772026832",
+    "language": "SR",
+    "raw_text": "Ti si moja srodna duša .",
+    "sentence": "Ti si moja srodna duša .",
+    "mwe": "srodna duša",
+    "mwe_lemmas": [
+      "srodan",
+      "duša"
+    ],
+    "paraphrase": "Ti si moja idealna životna saputnica.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6675733712708055643",
+    "language": "SR",
+    "raw_text": "Ovi radovi biće nastavljeni čim krene građevinska sezona .",
+    "sentence": "Ovi radovi biće nastavljeni čim krene građevinska sezona .",
+    "mwe": "građevinska sezona",
+    "mwe_lemmas": [
+      "građevinski",
+      "sezona"
+    ],
+    "paraphrase": "Ovi radovi biće nastavljeni čim počne period pogodan za gradnju.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3562296760293387901",
+    "language": "SR",
+    "raw_text": "Plava i crvena su ključne hromatske boje u Severnoj Americi .",
+    "sentence": "Plava i crvena su ključne hromatske boje u Severnoj Americi .",
+    "mwe": "Severnoj Americi",
+    "mwe_lemmas": [
+      "severna",
+      "amerika"
+    ],
+    "paraphrase": "Plava i crvena su ključne hromatske boje na kontinentu koji se nalazi severno od Panamskog kanala.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1534002334389057187",
+    "language": "SR",
+    "raw_text": "Ja sam Irac poreklom iz radničke klase .",
+    "sentence": "Ja sam Irac poreklom iz radničke klase .",
+    "mwe": "radničke klase",
+    "mwe_lemmas": [
+      "radnička",
+      "klasa"
+    ],
+    "paraphrase": "Ja sam Irac iz porodice fizičkih radnika.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "9167751940932551872",
+    "language": "SR",
+    "raw_text": "Bio sam prijatno iznenađen na retrospektivama u Muzeju moderne umetnosti u Njujorku ili u Londonu , Solunu , Parizu , Barseloni , Madridu - Publika je doživljavala moje filmove kao savremene konstatujući da su saznali više o Srbiji iz mojih ostvarenja nego iz medija .",
+    "sentence": "Bio sam prijatno iznenađen na retrospektivama u Muzeju moderne umetnosti u Njujorku ili u Londonu , Solunu , Parizu , Barseloni , Madridu - Publika je doživljavala moje filmove kao savremene konstatujući da su saznali više o Srbiji iz mojih ostvarenja nego iz medija .",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Bio sam prijatno iznenađen na retrospektivama u Muzeju moderne umetnosti u Njujorku ili u Londonu , Solunu , Parizu , Barseloni , Madridu - Publika je doživljavala moje filmove kao savremene konstatujući da su saznali više o Srbiji iz mojih ostvarenja nego iz medija .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "357100695233995316",
+    "language": "SR",
+    "raw_text": "To im je pošlo za rukom protiv Valensije ( sezona 1972/73 ) , Austrije ( 1976/77 ) , Sportinga iz Hihona ( 1978/79 ) , Karl Cajs Jene ( 1979/80 ) i Žalgirisa ( 1989/90 ) , a zaustavili su ih HSV ( 1975/76 ) i Briž ( 1987/88 ) .",
+    "sentence": "To im je pošlo za rukom protiv Valensije ( sezona 1972/73 ) , Austrije ( 1976/77 ) , Sportinga iz Hihona ( 1978/79 ) , Karl Cajs Jene ( 1979/80 ) i Žalgirisa ( 1989/90 ) , a zaustavili su ih HSV ( 1975/76 ) i Briž ( 1987/88 ) .",
+    "mwe": "pošlo za rukom",
+    "mwe_lemmas": [
+      "poći",
+      "za",
+      "ruka"
+    ],
+    "paraphrase": "Uspeli su u tome protiv Valensije ( sezona 1972/73 ) , Austrije ( 1976/77 ) , Sportinga iz Hihona ( 1978/79 ) , Karl Cajs Jene ( 1979/80 ) i Žalgirisa ( 1989/90 ) , a zaustavili su ih HSV ( 1975/76 ) i Briž ( 1987/88 ) .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-976675508517667261",
+    "language": "SR",
+    "raw_text": "Čuvene poslednje reči Fransa Samuta bile su : „ Moja žena i ja bi trebali da idemo u Jerusalim , ali izgleda da su se planovi promenili . “",
+    "sentence": "Čuvene poslednje reči Fransa Samuta bile su : „ Moja žena i ja bi trebali da idemo u Jerusalim , ali izgleda da su se planovi promenili . “",
+    "mwe": "poslednje reči",
+    "mwe_lemmas": [
+      "poslednji",
+      "reč"
+    ],
+    "paraphrase": "Čuveni oproštajni govor Fransa Samuta glasio je: „Moja žena i ja bi trebali da idemo u Jerusalim, ali izgleda da su se planovi promenili.“",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5962207441230796738",
+    "language": "SR",
+    "raw_text": "Uz mnogo truda , stupili smo u kontakt sa doajenom konditorske industrije , gospodinom Sretom Bankovićem , koji nam je svojom neverovatnom pokretačkom energijom uneo dodatni entuzijazam i dao neprocenjive savete .",
+    "sentence": "Uz mnogo truda , stupili smo u kontakt sa doajenom konditorske industrije , gospodinom Sretom Bankovićem , koji nam je svojom neverovatnom pokretačkom energijom uneo dodatni entuzijazam i dao neprocenjive savete .",
+    "mwe": "stupili smo u kontakt",
+    "mwe_lemmas": [
+      "stupiti",
+      "biti",
+      "u",
+      "kontakt"
+    ],
+    "paraphrase": "Uz mnogo truda, povezali smo se sa doajenom konditorske industrije, gospodinom Sretom Bankovićem, koji nam je svojom neverovatnom pokretačkom energijom uneo dodatni entuzijazam i dao neprocenjive savete.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3133383191594663903",
+    "language": "SR",
+    "raw_text": "Sve liči jedno na drugo",
+    "sentence": "Sve liči jedno na drugo",
+    "mwe": "liči jedno na drugo",
+    "mwe_lemmas": [
+      "ličiti",
+      "jedan",
+      "na",
+      "drugi"
+    ],
+    "paraphrase": "Sve izgleda identično.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6748981473784079798",
+    "language": "SR",
+    "raw_text": "Bastać je zamerio gradskim vlastima što uništavaju jedan od simbola Beograda i kao zamenu nude besmislene i preskupe projekte , navodi se u saopštenju .",
+    "sentence": "Bastać je zamerio gradskim vlastima što uništavaju jedan od simbola Beograda i kao zamenu nude besmislene i preskupe projekte , navodi se u saopštenju .",
+    "mwe": "navodi se",
+    "mwe_lemmas": [
+      "navoditi",
+      "se"
+    ],
+    "paraphrase": "Bastać je zamerio gradskim vlastima što uništavaju jedan od simbola Beograda i kao zamenu nude besmislene i preskupe projekte, piše u saopštenju.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  }
+]

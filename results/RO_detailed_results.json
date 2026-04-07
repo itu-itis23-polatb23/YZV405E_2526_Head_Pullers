@@ -1,0 +1,2112 @@
+[
+  {
+    "id": "7058710421586003205",
+    "language": "RO",
+    "raw_text": "În cea din urmă opintire Și-a nfipt în coama mana-i grea.",
+    "sentence": "În cea din urmă opintire Și-a nfipt în coama mana-i grea.",
+    "mwe": "în cea din urmă",
+    "mwe_lemmas": [
+      "în",
+      "cel",
+      "din",
+      "urmă"
+    ],
+    "paraphrase": "La finalul efortului Și-a nfipt în coama mana-i grea.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6430987434329871583",
+    "language": "RO",
+    "raw_text": "Și, în acel moment de vârf, un declic - un verdict de colaborare cu fosta securitate a îndepărtat-o de viața politică, intrând într-un anonimat pe care chiar distinsa doamnă l-a cultivat.",
+    "sentence": "Și, în acel moment de vârf, un declic - un verdict de colaborare cu fosta securitate a îndepărtat-o de viața politică, intrând într-un anonimat pe care chiar distinsa doamnă l-a cultivat.",
+    "mwe": "fosta securitate",
+    "mwe_lemmas": [
+      "fost",
+      "securitate"
+    ],
+    "paraphrase": "Și, în acel moment de vârf, un declic - un verdict de colaborare cu serviciul secret comunist a îndepărtat-o de viața politică, intrând într-un anonimat pe care chiar distinsa doamnă l-a cultivat.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4394751395632352201",
+    "language": "RO",
+    "raw_text": "Vă prezentăm comunicatul de presă:",
+    "sentence": "Vă prezentăm comunicatul de presă:",
+    "mwe": "comunicatul de presă",
+    "mwe_lemmas": [
+      "comunicat",
+      "de",
+      "presă"
+    ],
+    "paraphrase": "Vă prezentăm declarația oficială pentru mass-media:",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "886673171548630183",
+    "language": "RO",
+    "raw_text": "Managementul și analiza datelor (Data&Analytics) reprezintă o capacitate de bază pentru Industria 4.0.",
+    "sentence": "Managementul și analiza datelor (Data&Analytics) reprezintă o capacitate de bază pentru Industria 4.0.",
+    "mwe": "capacitate de bază",
+    "mwe_lemmas": [
+      "capacitate",
+      "de",
+      "bază"
+    ],
+    "paraphrase": "Managementul și analiza datelor reprezintă o competență fundamentală pentru Industria 4.0.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8017158432424970306",
+    "language": "RO",
+    "raw_text": "După Armistițiu, când Constituția din 1923 este repusă în drepturi, PNL revine pe scena politică.",
+    "sentence": "După Armistițiu, când Constituția din 1923 este repusă în drepturi, PNL revine pe scena politică.",
+    "mwe": "repusă în drepturi",
+    "mwe_lemmas": [
+      "repune",
+      "în",
+      "drept"
+    ],
+    "paraphrase": "După Armistițiu, când Constituția din 1923 este din nou validată, PNL revine pe scena politică.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7419702547450782309",
+    "language": "RO",
+    "raw_text": "România, din acest punct de vedere nu putea să nu resimtă această încetinere înregistrată de cele mai importate economii europene.",
+    "sentence": "România, din acest punct de vedere nu putea să nu resimtă această încetinere înregistrată de cele mai importate economii europene.",
+    "mwe": "din acest punct de vedere",
+    "mwe_lemmas": [
+      "din",
+      "acest",
+      "punct",
+      "de",
+      "vedere"
+    ],
+    "paraphrase": "România, în această privință, nu putea să nu resimtă această încetinere înregistrată de cele mai importante economii europene.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4589021024301005722",
+    "language": "RO",
+    "raw_text": "Aproape toate țările europene sunt alarmate de torentul de nou-sosiți pe continent, care ar putea deteriora statutul social și nivelul lor de trai.",
+    "sentence": "Aproape toate țările europene sunt alarmate de torentul de nou-sosiți pe continent, care ar putea deteriora statutul social și nivelul lor de trai.",
+    "mwe": "nivelul de trai",
+    "mwe_lemmas": [
+      "nivel",
+      "de",
+      "trai"
+    ],
+    "paraphrase": "Aproape toate țările europene sunt alarmate de torentul de nou-sosiți pe continent, care ar putea deteriora statutul social și bunăstarea lor economică.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8146674476454679626",
+    "language": "RO",
+    "raw_text": "A publicat două cărți: una - o povestire tip bandă desenată, publicată de Editura Pantheon, în 2001; cealaltă - o antologie de bloguri (\"Ultimate Blogs\"), publicată de Vintage, în 2008.",
+    "sentence": "A publicat două cărți: una - o povestire tip bandă desenată, publicată de Editura Pantheon, în 2001; cealaltă - o antologie de bloguri (\"Ultimate Blogs\"), publicată de Vintage, în 2008.",
+    "mwe": "bandă desenată",
+    "mwe_lemmas": [
+      "bandă",
+      "desenat"
+    ],
+    "paraphrase": "A publicat două cărți: una - o istorisire ilustrată, publicată de Editura Pantheon, în 2001; cealaltă - o antologie de bloguri (\"Ultimate Blogs\"), publicată de Vintage, în 2008.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6768991995735304449",
+    "language": "RO",
+    "raw_text": "Ștefan Vlaston a precizat că se au în vedere consultări inclusiv cu președintele Traian Băsescu înaintea Colegiului Director din data de 19 august.",
+    "sentence": "Ștefan Vlaston a precizat că se au în vedere consultări inclusiv cu președintele Traian Băsescu înaintea Colegiului Director din data de 19 august.",
+    "mwe": "se au în vedere",
+    "mwe_lemmas": [
+      "avea",
+      "în",
+      "vedere"
+    ],
+    "paraphrase": "Ștefan Vlaston a precizat că sunt planificate consultări inclusiv cu președintele Traian Băsescu înaintea Colegiului Director din data de 19 august.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3277084970440372893",
+    "language": "RO",
+    "raw_text": "Celebrarea pe 9 mai a Zilei Europei arată că în conștiința europeană generală, coeziunea se adâncește, Uniunea Europeană de azi fiind un spațiu tot mai coerent și mai solidar, format din națiuni distincte, dar unite prin multe interese și idealuri comune.",
+    "sentence": "Celebrarea pe 9 mai a Zilei Europei arată că în conștiința europeană generală, coeziunea se adâncește, Uniunea Europeană de azi fiind un spațiu tot mai coerent și mai solidar, format din națiuni distincte, dar unite prin multe interese și idealuri comune.",
+    "mwe": "Uniunea Europeană",
+    "mwe_lemmas": [
+      "uniune",
+      "european"
+    ],
+    "paraphrase": "Celebrarea pe 9 mai a Zilei Europei arată că în conștiința continentală generală, coeziunea se adâncește, blocul politic de azi fiind un spațiu tot mai coerent și mai solidar, format din națiuni distincte, dar unite prin multe interese și idealuri comune.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3110302750865485438",
+    "language": "RO",
+    "raw_text": "Între personalitățile de seamă de dicolo de ocean, cca.",
+    "sentence": "Între personalitățile de seamă de dicolo de ocean, cca.",
+    "mwe": "de seamă",
+    "mwe_lemmas": [
+      "de",
+      "seamă"
+    ],
+    "paraphrase": "Printre personalitățile importante de dincolo de ocean, cca.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3586141722405834237",
+    "language": "RO",
+    "raw_text": "În acest moment, sunt în măsură să vă prezint o scurtă informare pe care v-o datorez.",
+    "sentence": "În acest moment, sunt în măsură să vă prezint o scurtă informare pe care v-o datorez.",
+    "mwe": "în măsură",
+    "mwe_lemmas": [
+      "în",
+      "măsură"
+    ],
+    "paraphrase": "Acum, sunt capabil să vă prezint o scurtă informare pe care v-o datorez.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2905115345072753670",
+    "language": "RO",
+    "raw_text": "Nu pot admite ca minți modeste, compensate de slugărnicie, să ia fața rațiunii și bunului simț.",
+    "sentence": "Nu pot admite ca minți modeste, compensate de slugărnicie, să ia fața rațiunii și bunului simț.",
+    "mwe": "ia fața",
+    "mwe_lemmas": [
+      "lua",
+      "față"
+    ],
+    "paraphrase": "Nu pot admite ca minți modeste, compensate de slugărnicie, să eclipseze rațiunea și bunul simț.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2582455417820264157",
+    "language": "RO",
+    "raw_text": "Acum doar el crede că o să fie prim-ministru.",
+    "sentence": "Acum doar el crede că o să fie prim-ministru.",
+    "mwe": "o să fie",
+    "mwe_lemmas": [
+      "a",
+      "fi"
+    ],
+    "paraphrase": "Acum doar el crede că va deveni prim-ministru.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7082113995970917081",
+    "language": "RO",
+    "raw_text": "A exprimat atunci „devotamentul fără margini către noua mea patrie și acel neînvins respect către lege, pe care l-am cules în exemplul alor mei.",
+    "sentence": "A exprimat atunci „devotamentul fără margini către noua mea patrie și acel neînvins respect către lege, pe care l-am cules în exemplul alor mei.",
+    "mwe": "fără margini",
+    "mwe_lemmas": [
+      "fără",
+      "margine"
+    ],
+    "paraphrase": "A exprimat atunci devotamentul infinit către noua mea patrie și acel neînvins respect către lege, pe care l-am cules în exemplul alor mei.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5549254637668784963",
+    "language": "RO",
+    "raw_text": "După data de 11 august vor fi precipitatii, descărcări electrice si intensificări ale vântului.",
+    "sentence": "După data de 11 august vor fi precipitatii, descărcări electrice si intensificări ale vântului.",
+    "mwe": "descărcări electrice",
+    "mwe_lemmas": [
+      "descărcare",
+      "electric"
+    ],
+    "paraphrase": "După data de 11 august vor fi precipitații, fulgere și intensificări ale vântului.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5528270902722659531",
+    "language": "RO",
+    "raw_text": "Cu daruri scumpe încărcate, Pe urmă lui, pășind greoi , Vin pe poteci, în stânci tăiate, Cămilele în lung convoi ; Cum pasul liniștit și-l țin, Le sună clopoțeii lin.",
+    "sentence": "Cu daruri scumpe încărcate, Pe urmă lui, pășind greoi , Vin pe poteci, în stânci tăiate, Cămilele în lung convoi ; Cum pasul liniștit și-l țin, Le sună clopoțeii lin.",
+    "mwe": "pe urmă",
+    "mwe_lemmas": [
+      "pe",
+      "urmă"
+    ],
+    "paraphrase": "Încărcate cu daruri scumpe, în urma lui, pășind greoi, vin pe poteci, în stânci tăiate, cămilele în lung convoi; cum pasul liniștit și-l țin, le sună clopoțeii lin.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7230611013958107690",
+    "language": "RO",
+    "raw_text": "Vor avea loc negocieri crâncene, vreme de 2 ani, între hâtrul și rutinatul Albion și Uniunea Europeană, încă crudă și nesedimentată.",
+    "sentence": "Vor avea loc negocieri crâncene, vreme de 2 ani, între hâtrul și rutinatul Albion și Uniunea Europeană, încă crudă și nesedimentată.",
+    "mwe": "avea loc",
+    "mwe_lemmas": [
+      "avea",
+      "loc"
+    ],
+    "paraphrase": "Se vor desfășura negocieri crâncene, vreme de 2 ani, între hâtrul și rutinatul Albion și Uniunea Europeană, încă crudă și nesedimentată.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6594847667215354480",
+    "language": "RO",
+    "raw_text": "Premierul Victor Ponta a refuzat să comenteze conflictul dintre purtătorul de cuvânt al Guvernului și o parte a presei.",
+    "sentence": "Premierul Victor Ponta a refuzat să comenteze conflictul dintre purtătorul de cuvânt al Guvernului și o parte a presei.",
+    "mwe": "purtătorul de cuvânt",
+    "mwe_lemmas": [
+      "purtător",
+      "de",
+      "cuvânt"
+    ],
+    "paraphrase": "Premierul Victor Ponta a refuzat să comenteze conflictul dintre reprezentantul oficial al Guvernului și o parte a presei.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "9096987396522052340",
+    "language": "RO",
+    "raw_text": "'Interesul nostru legitim este ca la frontiera de est a Românei să avem un spațiu de stabilitate nefederalizat.",
+    "sentence": "'Interesul nostru legitim este ca la frontiera de est a Românei să avem un spațiu de stabilitate nefederalizat.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "'Interesul nostru legitim este ca la frontiera de est a Românei să avem un spațiu de stabilitate nefederalizat.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "6315470267414964634",
+    "language": "RO",
+    "raw_text": "Sadoveanu este pandantul în proză al celuilalt limpezitor al conștiinței de sine a românilor, în poezie, un alt Mihai, Eminescu.",
+    "sentence": "Sadoveanu este pandantul în proză al celuilalt limpezitor al conștiinței de sine a românilor, în poezie, un alt Mihai, Eminescu.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Sadoveanu este pandantul în proză al celuilalt limpezitor al conștiinței de sine a românilor, în poezie, un alt Mihai, Eminescu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "6612650542617834673",
+    "language": "RO",
+    "raw_text": "Suntem independenți, suntem națiune de sine stătătoare”.",
+    "sentence": "Suntem independenți, suntem națiune de sine stătătoare”.",
+    "mwe": "de sine stătătoare",
+    "mwe_lemmas": [
+      "de",
+      "sine",
+      "stătător"
+    ],
+    "paraphrase": "Suntem independenți, suntem o națiune autonomă.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6918348380922707935",
+    "language": "RO",
+    "raw_text": "Mai grav, ea afectează și gradul de popularitate al UE în opinia publică internă, mult mai scăzut azi decât acum 10 ani.",
+    "sentence": "Mai grav, ea afectează și gradul de popularitate al UE în opinia publică internă, mult mai scăzut azi decât acum 10 ani.",
+    "mwe": "opinia publică",
+    "mwe_lemmas": [
+      "opinie",
+      "public"
+    ],
+    "paraphrase": "Mai grav, ea afectează și gradul de popularitate al UE în percepția cetățenilor, mult mai scăzut azi decât acum 10 ani.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7125711532454243228",
+    "language": "RO",
+    "raw_text": "Aceștia ar fi inițiat vânzarea la bursa de mărfuri a celor 2.450 de vagoane la preț de fier vechi, prin subevaluarea lor și obținerea unui preț mai mic decât valoarea reală.",
+    "sentence": "Aceștia ar fi inițiat vânzarea la bursa de mărfuri a celor 2.450 de vagoane la preț de fier vechi, prin subevaluarea lor și obținerea unui preț mai mic decât valoarea reală.",
+    "mwe": "fier vechi",
+    "mwe_lemmas": [
+      "fier",
+      "vechi"
+    ],
+    "paraphrase": "Aceștia ar fi inițiat vânzarea la bursa de mărfuri a celor 2.450 de vagoane la preț de metal uzat, prin subevaluarea lor și obținerea unui preț mai mic decât valoarea reală.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6604265692162670382",
+    "language": "RO",
+    "raw_text": "Sesiunea IULIE 2016 Înscrieri 13 - 20 Iulie Examene 21 - 26 Iulie Data limită de afișare a rezultatelor 29 Iulie.",
+    "sentence": "Sesiunea IULIE 2016 Înscrieri 13 - 20 Iulie Examene 21 - 26 Iulie Data limită de afișare a rezultatelor 29 Iulie.",
+    "mwe": "Data limită",
+    "mwe_lemmas": [
+      "dată",
+      "limită"
+    ],
+    "paraphrase": "Termenul final pentru afișarea rezultatelor este 29 Iulie.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "591860212401749825",
+    "language": "RO",
+    "raw_text": "Mirel Palada continuă prin a sublinia echipa nouă fabuloasă a lui Klaus Iohannis: \"toți oameni noi, din viitor, politicieni proaspeți, numai buni de schimbat fața României\".",
+    "sentence": "Mirel Palada continuă prin a sublinia echipa nouă fabuloasă a lui Klaus Iohannis: \"toți oameni noi, din viitor, politicieni proaspeți, numai buni de schimbat fața României\".",
+    "mwe": "schimbat fața",
+    "mwe_lemmas": [
+      "schimba",
+      "față"
+    ],
+    "paraphrase": "Mirel Palada continuă prin a sublinia echipa nouă fabuloasă a lui Klaus Iohannis: \"toți oameni noi, din viitor, politicieni proaspeți, numai buni de transformat aspectul României\".",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2441571935966089349",
+    "language": "RO",
+    "raw_text": "Cred că este evident pentru toată lumea că astfel de inițaitive sunt total contrare principiului 'supremației legii' și 'separației puterilor în stat'.",
+    "sentence": "Cred că este evident pentru toată lumea că astfel de inițaitive sunt total contrare principiului 'supremației legii' și 'separației puterilor în stat'.",
+    "mwe": "separației puterilor în stat",
+    "mwe_lemmas": [
+      "separare",
+      "putere",
+      "în",
+      "stat"
+    ],
+    "paraphrase": "Cred că este evident pentru toată lumea că astfel de inițiative sunt total contrare principiului 'supremației legii' și 'distribuției echilibrate a autorității guvernamentale'.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1488742331029086697",
+    "language": "RO",
+    "raw_text": "Probabil că o să fie domnul Băsescu prim-ministru\", a comentat actualul șef al Guvernului.",
+    "sentence": "Probabil că o să fie domnul Băsescu prim-ministru\", a comentat actualul șef al Guvernului.",
+    "mwe": "prim-ministru",
+    "mwe_lemmas": [
+      "prim-ministru"
+    ],
+    "paraphrase": "Probabil că o să fie domnul Băsescu șeful Guvernului\", a comentat actualul conducător al Executivului.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8785168036623944041",
+    "language": "RO",
+    "raw_text": "La ora 15,30, sicriul va fi dus în Noua Catedrală și va avea loc ceremonia religioasă a îngropării, care va avea caracter strict privat.",
+    "sentence": "La ora 15,30, sicriul va fi dus în Noua Catedrală și va avea loc ceremonia religioasă a îngropării, care va avea caracter strict privat.",
+    "mwe": "va avea loc",
+    "mwe_lemmas": [
+      "avea",
+      "loc"
+    ],
+    "paraphrase": "La ora 15,30, sicriul va fi dus în Noua Catedrală și se va desfășura ceremonia religioasă a îngropării, care va avea caracter strict privat.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4571398087648141172",
+    "language": "RO",
+    "raw_text": "Publicația local „Berliner Morgenpost\" a relatat că Senatul Berlinului (adică parlamentul regional al acestui land federal) a refuzat să-i acorde Hertei Müller, titlul de „cetățean de onoare\".",
+    "sentence": "Publicația local „Berliner Morgenpost\" a relatat că Senatul Berlinului (adică parlamentul regional al acestui land federal) a refuzat să-i acorde Hertei Müller, titlul de „cetățean de onoare\".",
+    "mwe": "cetățean de onoare",
+    "mwe_lemmas": [
+      "cetățean",
+      "de",
+      "onoare"
+    ],
+    "paraphrase": "Publicația locală „Berliner Morgenpost\" a relatat că Senatul Berlinului (adică parlamentul regional al acestui land federal) a refuzat să-i acorde Hertei Müller distincția de membru onorific al orașului.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2369747782226210184",
+    "language": "RO",
+    "raw_text": "Totodată, a fost una dintre entitățile care au susținut derularea Proiectului strategic „Perfecționarea cadrelor didactice din învățământul preuniversitar, care predau limba română minorităților naționale” (POSDRU/87/1.3/S/63909), 2011-2012, în mediul etnic ucrainean din Maramureș, sprijinind cadrele didactice de etnie ucraineană în activitatea lor educațională.",
+    "sentence": "Totodată, a fost una dintre entitățile care au susținut derularea Proiectului strategic „Perfecționarea cadrelor didactice din învățământul preuniversitar, care predau limba română minorităților naționale” (POSDRU/87/1.3/S/63909), 2011-2012, în mediul etnic ucrainean din Maramureș, sprijinind cadrele didactice de etnie ucraineană în activitatea lor educațională.",
+    "mwe": "cadrele didactice",
+    "mwe_lemmas": [
+      "cadru",
+      "didactic"
+    ],
+    "paraphrase": "Totodată, a fost una dintre entitățile care au susținut derularea Proiectului strategic „Perfecționarea profesorilor din învățământul preuniversitar, care predau limba română minorităților naționale” (POSDRU/87/1.3/S/63909), 2011-2012, în mediul etnic ucrainean din Maramureș, sprijinind învățătorii și dascălii de etnie ucraineană în activitatea lor educațională.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7230611013958107690",
+    "language": "RO",
+    "raw_text": "Vor avea loc negocieri crâncene, vreme de 2 ani, între hâtrul și rutinatul Albion și Uniunea Europeană, încă crudă și nesedimentată.",
+    "sentence": "Vor avea loc negocieri crâncene, vreme de 2 ani, între hâtrul și rutinatul Albion și Uniunea Europeană, încă crudă și nesedimentată.",
+    "mwe": "avea loc",
+    "mwe_lemmas": [
+      "avea",
+      "loc"
+    ],
+    "paraphrase": "Se vor desfășura negocieri crâncene, vreme de 2 ani, între hâtrul și rutinatul Albion și Uniunea Europeană, încă crudă și nesedimentată.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5954794964981953849",
+    "language": "RO",
+    "raw_text": "La 7 iunie, la finele Congresului PMP, Elena Udrea a anunțat că prezidențiabilul partidului înființat de Traian Băsescu este Cristian Diaconescu, fost ministru de Externe și consilier prezidențial.",
+    "sentence": "La 7 iunie, la finele Congresului PMP, Elena Udrea a anunțat că prezidențiabilul partidului înființat de Traian Băsescu este Cristian Diaconescu, fost ministru de Externe și consilier prezidențial.",
+    "mwe": "la finele",
+    "mwe_lemmas": [
+      "la",
+      "fine"
+    ],
+    "paraphrase": "La 7 iunie, după încheierea Congresului PMP, Elena Udrea a anunțat că prezidențiabilul partidului înființat de Traian Băsescu este Cristian Diaconescu, fost ministru de Externe și consilier prezidențial.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "903510492128106719",
+    "language": "RO",
+    "raw_text": "Este un teatru de repertoriu (110 de spectacole diferite) și are o numeroasă trupă de actori permanenți, conduce o școală de excelență în artele dramatice și producțiile lui sunt des reprezentate pe scene internaționale.",
+    "sentence": "Este un teatru de repertoriu (110 de spectacole diferite) și are o numeroasă trupă de actori permanenți, conduce o școală de excelență în artele dramatice și producțiile lui sunt des reprezentate pe scene internaționale.",
+    "mwe": "teatru de repertoriu",
+    "mwe_lemmas": [
+      "teatru",
+      "de",
+      "repertoriu"
+    ],
+    "paraphrase": "Este o instituție artistică cu o stagiune variată (110 spectacole diferite) și are o numeroasă trupă de actori permanenți, conduce o școală de excelență în artele dramatice și producțiile lui sunt des reprezentate pe scene internaționale.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6698230661109535520",
+    "language": "RO",
+    "raw_text": "„Rusia utilizează toate mijloacele pentru a influența opinia publică.",
+    "sentence": "„Rusia utilizează toate mijloacele pentru a influența opinia publică.",
+    "mwe": "opinie publică",
+    "mwe_lemmas": [
+      "opinie",
+      "public"
+    ],
+    "paraphrase": "Rusia utilizează toate mijloacele pentru a influența percepția colectivă.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2961559713558079561",
+    "language": "RO",
+    "raw_text": "Și-aud adus acum aminte unii că ar avea nevoie de pietre să le folosească în altă parte în oraș.",
+    "sentence": "Și-aud adus acum aminte unii că ar avea nevoie de pietre să le folosească în altă parte în oraș.",
+    "mwe": "aduce aminte",
+    "mwe_lemmas": [
+      "aduce",
+      "aminte"
+    ],
+    "paraphrase": "Unii și-au reamintit acum că ar avea nevoie de pietre să le folosească în altă parte în oraș.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-168954454656520019",
+    "language": "RO",
+    "raw_text": "\"Primul nivel al grupului infracțional organizat a fost constituit din conducerea executivă a societății 'CFR Marfă', compusă din directorul general Mihuț Constantin Crăciun, directorul Operațiuni Dezvoltare Daniel Ciobanu, directorul Departament Vânzări - Trafic Eugen Tudor, directorul Economic - Financiar Pavel Bărculeț, managerul juridic Silviu Valeriu Costea, directorul Trafic Constantin Alupoaie, directorul vagoane Florin Enache, șeful Biroului Urmărire Contracte Mariana Căpățână, șeful Serviciului Exploatare Vagoane George Niculescu.",
+    "sentence": "\"Primul nivel al grupului infracțional organizat a fost constituit din conducerea executivă a societății 'CFR Marfă', compusă din directorul general Mihuț Constantin Crăciun, directorul Operațiuni Dezvoltare Daniel Ciobanu, directorul Departament Vânzări - Trafic Eugen Tudor, directorul Economic - Financiar Pavel Bărculeț, managerul juridic Silviu Valeriu Costea, directorul Trafic Constantin Alupoaie, directorul vagoane Florin Enache, șeful Biroului Urmărire Contracte Mariana Căpățână, șeful Serviciului Exploatare Vagoane George Niculescu.",
+    "mwe": "grupului infracțional organizat",
+    "mwe_lemmas": [
+      "grup",
+      "infracțional",
+      "organizat"
+    ],
+    "paraphrase": "Primul nivel al asocierii criminale structurate a fost constituit din conducerea executivă a societății 'CFR Marfă', compusă din directorul general Mihuț Constantin Crăciun, directorul Operațiuni Dezvoltare Daniel Ciobanu, directorul Departament Vânzări - Trafic Eugen Tudor, directorul Economic - Financiar Pavel Bărculeț, managerul juridic Silviu Valeriu Costea, directorul Trafic Constantin Alupoaie, directorul vagoane Florin Enache, șeful Biroului Urmărire Contracte Mariana Căpățână, șeful Serviciului Exploatare Vagoane George Niculescu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "85476270530375464",
+    "language": "RO",
+    "raw_text": ", se arătă în comunicat de presă.",
+    "sentence": ", se arătă în comunicat de presă.",
+    "mwe": "comunicat de presă",
+    "mwe_lemmas": [
+      "comunicat",
+      "de",
+      "presă"
+    ],
+    "paraphrase": ", se menționează în declarația oficială către mass-media.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6016937295408834314",
+    "language": "RO",
+    "raw_text": "Lansarea, care a avut loc la AFI Palace Cotroceni, au fost prezenți Ivan Patzaichin, Teodor Frolu, publisherul volumului, și Alex Talambă.",
+    "sentence": "Lansarea, care a avut loc la AFI Palace Cotroceni, au fost prezenți Ivan Patzaichin, Teodor Frolu, publisherul volumului, și Alex Talambă.",
+    "mwe": "avut loc",
+    "mwe_lemmas": [
+      "avea",
+      "loc"
+    ],
+    "paraphrase": "La lansarea care s-a desfășurat la AFI Palace Cotroceni, au fost prezenți Ivan Patzaichin, Teodor Frolu, publisherul volumului, și Alex Talambă.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4016167706629931676",
+    "language": "RO",
+    "raw_text": "În Bulgaria, liderii Ataka, formațiune de extremă dreapta care clamează că „Bulgaria este a bulgarilor”, afirmă că „refugiații trebuie expulzați”, nota încă de anul trecut „The New York Times”.",
+    "sentence": "În Bulgaria, liderii Ataka, formațiune de extremă dreapta care clamează că „Bulgaria este a bulgarilor”, afirmă că „refugiații trebuie expulzați”, nota încă de anul trecut „The New York Times”.",
+    "mwe": "extremă dreapta",
+    "mwe_lemmas": [
+      "extrem",
+      "drept"
+    ],
+    "paraphrase": "În Bulgaria, liderii Ataka, formațiune ultranaționalistă care clamează că „Bulgaria este a bulgarilor”, afirmă că „refugiații trebuie expulzați”, nota încă de anul trecut „The New York Times”.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2052273079377958013",
+    "language": "RO",
+    "raw_text": "La nivel declarativ, autoritățile vor mai multe investiții Ea a arătat că foarte importantă pentru companie este disponibilitatea de cash-flow pentru investiții.",
+    "sentence": "La nivel declarativ, autoritățile vor mai multe investiții Ea a arătat că foarte importantă pentru companie este disponibilitatea de cash-flow pentru investiții.",
+    "mwe": "cash-flow",
+    "mwe_lemmas": [
+      "cash-flow"
+    ],
+    "paraphrase": "Ea a arătat că foarte importantă pentru companie este disponibilitatea de numerar pentru investiții.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5951944129218441716",
+    "language": "RO",
+    "raw_text": "Investiția în cultură este pentru germani o datorie de onoare.",
+    "sentence": "Investiția în cultură este pentru germani o datorie de onoare.",
+    "mwe": "datorie de onoare",
+    "mwe_lemmas": [
+      "datorie",
+      "de",
+      "onoare"
+    ],
+    "paraphrase": "Investiția în cultură reprezintă pentru germani o obligație morală.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3640611479049824374",
+    "language": "RO",
+    "raw_text": "n-aveau aprobare să întindă mesele pe iarbă”, atrage atenția Cristea Radu Timoc, lider al Asociației „Astra Română” pentru Banat-Porțile de Fier și Românii de Pretutindeni.",
+    "sentence": "n-aveau aprobare să întindă mesele pe iarbă”, atrage atenția Cristea Radu Timoc, lider al Asociației „Astra Română” pentru Banat-Porțile de Fier și Românii de Pretutindeni.",
+    "mwe": "întindă mesele",
+    "mwe_lemmas": [
+      "întinde",
+      "masă"
+    ],
+    "paraphrase": "n-aveau aprobare să instaleze mobilierul pe iarbă”, atrage atenția Cristea Radu Timoc, lider al Asociației „Astra Română” pentru Banat-Porțile de Fier și Românii de Pretutindeni.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-674389505915497976",
+    "language": "RO",
+    "raw_text": "Conferința de presă a lui Cristian Diaconescu nu s-a terminat în 15 minute, interferând cu declarațiile Elenei Udrea.",
+    "sentence": "Conferința de presă a lui Cristian Diaconescu nu s-a terminat în 15 minute, interferând cu declarațiile Elenei Udrea.",
+    "mwe": "conferință de presă",
+    "mwe_lemmas": [
+      "conferință",
+      "de",
+      "presă"
+    ],
+    "paraphrase": "Întâlnirea cu jurnaliștii a lui Cristian Diaconescu nu s-a terminat în 15 minute, interferând cu declarațiile Elenei Udrea.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1609377400176896073",
+    "language": "RO",
+    "raw_text": "Concepții precum: teoria ramurilor, teoria pierderii unității Bisericii, rugăciunea în comun cu eterodocșii sau alte idei și practici necanonice nu pot fi acceptate în viața Bisericii Ortodoxe.",
+    "sentence": "Concepții precum: teoria ramurilor, teoria pierderii unității Bisericii, rugăciunea în comun cu eterodocșii sau alte idei și practici necanonice nu pot fi acceptate în viața Bisericii Ortodoxe.",
+    "mwe": "teoria ramurilor",
+    "mwe_lemmas": [
+      "teorie",
+      "ramură"
+    ],
+    "paraphrase": "Concepții precum: doctrina ramificațiilor, teoria pierderii unității Bisericii, rugăciunea în comun cu eterodocșii sau alte idei și practici necanonice nu pot fi acceptate în viața Bisericii Ortodoxe.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8006505074725443203",
+    "language": "RO",
+    "raw_text": "„O femeie lider trebuie să depună un efort mai mare, să fie mai dinamică, mai organizată și mai rapidă decât un bărbat de succes.",
+    "sentence": "„O femeie lider trebuie să depună un efort mai mare, să fie mai dinamică, mai organizată și mai rapidă decât un bărbat de succes.",
+    "mwe": "depună un efort",
+    "mwe_lemmas": [
+      "depune",
+      "un",
+      "efort"
+    ],
+    "paraphrase": "„O femeie lider trebuie să muncească mai mult, să fie mai dinamică, mai organizată și mai rapidă decât un bărbat de succes.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1489415128724056109",
+    "language": "RO",
+    "raw_text": "În acest peisaj destul de sumbru, politica externă a României trebuie să se reinventeze.",
+    "sentence": "În acest peisaj destul de sumbru, politica externă a României trebuie să se reinventeze.",
+    "mwe": "politică externă",
+    "mwe_lemmas": [
+      "politică",
+      "extern"
+    ],
+    "paraphrase": "În acest peisaj destul de sumbru, diplomația României trebuie să se reinventeze.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8057259096745507289",
+    "language": "RO",
+    "raw_text": "Procurorii au stabilit că cele trei persoane din respectivul material sunt Aurelian Mihai Szanto, așa-zisul \"intermediar\" și cel care a asigurat traducerea, Attila Csaba Pantics și Levente Pantics, persoane care descriu și manipulează armele de foc oferite spre vânzare.",
+    "sentence": "Procurorii au stabilit că cele trei persoane din respectivul material sunt Aurelian Mihai Szanto, așa-zisul \"intermediar\" și cel care a asigurat traducerea, Attila Csaba Pantics și Levente Pantics, persoane care descriu și manipulează armele de foc oferite spre vânzare.",
+    "mwe": "armele de foc",
+    "mwe_lemmas": [
+      "armă",
+      "de",
+      "foc"
+    ],
+    "paraphrase": "Procurorii au stabilit că cele trei persoane din respectivul material sunt Aurelian Mihai Szanto, așa-zisul \"intermediar\" și cel care a asigurat traducerea, Attila Csaba Pantics și Levente Pantics, persoane care descriu și manipulează pistoalele și puștile oferite spre vânzare.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "591860212401749825",
+    "language": "RO",
+    "raw_text": "Mirel Palada continuă prin a sublinia echipa nouă fabuloasă a lui Klaus Iohannis: \"toți oameni noi, din viitor, politicieni proaspeți, numai buni de schimbat fața României\".",
+    "sentence": "Mirel Palada continuă prin a sublinia echipa nouă fabuloasă a lui Klaus Iohannis: \"toți oameni noi, din viitor, politicieni proaspeți, numai buni de schimbat fața României\".",
+    "mwe": "schimbat fața",
+    "mwe_lemmas": [
+      "schimba",
+      "față"
+    ],
+    "paraphrase": "Mirel Palada continuă prin a sublinia echipa nouă fabuloasă a lui Klaus Iohannis: \"toți oameni noi, din viitor, politicieni proaspeți, numai buni de transformat radical România\".",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4639280988357245509",
+    "language": "RO",
+    "raw_text": "Marea Britanie a avut în ultimele secole un statut aparte în relația cu SUA, fiind principalul lor aliat în Europa și purtătorul de cuvânt al Uniunii Europene.",
+    "sentence": "Marea Britanie a avut în ultimele secole un statut aparte în relația cu SUA, fiind principalul lor aliat în Europa și purtătorul de cuvânt al Uniunii Europene.",
+    "mwe": "Marea Britanie",
+    "mwe_lemmas": [
+      "mare",
+      "britanie"
+    ],
+    "paraphrase": "Regatul Unit a avut în ultimele secole un statut aparte în relația cu SUA, fiind principalul lor aliat în Europa și purtătorul de cuvânt al Uniunii Europene.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1229976890207887522",
+    "language": "RO",
+    "raw_text": "Nu s-a pus problema unei presiuni politice.",
+    "sentence": "Nu s-a pus problema unei presiuni politice.",
+    "mwe": "s-a pus problema",
+    "mwe_lemmas": [
+      "a se pune",
+      "problemă"
+    ],
+    "paraphrase": "Nu a existat discuția unei presiuni politice.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2992090242379818343",
+    "language": "RO",
+    "raw_text": "Iubirea adevărată apare după împlinirea nevoilor de bază și deschiderea sufletului Relațiile încep prin atracții erotice puternice și nevoia de siguranță.",
+    "sentence": "Iubirea adevărată apare după împlinirea nevoilor de bază și deschiderea sufletului Relațiile încep prin atracții erotice puternice și nevoia de siguranță.",
+    "mwe": "nevoilor de bază",
+    "mwe_lemmas": [
+      "nevoie",
+      "de",
+      "bază"
+    ],
+    "paraphrase": "Iubirea adevărată apare după satisfacerea cerințelor fundamentale și deschiderea sufletului Relațiile încep prin atracții erotice puternice și nevoia de siguranță.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1444308911567583171",
+    "language": "RO",
+    "raw_text": "Zona balcanică include și țări membre ale Uniunii Europene care sunt vizate de amintita „învăluire” rusă.",
+    "sentence": "Zona balcanică include și țări membre ale Uniunii Europene care sunt vizate de amintita „învăluire” rusă.",
+    "mwe": "Uniunii Europene",
+    "mwe_lemmas": [
+      "uniune",
+      "european"
+    ],
+    "paraphrase": "Zona balcanică include și țări care fac parte din blocul comunitar, vizate de amintita „învăluire” rusă.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7061774392623586788",
+    "language": "RO",
+    "raw_text": "În anul 1931, militarismul japonez a declanșat incidentul „18 septembrie”, bombardând municipiul Shenyang, China fiind prima țară care a deschis focul împotriva fascismului în Orient.",
+    "sentence": "În anul 1931, militarismul japonez a declanșat incidentul „18 septembrie”, bombardând municipiul Shenyang, China fiind prima țară care a deschis focul împotriva fascismului în Orient.",
+    "mwe": "a deschis focul",
+    "mwe_lemmas": [
+      "deschide",
+      "foc"
+    ],
+    "paraphrase": "În anul 1931, militarismul japonez a declanșat incidentul „18 septembrie”, bombardând municipiul Shenyang, China fiind prima țară care a început lupta armată împotriva fascismului în Orient.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3255148950624545944",
+    "language": "RO",
+    "raw_text": "-Aprobăm frenetic tirul cu pistolul-laser radar pe porțiuni drepte, fără treceri de pietoni, imediat după ambuteiaje nedirijate de câte 20 de minute.",
+    "sentence": "-Aprobăm frenetic tirul cu pistolul-laser radar pe porțiuni drepte, fără treceri de pietoni, imediat după ambuteiaje nedirijate de câte 20 de minute.",
+    "mwe": "pistolul-laser",
+    "mwe_lemmas": [
+      "pistol",
+      "laser"
+    ],
+    "paraphrase": "Aprobăm frenetic utilizarea dispozitivului de măsurare a vitezei pe porțiuni drepte, fără treceri de pietoni, imediat după ambuteiaje nedirijate de câte 20 de minute.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2833673761157361637",
+    "language": "RO",
+    "raw_text": "\"Eu cred că apele s-au limpezit, s-au despărțit și, din punctul ăsta de vedere, oamenii vor putea foarte ușor să știe ce aleg în noiembrie: continuarea celor zece ani de Traian Băsescu - cu Iohannis, Blaga și toată trupa - sau schimbare\", a continuat Victor Ponta.",
+    "sentence": "\"Eu cred că apele s-au limpezit, s-au despărțit și, din punctul ăsta de vedere, oamenii vor putea foarte ușor să știe ce aleg în noiembrie: continuarea celor zece ani de Traian Băsescu - cu Iohannis, Blaga și toată trupa - sau schimbare\", a continuat Victor Ponta.",
+    "mwe": "din punctul ăsta de vedere",
+    "mwe_lemmas": [
+      "din",
+      "punct",
+      "acesta",
+      "de",
+      "vedere"
+    ],
+    "paraphrase": "„Eu cred că apele s-au limpezit, s-au despărțit și, în această privință, oamenii vor putea foarte ușor să știe ce aleg în noiembrie: continuarea celor zece ani de Traian Băsescu - cu Iohannis, Blaga și toată trupa - sau schimbare”, a continuat Victor Ponta.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5179621865419371549",
+    "language": "RO",
+    "raw_text": "Da, pot să facă asta în sistemul public în anul 2017.",
+    "sentence": "Da, pot să facă asta în sistemul public în anul 2017.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Da, pot să facă asta în sistemul public în anul 2017.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "2706138285393891449",
+    "language": "RO",
+    "raw_text": "Occidentul era foarte neîncrezător în vocația democratică a partidelor istorice.",
+    "sentence": "Occidentul era foarte neîncrezător în vocația democratică a partidelor istorice.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Occidentul era foarte neîncrezător în vocația democratică a partidelor istorice.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-1200610081118794086",
+    "language": "RO",
+    "raw_text": "Un semn bun, care atrage atenția valorizând, asupra unei întregi generații literare care a pregătit, în mod hotărâtor, revenirea la normalitate a literaturii române.",
+    "sentence": "Un semn bun, care atrage atenția valorizând, asupra unei întregi generații literare care a pregătit, în mod hotărâtor, revenirea la normalitate a literaturii române.",
+    "mwe": "atrage atenția",
+    "mwe_lemmas": [
+      "atrage",
+      "atenție"
+    ],
+    "paraphrase": "Un semn bun, care captează interesul valorizând, asupra unei întregi generații literare care a pregătit, în mod hotărâtor, revenirea la normalitate a literaturii române.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3550846412239877158",
+    "language": "RO",
+    "raw_text": "*„Minoritatea română din Șerbia și dreptul la educație în limba maternă” (Mihaela Teodor, Academia Română - Institutul de Economie Mondială)",
+    "sentence": "*„Minoritatea română din Șerbia și dreptul la educație în limba maternă” (Mihaela Teodor, Academia Română - Institutul de Economie Mondială)",
+    "mwe": "dreptul la educație",
+    "mwe_lemmas": [
+      "drept",
+      "la",
+      "educație"
+    ],
+    "paraphrase": "„Minoritatea română din Serbia și posibilitatea de a învăța în limba maternă” (Mihaela Teodor, Academia Română - Institutul de Economie Mondială)",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2739285314195115590",
+    "language": "RO",
+    "raw_text": "La data de 29 iulie 2016, inculpatul Olteanu Bogdan urmează să fie prezentat Înaltei Curți de Casație și Justiție cu propunere de arestare preventivă pentru 30 de zile.",
+    "sentence": "La data de 29 iulie 2016, inculpatul Olteanu Bogdan urmează să fie prezentat Înaltei Curți de Casație și Justiție cu propunere de arestare preventivă pentru 30 de zile.",
+    "mwe": "Înaltei Curți de Casație și Justiție",
+    "mwe_lemmas": [
+      "înalt",
+      "curte",
+      "de",
+      "casație",
+      "și",
+      "justiție"
+    ],
+    "paraphrase": "La data de 29 iulie 2016, inculpatul Olteanu Bogdan urmează să fie prezentat instanței supreme cu propunere de arestare preventivă pentru 30 de zile.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2032228325535278344",
+    "language": "RO",
+    "raw_text": "SIMONA HALEP - MARIA SHARAPOVA, în SFERTURI DE FINALĂ la CINCINNATI.",
+    "sentence": "SIMONA HALEP - MARIA SHARAPOVA, în SFERTURI DE FINALĂ la CINCINNATI.",
+    "mwe": "SFERTURI DE FINALĂ",
+    "mwe_lemmas": [
+      "sfert",
+      "de",
+      "finală"
+    ],
+    "paraphrase": "SIMONA HALEP - MARIA SHARAPOVA, în etapa optimilor de patru la CINCINNATI.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5142757752134524882",
+    "language": "RO",
+    "raw_text": "În aceste regiuni se vor semnala averse, descărcări electrice, intensificări ale vântului cu aspect de vijelie și, posibil, grindină.",
+    "sentence": "În aceste regiuni se vor semnala averse, descărcări electrice, intensificări ale vântului cu aspect de vijelie și, posibil, grindină.",
+    "mwe": "aspect de vijelie",
+    "mwe_lemmas": [
+      "aspect",
+      "de",
+      "vijelie"
+    ],
+    "paraphrase": "În aceste regiuni se vor semnala averse, descărcări electrice, intensificări ale vântului furtunoase și, posibil, grindină.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5908435610448216782",
+    "language": "RO",
+    "raw_text": "Un fost purtător de cuvânt al PDL îl critică dur pe Vasile Blaga.",
+    "sentence": "Un fost purtător de cuvânt al PDL îl critică dur pe Vasile Blaga.",
+    "mwe": "purtător de cuvânt",
+    "mwe_lemmas": [
+      "purtător",
+      "de",
+      "cuvânt"
+    ],
+    "paraphrase": "Un fost reprezentant oficial al PDL îl critică dur pe Vasile Blaga.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8425281839497143893",
+    "language": "RO",
+    "raw_text": "O lansare cinematografică demnă de încasări pe măsură, lansarea filmului ,,Animale fantastice și unde le poți găsi” a reprezentat un real eveniment pentru publicul din România.",
+    "sentence": "O lansare cinematografică demnă de încasări pe măsură, lansarea filmului ,,Animale fantastice și unde le poți găsi” a reprezentat un real eveniment pentru publicul din România.",
+    "mwe": "pe măsură",
+    "mwe_lemmas": [
+      "pe",
+      "măsură"
+    ],
+    "paraphrase": "O lansare cinematografică demnă de încasări considerabile, lansarea filmului ,,Animale fantastice și unde le poți găsi” a reprezentat un real eveniment pentru publicul din România.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1948664605035381836",
+    "language": "RO",
+    "raw_text": "Această țară poate fi considerată un lider regional și din perspectiva faptului că a înființat o agenție dedicată investițiilor poloneze în străinătate, care a pus la punct un program pentru susținerea dezvoltării acestui segment.",
+    "sentence": "Această țară poate fi considerată un lider regional și din perspectiva faptului că a înființat o agenție dedicată investițiilor poloneze în străinătate, care a pus la punct un program pentru susținerea dezvoltării acestui segment.",
+    "mwe": "pus la punct",
+    "mwe_lemmas": [
+      "pune",
+      "la",
+      "punct"
+    ],
+    "paraphrase": "Această țară poate fi considerată un lider regional și din perspectiva faptului că a înființat o agenție dedicată investițiilor poloneze în străinătate, care a elaborat un program pentru susținerea dezvoltării acestui segment.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5690027426472279516",
+    "language": "RO",
+    "raw_text": "Cu acest prilej a asigurat premii sportivilor români declarați învingători la aceste jocuri olimpice din ramurile sportive: atletism, canotaj, gimnastică, haltere, înot, judo, lupte, scrimă, tir, tenis de masă, caiac-canoe, handbal și polo.",
+    "sentence": "Cu acest prilej a asigurat premii sportivilor români declarați învingători la aceste jocuri olimpice din ramurile sportive: atletism, canotaj, gimnastică, haltere, înot, judo, lupte, scrimă, tir, tenis de masă, caiac-canoe, handbal și polo.",
+    "mwe": "jocuri olimpice",
+    "mwe_lemmas": [
+      "joc",
+      "olimpic"
+    ],
+    "paraphrase": "Cu acest prilej a asigurat premii sportivilor români declarați învingători la această competiție internațională din ramurile sportive: atletism, canotaj, gimnastică, haltere, înot, judo, lupte, scrimă, tir, tenis de masă, caiac-canoe, handbal și polo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6829189197783146223",
+    "language": "RO",
+    "raw_text": "Analistul Bogdan Chirieac este de părere că nu există un război între Elena Udrea și Traian Băsescu.",
+    "sentence": "Analistul Bogdan Chirieac este de părere că nu există un război între Elena Udrea și Traian Băsescu.",
+    "mwe": "de părere",
+    "mwe_lemmas": [
+      "de",
+      "părere"
+    ],
+    "paraphrase": "Analistul Bogdan Chirieac consideră că nu există un război între Elena Udrea și Traian Băsescu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8226665946636957723",
+    "language": "RO",
+    "raw_text": "Tragedia Medeei este cauzată de monstrul numit mass media, cel pe care îl invocăm și îl savurăm zilnic.",
+    "sentence": "Tragedia Medeei este cauzată de monstrul numit mass media, cel pe care îl invocăm și îl savurăm zilnic.",
+    "mwe": "mass media",
+    "mwe_lemmas": [
+      "mass",
+      "media"
+    ],
+    "paraphrase": "Tragedia Medeei este cauzată de monstrul numit mijloace de informare în masă, cel pe care îl invocăm și îl savurăm zilnic.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6042682910410702469",
+    "language": "RO",
+    "raw_text": "În perioada 01.01.2011 - 30.06.2013, C.N.C.I.R. S.A. ar fi plătit către persoanele fizice Enciu Georgeta, Enciu Radu, Onoriu Eugenia și Onoriu Costel chirii în sumă totală de 3.278.150,38 RON, susține raportul Corpului de Control al guvernului.",
+    "sentence": "În perioada 01.01.2011 - 30.06.2013, C.N.C.I.R. S.A. ar fi plătit către persoanele fizice Enciu Georgeta, Enciu Radu, Onoriu Eugenia și Onoriu Costel chirii în sumă totală de 3.278.150,38 RON, susține raportul Corpului de Control al guvernului.",
+    "mwe": "Corpului de Control",
+    "mwe_lemmas": [
+      "corp",
+      "de",
+      "control"
+    ],
+    "paraphrase": "În perioada 01.01.2011 - 30.06.2013, C.N.C.I.R. S.A. ar fi plătit către persoanele fizice Enciu Georgeta, Enciu Radu, Onoriu Eugenia și Onoriu Costel chirii în sumă totală de 3.278.150,38 RON, susține raportul inspectoratului guvernamental.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6574941553969204487",
+    "language": "RO",
+    "raw_text": "Însă întotdeauna a fost mai înțelept să previi decât să vindeci sau, în cazul de față, să corectezi un abuz care poate împieta asupra activității unor jurnaliști.",
+    "sentence": "Însă întotdeauna a fost mai înțelept să previi decât să vindeci sau, în cazul de față, să corectezi un abuz care poate împieta asupra activității unor jurnaliști.",
+    "mwe": "în cazul de față",
+    "mwe_lemmas": [
+      "în",
+      "caz",
+      "de",
+      "față"
+    ],
+    "paraphrase": "Însă întotdeauna a fost mai înțelept să previi decât să vindeci sau, prezent, să corectezi un abuz care poate împieta asupra activității unor jurnaliști.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1503975399463528856",
+    "language": "RO",
+    "raw_text": "Iuliu Maniu și Ion Mihalache au fost condamnați la închisoare pe viață, alți lideri ai partidului au primit și ei pedepse grele.",
+    "sentence": "Iuliu Maniu și Ion Mihalache au fost condamnați la închisoare pe viață, alți lideri ai partidului au primit și ei pedepse grele.",
+    "mwe": "închisoare pe viață",
+    "mwe_lemmas": [
+      "închisoare",
+      "pe",
+      "viață"
+    ],
+    "paraphrase": "Iuliu Maniu și Ion Mihalache au fost condamnați la detenție perpetuă, alți lideri ai partidului au primit și ei pedepse grele.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4740870721475923430",
+    "language": "RO",
+    "raw_text": "Respectivul jurnalist i-a spus că intenționează să realizeze un documentar despre traficanții de arme și i-a cerut să găsească persoane dispuse să prezinte arme de foc.",
+    "sentence": "Respectivul jurnalist i-a spus că intenționează să realizeze un documentar despre traficanții de arme și i-a cerut să găsească persoane dispuse să prezinte arme de foc.",
+    "mwe": "arme de foc",
+    "mwe_lemmas": [
+      "armă",
+      "de",
+      "foc"
+    ],
+    "paraphrase": "Respectivul jurnalist i-a spus că intenționează să realizeze un documentar despre traficanții de armament și i-a cerut să găsească persoane dispuse să prezinte pistoale sau puști.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3580029280615966988",
+    "language": "RO",
+    "raw_text": "Yedicule, temuta temniță unde Brâcovenii și-au trăit ultimele zile Pe malul Mării Marmara, în capătul de sud al orașului, era Închisoarea celor Șapte Turnuri sau Temnița Yedicule.",
+    "sentence": "Yedicule, temuta temniță unde Brâcovenii și-au trăit ultimele zile Pe malul Mării Marmara, în capătul de sud al orașului, era Închisoarea celor Șapte Turnuri sau Temnița Yedicule.",
+    "mwe": "Șapte Turnuri",
+    "mwe_lemmas": [
+      "șapte",
+      "turn"
+    ],
+    "paraphrase": "Pe malul Mării Marmara, în capătul de sud al orașului, se afla fortăreața heptagonală sau Închisoarea Yedicule.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5916777695771841554",
+    "language": "RO",
+    "raw_text": "Se consideră că divergențele acute cu Rusia vor fi de lungă durată și pot lua o turnură extrem de periculoasă.",
+    "sentence": "Se consideră că divergențele acute cu Rusia vor fi de lungă durată și pot lua o turnură extrem de periculoasă.",
+    "mwe": "de lungă durată",
+    "mwe_lemmas": [
+      "de",
+      "lung",
+      "durată"
+    ],
+    "paraphrase": "Se consideră că divergențele acute cu Rusia vor persista mult timp și pot lua o turnură extrem de periculoasă.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-9035676260121665919",
+    "language": "RO",
+    "raw_text": "Dar unui ochi ce-atent privise De multe lucruri triste, ea, Cu-a ei tăcere povestea ; Era în ea disprețul rece Al sufletului , ce , curând Că florile , încet căzând , Se ofilesc când vară trece , Al gândului din urmă semn , Al vieții duse , van îndemn , Și- adio lumii ce-o-nconjoară .",
+    "sentence": "Dar unui ochi ce-atent privise De multe lucruri triste, ea, Cu-a ei tăcere povestea ; Era în ea disprețul rece Al sufletului , ce , curând Că florile , încet căzând , Se ofilesc când vară trece , Al gândului din urmă semn , Al vieții duse , van îndemn , Și- adio lumii ce-o-nconjoară .",
+    "mwe": "ochi",
+    "mwe_lemmas": [
+      "ochi"
+    ],
+    "paraphrase": "Dar unei priviri ce-atent urmărise De multe lucruri triste, ea, Cu-a ei tăcere povestea ; Era în ea disprețul rece Al sufletului , ce , curând Că florile , încet căzând , Se ofilesc când vară trece , Al gândului din urmă semn , Al vieții duse , van îndemn , Și- adio lumii ce-o-nconjoară .",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7515824046060217492",
+    "language": "RO",
+    "raw_text": "\"Cătălin era un băiat liniștit, cu mult bun simț, care nu deranja pe nimeni, fiind preocupat să-și construiască un cămin al lui.",
+    "sentence": "\"Cătălin era un băiat liniștit, cu mult bun simț, care nu deranja pe nimeni, fiind preocupat să-și construiască un cămin al lui.",
+    "mwe": "bun simț",
+    "mwe_lemmas": [
+      "bun",
+      "simț"
+    ],
+    "paraphrase": "Cătălin era un băiat liniștit, cu multă decență, care nu deranja pe nimeni, fiind preocupat să-și construiască un cămin al lui.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-50986116025648667",
+    "language": "RO",
+    "raw_text": "Vrem să fie o țară ca afară, dar ne purtăm ca în evul mediu\", ne urechează acest La Fontaine în uniformă-ștoc de vară\", a scris Mihai Găinușe pe blog.",
+    "sentence": "Vrem să fie o țară ca afară, dar ne purtăm ca în evul mediu\", ne urechează acest La Fontaine în uniformă-ștoc de vară\", a scris Mihai Găinușe pe blog.",
+    "mwe": "evul mediu",
+    "mwe_lemmas": [
+      "ev",
+      "mediu"
+    ],
+    "paraphrase": "Vrem să fie o țară ca afară, dar ne purtăm ca în epoca medievală\", ne urechează acest La Fontaine în uniformă-ștoc de vară\", a scris Mihai Găinușe pe blog.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-671461014828785557",
+    "language": "RO",
+    "raw_text": "Un înalt oficial al Casei Albe a declarat miercuri că Washingtonul ia în calcul varianta dislocării de forțe terestre în Irak pentru a-i ajuta pe irakieni în misiunea de salvare a refugiaților yazidi.",
+    "sentence": "Un înalt oficial al Casei Albe a declarat miercuri că Washingtonul ia în calcul varianta dislocării de forțe terestre în Irak pentru a-i ajuta pe irakieni în misiunea de salvare a refugiaților yazidi.",
+    "mwe": "ia în calcul",
+    "mwe_lemmas": [
+      "lua",
+      "în",
+      "calcul"
+    ],
+    "paraphrase": "Un înalt oficial al Casei Albe a declarat miercuri că Washingtonul analizează posibilitatea dislocării de forțe terestre în Irak pentru a-i ajuta pe irakieni în misiunea de salvare a refugiaților yazidi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5819576628337650656",
+    "language": "RO",
+    "raw_text": "Cristian Diaconescu este nu doar candidatul cu cele mai multe calități pentru a deține funcția supremă în stat, dar și membru fondator și președinte al Fundației Mișcarea Populară.",
+    "sentence": "Cristian Diaconescu este nu doar candidatul cu cele mai multe calități pentru a deține funcția supremă în stat, dar și membru fondator și președinte al Fundației Mișcarea Populară.",
+    "mwe": "membru fondator",
+    "mwe_lemmas": [
+      "membru",
+      "fondator"
+    ],
+    "paraphrase": "Cristian Diaconescu este nu doar candidatul cu cele mai multe calități pentru a deține funcția supremă în stat, dar și unul dintre cei care au pus bazele Fundației Mișcarea Populară.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "159857904259798181",
+    "language": "RO",
+    "raw_text": "Acesta este sfârșitul capitalismului și începutul comunitarianismului\", a spus ministrul de externe al Boliviei.",
+    "sentence": "Acesta este sfârșitul capitalismului și începutul comunitarianismului\", a spus ministrul de externe al Boliviei.",
+    "mwe": "ministrul de externe",
+    "mwe_lemmas": [
+      "ministru",
+      "de",
+      "extern"
+    ],
+    "paraphrase": "„Acesta este sfârșitul capitalismului și începutul comunitarianismului”, a declarat șeful diplomației boliviene.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6688448245583630812",
+    "language": "RO",
+    "raw_text": "Directorul General pentru România al NIS Petrol este Vadim Smirnov.",
+    "sentence": "Directorul General pentru România al NIS Petrol este Vadim Smirnov.",
+    "mwe": "Directorul General",
+    "mwe_lemmas": [
+      "director",
+      "general"
+    ],
+    "paraphrase": "Conducătorul principal pentru România al NIS Petrol este Vadim Smirnov.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6394009416731084108",
+    "language": "RO",
+    "raw_text": "Avertizarea cod portocaliu de caniculă este valabilă pentru București și județele Mehedinți, Gorj, Dolj, Olt, Vâlcea, Argeș, Teleorman, Giurgiu, Ilfov, Dâmbovița, Prahova, Buzău, Ialomița, Călărași, Brăila, Galați, Vrancea, Bacău, Vaslui, Neamț, Iași și Botoșani.",
+    "sentence": "Avertizarea cod portocaliu de caniculă este valabilă pentru București și județele Mehedinți, Gorj, Dolj, Olt, Vâlcea, Argeș, Teleorman, Giurgiu, Ilfov, Dâmbovița, Prahova, Buzău, Ialomița, Călărași, Brăila, Galați, Vrancea, Bacău, Vaslui, Neamț, Iași și Botoșani.",
+    "mwe": "cod portocaliu",
+    "mwe_lemmas": [
+      "cod",
+      "portocaliu"
+    ],
+    "paraphrase": "Avertizarea de grad ridicat de caniculă este valabilă pentru București și județele Mehedinți, Gorj, Dolj, Olt, Vâlcea, Argeș, Teleorman, Giurgiu, Ilfov, Dâmbovița, Prahova, Buzău, Ialomița, Călărași, Brăila, Galați, Vrancea, Bacău, Vaslui, Neamț, Iași și Botoșani.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1328398233877235979",
+    "language": "RO",
+    "raw_text": "Urmarea - în SUA, infracționalitatea cu arme de foc este de 25 de ori mai mare decât în celelalte state dezvoltate.",
+    "sentence": "Urmarea - în SUA, infracționalitatea cu arme de foc este de 25 de ori mai mare decât în celelalte state dezvoltate.",
+    "mwe": "arme de foc",
+    "mwe_lemmas": [
+      "armă",
+      "de",
+      "foc"
+    ],
+    "paraphrase": "Urmarea - în SUA, infracționalitatea cu pistoale și puști este de 25 de ori mai mare decât în celelalte state dezvoltate.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "293063676866815888",
+    "language": "RO",
+    "raw_text": "Șova este urmărit penal, fiind suspect de complicitate la abuz în serviciu într-un dosar privind contracte de consultanță juridică între cabinetul de avocatură al lui Șova și complexele energetice Turceni și Rovinari.",
+    "sentence": "Șova este urmărit penal, fiind suspect de complicitate la abuz în serviciu într-un dosar privind contracte de consultanță juridică între cabinetul de avocatură al lui Șova și complexele energetice Turceni și Rovinari.",
+    "mwe": "urmărit penal",
+    "mwe_lemmas": [
+      "urmări",
+      "penal"
+    ],
+    "paraphrase": "Șova este cercetat de autoritățile judiciare, fiind suspect de complicitate la abuz în serviciu într-un dosar privind contracte de consultanță juridică între cabinetul de avocatură al lui Șova și complexele energetice Turceni și Rovinari.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5385814686274221777",
+    "language": "RO",
+    "raw_text": "Mare murdărie !!!\" Scrisoarea deschisă trimista din penitenciar de fostul ministru se încheie cu afirmația: \"Mințiți continuu, doamna Kovesi!!!\", si un post scriptum:",
+    "sentence": "Mare murdărie !!!\" Scrisoarea deschisă trimista din penitenciar de fostul ministru se încheie cu afirmația: \"Mințiți continuu, doamna Kovesi!!!\", si un post scriptum:",
+    "mwe": "post scriptum",
+    "mwe_lemmas": [
+      "post",
+      "scriptum"
+    ],
+    "paraphrase": "Mare murdărie !!!\" Scrisoarea deschisă trimisă din penitenciar de fostul ministru se încheie cu afirmația: \"Mințiți continuu, doamna Kovesi!!!\", și o notă adăugată la final:",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8655053632104405814",
+    "language": "RO",
+    "raw_text": "Mulți alții au fost forțați să ia calea exilului.",
+    "sentence": "Mulți alții au fost forțați să ia calea exilului.",
+    "mwe": "ia calea",
+    "mwe_lemmas": [
+      "lua",
+      "cale"
+    ],
+    "paraphrase": "Mulți alții au fost forțați să plece în exil.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7410331578015411388",
+    "language": "RO",
+    "raw_text": "În acest timp, singura preocupare este tot căldura, respectiv lipsa aerului condiționat.",
+    "sentence": "În acest timp, singura preocupare este tot căldura, respectiv lipsa aerului condiționat.",
+    "mwe": "aerului condiționat",
+    "mwe_lemmas": [
+      "aer",
+      "condiționat"
+    ],
+    "paraphrase": "În acest timp, singura preocupare este tot căldura, respectiv absența sistemului de climatizare.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2658527848316576623",
+    "language": "RO",
+    "raw_text": "Tot la Iași, domnule Prim Ministru, mult mai grav este cazul vestigiilor celei mai vechi culturi descoperite în Europa.",
+    "sentence": "Tot la Iași, domnule Prim Ministru, mult mai grav este cazul vestigiilor celei mai vechi culturi descoperite în Europa.",
+    "mwe": "Prim Ministru",
+    "mwe_lemmas": [
+      "prim",
+      "ministru"
+    ],
+    "paraphrase": "Tot la Iași, domnule șef al guvernului, mult mai grav este cazul vestigiilor celei mai vechi culturi descoperite în Europa.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7022463279568371899",
+    "language": "RO",
+    "raw_text": "David Lidington, ministrul britanic de stat pentru Europa",
+    "sentence": "David Lidington, ministrul britanic de stat pentru Europa",
+    "mwe": "ministrul britanic de stat",
+    "mwe_lemmas": [
+      "ministru",
+      "britanic",
+      "de",
+      "stat"
+    ],
+    "paraphrase": "David Lidington, oficialul guvernamental englez responsabil pentru Europa",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7379930082539462644",
+    "language": "RO",
+    "raw_text": "Colin Stanbridge, Director Executiv al Camerei de Comerț și Industrie din Londra",
+    "sentence": "Colin Stanbridge, Director Executiv al Camerei de Comerț și Industrie din Londra",
+    "mwe": "Camerei de Comerț și Industrie",
+    "mwe_lemmas": [
+      "cameră",
+      "de",
+      "comerț",
+      "și",
+      "industrie"
+    ],
+    "paraphrase": "Colin Stanbridge, Director Executiv al instituției londoneze pentru afaceri.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-89638914417635369",
+    "language": "RO",
+    "raw_text": "Vom trăi și vom vedea.",
+    "sentence": "Vom trăi și vom vedea.",
+    "mwe": "Vom trăi și vom vedea",
+    "mwe_lemmas": [
+      "trăi",
+      "și",
+      "vedea"
+    ],
+    "paraphrase": "Timpul va demonstra adevărul.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2446669177998582199",
+    "language": "RO",
+    "raw_text": "Ficior a fost trimis în judecată pentru săvârșirea de infracțiuni contra umanității, în dosarul având ca obiect sesizarea formulată de Institutul de Investigare a Crimelor Comunismului și Memoria Exilului Românesc (IICCMER).",
+    "sentence": "Ficior a fost trimis în judecată pentru săvârșirea de infracțiuni contra umanității, în dosarul având ca obiect sesizarea formulată de Institutul de Investigare a Crimelor Comunismului și Memoria Exilului Românesc (IICCMER).",
+    "mwe": "trimis în judecată",
+    "mwe_lemmas": [
+      "trimite",
+      "în",
+      "judecată"
+    ],
+    "paraphrase": "Ficior a fost inculpat pentru săvârșirea de infracțiuni contra umanității, în dosarul având ca obiect sesizarea formulată de Institutul de Investigare a Crimelor Comunismului și Memoria Exilului Românesc (IICCMER).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "925730670561532192",
+    "language": "RO",
+    "raw_text": "Mărturie stă înregistrarea unui număr, fără precedent atunci, de oameni care au părăsit sala și au cerut înapoi banii pe bilet.",
+    "sentence": "Mărturie stă înregistrarea unui număr, fără precedent atunci, de oameni care au părăsit sala și au cerut înapoi banii pe bilet.",
+    "mwe": "fără precedent",
+    "mwe_lemmas": [
+      "fără",
+      "precedent"
+    ],
+    "paraphrase": "Mărturie stă înregistrarea unui număr nemaivăzut atunci de oameni care au părăsit sala și au cerut înapoi banii pe bilet.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7999574845086530292",
+    "language": "RO",
+    "raw_text": "\"Ce am făcut eu în Sibiu arată ce gândire am, este o carte de vizită bună.",
+    "sentence": "\"Ce am făcut eu în Sibiu arată ce gândire am, este o carte de vizită bună.",
+    "mwe": "carte de vizită",
+    "mwe_lemmas": [
+      "carte",
+      "de",
+      "vizită"
+    ],
+    "paraphrase": "Ce am făcut eu în Sibiu arată ce gândire am, reprezintă o recomandare valoroasă.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2128285632054998816",
+    "language": "RO",
+    "raw_text": "Partenerul și managerul ei Clair Bayfield (Hugh Grant), un actor diplomat englez, este singurul care face tot posibilul pentru a o proteja de crudul adevăr și de ridicol.",
+    "sentence": "Partenerul și managerul ei Clair Bayfield (Hugh Grant), un actor diplomat englez, este singurul care face tot posibilul pentru a o proteja de crudul adevăr și de ridicol.",
+    "mwe": "face tot posibilul",
+    "mwe_lemmas": [
+      "face",
+      "tot",
+      "posibil"
+    ],
+    "paraphrase": "Partenerul și managerul ei Clair Bayfield (Hugh Grant), un actor diplomat englez, este singurul care depune eforturi maxime pentru a o proteja de crudul adevăr și de ridicol.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "66197429257657579",
+    "language": "RO",
+    "raw_text": "Criza economică a adus și statul britanic într-o situație economică-financiară dificilă, cu efecte asupra pieței muncii.",
+    "sentence": "Criza economică a adus și statul britanic într-o situație economică-financiară dificilă, cu efecte asupra pieței muncii.",
+    "mwe": "piaței muncii",
+    "mwe_lemmas": [
+      "piață",
+      "muncă"
+    ],
+    "paraphrase": "Criza economică a adus și statul britanic într-o situație economică-financiară dificilă, cu efecte asupra sectorului ocupării forței de angajare.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "921614756105316406",
+    "language": "RO",
+    "raw_text": "Întemeietorii acestor așezaminte culturale de excepție au fost Vasile Pârvan și Nicolae Iorga.",
+    "sentence": "Întemeietorii acestor așezaminte culturale de excepție au fost Vasile Pârvan și Nicolae Iorga.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Întemeietorii acestor așezaminte culturale de excepție au fost Vasile Pârvan și Nicolae Iorga.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-6436120072398667655",
+    "language": "RO",
+    "raw_text": "Comisia Europeană și Înaltul Comisar OSCE pentru Minorități Naționale.",
+    "sentence": "Comisia Europeană și Înaltul Comisar OSCE pentru Minorități Naționale.",
+    "mwe": "Comisia Europeană",
+    "mwe_lemmas": [
+      "comisie",
+      "european"
+    ],
+    "paraphrase": "Forul executiv al Uniunii și Înaltul Comisar OSCE pentru Minorități Naționale.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7502776293281650010",
+    "language": "RO",
+    "raw_text": "Cei trei furnizori de comunicații electronice sancționați vor trebui să achite contravaloarea amenzilor contravenționale către bugetul de stat și să își îndeplinească obligațiile de acoperire prevăzute în licențele de utilizare a spectrului de frecvențe radio.",
+    "sentence": "Cei trei furnizori de comunicații electronice sancționați vor trebui să achite contravaloarea amenzilor contravenționale către bugetul de stat și să își îndeplinească obligațiile de acoperire prevăzute în licențele de utilizare a spectrului de frecvențe radio.",
+    "mwe": "bugetul de stat",
+    "mwe_lemmas": [
+      "buget",
+      "de",
+      "stat"
+    ],
+    "paraphrase": "Cei trei furnizori de comunicații electronice sancționați vor trebui să achite contravaloarea amenzilor contravenționale către trezoreria publică și să își îndeplinească obligațiile de acoperire prevăzute în licențele de utilizare a spectrului de frecvențe radio.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3612627632848226783",
+    "language": "RO",
+    "raw_text": "Cuplul Răzvan și Aură Maria Mustea, nașii de cununie ai Elenei Băsescu și Răzvan Ionescu, au decis să pună capăt căsătoriei.",
+    "sentence": "Cuplul Răzvan și Aură Maria Mustea, nașii de cununie ai Elenei Băsescu și Răzvan Ionescu, au decis să pună capăt căsătoriei.",
+    "mwe": "pună capăt",
+    "mwe_lemmas": [
+      "pune",
+      "capăt"
+    ],
+    "paraphrase": "Cuplul Răzvan și Aură Maria Mustea, nașii de cununie ai Elenei Băsescu și Răzvan Ionescu, au decis să finalizeze căsătoria.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4641707861137452227",
+    "language": "RO",
+    "raw_text": "Ideea este să obținem un rezultat cât mai bun la alegeri fiindcă nu ne putem permite să lăsăm țara unui președinte de stânga, respectiv lui Victor Ponta.",
+    "sentence": "Ideea este să obținem un rezultat cât mai bun la alegeri fiindcă nu ne putem permite să lăsăm țara unui președinte de stânga, respectiv lui Victor Ponta.",
+    "mwe": "nu ne putem permite",
+    "mwe_lemmas": [
+      "nu",
+      "se",
+      "putea",
+      "permite"
+    ],
+    "paraphrase": "Ideea este să obținem un rezultat cât mai bun la alegeri deoarece este exclus să lăsăm țara unui președinte de stânga, respectiv lui Victor Ponta.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6523575947209448444",
+    "language": "RO",
+    "raw_text": "Pe 26 august este programată proba la limba și literatura maternă.",
+    "sentence": "Pe 26 august este programată proba la limba și literatura maternă.",
+    "mwe": "limba și literatura maternă",
+    "mwe_lemmas": [
+      "limbă",
+      "și",
+      "literatură",
+      "matern"
+    ],
+    "paraphrase": "Pe 26 august este programată examinarea la disciplina nativă.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7973327798904515888",
+    "language": "RO",
+    "raw_text": "SIMONA HALEP - MARIA SHARAPOVA, SFERTURI DE FINALĂ CINCINNATI.",
+    "sentence": "SIMONA HALEP - MARIA SHARAPOVA, SFERTURI DE FINALĂ CINCINNATI.",
+    "mwe": "sferturi de finală",
+    "mwe_lemmas": [
+      "sfert",
+      "de",
+      "finală"
+    ],
+    "paraphrase": "SIMONA HALEP - MARIA SHARAPOVA, ETAPA CELOR MAI BUNE OPT JUCĂTOARE LA CINCINNATI.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5626722355660205741",
+    "language": "RO",
+    "raw_text": "La nivel urban, 585.000 de telespectatori trăiau împreună, la TVR 1, emoțiile gimnastelor din finalele de ieri (5,6% rating mediu și 21,2% cotă de piață medie).",
+    "sentence": "La nivel urban, 585.000 de telespectatori trăiau împreună, la TVR 1, emoțiile gimnastelor din finalele de ieri (5,6% rating mediu și 21,2% cotă de piață medie).",
+    "mwe": "cotă de piață",
+    "mwe_lemmas": [
+      "cotă",
+      "de",
+      "piață"
+    ],
+    "paraphrase": "La nivel urban, 585.000 de telespectatori trăiau împreună, la TVR 1, emoțiile gimnastelor din finalele de ieri (5,6% rating mediu și 21,2% pondere medie în rândul audienței).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7366816755490120490",
+    "language": "RO",
+    "raw_text": "Vom putea noi, europenii, să facem față unei noi recesiuni economice?",
+    "sentence": "Vom putea noi, europenii, să facem față unei noi recesiuni economice?",
+    "mwe": "face față",
+    "mwe_lemmas": [
+      "face",
+      "față"
+    ],
+    "paraphrase": "Vom putea noi, europenii, să rezistăm unei noi recesiuni economice?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5117401948638438117",
+    "language": "RO",
+    "raw_text": "În intervalele 15 - 19 august și 22 - 25 august, local vor fi averse și descărcări electrice, iar în celelalte zile ale celor două săptămâni de prognoză doar izolat sunt posibile ploi slabe.",
+    "sentence": "În intervalele 15 - 19 august și 22 - 25 august, local vor fi averse și descărcări electrice, iar în celelalte zile ale celor două săptămâni de prognoză doar izolat sunt posibile ploi slabe.",
+    "mwe": "descărcări electrice",
+    "mwe_lemmas": [
+      "descărcare",
+      "electric"
+    ],
+    "paraphrase": "În intervalele 15 - 19 august și 22 - 25 august, local vor fi averse și fulgere, iar în celelalte zile ale celor două săptămâni de prognoză doar izolat sunt posibile ploi slabe.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2720726023411707052",
+    "language": "RO",
+    "raw_text": "Eu sunt reprezentant al centru-stânga, iar ceilalți sunt reprezentanții domnului Băsescu.",
+    "sentence": "Eu sunt reprezentant al centru-stânga, iar ceilalți sunt reprezentanții domnului Băsescu.",
+    "mwe": "centru-stânga",
+    "mwe_lemmas": [
+      "centru",
+      "stânga"
+    ],
+    "paraphrase": "Eu sunt reprezentant al orientării politice social-democrate, iar ceilalți sunt reprezentanții domnului Băsescu.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2003739074911548793",
+    "language": "RO",
+    "raw_text": "Sâmbătă dimineață, purtătorul de cuvânt al Guvernului a publicat mesaje de amenințare pe care le-ar fi primit vineri seară.",
+    "sentence": "Sâmbătă dimineață, purtătorul de cuvânt al Guvernului a publicat mesaje de amenințare pe care le-ar fi primit vineri seară.",
+    "mwe": "purtătorul de cuvânt",
+    "mwe_lemmas": [
+      "purtător",
+      "de",
+      "cuvânt"
+    ],
+    "paraphrase": "Sâmbătă dimineață, reprezentantul oficial al Guvernului a publicat mesaje de amenințare pe care le-ar fi primit vineri seară.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6164104684837333249",
+    "language": "RO",
+    "raw_text": "A așteptării clocotire, Si spaimă cea de neștiut, Așa, ca-n prima întâlnire Cu sufletu-i s-au cunoscut.",
+    "sentence": "A așteptării clocotire, Si spaimă cea de neștiut, Așa, ca-n prima întâlnire Cu sufletu-i s-au cunoscut.",
+    "mwe": "ca-n",
+    "mwe_lemmas": [
+      "ca",
+      "în"
+    ],
+    "paraphrase": "A așteptării clocotire, Si spaimă cea de neștiut, Asemenea primei întâlniri Cu sufletu-i s-au cunoscut.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3221783827197228324",
+    "language": "RO",
+    "raw_text": "„Președinte și Director General\"!.",
+    "sentence": "„Președinte și Director General\"!.",
+    "mwe": "Președinte și Director General",
+    "mwe_lemmas": [
+      "președinte",
+      "și",
+      "director",
+      "general"
+    ],
+    "paraphrase": "Conducătorul executiv suprem.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5188682506579283055",
+    "language": "RO",
+    "raw_text": "Alerta meteo de Cod Galben de caniculă este valabilă pentru miercuri și joi.",
+    "sentence": "Alerta meteo de Cod Galben de caniculă este valabilă pentru miercuri și joi.",
+    "mwe": "Cod Galben",
+    "mwe_lemmas": [
+      "cod",
+      "galben"
+    ],
+    "paraphrase": "Avertizarea meteo de nivel de precauție pentru caniculă este valabilă pentru miercuri și joi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3424344075770113682",
+    "language": "RO",
+    "raw_text": "Acest fapt duce și alte țări pe „drumul” respectării drepturilor minorităților naționale.",
+    "sentence": "Acest fapt duce și alte țări pe „drumul” respectării drepturilor minorităților naționale.",
+    "mwe": "duce pe drumul",
+    "mwe_lemmas": [
+      "duce",
+      "pe",
+      "drum"
+    ],
+    "paraphrase": "Acest fapt orientează și alte țări către respectarea drepturilor minorităților naționale.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1391979453715268550",
+    "language": "RO",
+    "raw_text": "Ctitorită prin efortul protopopului Vasile Covalciuc și prin dărnicia unor oameni generoși, Mănăstirea Leorda, cu cele trei locașuri de închinare - cu hramul „Sfintele Femei Mironosițe”, „Sfântul Mucenic Pantelimon”, „Sfinții Arhangheli Mihail și Gavriil” - este o oază de ortodoxie, unde credința își are rădăcina în arborele neamului românesc.",
+    "sentence": "Ctitorită prin efortul protopopului Vasile Covalciuc și prin dărnicia unor oameni generoși, Mănăstirea Leorda, cu cele trei locașuri de închinare - cu hramul „Sfintele Femei Mironosițe”, „Sfântul Mucenic Pantelimon”, „Sfinții Arhangheli Mihail și Gavriil” - este o oază de ortodoxie, unde credința își are rădăcina în arborele neamului românesc.",
+    "mwe": "oază de ortodoxie",
+    "mwe_lemmas": [
+      "oază",
+      "de",
+      "ortodoxie"
+    ],
+    "paraphrase": "Ctitorită prin efortul protopopului Vasile Covalciuc și prin dărnicia unor oameni generoși, Mănăstirea Leorda, cu cele trei locașuri de închinare - cu hramul „Sfintele Femei Mironosițe”, „Sfântul Mucenic Pantelimon”, „Sfinții Arhangheli Mihail și Gavriil” - reprezintă un centru spiritual creștin, unde credința își are rădăcina în arborele neamului românesc.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2572030346407311502",
+    "language": "RO",
+    "raw_text": "Adevăratele interese ale societății britanice și europene, starea durabilă de pace, constanta dezvoltare economică a întregului continent, dar și adevăratele teme ce ar fi trebuit să fie dezbătute și să primească răspunsuri și soluții, securitatea și noile provocări ale mileniului (încălzirea globală, terorismul, corupția) au fost aproape eludate de sloganurile împotriva imperfecțiunilor proiectului european, cu accent pe libera circulație a oamenilor.",
+    "sentence": "Adevăratele interese ale societății britanice și europene, starea durabilă de pace, constanta dezvoltare economică a întregului continent, dar și adevăratele teme ce ar fi trebuit să fie dezbătute și să primească răspunsuri și soluții, securitatea și noile provocări ale mileniului (încălzirea globală, terorismul, corupția) au fost aproape eludate de sloganurile împotriva imperfecțiunilor proiectului european, cu accent pe libera circulație a oamenilor.",
+    "mwe": "libera circulație",
+    "mwe_lemmas": [
+      "liber",
+      "circulație"
+    ],
+    "paraphrase": "Adevăratele interese ale societății britanice și europene, starea durabilă de pace, constanta dezvoltare economică a întregului continent, dar și adevăratele teme ce ar fi trebuit să fie dezbătute și să primească răspunsuri și soluții, securitatea și noile provocări ale mileniului (încălzirea globală, terorismul, corupția) au fost aproape eludate de sloganurile împotriva imperfecțiunilor proiectului european, cu accent pe dreptul de a călători nestingherit al oamenilor.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2700350729092230470",
+    "language": "RO",
+    "raw_text": "Determinarea practicilor educaționale privind introducerea cursurilor de limbă maternă în Șerbia de Nord-Est (Timoc) are mai multe etape și mai mulți actori implicați.",
+    "sentence": "Determinarea practicilor educaționale privind introducerea cursurilor de limbă maternă în Șerbia de Nord-Est (Timoc) are mai multe etape și mai mulți actori implicați.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Determinarea practicilor educaționale privind introducerea cursurilor de limbă maternă în Șerbia de Nord-Est (Timoc) are mai multe etape și mai mulți actori implicați.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-1354058920102213861",
+    "language": "RO",
+    "raw_text": "- Certificatul de naștere;",
+    "sentence": "- Certificatul de naștere;",
+    "mwe": "Certificatul de naștere",
+    "mwe_lemmas": [
+      "certificat",
+      "de",
+      "naștere"
+    ],
+    "paraphrase": "Actul doveditor al venirii pe lume;",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2971236204503325047",
+    "language": "RO",
+    "raw_text": "În aceste condiții, la sfârșitul anului 2012, autoritățile germane arătau că 1,4 milioane de germani dețineau 5,5 milioane de arme de foc.",
+    "sentence": "În aceste condiții, la sfârșitul anului 2012, autoritățile germane arătau că 1,4 milioane de germani dețineau 5,5 milioane de arme de foc.",
+    "mwe": "arme de foc",
+    "mwe_lemmas": [
+      "armă",
+      "de",
+      "foc"
+    ],
+    "paraphrase": "În aceste condiții, la sfârșitul anului 2012, autoritățile germane arătau că 1,4 milioane de germani posedau 5,5 milioane de pistoale sau puști.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2732894983764264772",
+    "language": "RO",
+    "raw_text": "Pentru mine acest festival de anvergură internațională a fost deosebit de important.",
+    "sentence": "Pentru mine acest festival de anvergură internațională a fost deosebit de important.",
+    "mwe": "de anvergură internațională",
+    "mwe_lemmas": [
+      "de",
+      "anvergură",
+      "internațional"
+    ],
+    "paraphrase": "Pentru mine acest festival cu renume mondial a fost deosebit de important.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2957231780865967496",
+    "language": "RO",
+    "raw_text": "-Nu sunt de această părere.",
+    "sentence": "-Nu sunt de această părere.",
+    "mwe": "de această părere",
+    "mwe_lemmas": [
+      "de",
+      "acest",
+      "părere"
+    ],
+    "paraphrase": "Eu nu gândesc la fel.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1609398393023073397",
+    "language": "RO",
+    "raw_text": "În martie 2015, comisarul european pentru Extindere Johannes Hahn notifica Tirana asupra faptului că începerea negocierilor de aderare nu poate debuta fără îndeplinirea a două condiții: redeschiderea dialogului politic cu opoziția și reforme vizibile în cinci domenii cu probleme - administrație publică, domnia legii, corupție, crimă organizată și drepturi fundamentale.",
+    "sentence": "În martie 2015, comisarul european pentru Extindere Johannes Hahn notifica Tirana asupra faptului că începerea negocierilor de aderare nu poate debuta fără îndeplinirea a două condiții: redeschiderea dialogului politic cu opoziția și reforme vizibile în cinci domenii cu probleme - administrație publică, domnia legii, corupție, crimă organizată și drepturi fundamentale.",
+    "mwe": "domnia legii",
+    "mwe_lemmas": [
+      "domnie",
+      "lege"
+    ],
+    "paraphrase": "În martie 2015, comisarul european pentru Extindere Johannes Hahn notifica Tirana asupra faptului că începerea negocierilor de aderare nu poate debuta fără îndeplinirea a două condiții: redeschiderea dialogului politic cu opoziția și reforme vizibile în cinci domenii cu probleme - administrație publică, respectarea normelor juridice, corupție, crimă organizată și drepturi fundamentale.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-671461014828785557",
+    "language": "RO",
+    "raw_text": "Un înalt oficial al Casei Albe a declarat miercuri că Washingtonul ia în calcul varianta dislocării de forțe terestre în Irak pentru a-i ajuta pe irakieni în misiunea de salvare a refugiaților yazidi.",
+    "sentence": "Un înalt oficial al Casei Albe a declarat miercuri că Washingtonul ia în calcul varianta dislocării de forțe terestre în Irak pentru a-i ajuta pe irakieni în misiunea de salvare a refugiaților yazidi.",
+    "mwe": "ia în calcul",
+    "mwe_lemmas": [
+      "lua",
+      "în",
+      "calcul"
+    ],
+    "paraphrase": "Un înalt oficial al Casei Albe a declarat miercuri că Washingtonul analizează posibilitatea dislocării de forțe terestre în Irak pentru a-i ajuta pe irakieni în misiunea de salvare a refugiaților yazidi.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7502776293281650010",
+    "language": "RO",
+    "raw_text": "Cei trei furnizori de comunicații electronice sancționați vor trebui să achite contravaloarea amenzilor contravenționale către bugetul de stat și să își îndeplinească obligațiile de acoperire prevăzute în licențele de utilizare a spectrului de frecvențe radio.",
+    "sentence": "Cei trei furnizori de comunicații electronice sancționați vor trebui să achite contravaloarea amenzilor contravenționale către bugetul de stat și să își îndeplinească obligațiile de acoperire prevăzute în licențele de utilizare a spectrului de frecvențe radio.",
+    "mwe": "bugetul de stat",
+    "mwe_lemmas": [
+      "buget",
+      "de",
+      "stat"
+    ],
+    "paraphrase": "Cei trei furnizori de comunicații electronice sancționați vor trebui să achite contravaloarea amenzilor contravenționale către vistieria publică și să își îndeplinească obligațiile de acoperire prevăzute în licențele de utilizare a spectrului de frecvențe radio.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6444501940105180685",
+    "language": "RO",
+    "raw_text": "Din datele Departamentului Învățământ și Știință al Administrației Regionale de Stat din Ucraina reiese că în anul de învățământ 2014-2015, în regiunea Cernăuți erau 66 de școli cu Limba română de predare, și 17 școli mixte.",
+    "sentence": "Din datele Departamentului Învățământ și Știință al Administrației Regionale de Stat din Ucraina reiese că în anul de învățământ 2014-2015, în regiunea Cernăuți erau 66 de școli cu Limba română de predare, și 17 școli mixte.",
+    "mwe": "Administrației Regionale de Stat",
+    "mwe_lemmas": [
+      "administrație",
+      "regional",
+      "de",
+      "stat"
+    ],
+    "paraphrase": "Conform informațiilor furnizate de autoritatea teritorială guvernamentală ucraineană, în anul școlar 2014-2015, în regiunea Cernăuți existau 66 de școli cu predare în limba română și 17 școli mixte.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3102497926838327872",
+    "language": "RO",
+    "raw_text": "Un secol de istorie a marilor familii, a destinelor europene, iar pentru Europa de Est, o memorie regăsită.",
+    "sentence": "Un secol de istorie a marilor familii, a destinelor europene, iar pentru Europa de Est, o memorie regăsită.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Un secol de istorie a marilor familii, a destinelor europene, iar pentru Europa de Est, o memorie regăsită.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "6813064357917978709",
+    "language": "RO",
+    "raw_text": "Omul de afaceri a fost contactat joi dimineață de jurnalistului Cătălin Tolontan, care a redat scurtă conversație pe blogul său.",
+    "sentence": "Omul de afaceri a fost contactat joi dimineață de jurnalistului Cătălin Tolontan, care a redat scurtă conversație pe blogul său.",
+    "mwe": "omul de afaceri",
+    "mwe_lemmas": [
+      "om",
+      "de",
+      "afacere"
+    ],
+    "paraphrase": "Antreprenorul a fost contactat joi dimineață de jurnalistul Cătălin Tolontan, care a redat scurta conversație pe blogul său.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8156383771760006517",
+    "language": "RO",
+    "raw_text": "- Plase contra țânțarilor sau aer condiționat în camera unde dorm.",
+    "sentence": "- Plase contra țânțarilor sau aer condiționat în camera unde dorm.",
+    "mwe": "aer condiționat",
+    "mwe_lemmas": [
+      "aer",
+      "condiționat"
+    ],
+    "paraphrase": "Plase contra țânțarilor sau climatizare în camera unde dorm.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5887055918888348690",
+    "language": "RO",
+    "raw_text": "D-ăia pe care trebuie să-i încătușezi și care nu pun mâinile la spate ca în filme.",
+    "sentence": "D-ăia pe care trebuie să-i încătușezi și care nu pun mâinile la spate ca în filme.",
+    "mwe": "pun mâinile la spate",
+    "mwe_lemmas": [
+      "pune",
+      "mână",
+      "la",
+      "spate"
+    ],
+    "paraphrase": "Aceia pe care trebuie să-i încătușezi și care nu își poziționează brațele în zona posterioară a corpului ca în filme.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7515333593040226208",
+    "language": "RO",
+    "raw_text": "Membrii fondatori ai asociației șunt Cristian Lascu, geolog, speolog și fost redactor șef al revistei Național Geographic, Helmut Ignat, fotograf de natură și manager al Companiei Konica Minolta, Florin Stoican, Președintele Asociației Kogayon și Dan Bărbulescu, specialist în politici de protecția mediului.",
+    "sentence": "Membrii fondatori ai asociației șunt Cristian Lascu, geolog, speolog și fost redactor șef al revistei Național Geographic, Helmut Ignat, fotograf de natură și manager al Companiei Konica Minolta, Florin Stoican, Președintele Asociației Kogayon și Dan Bărbulescu, specialist în politici de protecția mediului.",
+    "mwe": "redactor șef",
+    "mwe_lemmas": [
+      "redactor",
+      "șef"
+    ],
+    "paraphrase": "Membrii fondatori ai asociației sunt Cristian Lascu, geolog, speolog și fost coordonator al publicației Național Geographic, Helmut Ignat, fotograf de natură și manager al Companiei Konica Minolta, Florin Stoican, Președintele Asociației Kogayon și Dan Bărbulescu, specialist în politici de protecția mediului.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3215511460562640560",
+    "language": "RO",
+    "raw_text": "Și, ca întotdeauna, este exploatată de radicali, care, însoțiți de corul unor mari părți din mass-media, asmut cetățenii împotriva străinilor.",
+    "sentence": "Și, ca întotdeauna, este exploatată de radicali, care, însoțiți de corul unor mari părți din mass-media, asmut cetățenii împotriva străinilor.",
+    "mwe": "ca întotdeauna",
+    "mwe_lemmas": [
+      "ca",
+      "întotdeauna"
+    ],
+    "paraphrase": "Și, precum de obicei, este exploatată de radicali, care, însoțiți de corul unor mari părți din mass-media, asmut cetățenii împotriva străinilor.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1199196674159601920",
+    "language": "RO",
+    "raw_text": "\"S-au spus și lucruri neadevărate și am cerut Partidului Mișcarea Populară să sancționeze sau să limiteze o astfel de exprimare.",
+    "sentence": "\"S-au spus și lucruri neadevărate și am cerut Partidului Mișcarea Populară să sancționeze sau să limiteze o astfel de exprimare.",
+    "mwe": "Partidului Mișcarea Populară",
+    "mwe_lemmas": [
+      "partid",
+      "mișcare",
+      "popular"
+    ],
+    "paraphrase": "S-au spus și lucruri neadevărate și am cerut formațiunii politice de centru-dreapta să sancționeze sau să limiteze o astfel de exprimare.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4461727799446249553",
+    "language": "RO",
+    "raw_text": "Și-a văzut visul cu ochii\", a afirmat Vasile Blaga, după întâlnirea conducerii Alianței Creștin Liberale cu electoratul bucureștean, citat de Agerpres.",
+    "sentence": "Și-a văzut visul cu ochii\", a afirmat Vasile Blaga, după întâlnirea conducerii Alianței Creștin Liberale cu electoratul bucureștean, citat de Agerpres.",
+    "mwe": "și-a văzut visul cu ochii",
+    "mwe_lemmas": [
+      "vedea",
+      "vis",
+      "cu",
+      "ochi"
+    ],
+    "paraphrase": "„Și-a îndeplinit dorința”, a afirmat Vasile Blaga, după întâlnirea conducerii Alianței Creștin Liberale cu electoratul bucureștean, citat de Agerpres.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3953504734862951377",
+    "language": "RO",
+    "raw_text": "După instaurarea democrației în România, László Tőkés a continuat cu tenacitate să-și construiască o imagine de efigie a Revoluției și a luat calea politicii, aparent pentru a servi valorile libertății în țara natală.",
+    "sentence": "După instaurarea democrației în România, László Tőkés a continuat cu tenacitate să-și construiască o imagine de efigie a Revoluției și a luat calea politicii, aparent pentru a servi valorile libertății în țara natală.",
+    "mwe": "a luat calea",
+    "mwe_lemmas": [
+      "lua",
+      "cale"
+    ],
+    "paraphrase": "După instaurarea democrației în România, László Tőkés a continuat cu tenacitate să-și construiască o imagine de efigie a Revoluției și s-a orientat către politică, aparent pentru a servi valorile libertății în țara natală.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6421792379958076915",
+    "language": "RO",
+    "raw_text": "Ne reamintim cu recunoștință că la data de 9 Mai sărbătorim Ziua Independenței de stat a României.",
+    "sentence": "Ne reamintim cu recunoștință că la data de 9 Mai sărbătorim Ziua Independenței de stat a României.",
+    "mwe": "Ziua Independenței",
+    "mwe_lemmas": [
+      "zi",
+      "independență"
+    ],
+    "paraphrase": "Ne reamintim cu recunoștință că la data de 9 Mai aniversăm suveranitatea statală a României.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5391282785263438412",
+    "language": "RO",
+    "raw_text": "„Iarăși vin micii omuleți verzi!”.",
+    "sentence": "„Iarăși vin micii omuleți verzi!”.",
+    "mwe": "omuleți verzi",
+    "mwe_lemmas": [
+      "omuleț",
+      "verde"
+    ],
+    "paraphrase": "„Iarăși vin extratereștrii!”.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3039888350492504705",
+    "language": "RO",
+    "raw_text": "Principalii vizați de schimbarea sistemului de taxare sunt lucrătorii sezonieri din agricultură sau din alimentația publică.",
+    "sentence": "Principalii vizați de schimbarea sistemului de taxare sunt lucrătorii sezonieri din agricultură sau din alimentația publică.",
+    "mwe": "alimentația publică",
+    "mwe_lemmas": [
+      "alimentație",
+      "public"
+    ],
+    "paraphrase": "Principalii vizați de schimbarea sistemului de taxare sunt lucrătorii sezonieri din agricultură sau din sectorul restaurantelor.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2851166081689143764",
+    "language": "RO",
+    "raw_text": "Pentru intervalul 14 august, ora 19:00 - 15 august, ora 09:00, meteorologii au emis avertizare cod galben de instabilitate atmosferică.",
+    "sentence": "Pentru intervalul 14 august, ora 19:00 - 15 august, ora 09:00, meteorologii au emis avertizare cod galben de instabilitate atmosferică.",
+    "mwe": "cod galben",
+    "mwe_lemmas": [
+      "cod",
+      "galben"
+    ],
+    "paraphrase": "Pentru intervalul 14 august, ora 19:00 - 15 august, ora 09:00, meteorologii au emis o avertizare de nivel scăzut privind instabilitatea atmosferică.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  }
+]
