@@ -1,0 +1,2279 @@
+[
+  {
+    "id": "-7113371240003261962",
+    "language": "PT",
+    "raw_text": "Não somos tão hábeis quanto imaginamos em detectar o que é ou não é conversa fiada.",
+    "sentence": "Não somos tão hábeis quanto imaginamos em detectar o que é ou não é conversa fiada.",
+    "mwe": "conversa fiada",
+    "mwe_lemmas": [
+      "conversa",
+      "fiado"
+    ],
+    "paraphrase": "Não somos tão hábeis quanto imaginamos em detectar o que é ou não é uma mentira.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3607635555686221446",
+    "language": "PT",
+    "raw_text": "Sem aéreo, inclui café da manhã.",
+    "sentence": "Sem aéreo, inclui café da manhã.",
+    "mwe": "café da manhã",
+    "mwe_lemmas": [
+      "café",
+      "de",
+      "manhã"
+    ],
+    "paraphrase": "Sem aéreo, a primeira refeição do dia está inclusa.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-269461374466188121",
+    "language": "PT",
+    "raw_text": "Tentativa bem cara de pau de criar uma espécie de Vingadores russos, o filme é ruim.",
+    "sentence": "Tentativa bem cara de pau de criar uma espécie de Vingadores russos, o filme é ruim.",
+    "mwe": "cara de pau",
+    "mwe_lemmas": [
+      "cara",
+      "de",
+      "pau"
+    ],
+    "paraphrase": "Tentativa bastante descarada de criar uma espécie de Vingadores russos, o filme é ruim.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8766975357021308252",
+    "language": "PT",
+    "raw_text": "Não fosse assim, qual seria a razão de ser do habeas corpus e das cortes encarregadas de julgá-lo?",
+    "sentence": "Não fosse assim, qual seria a razão de ser do habeas corpus e das cortes encarregadas de julgá-lo?",
+    "mwe": "razão de ser",
+    "mwe_lemmas": [
+      "razão",
+      "de",
+      "ser"
+    ],
+    "paraphrase": "Não fosse assim, qual seria o propósito do habeas corpus e das cortes encarregadas de julgá-lo?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "779985411411216375",
+    "language": "PT",
+    "raw_text": "O total de alunos da rede pública passou de 1,95 milhão para 1,99 milhão.",
+    "sentence": "O total de alunos da rede pública passou de 1,95 milhão para 1,99 milhão.",
+    "mwe": "rede pública",
+    "mwe_lemmas": [
+      "rede",
+      "público"
+    ],
+    "paraphrase": "O total de alunos das escolas estatais passou de 1,95 milhão para 1,99 milhão.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1432794220125395429",
+    "language": "PT",
+    "raw_text": "O centrinho de Granada guarda os ares de uma cidade de interior -o lugar tem 120 mil habitantes.",
+    "sentence": "O centrinho de Granada guarda os ares de uma cidade de interior -o lugar tem 120 mil habitantes.",
+    "mwe": "cidade de interior",
+    "mwe_lemmas": [
+      "cidade",
+      "de",
+      "interior"
+    ],
+    "paraphrase": "O centrinho de Granada preserva a atmosfera de um município rural - o lugar tem 120 mil habitantes.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7559085897837212521",
+    "language": "PT",
+    "raw_text": "Mesmo assim, apontam Oswald e Blanchflower, parece, sim, ocorrer uma redução nítida na felicidade das pessoas quando alcançam a meia-idade.",
+    "sentence": "Mesmo assim, apontam Oswald e Blanchflower, parece, sim, ocorrer uma redução nítida na felicidade das pessoas quando alcançam a meia-idade.",
+    "mwe": "meia-idade",
+    "mwe_lemmas": [
+      "meia-idade"
+    ],
+    "paraphrase": "Mesmo assim, apontam Oswald e Blanchflower, parece, sim, ocorrer uma redução nítida na felicidade das pessoas quando alcançam a fase dos quarenta aos cinquenta anos.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5547990673528013030",
+    "language": "PT",
+    "raw_text": "Mas há um sistema que ainda passa ao largo das discussões em Brasília (por que será?).",
+    "sentence": "Mas há um sistema que ainda passa ao largo das discussões em Brasília (por que será?).",
+    "mwe": "passa ao largo",
+    "mwe_lemmas": [
+      "passar",
+      "a",
+      "largo"
+    ],
+    "paraphrase": "Mas há um sistema que ainda ignora as discussões em Brasília (por que será?).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-431920108912369572",
+    "language": "PT",
+    "raw_text": "O presidente ficou sabendo da decisão de Fachin em parada técnica no Cazaquistão, ainda na noite de quarta-feira (30) no Brasil, quando o sinal de internet da aeronave foi restabelecido.",
+    "sentence": "O presidente ficou sabendo da decisão de Fachin em parada técnica no Cazaquistão, ainda na noite de quarta-feira (30) no Brasil, quando o sinal de internet da aeronave foi restabelecido.",
+    "mwe": "ficou sabendo",
+    "mwe_lemmas": [
+      "ficar",
+      "saber"
+    ],
+    "paraphrase": "O presidente tomou conhecimento da decisão de Fachin em parada técnica no Cazaquistão, ainda na noite de quarta-feira (30) no Brasil, quando o sinal de internet da aeronave foi restabelecido.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3866947568605811345",
+    "language": "PT",
+    "raw_text": "Sem aéreo, inclui café da manhã e traslados.",
+    "sentence": "Sem aéreo, inclui café da manhã e traslados.",
+    "mwe": "café da manhã",
+    "mwe_lemmas": [
+      "café",
+      "de",
+      "manhã"
+    ],
+    "paraphrase": "Sem aéreo, inclui a primeira refeição do dia e traslados.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "765964050928945301",
+    "language": "PT",
+    "raw_text": "O Planalto quer editar medidas provisórias com essas propostas, mas Maia apresentou resistência ao uso desses instrumento.",
+    "sentence": "O Planalto quer editar medidas provisórias com essas propostas, mas Maia apresentou resistência ao uso desses instrumento.",
+    "mwe": "medidas provisórias",
+    "mwe_lemmas": [
+      "medida",
+      "provisório"
+    ],
+    "paraphrase": "O Planalto quer publicar decretos temporários com essas propostas, mas Maia apresentou resistência ao uso desses instrumentos.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3169046956840731154",
+    "language": "PT",
+    "raw_text": "A Unicamp apresentou nesta quinta-feira (31) uma proposta de mudança no vestibular que abre mais quatro formas de acesso à universidade.",
+    "sentence": "A Unicamp apresentou nesta quinta-feira (31) uma proposta de mudança no vestibular que abre mais quatro formas de acesso à universidade.",
+    "mwe": "abre mais",
+    "mwe_lemmas": [
+      "abrir",
+      "mais"
+    ],
+    "paraphrase": "A Unicamp apresentou nesta quinta-feira (31) uma proposta de mudança no vestibular que disponibiliza quatro novas formas de acesso à universidade.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2274283281399205661",
+    "language": "PT",
+    "raw_text": "Além disso, os dois itens estavam correlacionados com os mesmos fatores psicológicos.",
+    "sentence": "Além disso, os dois itens estavam correlacionados com os mesmos fatores psicológicos.",
+    "mwe": "Além disso",
+    "mwe_lemmas": [
+      "além",
+      "disso"
+    ],
+    "paraphrase": "Adicionalmente, os dois itens estavam correlacionados com os mesmos fatores psicológicos.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7125305753036044217",
+    "language": "PT",
+    "raw_text": "Juliana seguiu outro caminho.",
+    "sentence": "Juliana seguiu outro caminho.",
+    "mwe": "seguiu outro caminho",
+    "mwe_lemmas": [
+      "seguir",
+      "outro",
+      "caminho"
+    ],
+    "paraphrase": "Juliana tomou uma direção diferente.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7865970484384073280",
+    "language": "PT",
+    "raw_text": "Para isso, a butique de M&A fez a lição de casa: passou a ser auditada pela Grant Thornton no ano passado e organizou a sociedade.",
+    "sentence": "Para isso, a butique de M&A fez a lição de casa: passou a ser auditada pela Grant Thornton no ano passado e organizou a sociedade.",
+    "mwe": "lição de casa",
+    "mwe_lemmas": [
+      "lição",
+      "de",
+      "casa"
+    ],
+    "paraphrase": "Para isso, a butique de M&A preparou-se adequadamente: passou a ser auditada pela Grant Thornton no ano passado e organizou a sociedade.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2410566242227642261",
+    "language": "PT",
+    "raw_text": "Nesta quarta-feira (30), o governo editou uma medida provisória que prorroga o prazo de adesão ao Refis de 31 de agosto para 29 de setembro.",
+    "sentence": "Nesta quarta-feira (30), o governo editou uma medida provisória que prorroga o prazo de adesão ao Refis de 31 de agosto para 29 de setembro.",
+    "mwe": "medida provisória",
+    "mwe_lemmas": [
+      "medida",
+      "provisório"
+    ],
+    "paraphrase": "Nesta quarta-feira (30), o governo publicou um decreto de caráter temporário que prorroga o prazo de adesão ao Refis de 31 de agosto para 29 de setembro.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-216132429051389180",
+    "language": "PT",
+    "raw_text": "Nesta quinta-feira (31), o presidente se reunirá com o presidente da China, Xi Jinping, para discutir a relação bilateral entre os dois países.",
+    "sentence": "Nesta quinta-feira (31), o presidente se reunirá com o presidente da China, Xi Jinping, para discutir a relação bilateral entre os dois países.",
+    "mwe": "quinta-feira",
+    "mwe_lemmas": [
+      "quinta-feira"
+    ],
+    "paraphrase": "Neste dia trinta e um, o presidente se reunirá com o presidente da China, Xi Jinping, para discutir a relação bilateral entre os dois países.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "646821670430598423",
+    "language": "PT",
+    "raw_text": "O único sobrevivente foi o segurança Trevor Rees-Jones, que ficou vários meses em coma.",
+    "sentence": "O único sobrevivente foi o segurança Trevor Rees-Jones, que ficou vários meses em coma.",
+    "mwe": "ficar em coma",
+    "mwe_lemmas": [
+      "ficar",
+      "em",
+      "coma"
+    ],
+    "paraphrase": "O único sobrevivente foi o segurança Trevor Rees-Jones, que permaneceu inconsciente por vários meses.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2553946218073907550",
+    "language": "PT",
+    "raw_text": "Livre do nervosismo da estreia, o presidente interino da Câmara passou a quarta-feira saboreando elogios dos colegas.",
+    "sentence": "Livre do nervosismo da estreia, o presidente interino da Câmara passou a quarta-feira saboreando elogios dos colegas.",
+    "mwe": "passou a",
+    "mwe_lemmas": [
+      "passar",
+      "a"
+    ],
+    "paraphrase": "Livre do nervosismo da estreia, o presidente interino da Câmara dedicou a quarta-feira a saborear elogios dos colegas.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7549421852946101130",
+    "language": "PT",
+    "raw_text": "Cabeças de gado caminhavam penosamente pelas ruas.",
+    "sentence": "Cabeças de gado caminhavam penosamente pelas ruas.",
+    "mwe": "cabeças de gado",
+    "mwe_lemmas": [
+      "cabeça",
+      "de",
+      "gado"
+    ],
+    "paraphrase": "Bovinos caminhavam penosamente pelas vias.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4227188673952143570",
+    "language": "PT",
+    "raw_text": "O atacante Luis Suárez treinou entre os titulares do Uruguai nesta quarta-feira (30) e deve participar da partida.",
+    "sentence": "O atacante Luis Suárez treinou entre os titulares do Uruguai nesta quarta-feira (30) e deve participar da partida.",
+    "mwe": "entre os titulares",
+    "mwe_lemmas": [
+      "entre",
+      "o",
+      "titular"
+    ],
+    "paraphrase": "O atacante Luis Suárez treinou no time principal do Uruguai nesta quarta-feira (30) e deve participar da partida.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8728828619256402661",
+    "language": "PT",
+    "raw_text": "Empregos no setor público cresceram no período e ajudaram na queda da taxa de desemprego.",
+    "sentence": "Empregos no setor público cresceram no período e ajudaram na queda da taxa de desemprego.",
+    "mwe": "setor público",
+    "mwe_lemmas": [
+      "setor",
+      "público"
+    ],
+    "paraphrase": "Empregos na administração estatal cresceram no período e ajudaram na queda da taxa de desemprego.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-21610090844590142",
+    "language": "PT",
+    "raw_text": "Segundo um dos presentes, ele achou graça de comentário feito pelo ministro do STF Gilmar Mendes de que o chefe do Ministério Público Federal é \"um sindicalista\" alçado ao atual cargo.",
+    "sentence": "Segundo um dos presentes, ele achou graça de comentário feito pelo ministro do STF Gilmar Mendes de que o chefe do Ministério Público Federal é \"um sindicalista\" alçado ao atual cargo.",
+    "mwe": "achou graça",
+    "mwe_lemmas": [
+      "achar",
+      "graça"
+    ],
+    "paraphrase": "Segundo um dos presentes, ele riu do comentário feito pelo ministro do STF Gilmar Mendes de que o chefe do Ministério Público Federal é \"um sindicalista\" alçado ao atual cargo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5777084836920042347",
+    "language": "PT",
+    "raw_text": "André Fufuca viveu seu dia de glória.",
+    "sentence": "André Fufuca viveu seu dia de glória.",
+    "mwe": "dia de glória",
+    "mwe_lemmas": [
+      "dia",
+      "de",
+      "glória"
+    ],
+    "paraphrase": "André Fufuca experimentou seu momento de triunfo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6707201023539599366",
+    "language": "PT",
+    "raw_text": "Eu não dou conta de tudo, desabafa Rosa, a jornalista vivida por Maria Ribeiro.",
+    "sentence": "Eu não dou conta de tudo, desabafa Rosa, a jornalista vivida por Maria Ribeiro.",
+    "mwe": "dou conta",
+    "mwe_lemmas": [
+      "dar",
+      "conta"
+    ],
+    "paraphrase": "Eu não consigo gerenciar tudo, desabafa Rosa, a jornalista vivida por Maria Ribeiro.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-515440880511888759",
+    "language": "PT",
+    "raw_text": "O presidente do Congresso, Eunício Oliveira (PMDB-CE), esperou mais de 50 minutos pela chegada dos deputados, mas decidiu encerrar os trabalhos.",
+    "sentence": "O presidente do Congresso, Eunício Oliveira (PMDB-CE), esperou mais de 50 minutos pela chegada dos deputados, mas decidiu encerrar os trabalhos.",
+    "mwe": "encerrar os trabalhos",
+    "mwe_lemmas": [
+      "encerrar",
+      "o",
+      "trabalho"
+    ],
+    "paraphrase": "O presidente do Congresso, Eunício Oliveira (PMDB-CE), esperou mais de 50 minutos pela chegada dos deputados, mas optou por finalizar a sessão.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5278258841709151473",
+    "language": "PT",
+    "raw_text": "O incidente aconteceu na manhã desta quinta-feira (31), antes do horário de chegada das crianças.",
+    "sentence": "O incidente aconteceu na manhã desta quinta-feira (31), antes do horário de chegada das crianças.",
+    "mwe": "horário de chegada",
+    "mwe_lemmas": [
+      "horário",
+      "de",
+      "chegada"
+    ],
+    "paraphrase": "O incidente aconteceu na manhã desta quinta-feira (31), antes do momento em que as crianças costumam entrar.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4411434060519604854",
+    "language": "PT",
+    "raw_text": "Mas o canteiro de obras, a 13 km da Faixa de Gaza, é, na verdade, uma área militar.",
+    "sentence": "Mas o canteiro de obras, a 13 km da Faixa de Gaza, é, na verdade, uma área militar.",
+    "mwe": "canteiro de obras",
+    "mwe_lemmas": [
+      "canteiro",
+      "de",
+      "obra"
+    ],
+    "paraphrase": "Mas o local da construção, a 13 km da Faixa de Gaza, é, na verdade, uma área militar.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5395040619168849378",
+    "language": "PT",
+    "raw_text": "Não deveríamos ser chamados para o debate somente quando o assunto é eutanásia, aborto ou células-tronco.",
+    "sentence": "Não deveríamos ser chamados para o debate somente quando o assunto é eutanásia, aborto ou células-tronco.",
+    "mwe": "células-tronco",
+    "mwe_lemmas": [
+      "célula",
+      "tronco"
+    ],
+    "paraphrase": "Não deveríamos ser chamados para o debate somente quando o assunto é eutanásia, aborto ou unidades biológicas precursoras.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2857455031986657008",
+    "language": "PT",
+    "raw_text": "Messi e Suárez devem entrar em campo com camisas para promover a candidatura conjunta de Argentina e Uruguai para o Mundial de 2030.",
+    "sentence": "Messi e Suárez devem entrar em campo com camisas para promover a candidatura conjunta de Argentina e Uruguai para o Mundial de 2030.",
+    "mwe": "entrar em campo",
+    "mwe_lemmas": [
+      "entrar",
+      "em",
+      "campo"
+    ],
+    "paraphrase": "Messi e Suárez devem iniciar a partida vestindo camisas para promover a candidatura conjunta de Argentina e Uruguai para o Mundial de 2030.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7257486418279223040",
+    "language": "PT",
+    "raw_text": "A votação foi adiada mais uma vez -e semana que vem tem feriadão.",
+    "sentence": "A votação foi adiada mais uma vez -e semana que vem tem feriadão.",
+    "mwe": "mais uma vez",
+    "mwe_lemmas": [
+      "mais",
+      "um",
+      "vez"
+    ],
+    "paraphrase": "A votação foi postergada novamente, e na semana que vem teremos um feriado prolongado.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1774039396989846429",
+    "language": "PT",
+    "raw_text": "Inclui café da manhã, passeios (Valle Nevado e vinícola Concha y Toro).",
+    "sentence": "Inclui café da manhã, passeios (Valle Nevado e vinícola Concha y Toro).",
+    "mwe": "café da manhã",
+    "mwe_lemmas": [
+      "café",
+      "de",
+      "manhã"
+    ],
+    "paraphrase": "Inclui a primeira refeição do dia, passeios (Valle Nevado e vinícola Concha y Toro).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4591240767158219318",
+    "language": "PT",
+    "raw_text": "Diego Souza, que não foi chamado para a partida desta quinta, corre por fora.",
+    "sentence": "Diego Souza, que não foi chamado para a partida desta quinta, corre por fora.",
+    "mwe": "corre por fora",
+    "mwe_lemmas": [
+      "correr",
+      "por",
+      "fora"
+    ],
+    "paraphrase": "Diego Souza, que não foi convocado para a partida desta quinta, possui chances remotas.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4453440097800737793",
+    "language": "PT",
+    "raw_text": "Maior roda gigante da Europa, com 135 metros de altura, é um dos grandes símbolos de Londres e permite ver quase toda a cidade.",
+    "sentence": "Maior roda gigante da Europa, com 135 metros de altura, é um dos grandes símbolos de Londres e permite ver quase toda a cidade.",
+    "mwe": "roda gigante",
+    "mwe_lemmas": [
+      "roda",
+      "gigante"
+    ],
+    "paraphrase": "A maior atração giratória de observação da Europa, com 135 metros de altura, é um dos grandes símbolos de Londres e permite ver quase toda a cidade.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3629110722658154778",
+    "language": "PT",
+    "raw_text": "E como tinha a cabeça fraca acabou concordando até em prejudicar um amigo por ela.",
+    "sentence": "E como tinha a cabeça fraca acabou concordando até em prejudicar um amigo por ela.",
+    "mwe": "cabeça fraca",
+    "mwe_lemmas": [
+      "cabeça",
+      "fraco"
+    ],
+    "paraphrase": "E como era facilmente influenciável, acabou concordando até em prejudicar um amigo por ela.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7245035392134492095",
+    "language": "PT",
+    "raw_text": "A crise do emprego também é sentida quando se leva em conta somente os postos com carteira assinada.",
+    "sentence": "A crise do emprego também é sentida quando se leva em conta somente os postos com carteira assinada.",
+    "mwe": "carteira assinada",
+    "mwe_lemmas": [
+      "carteira",
+      "assinado"
+    ],
+    "paraphrase": "A crise do emprego também é sentida quando se considera apenas os postos de trabalho com registro formal.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8360326185785424317",
+    "language": "PT",
+    "raw_text": "A oficina durou uma hora e meia, mas depois ficamos lá fazendo som, tocando.",
+    "sentence": "A oficina durou uma hora e meia, mas depois ficamos lá fazendo som, tocando.",
+    "mwe": "uma hora e meia",
+    "mwe_lemmas": [
+      "um",
+      "hora",
+      "e",
+      "meio"
+    ],
+    "paraphrase": "A oficina durou noventa minutos, mas depois ficamos lá fazendo som, tocando.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "432854827334235689",
+    "language": "PT",
+    "raw_text": "O magistrado classificou o ato como atentado ao pudor -cuja pena é o pagamento de multa - e afirmou em seu despacho que \"não houve constrangimento, tampouco violência ou grave ameaça\".",
+    "sentence": "O magistrado classificou o ato como atentado ao pudor -cuja pena é o pagamento de multa - e afirmou em seu despacho que \"não houve constrangimento, tampouco violência ou grave ameaça\".",
+    "mwe": "atentado ao pudor",
+    "mwe_lemmas": [
+      "atentado",
+      "a",
+      "pudor"
+    ],
+    "paraphrase": "O magistrado classificou o ato como uma conduta obscena - cuja pena é o pagamento de multa - e afirmou em seu despacho que \"não houve constrangimento, tampouco violência ou grave ameaça\".",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "420391136363307057",
+    "language": "PT",
+    "raw_text": "Não quero ter que olhar o copo cheio.",
+    "sentence": "Não quero ter que olhar o copo cheio.",
+    "mwe": "olhar o copo cheio",
+    "mwe_lemmas": [
+      "olhar",
+      "o",
+      "copo",
+      "cheio"
+    ],
+    "paraphrase": "Não desejo precisar manter uma atitude otimista.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3931930817604023446",
+    "language": "PT",
+    "raw_text": "Três imigrantes brasileiros ilegais foram presos por lavagem de dinheiro nos Estados Unidos.",
+    "sentence": "Três imigrantes brasileiros ilegais foram presos por lavagem de dinheiro nos Estados Unidos.",
+    "mwe": "lavagem de dinheiro",
+    "mwe_lemmas": [
+      "lavagem",
+      "de",
+      "dinheiro"
+    ],
+    "paraphrase": "Três imigrantes brasileiros ilegais foram presos por ocultação de capitais ilícitos nos Estados Unidos.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1721226773049618223",
+    "language": "PT",
+    "raw_text": "Sem aéreo, inclui café da manhã e traslados de chegada e saída.",
+    "sentence": "Sem aéreo, inclui café da manhã e traslados de chegada e saída.",
+    "mwe": "café da manhã",
+    "mwe_lemmas": [
+      "café",
+      "de",
+      "manhã"
+    ],
+    "paraphrase": "Sem aéreo, inclui a primeira refeição do dia e traslados de chegada e saída.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4537007124954534441",
+    "language": "PT",
+    "raw_text": "Hoje os venezuelanos estão produzindo de tudo em casa: sabonetes, xampus, desodorante, pasta de dente e até produtos que estavam fora de moda há muito tempo.",
+    "sentence": "Hoje os venezuelanos estão produzindo de tudo em casa: sabonetes, xampus, desodorante, pasta de dente e até produtos que estavam fora de moda há muito tempo.",
+    "mwe": "fora de moda",
+    "mwe_lemmas": [
+      "fora",
+      "de",
+      "moda"
+    ],
+    "paraphrase": "Hoje os venezuelanos estão produzindo de tudo em casa: sabonetes, xampus, desodorante, pasta de dente e até produtos obsoletos há muito tempo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8699997332534867109",
+    "language": "PT",
+    "raw_text": "A inundação de ruas do Texas pela tempestade Harvey causou perturbações para as criaturas terrestres, tirando-as de seu habitat natural e levando-as a um mundo tomado pela água.",
+    "sentence": "A inundação de ruas do Texas pela tempestade Harvey causou perturbações para as criaturas terrestres, tirando-as de seu habitat natural e levando-as a um mundo tomado pela água.",
+    "mwe": "habitat natural",
+    "mwe_lemmas": [
+      "habitat",
+      "natural"
+    ],
+    "paraphrase": "A inundação de ruas do Texas pela tempestade Harvey causou perturbações para as criaturas terrestres, tirando-as de seu ambiente de origem e levando-as a um mundo tomado pela água.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6304356968565149992",
+    "language": "PT",
+    "raw_text": "Mais do que a imagem do político suspeito de corrupção, o que está em discussão é a qualidade e imparcialidade das decisões judiciais.",
+    "sentence": "Mais do que a imagem do político suspeito de corrupção, o que está em discussão é a qualidade e imparcialidade das decisões judiciais.",
+    "mwe": "mais do que",
+    "mwe_lemmas": [
+      "mais",
+      "de",
+      "que"
+    ],
+    "paraphrase": "Além da imagem do político suspeito de corrupção, o que está em discussão é a qualidade e imparcialidade das decisões judiciais.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6069087795847281065",
+    "language": "PT",
+    "raw_text": "O centro não é o ambiente onde cada um de nós abre mão de suas ideias e convicções.",
+    "sentence": "O centro não é o ambiente onde cada um de nós abre mão de suas ideias e convicções.",
+    "mwe": "abre mão",
+    "mwe_lemmas": [
+      "abrir",
+      "mão"
+    ],
+    "paraphrase": "O centro não é o ambiente onde cada um de nós renuncia às suas ideias e convicções.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3992293109335407014",
+    "language": "PT",
+    "raw_text": "O desemprego no país ficou em 12,8% no trimestre encerrado em julho, divulgou nesta quinta-feira (30) o IBGE.",
+    "sentence": "O desemprego no país ficou em 12,8% no trimestre encerrado em julho, divulgou nesta quinta-feira (30) o IBGE.",
+    "mwe": "ficou em",
+    "mwe_lemmas": [
+      "ficar",
+      "em"
+    ],
+    "paraphrase": "O desemprego no país atingiu 12,8% no trimestre encerrado em julho, divulgou nesta quinta-feira (30) o IBGE.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7933472936793087889",
+    "language": "PT",
+    "raw_text": "Da parte desse ministério, enquanto eu aqui estiver, sempre haverá boa vontade.",
+    "sentence": "Da parte desse ministério, enquanto eu aqui estiver, sempre haverá boa vontade.",
+    "mwe": "boa vontade",
+    "mwe_lemmas": [
+      "bom",
+      "vontade"
+    ],
+    "paraphrase": "Da parte desse ministério, enquanto eu aqui estiver, sempre haverá disposição favorável.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5595294571550978326",
+    "language": "PT",
+    "raw_text": "As duas agora têm tentado fazer pastas de dente em casa, seguindo uma receita que encontraram na internet, mas o resultado tem deixado a desejar.",
+    "sentence": "As duas agora têm tentado fazer pastas de dente em casa, seguindo uma receita que encontraram na internet, mas o resultado tem deixado a desejar.",
+    "mwe": "deixado a desejar",
+    "mwe_lemmas": [
+      "deixar",
+      "a",
+      "desejar"
+    ],
+    "paraphrase": "As duas agora têm tentado preparar pastas de dente em casa, seguindo uma receita que encontraram na internet, mas o resultado tem sido insatisfatório.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5591805915522514296",
+    "language": "PT",
+    "raw_text": "Manoel Almeida da Silva, 46, foi localizado na região central da cidade e não esboçou reação quando foi reconhecido e preso.",
+    "sentence": "Manoel Almeida da Silva, 46, foi localizado na região central da cidade e não esboçou reação quando foi reconhecido e preso.",
+    "mwe": "esboçou reação",
+    "mwe_lemmas": [
+      "esboçar",
+      "reação"
+    ],
+    "paraphrase": "Manoel Almeida da Silva, 46, foi localizado na região central da cidade e não demonstrou resistência quando foi reconhecido e preso.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8699838570498026753",
+    "language": "PT",
+    "raw_text": "Mas a maneira como bons atores lidam com essa previsibilidade pode fazer a diferença.",
+    "sentence": "Mas a maneira como bons atores lidam com essa previsibilidade pode fazer a diferença.",
+    "mwe": "fazer a diferença",
+    "mwe_lemmas": [
+      "fazer",
+      "a",
+      "diferença"
+    ],
+    "paraphrase": "Mas a maneira como bons atores lidam com essa previsibilidade pode ser determinante.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-9036653252917685111",
+    "language": "PT",
+    "raw_text": "Antes eu fazia tudo certinho, medindo a quantidade nas colheres de chá.",
+    "sentence": "Antes eu fazia tudo certinho, medindo a quantidade nas colheres de chá.",
+    "mwe": "colheres de chá",
+    "mwe_lemmas": [
+      "colher",
+      "de",
+      "chá"
+    ],
+    "paraphrase": "Antes eu fazia tudo certinho, medindo a quantidade em pequenas medidas culinárias.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2361833629400838651",
+    "language": "PT",
+    "raw_text": "Como qualquer comparação com a Argentina que sai da boca de um uruguaio na busca por afirmação em relação ao vizinho.",
+    "sentence": "Como qualquer comparação com a Argentina que sai da boca de um uruguaio na busca por afirmação em relação ao vizinho.",
+    "mwe": "sai da boca",
+    "mwe_lemmas": [
+      "sair",
+      "de",
+      "boca"
+    ],
+    "paraphrase": "Como qualquer comparação com a Argentina mencionada por um uruguaio na busca por afirmação em relação ao vizinho.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4616823937595307787",
+    "language": "PT",
+    "raw_text": "Na divulgação anterior, referente ao trimestre encerrado em junho, houve aumento do emprego informal enquanto havia queda na geração de vagas de trabalho com carteira assinada.",
+    "sentence": "Na divulgação anterior, referente ao trimestre encerrado em junho, houve aumento do emprego informal enquanto havia queda na geração de vagas de trabalho com carteira assinada.",
+    "mwe": "carteira assinada",
+    "mwe_lemmas": [
+      "carteira",
+      "assinado"
+    ],
+    "paraphrase": "Na divulgação anterior, referente ao trimestre encerrado em junho, houve aumento do emprego informal enquanto havia queda na geração de vagas de trabalho com registro formal.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8234965897668650892",
+    "language": "PT",
+    "raw_text": "Como de praxe, foi pedida ao ministro a sua manifestação.",
+    "sentence": "Como de praxe, foi pedida ao ministro a sua manifestação.",
+    "mwe": "Como de praxe",
+    "mwe_lemmas": [
+      "como",
+      "de",
+      "praxe"
+    ],
+    "paraphrase": "Habitualmente, foi solicitada ao ministro a sua manifestação.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3208418863407974712",
+    "language": "PT",
+    "raw_text": "Para o professor Joaquim Soares Neto, da UnB (Universidade de Brasília), a alta nas matrículas do ensino a distância é também reflexo da crise.",
+    "sentence": "Para o professor Joaquim Soares Neto, da UnB (Universidade de Brasília), a alta nas matrículas do ensino a distância é também reflexo da crise.",
+    "mwe": "ensino a distância",
+    "mwe_lemmas": [
+      "ensino",
+      "a",
+      "distância"
+    ],
+    "paraphrase": "Para o professor Joaquim Soares Neto, da UnB (Universidade de Brasília), a alta nas matrículas da educação remota é também reflexo da crise.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3101920046962687232",
+    "language": "PT",
+    "raw_text": "Há apenas um problema: psicólogos dizem que a crise da meia-idade não existe.",
+    "sentence": "Há apenas um problema: psicólogos dizem que a crise da meia-idade não existe.",
+    "mwe": "crise da meia-idade",
+    "mwe_lemmas": [
+      "crise",
+      "de",
+      "meia-idade"
+    ],
+    "paraphrase": "Há apenas um problema: psicólogos dizem que o transtorno emocional comum aos quarenta anos não existe.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1001044146645582482",
+    "language": "PT",
+    "raw_text": "O Judiciário, por esta linha de raciocínio, seria permeável à opinião pública, influenciada pelas acusações dos delatores.",
+    "sentence": "O Judiciário, por esta linha de raciocínio, seria permeável à opinião pública, influenciada pelas acusações dos delatores.",
+    "mwe": "linha de raciocínio",
+    "mwe_lemmas": [
+      "linha",
+      "de",
+      "raciocínio"
+    ],
+    "paraphrase": "O Judiciário, segundo este modo de pensar, seria permeável à opinião pública, influenciada pelas acusações dos delatores.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4229206666954723991",
+    "language": "PT",
+    "raw_text": "César Pinto, 39, trabalha com tecnologia há mais de dez anos, mas agora também quer entrar nesse mercado.",
+    "sentence": "César Pinto, 39, trabalha com tecnologia há mais de dez anos, mas agora também quer entrar nesse mercado.",
+    "mwe": "há mais de",
+    "mwe_lemmas": [
+      "haver",
+      "mais",
+      "de"
+    ],
+    "paraphrase": "César Pinto, 39, trabalha com tecnologia por um período superior a dez anos, mas agora também quer entrar nesse mercado.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3153776242792387115",
+    "language": "PT",
+    "raw_text": "Ele deixa o Brasil na sexta-feira (1º).",
+    "sentence": "Ele deixa o Brasil na sexta-feira (1º).",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Ele deixa o Brasil na sexta-feira (1º).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "4702208021610980245",
+    "language": "PT",
+    "raw_text": "A escritora americana Louise Hay morreu de causas naturais nesta quarta-feira (30), aos 90 anos.",
+    "sentence": "A escritora americana Louise Hay morreu de causas naturais nesta quarta-feira (30), aos 90 anos.",
+    "mwe": "causas naturais",
+    "mwe_lemmas": [
+      "causa",
+      "natural"
+    ],
+    "paraphrase": "A escritora americana Louise Hay faleceu devido ao envelhecimento nesta quarta-feira (30), aos 90 anos.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2894907435978788394",
+    "language": "PT",
+    "raw_text": "Existe, sem dúvida, uma fase de baixa na meia-idade, disse o economista Andrew Oswald, da Universidade de Warwick (Inglaterra), coautor do estudo.",
+    "sentence": "Existe, sem dúvida, uma fase de baixa na meia-idade, disse o economista Andrew Oswald, da Universidade de Warwick (Inglaterra), coautor do estudo.",
+    "mwe": "sem dúvida",
+    "mwe_lemmas": [
+      "sem",
+      "dúvida"
+    ],
+    "paraphrase": "Existe, certamente, uma fase de baixa na meia-idade, disse o economista Andrew Oswald, da Universidade de Warwick (Inglaterra), coautor do estudo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8241336225916661464",
+    "language": "PT",
+    "raw_text": "Depois de 43 anos de guerra, as Farc (Forças Armadas Revolucionárias da Colômbia) desembarcam nesta sexta-feira (1º), na Plaza de Bolívar, no centro de Bogotá.",
+    "sentence": "Depois de 43 anos de guerra, as Farc (Forças Armadas Revolucionárias da Colômbia) desembarcam nesta sexta-feira (1º), na Plaza de Bolívar, no centro de Bogotá.",
+    "mwe": "Forças Armadas Revolucionárias da Colômbia",
+    "mwe_lemmas": [
+      "força",
+      "armado",
+      "revolucionário",
+      "de",
+      "colômbia"
+    ],
+    "paraphrase": "Depois de 43 anos de guerra, as Farc (grupo guerrilheiro marxista) chegam nesta sexta-feira (1º), na Plaza de Bolívar, no centro de Bogotá.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7790536216530668985",
+    "language": "PT",
+    "raw_text": "Vi a mão dele e virei um bicho.",
+    "sentence": "Vi a mão dele e virei um bicho.",
+    "mwe": "virei um bicho",
+    "mwe_lemmas": [
+      "virar",
+      "um",
+      "bicho"
+    ],
+    "paraphrase": "Vi a mão dele e fiquei furioso.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8682147871266522564",
+    "language": "PT",
+    "raw_text": "As inúmeras flechadas disparadas pelo procurador-geral, Rodrigo Janot, estão fadadas a cair no vazio?",
+    "sentence": "As inúmeras flechadas disparadas pelo procurador-geral, Rodrigo Janot, estão fadadas a cair no vazio?",
+    "mwe": "cair no vazio",
+    "mwe_lemmas": [
+      "cair",
+      "em",
+      "vazio"
+    ],
+    "paraphrase": "As inúmeras flechadas disparadas pelo procurador-geral, Rodrigo Janot, estão destinadas a ser ignoradas?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5022422656666261913",
+    "language": "PT",
+    "raw_text": "O pessoal da pedalada fiscal e da contabilidade criativa não gosta muito desse papo.",
+    "sentence": "O pessoal da pedalada fiscal e da contabilidade criativa não gosta muito desse papo.",
+    "mwe": "pedalada fiscal",
+    "mwe_lemmas": [
+      "pedalada",
+      "fiscal"
+    ],
+    "paraphrase": "Os responsáveis pelas manobras orçamentárias e pela contabilidade criativa não gostam muito desse assunto.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5776170527181458063",
+    "language": "PT",
+    "raw_text": "Nossas descobertas são divertidas, mas o papo furado não é um assunto risível.",
+    "sentence": "Nossas descobertas são divertidas, mas o papo furado não é um assunto risível.",
+    "mwe": "papo furado",
+    "mwe_lemmas": [
+      "papo",
+      "furado"
+    ],
+    "paraphrase": "Nossas descobertas são divertidas, mas a conversa fiada não é um assunto risível.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "654777910577007313",
+    "language": "PT",
+    "raw_text": "Já a secretária-executiva do ministério, Maria Helena Castro, culpa as reduções feitas no Fies em 2015, durante o governo Dilma Rousseff.",
+    "sentence": "Já a secretária-executiva do ministério, Maria Helena Castro, culpa as reduções feitas no Fies em 2015, durante o governo Dilma Rousseff.",
+    "mwe": "secretária-executiva",
+    "mwe_lemmas": [
+      "secretário",
+      "executivo"
+    ],
+    "paraphrase": "Já a principal assessora administrativa do ministério, Maria Helena Castro, culpa as reduções feitas no Fies em 2015, durante o governo Dilma Rousseff.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1276618789389712122",
+    "language": "PT",
+    "raw_text": "Explosões foram registradas nesta quinta-feira (31) na fábrica química Arkema, em Crosby (48 quilômetros de Houston), no Texas.",
+    "sentence": "Explosões foram registradas nesta quinta-feira (31) na fábrica química Arkema, em Crosby (48 quilômetros de Houston), no Texas.",
+    "mwe": "quinta-feira",
+    "mwe_lemmas": [
+      "quinta-feira"
+    ],
+    "paraphrase": "Explosões foram registradas neste dia cinco da semana (31) na fábrica química Arkema, em Crosby (48 quilômetros de Houston), no Texas.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8659778183235238950",
+    "language": "PT",
+    "raw_text": "A medida era \"preventiva\".",
+    "sentence": "A medida era \"preventiva\".",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "A medida era \"preventiva\".",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "5451835389084156500",
+    "language": "PT",
+    "raw_text": "Tampouco seriam quebrados recordes de velocidade nos trâmites processuais contra Lula.",
+    "sentence": "Tampouco seriam quebrados recordes de velocidade nos trâmites processuais contra Lula.",
+    "mwe": "quebrados recordes",
+    "mwe_lemmas": [
+      "quebrar",
+      "recorde"
+    ],
+    "paraphrase": "Tampouco seriam superadas as marcas de velocidade nos trâmites processuais contra Lula.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1558851678635405170",
+    "language": "PT",
+    "raw_text": "Estava aguardando que ele voltasse de Cuba quando tivesse a anistia aos exilados políticos [cujo movimento já existia, mas só veio a virar lei em 1979].",
+    "sentence": "Estava aguardando que ele voltasse de Cuba quando tivesse a anistia aos exilados políticos [cujo movimento já existia, mas só veio a virar lei em 1979].",
+    "mwe": "virar lei",
+    "mwe_lemmas": [
+      "virar",
+      "lei"
+    ],
+    "paraphrase": "Estava aguardando que ele voltasse de Cuba quando tivesse a anistia aos exilados políticos [cujo movimento já existia, mas só foi oficializado em 1979].",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6689279562654922483",
+    "language": "PT",
+    "raw_text": "Só após a onda de protestos o ministro Sarney Filho (PV) foi chamado para ajudar a apagar o incêndio.",
+    "sentence": "Só após a onda de protestos o ministro Sarney Filho (PV) foi chamado para ajudar a apagar o incêndio.",
+    "mwe": "apagar o incêndio",
+    "mwe_lemmas": [
+      "apagar",
+      "o",
+      "incêndio"
+    ],
+    "paraphrase": "Só após a onda de protestos o ministro Sarney Filho (PV) foi convocado para resolver a crise.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7416425191522140505",
+    "language": "PT",
+    "raw_text": "Em São Paulo, onde era bancário, João Leonardo teve atuação de destaque na militância política de extrema-esquerda.",
+    "sentence": "Em São Paulo, onde era bancário, João Leonardo teve atuação de destaque na militância política de extrema-esquerda.",
+    "mwe": "extrema-esquerda",
+    "mwe_lemmas": [
+      "extrema-esquerda"
+    ],
+    "paraphrase": "Em São Paulo, onde era bancário, João Leonardo teve atuação de destaque na militância política radical de esquerda.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5351187620408473781",
+    "language": "PT",
+    "raw_text": "Se uma pessoa próxima a você morre e você começa a pensar em como a vida é limitada, isso é uma crise da meia-idade?",
+    "sentence": "Se uma pessoa próxima a você morre e você começa a pensar em como a vida é limitada, isso é uma crise da meia-idade?",
+    "mwe": "crise da meia-idade",
+    "mwe_lemmas": [
+      "crise",
+      "de",
+      "a",
+      "meia-idade"
+    ],
+    "paraphrase": "Se uma pessoa próxima a você morre e você começa a pensar em como a vida é limitada, isso é um conflito existencial comum aos quarenta anos?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4773629056663965641",
+    "language": "PT",
+    "raw_text": "A desculpa usada pelos deputados é que delimitar esses distritos é complicado e levaria tempo.",
+    "sentence": "A desculpa usada pelos deputados é que delimitar esses distritos é complicado e levaria tempo.",
+    "mwe": "levaria tempo",
+    "mwe_lemmas": [
+      "levar",
+      "tempo"
+    ],
+    "paraphrase": "A desculpa usada pelos deputados é que delimitar esses distritos é complicado e exigiria muita dedicação.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6215679139492297806",
+    "language": "PT",
+    "raw_text": "No período, 1,439 milhão pessoas conseguiram vagas no mercado de trabalho.",
+    "sentence": "No período, 1,439 milhão pessoas conseguiram vagas no mercado de trabalho.",
+    "mwe": "mercado de trabalho",
+    "mwe_lemmas": [
+      "mercado",
+      "de",
+      "trabalho"
+    ],
+    "paraphrase": "No período, 1,439 milhão de pessoas obtiveram ocupações profissionais.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5972677895021207827",
+    "language": "PT",
+    "raw_text": "A planilha faz parte dos documentos que corroboram a delação premiada, segundo investigadores.",
+    "sentence": "A planilha faz parte dos documentos que corroboram a delação premiada, segundo investigadores.",
+    "mwe": "delação premiada",
+    "mwe_lemmas": [
+      "delação",
+      "premiada"
+    ],
+    "paraphrase": "A planilha integra os documentos que corroboram o acordo de colaboração judicial, segundo investigadores.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7358628825221118256",
+    "language": "PT",
+    "raw_text": "A banda U2 anunciou nesta quarta-feira (30) que \"Songs of Experience\", seu novo álbum, está pronto para ser lançado após alguns ajustes.",
+    "sentence": "A banda U2 anunciou nesta quarta-feira (30) que \"Songs of Experience\", seu novo álbum, está pronto para ser lançado após alguns ajustes.",
+    "mwe": "pronto para",
+    "mwe_lemmas": [
+      "pronto",
+      "para"
+    ],
+    "paraphrase": "A banda U2 anunciou nesta quarta-feira (30) que \"Songs of Experience\", seu novo álbum, encontra-se preparado visando o lançamento após alguns ajustes.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5958819845744900704",
+    "language": "PT",
+    "raw_text": "Já classificada para a Copa do Mundo, a seleção brasileira lidera as eliminatórias sul-americanas com 33 pontos.",
+    "sentence": "Já classificada para a Copa do Mundo, a seleção brasileira lidera as eliminatórias sul-americanas com 33 pontos.",
+    "mwe": "Copa do Mundo",
+    "mwe_lemmas": [
+      "copa",
+      "do",
+      "mundo"
+    ],
+    "paraphrase": "Já classificada para o torneio mundial, a seleção brasileira lidera as eliminatórias sul-americanas com 33 pontos.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "128365433519023860",
+    "language": "PT",
+    "raw_text": "Cada um só volta a assumir suas posições de origem na próxima quarta-feira (6).",
+    "sentence": "Cada um só volta a assumir suas posições de origem na próxima quarta-feira (6).",
+    "mwe": "voltar a assumir",
+    "mwe_lemmas": [
+      "voltar",
+      "a",
+      "assumir"
+    ],
+    "paraphrase": "Cada um apenas retoma suas posições de origem na próxima quarta-feira (6).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-201374218163844709",
+    "language": "PT",
+    "raw_text": "Oficialmente, então, o governo deveria apresentar um Orçamento para 2018 com a previsão de um rombo de R$ 129 bilhões em suas contas -sem o espaço fiscal já anunciado pela equipe econômica.",
+    "sentence": "Oficialmente, então, o governo deveria apresentar um Orçamento para 2018 com a previsão de um rombo de R$ 129 bilhões em suas contas -sem o espaço fiscal já anunciado pela equipe econômica.",
+    "mwe": "equipe econômica",
+    "mwe_lemmas": [
+      "equipe",
+      "econômico"
+    ],
+    "paraphrase": "Oficialmente, então, o governo deveria apresentar um Orçamento para 2018 com a previsão de um rombo de R$ 129 bilhões em suas contas -sem o espaço fiscal já anunciado pelos especialistas em finanças.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1167347429125989864",
+    "language": "PT",
+    "raw_text": "Mike Hixenbaugh, repórter médico do \"Houston Chronicle\", gravou um vídeo mostrando uma dessas aglomerações de formigas enquanto trabalhava em uma reportagem sobre a inundação em Cypress Creek, segunda-feira.",
+    "sentence": "Mike Hixenbaugh, repórter médico do \"Houston Chronicle\", gravou um vídeo mostrando uma dessas aglomerações de formigas enquanto trabalhava em uma reportagem sobre a inundação em Cypress Creek, segunda-feira.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Mike Hixenbaugh, repórter médico do \"Houston Chronicle\", gravou um vídeo mostrando uma dessas aglomerações de formigas enquanto trabalhava em uma reportagem sobre a inundação em Cypress Creek, segunda-feira.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "8960288424187903193",
+    "language": "PT",
+    "raw_text": "Claro que a vitória da democracia, simbolizada pelo ato desta sexta, não é o fim do caminho.",
+    "sentence": "Claro que a vitória da democracia, simbolizada pelo ato desta sexta, não é o fim do caminho.",
+    "mwe": "fim do caminho",
+    "mwe_lemmas": [
+      "fim",
+      "de",
+      "caminho"
+    ],
+    "paraphrase": "Claro que a vitória da democracia, simbolizada pelo ato desta sexta, não representa a conclusão da jornada.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7429946459004441431",
+    "language": "PT",
+    "raw_text": "Integrantes da equipe econômica também queriam que o presidente em exercício avaliasse outras propostas de ajuste fiscal, como o adiamento do reajuste de servidores públicos e o aumento da contribuição previdenciária desses funcionários.",
+    "sentence": "Integrantes da equipe econômica também queriam que o presidente em exercício avaliasse outras propostas de ajuste fiscal, como o adiamento do reajuste de servidores públicos e o aumento da contribuição previdenciária desses funcionários.",
+    "mwe": "equipe econômica",
+    "mwe_lemmas": [
+      "equipe",
+      "econômico"
+    ],
+    "paraphrase": "Membros do grupo responsável pelas finanças do governo também queriam que o presidente em exercício avaliasse outras propostas de ajuste fiscal, como o adiamento do reajuste de servidores públicos e o aumento da contribuição previdenciária desses funcionários.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-15181035812094218",
+    "language": "PT",
+    "raw_text": "PSG está na mira da Uefa desde a compra de Neymar, por 222 milhões de euros.",
+    "sentence": "PSG está na mira da Uefa desde a compra de Neymar, por 222 milhões de euros.",
+    "mwe": "na mira",
+    "mwe_lemmas": [
+      "em",
+      "mira"
+    ],
+    "paraphrase": "O PSG está sob investigação da Uefa desde a compra de Neymar, por 222 milhões de euros.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3953290155740655491",
+    "language": "PT",
+    "raw_text": "Inclui aéreo, sem café da manhã.",
+    "sentence": "Inclui aéreo, sem café da manhã.",
+    "mwe": "café da manhã",
+    "mwe_lemmas": [
+      "café",
+      "de",
+      "manhã"
+    ],
+    "paraphrase": "Inclui passagem aérea, sem a primeira refeição do dia.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8908027543759885243",
+    "language": "PT",
+    "raw_text": "Segundo Hua Chunying, porta-voz do Ministério de Relações Exteriores chinês, a questão norte-coreana é séria e não deve ser tratada como um jogo de videogame.",
+    "sentence": "Segundo Hua Chunying, porta-voz do Ministério de Relações Exteriores chinês, a questão norte-coreana é séria e não deve ser tratada como um jogo de videogame.",
+    "mwe": "jogo de videogame",
+    "mwe_lemmas": [
+      "jogo",
+      "de",
+      "videogame"
+    ],
+    "paraphrase": "Segundo Hua Chunying, porta-voz do Ministério de Relações Exteriores chinês, a questão norte-coreana é séria e não deve ser tratada como uma brincadeira eletrônica.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6794696723949075922",
+    "language": "PT",
+    "raw_text": "Segundo vice-presidente da Câmara, Fufuca está no comando da Casa porque o presidente Rodrigo Maia (DEM-RJ) assumiu a Presidência da República.",
+    "sentence": "Segundo vice-presidente da Câmara, Fufuca está no comando da Casa porque o presidente Rodrigo Maia (DEM-RJ) assumiu a Presidência da República.",
+    "mwe": "Presidência da República",
+    "mwe_lemmas": [
+      "presidência",
+      "de",
+      "república"
+    ],
+    "paraphrase": "Segundo vice-presidente da Câmara, Fufuca está no comando da Casa porque o presidente Rodrigo Maia (DEM-RJ) assumiu o cargo máximo do país.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "868503763510022139",
+    "language": "PT",
+    "raw_text": "A expectativa é de que a licitação ocorra no primeiro semestre do ano que vem.",
+    "sentence": "A expectativa é de que a licitação ocorra no primeiro semestre do ano que vem.",
+    "mwe": "ano que vem",
+    "mwe_lemmas": [
+      "ano",
+      "que",
+      "vir"
+    ],
+    "paraphrase": "A expectativa é de que a licitação ocorra no próximo semestre do período seguinte.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1761004238621916158",
+    "language": "PT",
+    "raw_text": "Embora o texto-base tenha sido aprovado no início da madrugada, deputados e senadores não concluíram a votação dos cinco destaques (mudanças no texto) apresentados pela oposição.",
+    "sentence": "Embora o texto-base tenha sido aprovado no início da madrugada, deputados e senadores não concluíram a votação dos cinco destaques (mudanças no texto) apresentados pela oposição.",
+    "mwe": "texto-base",
+    "mwe_lemmas": [
+      "texto",
+      "base"
+    ],
+    "paraphrase": "Embora a proposta principal tenha sido aprovada no início da madrugada, deputados e senadores não concluíram a votação dos cinco destaques (mudanças no documento) apresentados pela oposição.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7765957428548898578",
+    "language": "PT",
+    "raw_text": "Inclui aéreo (com taxas e impostos) e café da manhã.",
+    "sentence": "Inclui aéreo (com taxas e impostos) e café da manhã.",
+    "mwe": "café da manhã",
+    "mwe_lemmas": [
+      "café",
+      "de",
+      "manhã"
+    ],
+    "paraphrase": "Inclui transporte aéreo (com taxas e impostos) e a primeira refeição do dia.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5742333667390413967",
+    "language": "PT",
+    "raw_text": "Mas várias pesquisas psicológicas mais recentes não constataram nenhuma ansiedade específica da meia-idade -ou até a desmentiram por completo.",
+    "sentence": "Mas várias pesquisas psicológicas mais recentes não constataram nenhuma ansiedade específica da meia-idade -ou até a desmentiram por completo.",
+    "mwe": "por completo",
+    "mwe_lemmas": [
+      "por",
+      "completo"
+    ],
+    "paraphrase": "Mas várias pesquisas psicológicas mais recentes não constataram nenhuma ansiedade específica da meia-idade - ou até a desmentiram totalmente.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6649978170109095653",
+    "language": "PT",
+    "raw_text": "No trimestre encerrado em julho de 2016, a taxa de desemprego era de 11,6%, percentual que é 1,2 ponto percentual menor que o verificado em período equivalente deste ano.",
+    "sentence": "No trimestre encerrado em julho de 2016, a taxa de desemprego era de 11,6%, percentual que é 1,2 ponto percentual menor que o verificado em período equivalente deste ano.",
+    "mwe": "ponto percentual",
+    "mwe_lemmas": [
+      "ponto",
+      "percentual"
+    ],
+    "paraphrase": "No trimestre encerrado em julho de 2016, a taxa de desemprego era de 11,6%, valor que é 1,2 unidade percentual menor que o verificado em período equivalente deste ano.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-397786832679134748",
+    "language": "PT",
+    "raw_text": "Ele vivia junto à companheira há 14 anos, desde que teve o primeiro filho.",
+    "sentence": "Ele vivia junto à companheira há 14 anos, desde que teve o primeiro filho.",
+    "mwe": "junto à",
+    "mwe_lemmas": [
+      "junto",
+      "a"
+    ],
+    "paraphrase": "Ele morava com a companheira há 14 anos, desde que teve o primeiro filho.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7710920111190176211",
+    "language": "PT",
+    "raw_text": "Derrubando barreiras, o presidente quer reduzir o persistente desemprego, hoje em 10%.",
+    "sentence": "Derrubando barreiras, o presidente quer reduzir o persistente desemprego, hoje em 10%.",
+    "mwe": "Derrubando barreiras",
+    "mwe_lemmas": [
+      "derrubar",
+      "barreira"
+    ],
+    "paraphrase": "Superando obstáculos, o presidente quer reduzir o persistente desemprego, hoje em 10%.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1263389845421573221",
+    "language": "PT",
+    "raw_text": "Quando o depoimento veio a público, a defesa do ex-ministro negou que ele tenha recebido dinheiro de Funaro.",
+    "sentence": "Quando o depoimento veio a público, a defesa do ex-ministro negou que ele tenha recebido dinheiro de Funaro.",
+    "mwe": "veio a público",
+    "mwe_lemmas": [
+      "vir",
+      "a",
+      "público"
+    ],
+    "paraphrase": "Quando o depoimento se tornou conhecido, a defesa do ex-ministro negou que ele tenha recebido dinheiro de Funaro.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-202130699870216975",
+    "language": "PT",
+    "raw_text": "Estudo atualizado será enviado ainda esta semana às caixas de entrada de todos os deputados federais.",
+    "sentence": "Estudo atualizado será enviado ainda esta semana às caixas de entrada de todos os deputados federais.",
+    "mwe": "caixas de entrada",
+    "mwe_lemmas": [
+      "caixa",
+      "de",
+      "entrada"
+    ],
+    "paraphrase": "O estudo atualizado será enviado ainda esta semana aos correios eletrônicos de todos os deputados federais.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4304865411467356633",
+    "language": "PT",
+    "raw_text": "Para um grupo que nasceu, em 1964, como braço armado do Partido Comunista, adotar a democracia liberal como marco é uma mudança de dimensões históricas.",
+    "sentence": "Para um grupo que nasceu, em 1964, como braço armado do Partido Comunista, adotar a democracia liberal como marco é uma mudança de dimensões históricas.",
+    "mwe": "braço armado",
+    "mwe_lemmas": [
+      "braço",
+      "armado"
+    ],
+    "paraphrase": "Para um grupo que nasceu, em 1964, como ala militante do Partido Comunista, adotar a democracia liberal como marco é uma mudança de dimensões históricas.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3400385821846834351",
+    "language": "PT",
+    "raw_text": "A ameaça que a gente recebe de morte nessa área que houve invasão hoje..., disse Popyguá.",
+    "sentence": "A ameaça que a gente recebe de morte nessa área que houve invasão hoje..., disse Popyguá.",
+    "mwe": "a gente",
+    "mwe_lemmas": [
+      "o",
+      "gente"
+    ],
+    "paraphrase": "A ameaça que nós recebemos de morte nessa área que houve invasão hoje..., disse Popyguá.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7673523583390664425",
+    "language": "PT",
+    "raw_text": "Nesta quarta-feira (30), Trump afirmou que \"conversar não é a resposta\" para resolver a crise.",
+    "sentence": "Nesta quarta-feira (30), Trump afirmou que \"conversar não é a resposta\" para resolver a crise.",
+    "mwe": "quarta-feira",
+    "mwe_lemmas": [
+      "quarta-feira"
+    ],
+    "paraphrase": "Neste dia 30, Trump afirmou que \"conversar não é a resposta\" para resolver a crise.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1718406771708601408",
+    "language": "PT",
+    "raw_text": "Havia aproximadamente 15 pessoas, principalmente franceses que já tinham contato com a cultura brasileira e franco-brasileiros.",
+    "sentence": "Havia aproximadamente 15 pessoas, principalmente franceses que já tinham contato com a cultura brasileira e franco-brasileiros.",
+    "mwe": "contato com",
+    "mwe_lemmas": [
+      "contato",
+      "com"
+    ],
+    "paraphrase": "Havia aproximadamente 15 pessoas, principalmente franceses que já conheciam a cultura brasileira e franco-brasileiros.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3262602421048114576",
+    "language": "PT",
+    "raw_text": "O presidente francês, Emmanuel Macron, apresentou nesta quinta-feira (31) os detalhes de sua reforma trabalhista.",
+    "sentence": "O presidente francês, Emmanuel Macron, apresentou nesta quinta-feira (31) os detalhes de sua reforma trabalhista.",
+    "mwe": "reforma trabalhista",
+    "mwe_lemmas": [
+      "reforma",
+      "trabalhista"
+    ],
+    "paraphrase": "O presidente francês, Emmanuel Macron, apresentou nesta quinta-feira (31) os detalhes de suas novas leis laborais.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1344363122651939060",
+    "language": "PT",
+    "raw_text": "Tite, como todo ser humano, gosta de elogios, mas não de oba-oba.",
+    "sentence": "Tite, como todo ser humano, gosta de elogios, mas não de oba-oba.",
+    "mwe": "oba-oba",
+    "mwe_lemmas": [
+      "oba-oba"
+    ],
+    "paraphrase": "Tite, como todo ser humano, gosta de elogios, mas não de agitação excessiva.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2624651453044584502",
+    "language": "PT",
+    "raw_text": "Cifras bilionárias cobradas em ações penais pela força-tarefa da Lava Jato em Curitiba desde o início do escândalo, em 2014, despencaram nas decisões do juiz Sergio Moro.",
+    "sentence": "Cifras bilionárias cobradas em ações penais pela força-tarefa da Lava Jato em Curitiba desde o início do escândalo, em 2014, despencaram nas decisões do juiz Sergio Moro.",
+    "mwe": "força-tarefa",
+    "mwe_lemmas": [
+      "força-tarefa"
+    ],
+    "paraphrase": "Valores bilionários cobrados em ações penais pela equipe de investigação da Lava Jato em Curitiba desde o início do escândalo, em 2014, despencaram nas decisões do juiz Sergio Moro.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7655192867926481976",
+    "language": "PT",
+    "raw_text": "Com isso, no projeto orçamentário para 2018, que será enviado nesta quinta ao Congresso, devem constar valores desatualizados para o deficit nas contas públicas.",
+    "sentence": "Com isso, no projeto orçamentário para 2018, que será enviado nesta quinta ao Congresso, devem constar valores desatualizados para o deficit nas contas públicas.",
+    "mwe": "contas públicas",
+    "mwe_lemmas": [
+      "conta",
+      "público"
+    ],
+    "paraphrase": "Com isso, no projeto orçamentário para 2018, que será enviado nesta quinta ao Congresso, devem constar valores desatualizados para o déficit do tesouro nacional.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7495597129785147706",
+    "language": "PT",
+    "raw_text": "Ela é muito importante pra mim em termos pessoais, para resgatar uma questão de honra e de princípios.",
+    "sentence": "Ela é muito importante pra mim em termos pessoais, para resgatar uma questão de honra e de princípios.",
+    "mwe": "em termos",
+    "mwe_lemmas": [
+      "em",
+      "termo"
+    ],
+    "paraphrase": "Ela é muito importante para mim pessoalmente, para resgatar uma questão de honra e de princípios.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2220058170302843098",
+    "language": "PT",
+    "raw_text": "A vista do bairro Las Condes é quase um porta-retratos: limpa e comovente.",
+    "sentence": "A vista do bairro Las Condes é quase um porta-retratos: limpa e comovente.",
+    "mwe": "porta-retratos",
+    "mwe_lemmas": [
+      "porta-retrato"
+    ],
+    "paraphrase": "A vista do bairro Las Condes é quase uma moldura para fotografias: limpa e comovente.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4458707679540499016",
+    "language": "PT",
+    "raw_text": "Como a ideia fez sucesso, ele expandiu a proposta para incluir também anúncios virtuais, compartilhados no Facebook ou em outras redes sociais.",
+    "sentence": "Como a ideia fez sucesso, ele expandiu a proposta para incluir também anúncios virtuais, compartilhados no Facebook ou em outras redes sociais.",
+    "mwe": "fez sucesso",
+    "mwe_lemmas": [
+      "fazer",
+      "sucesso"
+    ],
+    "paraphrase": "Como a ideia prosperou, ele expandiu a proposta para incluir também anúncios virtuais, compartilhados no Facebook ou em outras redes sociais.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3614518524538031664",
+    "language": "PT",
+    "raw_text": "Na quarta-feira (30), o juiz federal Rolando Spanholo, da 21ª Vara do Distrito Federal, suspendeu o decreto.",
+    "sentence": "Na quarta-feira (30), o juiz federal Rolando Spanholo, da 21ª Vara do Distrito Federal, suspendeu o decreto.",
+    "mwe": "Distrito Federal",
+    "mwe_lemmas": [
+      "distrito",
+      "federal"
+    ],
+    "paraphrase": "Na quarta-feira (30), o juiz da 21ª Vara de Brasília suspendeu o decreto.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4927698276344207037",
+    "language": "PT",
+    "raw_text": "O Prêmio de Água e Saneamento, realizado pelo BID (Banco Interamericano de Desenvolvimento) e pela Fundação Femsa, está com inscrições abertas até terça-feira (12).",
+    "sentence": "O Prêmio de Água e Saneamento, realizado pelo BID (Banco Interamericano de Desenvolvimento) e pela Fundação Femsa, está com inscrições abertas até terça-feira (12).",
+    "mwe": "inscrições abertas",
+    "mwe_lemmas": [
+      "inscrição",
+      "aberto"
+    ],
+    "paraphrase": "O Prêmio de Água e Saneamento, realizado pelo BID (Banco Interamericano de Desenvolvimento) e pela Fundação Femsa, aceita candidaturas até terça-feira (12).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4157910291138889085",
+    "language": "PT",
+    "raw_text": "A barreira de concreto contará com tecnologia de ponta para detectar atividade subterrânea.",
+    "sentence": "A barreira de concreto contará com tecnologia de ponta para detectar atividade subterrânea.",
+    "mwe": "tecnologia de ponta",
+    "mwe_lemmas": [
+      "tecnologia",
+      "de",
+      "ponta"
+    ],
+    "paraphrase": "A barreira de concreto utilizará inovações avançadas para detectar atividade subterrânea.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-9088200779172534757",
+    "language": "PT",
+    "raw_text": "Os baixos patamares de umidade relativa do ar colocaram São Paulo em estado de atenção nesta quarta.",
+    "sentence": "Os baixos patamares de umidade relativa do ar colocaram São Paulo em estado de atenção nesta quarta.",
+    "mwe": "estado de atenção",
+    "mwe_lemmas": [
+      "estado",
+      "de",
+      "atenção"
+    ],
+    "paraphrase": "Os baixos patamares de umidade relativa do ar deixaram São Paulo sob alerta nesta quarta.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5257972848833175863",
+    "language": "PT",
+    "raw_text": "Alguém fala sobre a vida \"ser um jogo de xadrez\" e outra cascata de obviedades.",
+    "sentence": "Alguém fala sobre a vida \"ser um jogo de xadrez\" e outra cascata de obviedades.",
+    "mwe": "jogo de xadrez",
+    "mwe_lemmas": [
+      "jogo",
+      "de",
+      "xadrez"
+    ],
+    "paraphrase": "Alguém fala sobre a vida ser uma disputa estratégica e outra cascata de obviedades.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1373970435955222872",
+    "language": "PT",
+    "raw_text": "O papo furado é muito mais difícil de detectar quando queremos concordar com ele.",
+    "sentence": "O papo furado é muito mais difícil de detectar quando queremos concordar com ele.",
+    "mwe": "papo furado",
+    "mwe_lemmas": [
+      "papo",
+      "furado"
+    ],
+    "paraphrase": "A conversa fiada é muito mais difícil de detectar quando queremos concordar com ela.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4065616002601669260",
+    "language": "PT",
+    "raw_text": "Um alerta de segurança emitido pelas polícias Militar e Federal em Santa Catarina acabou dispensando funcionários da Justiça Federal de irem trabalhar nesta quinta-feira (31).",
+    "sentence": "Um alerta de segurança emitido pelas polícias Militar e Federal em Santa Catarina acabou dispensando funcionários da Justiça Federal de irem trabalhar nesta quinta-feira (31).",
+    "mwe": "Justiça Federal",
+    "mwe_lemmas": [
+      "justiça",
+      "federal"
+    ],
+    "paraphrase": "Um alerta de segurança emitido pelas polícias Militar e Federal em Santa Catarina acabou dispensando servidores do tribunal da União de irem trabalhar nesta quinta-feira (31).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-222292773541450045",
+    "language": "PT",
+    "raw_text": "Na quarta-feira (30), o ministro Gilmar Mendes pediu à AGU (Advocacia-Geral da União) para prestar esclarecimentos sobre a decisão após pedido de suspensão ingressado pelo PSOL.",
+    "sentence": "Na quarta-feira (30), o ministro Gilmar Mendes pediu à AGU (Advocacia-Geral da União) para prestar esclarecimentos sobre a decisão após pedido de suspensão ingressado pelo PSOL.",
+    "mwe": "Advocacia-Geral da União",
+    "mwe_lemmas": [
+      "advocacia-geral",
+      "da",
+      "união"
+    ],
+    "paraphrase": "Na quarta-feira (30), o ministro Gilmar Mendes pediu ao órgão jurídico do governo federal para prestar esclarecimentos sobre a decisão após pedido de suspensão ingressado pelo PSOL.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4211492057071299829",
+    "language": "PT",
+    "raw_text": "O ponta esquerda foi um dos destaques da campanha que deu ao Monaco o título do Campeonato Francês, com 18 gols marcados.",
+    "sentence": "O ponta esquerda foi um dos destaques da campanha que deu ao Monaco o título do Campeonato Francês, com 18 gols marcados.",
+    "mwe": "ponta esquerda",
+    "mwe_lemmas": [
+      "ponta",
+      "esquerdo"
+    ],
+    "paraphrase": "O atacante lateral foi um dos destaques da campanha que deu ao Monaco o título do Campeonato Francês, com 18 gols marcados.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4977566188196587348",
+    "language": "PT",
+    "raw_text": "Encontramos ossos da perna lateralmente onde estavam os restos mortais de outro cadáver.",
+    "sentence": "Encontramos ossos da perna lateralmente onde estavam os restos mortais de outro cadáver.",
+    "mwe": "restos mortais",
+    "mwe_lemmas": [
+      "resto",
+      "mortal"
+    ],
+    "paraphrase": "Encontramos ossos da perna lateralmente onde estava o corpo de outro cadáver.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4071580000412300727",
+    "language": "PT",
+    "raw_text": "Mas colombianos deram um salto também.",
+    "sentence": "Mas colombianos deram um salto também.",
+    "mwe": "deram um salto",
+    "mwe_lemmas": [
+      "dar",
+      "um",
+      "salto"
+    ],
+    "paraphrase": "Mas os colombianos progrediram significativamente também.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5648035200117345134",
+    "language": "PT",
+    "raw_text": "As votações devem ser retomadas na próxima terça-feira (5).",
+    "sentence": "As votações devem ser retomadas na próxima terça-feira (5).",
+    "mwe": "terça-feira",
+    "mwe_lemmas": [
+      "terça-feira"
+    ],
+    "paraphrase": "As votações devem ser retomadas no próximo dia três da semana (5).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2453730645536215371",
+    "language": "PT",
+    "raw_text": "A produção de algodão não deve ser coisa apenas de grandes produtores.",
+    "sentence": "A produção de algodão não deve ser coisa apenas de grandes produtores.",
+    "mwe": "coisa de",
+    "mwe_lemmas": [
+      "coisa",
+      "de"
+    ],
+    "paraphrase": "A produção de algodão não deve ser restrita a grandes produtores.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2446229769298719288",
+    "language": "PT",
+    "raw_text": "Ela estava muito à frente da época, na Inglaterra dos anos 1930.",
+    "sentence": "Ela estava muito à frente da época, na Inglaterra dos anos 1930.",
+    "mwe": "à frente da",
+    "mwe_lemmas": [
+      "a",
+      "frente",
+      "de"
+    ],
+    "paraphrase": "Ela estava muito adiantada em relação ao seu tempo, na Inglaterra dos anos 1930.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7514281344942113141",
+    "language": "PT",
+    "raw_text": "Moro não toca no assunto verdadeiro da reportagem.",
+    "sentence": "Moro não toca no assunto verdadeiro da reportagem.",
+    "mwe": "toca no assunto",
+    "mwe_lemmas": [
+      "tocar",
+      "em",
+      "assunto"
+    ],
+    "paraphrase": "Moro evita mencionar o tema verdadeiro da reportagem.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "238753036815526559",
+    "language": "PT",
+    "raw_text": "A Prefeitura de SP fechou o cronograma para a licitação das empresas de varrição da cidade.",
+    "sentence": "A Prefeitura de SP fechou o cronograma para a licitação das empresas de varrição da cidade.",
+    "mwe": "fechou o cronograma",
+    "mwe_lemmas": [
+      "fechar",
+      "cronograma"
+    ],
+    "paraphrase": "A Prefeitura de SP finalizou o calendário para a licitação das empresas de varrição da cidade.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6088585332314012232",
+    "language": "PT",
+    "raw_text": "Outra proposta é limitar as indenizações a demissões sem justa causa, acelerando sua tramitação nos tribunais.",
+    "sentence": "Outra proposta é limitar as indenizações a demissões sem justa causa, acelerando sua tramitação nos tribunais.",
+    "mwe": "sem justa causa",
+    "mwe_lemmas": [
+      "sem",
+      "justo",
+      "causa"
+    ],
+    "paraphrase": "Outra proposta é limitar as indenizações a demissões arbitrárias, acelerando sua tramitação nos tribunais.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "220195600937942597",
+    "language": "PT",
+    "raw_text": "Que bom que a população está se posicionando contra uma das maiores barbáries cometidas contra o meio ambiente por este governo corrupto e medíocre!",
+    "sentence": "Que bom que a população está se posicionando contra uma das maiores barbáries cometidas contra o meio ambiente por este governo corrupto e medíocre!",
+    "mwe": "meio ambiente",
+    "mwe_lemmas": [
+      "meio",
+      "ambiente"
+    ],
+    "paraphrase": "Que bom que a população está se posicionando contra uma das maiores barbáries cometidas contra a natureza por este governo corrupto e medíocre!",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8477272099673089998",
+    "language": "PT",
+    "raw_text": "Não podemos abrir mão de um atleta do nível do Coutinho, completou.",
+    "sentence": "Não podemos abrir mão de um atleta do nível do Coutinho, completou.",
+    "mwe": "abrir mão",
+    "mwe_lemmas": [
+      "abrir",
+      "mão"
+    ],
+    "paraphrase": "Não podemos renunciar a um atleta do nível do Coutinho, completou.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-846105607296703183",
+    "language": "PT",
+    "raw_text": "Por volta das 13h desta quinta-feira, o motorista do carro ainda não tinha sido identificado.",
+    "sentence": "Por volta das 13h desta quinta-feira, o motorista do carro ainda não tinha sido identificado.",
+    "mwe": "Por volta de",
+    "mwe_lemmas": [
+      "por",
+      "volta",
+      "de"
+    ],
+    "paraphrase": "Aproximadamente às 13h desta quinta-feira, o motorista do carro ainda não tinha sido identificado.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1940845615245720251",
+    "language": "PT",
+    "raw_text": "Na madrugada desta quinta, por falta de quórum, o Congresso Nacional aprovou o texto-base, mas não concluiu a votação do projeto que revisa as metas fiscais de 2017 e de 2018 para um deficit de R$ 159 bilhões.",
+    "sentence": "Na madrugada desta quinta, por falta de quórum, o Congresso Nacional aprovou o texto-base, mas não concluiu a votação do projeto que revisa as metas fiscais de 2017 e de 2018 para um deficit de R$ 159 bilhões.",
+    "mwe": "Congresso Nacional",
+    "mwe_lemmas": [
+      "congresso",
+      "nacional"
+    ],
+    "paraphrase": "Na madrugada desta quinta, por falta de quórum, a casa legislativa federal aprovou o texto-base, mas não concluiu a votação do projeto que revisa as metas fiscais de 2017 e de 2018 para um deficit de R$ 159 bilhões.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-9180329051601947441",
+    "language": "PT",
+    "raw_text": "O senador Antonio Anastasia (PSDB-MG) afirma que o leilão seria um \"tiro no pé\" do governo.",
+    "sentence": "O senador Antonio Anastasia (PSDB-MG) afirma que o leilão seria um \"tiro no pé\" do governo.",
+    "mwe": "tiro no pé",
+    "mwe_lemmas": [
+      "tiro",
+      "em",
+      "pé"
+    ],
+    "paraphrase": "O senador Antonio Anastasia (PSDB-MG) afirma que o leilão seria uma decisão contraproducente para o governo.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-516496408522607538",
+    "language": "PT",
+    "raw_text": "Um pacote de 47 fraldas de fabricação chinesa, por exemplo, custa 200 mil bolívares, quase o valor do salário mínimo.",
+    "sentence": "Um pacote de 47 fraldas de fabricação chinesa, por exemplo, custa 200 mil bolívares, quase o valor do salário mínimo.",
+    "mwe": "salário mínimo",
+    "mwe_lemmas": [
+      "salário",
+      "mínimo"
+    ],
+    "paraphrase": "Um pacote de 47 fraldas de fabricação chinesa, por exemplo, custa 200 mil bolívares, quase o valor da remuneração base legal.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7733683628594439857",
+    "language": "PT",
+    "raw_text": "O código tem quase 3.000 páginas e versa sobre áreas como salários, jornada de trabalho e padrões para a ventilação de escritórios.",
+    "sentence": "O código tem quase 3.000 páginas e versa sobre áreas como salários, jornada de trabalho e padrões para a ventilação de escritórios.",
+    "mwe": "jornada de trabalho",
+    "mwe_lemmas": [
+      "jornada",
+      "de",
+      "trabalho"
+    ],
+    "paraphrase": "O código tem quase 3.000 páginas e versa sobre áreas como salários, horário laboral e padrões para a ventilação de escritórios.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7947452824351181115",
+    "language": "PT",
+    "raw_text": "Para o deslocamento, o deputado federal levou um leitão, feijão tropeiro, linguiça e carne de sol.",
+    "sentence": "Para o deslocamento, o deputado federal levou um leitão, feijão tropeiro, linguiça e carne de sol.",
+    "mwe": "carne de sol",
+    "mwe_lemmas": [
+      "carne",
+      "de",
+      "sol"
+    ],
+    "paraphrase": "Para o deslocamento, o deputado federal levou um leitão, feijão tropeiro, linguiça e carne bovina desidratada.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8551668599937363092",
+    "language": "PT",
+    "raw_text": "PSOL chegou a afirmar que a não suspensão imediata dos efeitos do decreto que extingue a Renca poderia \"gerar danos irreversíveis ao meio ambiente\".",
+    "sentence": "PSOL chegou a afirmar que a não suspensão imediata dos efeitos do decreto que extingue a Renca poderia \"gerar danos irreversíveis ao meio ambiente\".",
+    "mwe": "chegou a afirmar",
+    "mwe_lemmas": [
+      "chegar",
+      "a",
+      "afirmar"
+    ],
+    "paraphrase": "O PSOL declarou que a não suspensão imediata dos efeitos do decreto que extingue a Renca poderia \"gerar danos irreversíveis ao meio ambiente\".",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6886081557025289771",
+    "language": "PT",
+    "raw_text": "Chopra pode ter lançado mão de um texto vago a fim de aparentar profundidade.",
+    "sentence": "Chopra pode ter lançado mão de um texto vago a fim de aparentar profundidade.",
+    "mwe": "lançado mão",
+    "mwe_lemmas": [
+      "lançar",
+      "mão"
+    ],
+    "paraphrase": "Chopra pode ter recorrido a um texto vago a fim de aparentar profundidade.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7894837607751484931",
+    "language": "PT",
+    "raw_text": "Best-seller nos Estados Unidos e Reino Unido, o thriller de espionagem chamou a atenção de Theron antes mesmo de ser publicado em 2012.",
+    "sentence": "Best-seller nos Estados Unidos e Reino Unido, o thriller de espionagem chamou a atenção de Theron antes mesmo de ser publicado em 2012.",
+    "mwe": "chamou a atenção",
+    "mwe_lemmas": [
+      "chamar",
+      "a",
+      "atenção"
+    ],
+    "paraphrase": "Best-seller nos Estados Unidos e Reino Unido, o thriller de espionagem despertou o interesse de Theron antes mesmo de ser publicado em 2012.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7129128364424205453",
+    "language": "PT",
+    "raw_text": "O roteiro melhora bastante a história original do gibi, que não é lá essas coisas.",
+    "sentence": "O roteiro melhora bastante a história original do gibi, que não é lá essas coisas.",
+    "mwe": "não é lá essas coisas",
+    "mwe_lemmas": [
+      "não",
+      "ser",
+      "lá",
+      "esse",
+      "coisa"
+    ],
+    "paraphrase": "O roteiro melhora bastante a história original do gibi, que apresenta qualidade medíocre.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6762187794960785124",
+    "language": "PT",
+    "raw_text": "Na segunda-feira (28), Michael Cohen, advogado pessoal do presidente e vice-presidente executivo das Organizações Trump, confirmou à Comissão de Inteligência da Câmara que houve negociações para a construção de uma Trump Tower em Moscou durante a campanha presidencial.",
+    "sentence": "Na segunda-feira (28), Michael Cohen, advogado pessoal do presidente e vice-presidente executivo das Organizações Trump, confirmou à Comissão de Inteligência da Câmara que houve negociações para a construção de uma Trump Tower em Moscou durante a campanha presidencial.",
+    "mwe": "segunda-feira",
+    "mwe_lemmas": [
+      "segunda-feira"
+    ],
+    "paraphrase": "No dia dois da semana (28), Michael Cohen, advogado pessoal do presidente e vice-presidente executivo das Organizações Trump, confirmou à Comissão de Inteligência da Câmara que houve negociações para a construção de uma Trump Tower em Moscou durante a campanha presidencial.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7237983930451267551",
+    "language": "PT",
+    "raw_text": "Estamos numa crescente, mas até chegar a Copa tem muita coisa para acontecer.",
+    "sentence": "Estamos numa crescente, mas até chegar a Copa tem muita coisa para acontecer.",
+    "mwe": "numa crescente",
+    "mwe_lemmas": [
+      "em",
+      "um",
+      "crescente"
+    ],
+    "paraphrase": "Estamos progredindo, mas até chegar a Copa tem muita coisa para acontecer.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2509187353510101360",
+    "language": "PT",
+    "raw_text": "O governador Raimundo Colombo (PSD) declarou, nesta manhã, que existem \"facções criminosas de outros Estados atuando em Santa Catarina\", mas não atribuiu as recentes mortes nem eventuais ameaças a algum grupo específico.",
+    "sentence": "O governador Raimundo Colombo (PSD) declarou, nesta manhã, que existem \"facções criminosas de outros Estados atuando em Santa Catarina\", mas não atribuiu as recentes mortes nem eventuais ameaças a algum grupo específico.",
+    "mwe": "facções criminosas",
+    "mwe_lemmas": [
+      "facção",
+      "criminoso"
+    ],
+    "paraphrase": "O governador Raimundo Colombo (PSD) declarou, nesta manhã, que existem grupos ilegais de outros Estados atuando em Santa Catarina, mas não atribuiu as recentes mortes nem eventuais ameaças a algum grupo específico.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1938394731480837848",
+    "language": "PT",
+    "raw_text": "Essa proposta, com condições mais vantajosas para os contribuintes, faz parte de um esforço final do Planalto para tentar aprovar a medida provisória que criou o programa de refinanciamento.",
+    "sentence": "Essa proposta, com condições mais vantajosas para os contribuintes, faz parte de um esforço final do Planalto para tentar aprovar a medida provisória que criou o programa de refinanciamento.",
+    "mwe": "faz parte",
+    "mwe_lemmas": [
+      "fazer",
+      "parte"
+    ],
+    "paraphrase": "Essa proposta, com condições mais vantajosas para os contribuintes, integra um esforço final do Planalto para tentar aprovar a medida provisória que criou o programa de refinanciamento.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2182925104433469692",
+    "language": "PT",
+    "raw_text": "As vagas informais de trabalho puxam a queda.",
+    "sentence": "As vagas informais de trabalho puxam a queda.",
+    "mwe": "puxam a queda",
+    "mwe_lemmas": [
+      "puxar",
+      "queda"
+    ],
+    "paraphrase": "As vagas informais de trabalho impulsionam o declínio.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3228795274778692236",
+    "language": "PT",
+    "raw_text": "Ele disse que o presidente interino da Câmara é vítima de \"notícias negativas\", propagadas por \"moralistas de plantão\".",
+    "sentence": "Ele disse que o presidente interino da Câmara é vítima de \"notícias negativas\", propagadas por \"moralistas de plantão\".",
+    "mwe": "moralistas de plantão",
+    "mwe_lemmas": [
+      "moralista",
+      "de",
+      "plantão"
+    ],
+    "paraphrase": "Ele disse que o presidente interino da Câmara é vítima de \"notícias negativas\", propagadas por críticos autoproclamados.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7597783995071754708",
+    "language": "PT",
+    "raw_text": "Para quem vê a TV Câmara como \"A Praça é Nossa\", foi uma sessão e tanto.",
+    "sentence": "Para quem vê a TV Câmara como \"A Praça é Nossa\", foi uma sessão e tanto.",
+    "mwe": "sessão e tanto",
+    "mwe_lemmas": [
+      "sessão",
+      "e",
+      "tanto"
+    ],
+    "paraphrase": "Para quem vê a TV Câmara como \"A Praça é Nossa\", foi uma reunião impressionante.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1774039396989846429",
+    "language": "PT",
+    "raw_text": "Inclui café da manhã, passeios (Valle Nevado e vinícola Concha y Toro).",
+    "sentence": "Inclui café da manhã, passeios (Valle Nevado e vinícola Concha y Toro).",
+    "mwe": "café da manhã",
+    "mwe_lemmas": [
+      "café",
+      "de",
+      "manhã"
+    ],
+    "paraphrase": "Inclui a primeira refeição do dia, passeios (Valle Nevado e vinícola Concha y Toro).",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6534453413093005558",
+    "language": "PT",
+    "raw_text": "Os autores não escondem o ponto de vista sobre o qual o livro se apoia.",
+    "sentence": "Os autores não escondem o ponto de vista sobre o qual o livro se apoia.",
+    "mwe": "ponto de vista",
+    "mwe_lemmas": [
+      "ponto",
+      "de",
+      "vista"
+    ],
+    "paraphrase": "Os autores não escondem a perspectiva na qual o livro se apoia.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3788614209931503028",
+    "language": "PT",
+    "raw_text": "As palavras que ele selecionou são desnecessariamente complexas, e os significados pretendidos não são claros.",
+    "sentence": "As palavras que ele selecionou são desnecessariamente complexas, e os significados pretendidos não são claros.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "As palavras que ele selecionou são desnecessariamente complexas, e os significados pretendidos não são claros.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "5030905135884124679",
+    "language": "PT",
+    "raw_text": "O texto-base foi votado na madrugada desta quinta, mas os destaques só serão apreciados na semana que vem.",
+    "sentence": "O texto-base foi votado na madrugada desta quinta, mas os destaques só serão apreciados na semana que vem.",
+    "mwe": "semana que vem",
+    "mwe_lemmas": [
+      "semana",
+      "que",
+      "vir"
+    ],
+    "paraphrase": "O texto-base foi votado na madrugada desta quinta, mas os destaques só serão apreciados na próxima segunda-feira.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  }
+]

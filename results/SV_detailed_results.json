@@ -1,0 +1,995 @@
+[
+  {
+    "id": "712655723325874423",
+    "language": "SV",
+    "raw_text": "Skärpan och närvaron av revolutionen på landsbygden oroade hovet och nationalförsamlingen i Versailles.",
+    "sentence": "Skärpan och närvaron av revolutionen på landsbygden oroade hovet och nationalförsamlingen i Versailles.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Skärpan och närvaron av revolutionen på landsbygden oroade hovet och nationalförsamlingen i Versailles.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-1273970576634355575",
+    "language": "SV",
+    "raw_text": "Det första världskriget förde med sig förändringar och nya utvecklingar i kolonialpolitik.",
+    "sentence": "Det första världskriget förde med sig förändringar och nya utvecklingar i kolonialpolitik.",
+    "mwe": "förde med sig",
+    "mwe_lemmas": [
+      "föra",
+      "med",
+      "sig"
+    ],
+    "paraphrase": "Det första världskriget orsakade förändringar och nya utvecklingar i kolonialpolitik.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-9129732933117348332",
+    "language": "SV",
+    "raw_text": "Den industriella revolutionen ägde rum i Storbritannien tidigare än i något annat land.",
+    "sentence": "Den industriella revolutionen ägde rum i Storbritannien tidigare än i något annat land.",
+    "mwe": "ägde rum",
+    "mwe_lemmas": [
+      "äga",
+      "rum"
+    ],
+    "paraphrase": "Den industriella revolutionen inträffade i Storbritannien tidigare än i något annat land.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3500720435876994993",
+    "language": "SV",
+    "raw_text": "Historien för Carcassonne är direkt knuten till den för dess befästa stad.",
+    "sentence": "Historien för Carcassonne är direkt knuten till den för dess befästa stad.",
+    "mwe": "knuten till",
+    "mwe_lemmas": [
+      "knyta",
+      "till"
+    ],
+    "paraphrase": "Historien för Carcassonne är direkt kopplad med den för dess befästa stad.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5140386503943778486",
+    "language": "SV",
+    "raw_text": "Under 700-talet f.Kr. började Grekland komma ut ur den mörka tidsålder som följde den mykenska civilisationens fall.",
+    "sentence": "Under 700-talet f.Kr. började Grekland komma ut ur den mörka tidsålder som följde den mykenska civilisationens fall.",
+    "mwe": "komma ut ur",
+    "mwe_lemmas": [
+      "komma",
+      "ut",
+      "ur"
+    ],
+    "paraphrase": "Under 700-talet f.Kr. började Grekland lämna den mörka tidsålder som följde den mykenska civilisationens fall.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6833172798835481652",
+    "language": "SV",
+    "raw_text": "Under medeltiden hade inte de flesta kristna tillgång till bibeln på sina modersmål.",
+    "sentence": "Under medeltiden hade inte de flesta kristna tillgång till bibeln på sina modersmål.",
+    "mwe": "tillgång till",
+    "mwe_lemmas": [
+      "tillgång",
+      "till"
+    ],
+    "paraphrase": "Under medeltiden kunde de flesta kristna inte läsa bibeln på sina modersmål.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "432687764828116189",
+    "language": "SV",
+    "raw_text": "Denna affär kan ses som startpunkten för hans karriär som radikal revolutionär.",
+    "sentence": "Denna affär kan ses som startpunkten för hans karriär som radikal revolutionär.",
+    "mwe": "ses som",
+    "mwe_lemmas": [
+      "se",
+      "som"
+    ],
+    "paraphrase": "Denna affär utgör startpunkten för hans karriär som radikal revolutionär.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7798932874263614954",
+    "language": "SV",
+    "raw_text": "Vid sin återkomst lekte de med tanken att bo i Sydamerika, långt borta från problemen i efterkrigstidens Belgien.",
+    "sentence": "Vid sin återkomst lekte de med tanken att bo i Sydamerika, långt borta från problemen i efterkrigstidens Belgien.",
+    "mwe": "lekte de med tanken",
+    "mwe_lemmas": [
+      "leka",
+      "de",
+      "med",
+      "tanke"
+    ],
+    "paraphrase": "Vid sin återkomst övervägde de möjligheten att bo i Sydamerika, långt borta från problemen i efterkrigstidens Belgien.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5239654592834716536",
+    "language": "SV",
+    "raw_text": "”Så jag hatar att ge er en liten börda, men republikens öde vilar på era axlar”, sade han till folksamlingen som kommit till en idrottsplan på University of North Carolina.",
+    "sentence": "”Så jag hatar att ge er en liten börda, men republikens öde vilar på era axlar”, sade han till folksamlingen som kommit till en idrottsplan på University of North Carolina.",
+    "mwe": "vilar på era axlar",
+    "mwe_lemmas": [
+      "vila",
+      "på",
+      "er",
+      "axel"
+    ],
+    "paraphrase": "”Så jag hatar att ge er en liten börda, men republikens öde är ert ansvar”, sade han till folksamlingen som kommit till en idrottsplan på University of North Carolina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5757659218769956243",
+    "language": "SV",
+    "raw_text": "Det fanns en tidpunkt, sade mr Panvalkar, då han kände att de borde lämna byggnaden.",
+    "sentence": "Det fanns en tidpunkt, sade mr Panvalkar, då han kände att de borde lämna byggnaden.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Det fanns en tidpunkt, sade mr Panvalkar, då han kände att de borde lämna byggnaden.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "5730426657299016954",
+    "language": "SV",
+    "raw_text": "Mate-9-telefonerna saknar ett artificiellt intelligens-gränssnitt, som Google Assistant eller Apples Siri.",
+    "sentence": "Mate-9-telefonerna saknar ett artificiellt intelligens-gränssnitt, som Google Assistant eller Apples Siri.",
+    "mwe": "artificiellt intelligens-gränssnitt",
+    "mwe_lemmas": [
+      "artificiell",
+      "intelligens",
+      "gränssnitt"
+    ],
+    "paraphrase": "Mate-9-telefonerna saknar en digital assistent, som Google Assistant eller Apples Siri.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6687447841971088913",
+    "language": "SV",
+    "raw_text": "Lite mer än 70 % av plantorna som odlats med jordfröer var vid liv efter 17 dagar – bara lite mer än plantorna som odlats från rymdfröer – just över 66 %.",
+    "sentence": "Lite mer än 70 % av plantorna som odlats med jordfröer var vid liv efter 17 dagar – bara lite mer än plantorna som odlats från rymdfröer – just över 66 %.",
+    "mwe": "vid liv",
+    "mwe_lemmas": [
+      "vid",
+      "liv"
+    ],
+    "paraphrase": "Lite mer än 70 % av plantorna som odlats med jordfröer överlevde efter 17 dagar – bara lite mer än plantorna som odlats från rymdfröer – just över 66 %.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4557676529078020750",
+    "language": "SV",
+    "raw_text": "Emellertid finns det många MLA:er med djupt hållna religiösa trosuppfattningar som motsätter sig all ny lagstiftning.",
+    "sentence": "Emellertid finns det många MLA:er med djupt hållna religiösa trosuppfattningar som motsätter sig all ny lagstiftning.",
+    "mwe": "djupt hållna",
+    "mwe_lemmas": [
+      "djupt",
+      "hållen"
+    ],
+    "paraphrase": "Emellertid finns det många MLA:er med starkt rotade religiösa trosuppfattningar som motsätter sig all ny lagstiftning.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-915627009649895265",
+    "language": "SV",
+    "raw_text": "Det ledde till avslöjanden över de senaste två dagarna att åtminstone sex andra journalister i Quebec var föremål för provinspolisens övervakningsverksamhet.",
+    "sentence": "Det ledde till avslöjanden över de senaste två dagarna att åtminstone sex andra journalister i Quebec var föremål för provinspolisens övervakningsverksamhet.",
+    "mwe": "föremål för",
+    "mwe_lemmas": [
+      "föremål",
+      "för"
+    ],
+    "paraphrase": "Det ledde till avslöjanden under de senaste två dagarna att åtminstone sex andra journalister i Quebec övervakades av provinspolisen.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2273893706241257745",
+    "language": "SV",
+    "raw_text": "Sen tar reklamen slut.",
+    "sentence": "Sen tar reklamen slut.",
+    "mwe": "tar ... slut",
+    "mwe_lemmas": [
+      "ta",
+      "slut"
+    ],
+    "paraphrase": "Sedan upphör reklamen.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3021820652334542040",
+    "language": "SV",
+    "raw_text": "Naturligtvis bjuder kontorslandskapet på många kläder men erbjuder föga i matväg.",
+    "sentence": "Naturligtvis bjuder kontorslandskapet på många kläder men erbjuder föga i matväg.",
+    "mwe": "i matväg",
+    "mwe_lemmas": [
+      "i",
+      "matväg"
+    ],
+    "paraphrase": "Naturligtvis bjuder kontorslandskapet på många kläder men erbjuder föga när det gäller föda.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6526427601686266250",
+    "language": "SV",
+    "raw_text": "RSPB:s ståndpunkt har även gjort att det kommit i konflikt med flera ledande naturvårdare, från namninsamlingens författare Mark Avery till TV-presentatören Chris Packham.",
+    "sentence": "RSPB:s ståndpunkt har även gjort att det kommit i konflikt med flera ledande naturvårdare, från namninsamlingens författare Mark Avery till TV-presentatören Chris Packham.",
+    "mwe": "kommit i konflikt",
+    "mwe_lemmas": [
+      "komma",
+      "i",
+      "konflikt"
+    ],
+    "paraphrase": "RSPB:s ståndpunkt har även lett till att organisationen hamnat i osämja med flera ledande naturvårdare, från namninsamlingens författare Mark Avery till TV-presentatören Chris Packham.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1479713056023147224",
+    "language": "SV",
+    "raw_text": "Jag tar inte lätt på att kalla det för en best.",
+    "sentence": "Jag tar inte lätt på att kalla det för en best.",
+    "mwe": "tar inte lätt på",
+    "mwe_lemmas": [
+      "ta",
+      "inte",
+      "lätt",
+      "på"
+    ],
+    "paraphrase": "Jag betraktar det som en allvarlig sak att kalla det för en best.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7722715160003570619",
+    "language": "SV",
+    "raw_text": "Jag lade märke till några stycken.",
+    "sentence": "Jag lade märke till några stycken.",
+    "mwe": "lade märke till",
+    "mwe_lemmas": [
+      "lägga",
+      "märke",
+      "till"
+    ],
+    "paraphrase": "Jag observerade några stycken.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3020894056804719711",
+    "language": "SV",
+    "raw_text": "Eden innefattar att lagstiftarna svär trohet till Hong Kong som en del av Folkrepubliken Kina.",
+    "sentence": "Eden innefattar att lagstiftarna svär trohet till Hong Kong som en del av Folkrepubliken Kina.",
+    "mwe": "svär trohet",
+    "mwe_lemmas": [
+      "svära",
+      "trohet"
+    ],
+    "paraphrase": "Eden innefattar att lagstiftarna lovar lojalitet till Hong Kong som en del av Folkrepubliken Kina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5248912680863509177",
+    "language": "SV",
+    "raw_text": "Men att ha låtit Glenda få en sådan fullträff, vem kan klandra det?",
+    "sentence": "Men att ha låtit Glenda få en sådan fullträff, vem kan klandra det?",
+    "mwe": "fullträff",
+    "mwe_lemmas": [
+      "fullträff"
+    ],
+    "paraphrase": "Men att ha låtit Glenda få en sådan stor framgång, vem kan klandra det?",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2116263639745651978",
+    "language": "SV",
+    "raw_text": "Från regissörens synvinkel är filmen en oviss balansakt mellan gladlynt familjestoj och slagkraftigt samhällsdrama.",
+    "sentence": "Från regissörens synvinkel är filmen en oviss balansakt mellan gladlynt familjestoj och slagkraftigt samhällsdrama.",
+    "mwe": "balansakt",
+    "mwe_lemmas": [
+      "balansakt"
+    ],
+    "paraphrase": "Från regissörens synvinkel är filmen en oviss avvägning mellan gladlynt familjestoj och slagkraftigt samhällsdrama.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6519550048280207502",
+    "language": "SV",
+    "raw_text": "På en nivå fungerar den som en vänlig opretentiös hjärtevärmare som verkar skräddarsydd för att ses en söndag eftermiddag.",
+    "sentence": "På en nivå fungerar den som en vänlig opretentiös hjärtevärmare som verkar skräddarsydd för att ses en söndag eftermiddag.",
+    "mwe": "skräddarsydd",
+    "mwe_lemmas": [
+      "skräddarsy"
+    ],
+    "paraphrase": "På en nivå fungerar den som en vänlig opretentiös hjärtevärmare som verkar perfekt anpassad för att ses en söndag eftermiddag.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1935613133618027913",
+    "language": "SV",
+    "raw_text": "Mer än 5,7 miljoner floridabor har redan gått och röstat efter cirka två veckor med personligt förtidsröstande.",
+    "sentence": "Mer än 5,7 miljoner floridabor har redan gått och röstat efter cirka två veckor med personligt förtidsröstande.",
+    "mwe": "gått och röstat",
+    "mwe_lemmas": [
+      "gå",
+      "och",
+      "rösta"
+    ],
+    "paraphrase": "Mer än 5,7 miljoner floridabor har redan avlagt sin röst efter cirka två veckor med personligt förtidsröstande.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5124578593673713067",
+    "language": "SV",
+    "raw_text": "Han tillskrivs äran för att ha hjälpt ansträngningar för att hantera de skuldberg som skapats av lokala ledningar i Kina.",
+    "sentence": "Han tillskrivs äran för att ha hjälpt ansträngningar för att hantera de skuldberg som skapats av lokala ledningar i Kina.",
+    "mwe": "tillskrivs äran",
+    "mwe_lemmas": [
+      "tillskriva",
+      "ära"
+    ],
+    "paraphrase": "Han får erkännandet för att ha hjälpt ansträngningar för att hantera de skuldberg som skapats av lokala ledningar i Kina.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3257337195158216273",
+    "language": "SV",
+    "raw_text": "Ansträngningen på internet sades vara den främsta drivkraften för enhetens kapitalutgifter.",
+    "sentence": "Ansträngningen på internet sades vara den främsta drivkraften för enhetens kapitalutgifter.",
+    "mwe": "drivkraften",
+    "mwe_lemmas": [
+      "drivkraft"
+    ],
+    "paraphrase": "Ansträngningen på internet sades vara den främsta motorn för enhetens kapitalutgifter.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8942764841434331300",
+    "language": "SV",
+    "raw_text": "Alejandra González Anaya, en av paradens kreativa chefer, förklarade för CNN varför Mexiko har beslutat att det är dags nu att bjuda på en sådan show.",
+    "sentence": "Alejandra González Anaya, en av paradens kreativa chefer, förklarade för CNN varför Mexiko har beslutat att det är dags nu att bjuda på en sådan show.",
+    "mwe": "bjuda på",
+    "mwe_lemmas": [
+      "bjuda",
+      "på"
+    ],
+    "paraphrase": "Alejandra González Anaya, en av paradens kreativa chefer, förklarade för CNN varför Mexiko har beslutat att det är dags nu att presentera en sådan show.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1861855094323012290",
+    "language": "SV",
+    "raw_text": "Inte alla omvandlingar i regionen har varit framgångsrika.",
+    "sentence": "Inte alla omvandlingar i regionen har varit framgångsrika.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Inte alla omvandlingar i regionen har varit framgångsrika.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "8355957040912899619",
+    "language": "SV",
+    "raw_text": "I Pyongyang såg jag några personer använda smarttelefoner, men långt färre.",
+    "sentence": "I Pyongyang såg jag några personer använda smarttelefoner, men långt färre.",
+    "mwe": "långt färre",
+    "mwe_lemmas": [
+      "långt",
+      "få"
+    ],
+    "paraphrase": "I Pyongyang såg jag några personer använda smarttelefoner, men betydligt färre.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8476682418043809646",
+    "language": "SV",
+    "raw_text": "Men arkitektur kan bygga broar mellan de levande och de döda och, i någon mån, göra gränsen otydlig.",
+    "sentence": "Men arkitektur kan bygga broar mellan de levande och de döda och, i någon mån, göra gränsen otydlig.",
+    "mwe": "bygga broar",
+    "mwe_lemmas": [
+      "bygga",
+      "bro"
+    ],
+    "paraphrase": "Men arkitektur kan skapa förbindelser mellan de levande och de döda och, i någon mån, göra gränsen otydlig.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5986877313212386370",
+    "language": "SV",
+    "raw_text": "2007 var den mest framgångsrika filmen El Greco, regisserad av Yannis Smaragdis.",
+    "sentence": "2007 var den mest framgångsrika filmen El Greco, regisserad av Yannis Smaragdis.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "2007 var den mest framgångsrika filmen El Greco, regisserad av Yannis Smaragdis.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-7384142268128800865",
+    "language": "SV",
+    "raw_text": "En monsun är en årstidsbunden dominerande vind som håller i sig i flera månader, och för in en regions regnperiod.",
+    "sentence": "En monsun är en årstidsbunden dominerande vind som håller i sig i flera månader, och för in en regions regnperiod.",
+    "mwe": "håller i sig",
+    "mwe_lemmas": [
+      "hålla",
+      "i",
+      "sig"
+    ],
+    "paraphrase": "En monsun är en årstidsbunden dominerande vind som varar i flera månader och för in en regions regnperiod.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2252899115892148202",
+    "language": "SV",
+    "raw_text": "Det resulterade dock i att viktiga tunga artilleripjäser övergavs, och det är en fråga för historisk diskussion varför järnvägen till Flensburg aldrig användes ordentligt för evakueringen.",
+    "sentence": "Det resulterade dock i att viktiga tunga artilleripjäser övergavs, och det är en fråga för historisk diskussion varför järnvägen till Flensburg aldrig användes ordentligt för evakueringen.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Det resulterade dock i att viktiga tunga artilleripjäser övergavs, och det är en fråga för historisk diskussion varför järnvägen till Flensburg aldrig användes ordentligt för evakueringen.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "3653437072395703661",
+    "language": "SV",
+    "raw_text": "Det exakta året för giftermålet mellan Herodes Antipas och Herodias är föremål för debatt mellan forskare.",
+    "sentence": "Det exakta året för giftermålet mellan Herodes Antipas och Herodias är föremål för debatt mellan forskare.",
+    "mwe": "föremål för debatt",
+    "mwe_lemmas": [
+      "föremål",
+      "för",
+      "debatt"
+    ],
+    "paraphrase": "Det exakta året för giftermålet mellan Herodes Antipas och Herodias diskuteras av forskare.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6272081147610069960",
+    "language": "SV",
+    "raw_text": "Det lade grunden för integration där statens ekonomiska och juridiska maskineri kunde tillämpas genom hela Medelhavet på samma sätt som en gång gjordes från Latium för hela Italien.",
+    "sentence": "Det lade grunden för integration där statens ekonomiska och juridiska maskineri kunde tillämpas genom hela Medelhavet på samma sätt som en gång gjordes från Latium för hela Italien.",
+    "mwe": "lade grunden",
+    "mwe_lemmas": [
+      "lägga",
+      "grund"
+    ],
+    "paraphrase": "Det skapade förutsättningarna för integration där statens ekonomiska och juridiska maskineri kunde tillämpas genom hela Medelhavet på samma sätt som en gång gjordes från Latium för hela Italien.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "348140141911375617",
+    "language": "SV",
+    "raw_text": "Khitanerna hade genomfört flera aggressiva förhandlingar om att utvidga sina gränser söderut, medan de manipulerade flera inkompetenta kinesiska ambassadörer vilka gick med på Liao-kungadömets krav.",
+    "sentence": "Khitanerna hade genomfört flera aggressiva förhandlingar om att utvidga sina gränser söderut, medan de manipulerade flera inkompetenta kinesiska ambassadörer vilka gick med på Liao-kungadömets krav.",
+    "mwe": "gick med på",
+    "mwe_lemmas": [
+      "gå",
+      "med",
+      "på"
+    ],
+    "paraphrase": "Khitanerna hade genomfört flera aggressiva förhandlingar om att utvidga sina gränser söderut, medan de manipulerade flera inkompetenta kinesiska ambassadörer vilka accepterade Liao-kungadömets krav.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1832069198117100059",
+    "language": "SV",
+    "raw_text": "Tell Amarna-breven, som kommer från 1300-talet fvt, inkluderar tio brev från kungarna i Gezer som svär trohet till den egyptiske faraon.",
+    "sentence": "Tell Amarna-breven, som kommer från 1300-talet fvt, inkluderar tio brev från kungarna i Gezer som svär trohet till den egyptiske faraon.",
+    "mwe": "svär trohet",
+    "mwe_lemmas": [
+      "svära",
+      "trohet"
+    ],
+    "paraphrase": "Tell Amarna-breven, som kommer från 1300-talet fvt, inkluderar tio brev från kungarna i Gezer som lovar att vara lojala mot den egyptiske faraon.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6128341547000106430",
+    "language": "SV",
+    "raw_text": "Tvångsdop stod i strid med den katolska kyrkans lag, och teoretiskt sett kunde alla som hade blivit tvingade till dop lagligen återgå till judendom.",
+    "sentence": "Tvångsdop stod i strid med den katolska kyrkans lag, och teoretiskt sett kunde alla som hade blivit tvingade till dop lagligen återgå till judendom.",
+    "mwe": "stod i strid med",
+    "mwe_lemmas": [
+      "stå",
+      "i",
+      "strid",
+      "med"
+    ],
+    "paraphrase": "Tvångsdop bröt mot den katolska kyrkans lag, och teoretiskt sett kunde alla som hade blivit tvingade till dop lagligen återgå till judendom.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7896363383683321650",
+    "language": "SV",
+    "raw_text": "Framgången för American Motors storleksmässigt kompakta Rambler sporrade GM och Ford att introducera sina egna storleksminskade bilar 1960.",
+    "sentence": "Framgången för American Motors storleksmässigt kompakta Rambler sporrade GM och Ford att introducera sina egna storleksminskade bilar 1960.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Framgången för American Motors storleksmässigt kompakta Rambler sporrade GM och Ford att introducera sina egna storleksminskade bilar 1960.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-4504340933202381187",
+    "language": "SV",
+    "raw_text": "Kina besegrades och 1842 gick de med på villkoren i Nankingfördraget.",
+    "sentence": "Kina besegrades och 1842 gick de med på villkoren i Nankingfördraget.",
+    "mwe": "gick med på",
+    "mwe_lemmas": [
+      "gå",
+      "med",
+      "på"
+    ],
+    "paraphrase": "Kina besegrades och 1842 accepterade de villkoren i Nankingfördraget.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7695212909825129047",
+    "language": "SV",
+    "raw_text": "Det var så framgångsrikt att militären fortsatte att använda det i många år efter kriget, och det var fortfarande i bruk i vissa länder på 1980-talet.",
+    "sentence": "Det var så framgångsrikt att militären fortsatte att använda det i många år efter kriget, och det var fortfarande i bruk i vissa länder på 1980-talet.",
+    "mwe": "i bruk",
+    "mwe_lemmas": [
+      "i",
+      "bruk"
+    ],
+    "paraphrase": "Det var så framgångsrikt att militären fortsatte att använda det i många år efter kriget, och det användes fortfarande i vissa länder på 1980-talet.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1419279869379483106",
+    "language": "SV",
+    "raw_text": "En mental konflikt grep Herzl, mellan lusten för litterär framgång och en vilja att agera som en offentlig person.",
+    "sentence": "En mental konflikt grep Herzl, mellan lusten för litterär framgång och en vilja att agera som en offentlig person.",
+    "mwe": "offentlig person",
+    "mwe_lemmas": [
+      "offentlig",
+      "person"
+    ],
+    "paraphrase": "En mental konflikt grep Herzl, mellan lusten för litterär framgång och en vilja att agera som en känd samhällsaktör.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1064245059173966901",
+    "language": "SV",
+    "raw_text": "Vid ett tillfälle antyds det att han är en agent under täckmantel, vars mål är Homer.",
+    "sentence": "Vid ett tillfälle antyds det att han är en agent under täckmantel, vars mål är Homer.",
+    "mwe": "under täckmantel",
+    "mwe_lemmas": [
+      "under",
+      "täckmantel"
+    ],
+    "paraphrase": "Vid ett tillfälle antyds det att han är en hemlig agent vars mål är Homer.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8506544147006782234",
+    "language": "SV",
+    "raw_text": "Disney fick också reda på att Universal ägde upphovsrätten till Oswald.",
+    "sentence": "Disney fick också reda på att Universal ägde upphovsrätten till Oswald.",
+    "mwe": "fick reda på",
+    "mwe_lemmas": [
+      "få",
+      "reda",
+      "på"
+    ],
+    "paraphrase": "Disney upptäckte också att Universal ägde upphovsrätten till Oswald.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3065327972569981864",
+    "language": "SV",
+    "raw_text": "Rafferty släppte två album till under 1990-talet i vad musikern Tom Robinson senare beskrev som ”en ordentlig återkomst till högform”.",
+    "sentence": "Rafferty släppte två album till under 1990-talet i vad musikern Tom Robinson senare beskrev som ”en ordentlig återkomst till högform”.",
+    "mwe": "ordentlig återkomst till högform",
+    "mwe_lemmas": [
+      "ordentlig",
+      "återkomst",
+      "till",
+      "högform"
+    ],
+    "paraphrase": "Rafferty släppte två album till under 1990-talet i vad musikern Tom Robinson senare beskrev som en seriös comeback i toppskick.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6270295689286539042",
+    "language": "SV",
+    "raw_text": "Blunt spelade huvudrollen 2011 i den brittiska komedin Laxfiske i Jemen regisserad av Lasse Hallström och med Ewan McGregor och Kristin Scott Thomas som motspelare.",
+    "sentence": "Blunt spelade huvudrollen 2011 i den brittiska komedin Laxfiske i Jemen regisserad av Lasse Hallström och med Ewan McGregor och Kristin Scott Thomas som motspelare.",
+    "mwe": "spelade huvudrollen",
+    "mwe_lemmas": [
+      "spela",
+      "huvudroll"
+    ],
+    "paraphrase": "Blunt innehade den främsta rollen 2011 i den brittiska komedin Laxfiske i Jemen regisserad av Lasse Hallström och med Ewan McGregor och Kristin Scott Thomas som motspelare.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5742821631451247933",
+    "language": "SV",
+    "raw_text": "Hon spelade huvudrollen i filmen The Five-Year Engagement från 2012, regisserad av Nicholas Stoller och med Jason Segel som motspelare.",
+    "sentence": "Hon spelade huvudrollen i filmen The Five-Year Engagement från 2012, regisserad av Nicholas Stoller och med Jason Segel som motspelare.",
+    "mwe": "spelade huvudrollen",
+    "mwe_lemmas": [
+      "spela",
+      "huvudroll"
+    ],
+    "paraphrase": "Hon innehade den främsta rollen i filmen The Five-Year Engagement från 2012, regisserad av Nicholas Stoller och med Jason Segel som motspelare.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7970333662491701526",
+    "language": "SV",
+    "raw_text": "Då hon fått ett rykte som en expert i ämnet tog hon med sig de färdigheterna tillbaka till Radiuminstitutet tillsammans med en liten skiva polonium.",
+    "sentence": "Då hon fått ett rykte som en expert i ämnet tog hon med sig de färdigheterna tillbaka till Radiuminstitutet tillsammans med en liten skiva polonium.",
+    "mwe": "fått ett rykte",
+    "mwe_lemmas": [
+      "få",
+      "ett",
+      "rykte"
+    ],
+    "paraphrase": "Eftersom hon blivit känd som en expert i ämnet tog hon med sig de färdigheterna tillbaka till Radiuminstitutet tillsammans med en liten skiva polonium.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "166422728750844180",
+    "language": "SV",
+    "raw_text": "Med 71 mål på 137 internationella matcher har han slagit rekord i antal mål för DFB.",
+    "sentence": "Med 71 mål på 137 internationella matcher har han slagit rekord i antal mål för DFB.",
+    "mwe": "slagit rekord",
+    "mwe_lemmas": [
+      "slå",
+      "rekord"
+    ],
+    "paraphrase": "Med 71 mål på 137 internationella matcher har han uppnått det högsta antalet mål någonsin för DFB.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3152639599733647264",
+    "language": "SV",
+    "raw_text": "Bilden visar tydligt den smala pekskärmsstrimman ovanför tangentbordet som har förutsetts i rykten.",
+    "sentence": "Bilden visar tydligt den smala pekskärmsstrimman ovanför tangentbordet som har förutsetts i rykten.",
+    "mwe": "förutsetts i rykten",
+    "mwe_lemmas": [
+      "förutse",
+      "i",
+      "rykte"
+    ],
+    "paraphrase": "Bilden visar tydligt den smala pekskärmsstrimman ovanför tangentbordet som har omnämnts i spekulationer.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6993597566457031973",
+    "language": "SV",
+    "raw_text": "Ryssland tillkännagav ett inställande av kontraktet i början av oktober.",
+    "sentence": "Ryssland tillkännagav ett inställande av kontraktet i början av oktober.",
+    "mwe": "i början av",
+    "mwe_lemmas": [
+      "i",
+      "början",
+      "av"
+    ],
+    "paraphrase": "Ryssland tillkännagav ett inställande av kontraktet tidigt i oktober.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7720678424680043869",
+    "language": "SV",
+    "raw_text": "Ur denna synvinkel är förlegade strukturer och en självbelåten elit anledningen till varför sjukvårdssystemet, utbildningen och utrikeshandeln i USA är i så dåligt skick.",
+    "sentence": "Ur denna synvinkel är förlegade strukturer och en självbelåten elit anledningen till varför sjukvårdssystemet, utbildningen och utrikeshandeln i USA är i så dåligt skick.",
+    "mwe": "i så dåligt skick",
+    "mwe_lemmas": [
+      "i",
+      "så",
+      "dålig",
+      "skick"
+    ],
+    "paraphrase": "Ur denna synvinkel är förlegade strukturer och en självbelåten elit anledningen till varför sjukvårdssystemet, utbildningen och utrikeshandeln i USA fungerar bristfälligt.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4639692644784168438",
+    "language": "SV",
+    "raw_text": "Tidningen ”Die ZEIT” förhörde sig först med fastighetsföretaget om dess tveksamma kassaflöden och hotet om insolvens i juli.",
+    "sentence": "Tidningen ”Die ZEIT” förhörde sig först med fastighetsföretaget om dess tveksamma kassaflöden och hotet om insolvens i juli.",
+    "mwe": "förhörde sig",
+    "mwe_lemmas": [
+      "förhöra",
+      "sig"
+    ],
+    "paraphrase": "Tidningen ”Die ZEIT” frågade först fastighetsföretaget om dess tveksamma kassaflöden och hotet om insolvens i juli.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3032256788554847513",
+    "language": "SV",
+    "raw_text": "Simon Krätschmer famlar runt ensam genom den fallfärdiga, olycksbådande baracken.",
+    "sentence": "Simon Krätschmer famlar runt ensam genom den fallfärdiga, olycksbådande baracken.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Simon Krätschmer famlar runt ensam genom den fallfärdiga, olycksbådande baracken.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "4222944853591003431",
+    "language": "SV",
+    "raw_text": "ETA är på väg ut, avslöjade den franska kontingenten.",
+    "sentence": "ETA är på väg ut, avslöjade den franska kontingenten.",
+    "mwe": "på väg ut",
+    "mwe_lemmas": [
+      "på",
+      "väg",
+      "ut"
+    ],
+    "paraphrase": "ETA håller på att försvinna, avslöjade den franska kontingenten.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1211847937986987264",
+    "language": "SV",
+    "raw_text": "De som har åldern inne kommer att erbjudas 500 euro av staten, att spendera före 31 december 2017.",
+    "sentence": "De som har åldern inne kommer att erbjudas 500 euro av staten, att spendera före 31 december 2017.",
+    "mwe": "ha åldern inne",
+    "mwe_lemmas": [
+      "ha",
+      "ålder",
+      "inne"
+    ],
+    "paraphrase": "De som uppfyller ålderskravet kommer att erbjudas 500 euro av staten, att spendera före 31 december 2017.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2710013625945433657",
+    "language": "SV",
+    "raw_text": "Den senaste siffran hänför sig till 24 oktober förra året och säger oss att vår diesel kostar 1,335 euro per liter jämfört med eurozonens genomsnitt på 1,165 euro.",
+    "sentence": "Den senaste siffran hänför sig till 24 oktober förra året och säger oss att vår diesel kostar 1,335 euro per liter jämfört med eurozonens genomsnitt på 1,165 euro.",
+    "mwe": "hänför sig till",
+    "mwe_lemmas": [
+      "hänföra",
+      "sig",
+      "till"
+    ],
+    "paraphrase": "Den senaste siffran avser 24 oktober förra året och säger oss att vår diesel kostar 1,335 euro per liter jämfört med eurozonens genomsnitt på 1,165 euro.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-729144993711633178",
+    "language": "SV",
+    "raw_text": "En betydligt högre kostnad vilken klart överskrider genomsnittet för de länder som använder den enda valutan, vilket motsvarar 1,365 euro per liter.",
+    "sentence": "En betydligt högre kostnad vilken klart överskrider genomsnittet för de länder som använder den enda valutan, vilket motsvarar 1,365 euro per liter.",
+    "mwe": "den enda valutan",
+    "mwe_lemmas": [
+      "den",
+      "enda",
+      "valuta"
+    ],
+    "paraphrase": "En betydligt högre kostnad vilken klart överskrider genomsnittet för de länder som använder euron, vilket motsvarar 1,365 euro per liter.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1312239035200338884",
+    "language": "SV",
+    "raw_text": "Den kommer att gå ut på beskattning.",
+    "sentence": "Den kommer att gå ut på beskattning.",
+    "mwe": "gå ut på",
+    "mwe_lemmas": [
+      "gå",
+      "ut",
+      "på"
+    ],
+    "paraphrase": "Den kommer att innebära beskattning.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7959615215292116805",
+    "language": "SV",
+    "raw_text": "Studenter vid LUISS University meddelades under ett möte som ägde rum i Rom.",
+    "sentence": "Studenter vid LUISS University meddelades under ett möte som ägde rum i Rom.",
+    "mwe": "ägde rum",
+    "mwe_lemmas": [
+      "äga",
+      "rum"
+    ],
+    "paraphrase": "Studenter vid LUISS University meddelades under ett möte som hölls i Rom.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5687983903836184951",
+    "language": "SV",
+    "raw_text": "I krigsfilmer eller cowboy och indianfilmer var slagen, slagsmålen och misshandeln inte av denna värld.",
+    "sentence": "I krigsfilmer eller cowboy och indianfilmer var slagen, slagsmålen och misshandeln inte av denna värld.",
+    "mwe": "av denna värld",
+    "mwe_lemmas": [
+      "av",
+      "denna",
+      "värld"
+    ],
+    "paraphrase": "I krigsfilmer eller cowboy- och indianfilmer var slagen, slagsmålen och misshandeln helt overkliga.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3948688933343447141",
+    "language": "SV",
+    "raw_text": "Den festliga dedikationen ägde rum den 30 april 1955.",
+    "sentence": "Den festliga dedikationen ägde rum den 30 april 1955.",
+    "mwe": "ägde rum",
+    "mwe_lemmas": [
+      "äga",
+      "rum"
+    ],
+    "paraphrase": "Den festliga dedikationen inträffade den 30 april 1955.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2652434899072625614",
+    "language": "SV",
+    "raw_text": "1832 såldes det före detta klostret till fabrikören Georg Reichenbach av staten Württemberg under villkoret att etablera en bomullsfabrik där.",
+    "sentence": "1832 såldes det före detta klostret till fabrikören Georg Reichenbach av staten Württemberg under villkoret att etablera en bomullsfabrik där.",
+    "mwe": "före detta",
+    "mwe_lemmas": [
+      "före",
+      "detta"
+    ],
+    "paraphrase": "1832 såldes det tidigare klostret till fabrikören Georg Reichenbach av staten Württemberg under villkoret att etablera en bomullsfabrik där.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2581601420327877399",
+    "language": "SV",
+    "raw_text": "Bland dem finns det före detta klostret till klosterkyrkan för St. Petrus och Paulus.",
+    "sentence": "Bland dem finns det före detta klostret till klosterkyrkan för St. Petrus och Paulus.",
+    "mwe": "före detta",
+    "mwe_lemmas": [
+      "före",
+      "detta"
+    ],
+    "paraphrase": "Bland dem finns det tidigare klostret till klosterkyrkan för St. Petrus och Paulus.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5845631975135328757",
+    "language": "SV",
+    "raw_text": "Både tidpunkten och händelseföljden för incidenten diskuterades energiskt.",
+    "sentence": "Både tidpunkten och händelseföljden för incidenten diskuterades energiskt.",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "Både tidpunkten och händelseföljden för incidenten diskuterades energiskt.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "4366078173344210237",
+    "language": "SV",
+    "raw_text": "I april 2012 tillkännagav den turkiske presidenten Erdogan sina regeringsplaner på att frigöra Bosporen genom att bygga Istanbulkanalen parallellt med den.",
+    "sentence": "I april 2012 tillkännagav den turkiske presidenten Erdogan sina regeringsplaner på att frigöra Bosporen genom att bygga Istanbulkanalen parallellt med den.",
+    "mwe": "tillkännagav",
+    "mwe_lemmas": [
+      "tillkännage"
+    ],
+    "paraphrase": "I april 2012 offentliggjorde den turkiske presidenten Erdogan sina regeringsplaner på att frigöra Bosporen genom att bygga Istanbulkanalen parallellt med den.",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  }
+]

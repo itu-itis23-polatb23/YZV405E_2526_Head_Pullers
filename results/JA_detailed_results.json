@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "8007475483977264746",
+    "language": "JA",
+    "raw_text": "当初からバウを気に入っている、暴力団の娘。",
+    "sentence": "当初からバウを気に入っている、暴力団の娘。",
+    "mwe": "気に入っている",
+    "mwe_lemmas": [
+      "気",
+      "入る",
+      "いる"
+    ],
+    "paraphrase": "当初からバウを好んでいる、暴力団の娘。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4144150850210328247",
+    "language": "JA",
+    "raw_text": "利用日の1か月前から当日まで発売。",
+    "sentence": "利用日の1か月前から当日まで発売。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "利用日の1か月前から当日まで発売。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-6934047945733423213",
+    "language": "JA",
+    "raw_text": "デザインも良いし,秋の夜長にピッタリなサイトだと思います。",
+    "sentence": "デザインも良いし,秋の夜長にピッタリなサイトだと思います。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "デザインも良いし,秋の夜長にピッタリなサイトだと思います。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-1037753153890505965",
+    "language": "JA",
+    "raw_text": "わいわい楽しくやるときにおすすめ。",
+    "sentence": "わいわい楽しくやるときにおすすめ。",
+    "mwe": "わいわい",
+    "mwe_lemmas": [
+      "わいわい"
+    ],
+    "paraphrase": "賑やかに楽しく過ごすときにおすすめ。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1655007047175432705",
+    "language": "JA",
+    "raw_text": "ブロフェルドの最初の登場はシリーズ第二作『ロシアより愛をこめて』で、その次が第四作『サンダーボール作戦』である。",
+    "sentence": "ブロフェルドの最初の登場はシリーズ第二作『ロシアより愛をこめて』で、その次が第四作『サンダーボール作戦』である。",
+    "mwe": "ロシアより愛をこめて",
+    "mwe_lemmas": [
+      "ロシア",
+      "より",
+      "愛",
+      "を",
+      "こめる"
+    ],
+    "paraphrase": "ブロフェルドの最初の登場はシリーズ第二作『007危機一発』で、その次が第四作『サンダーボール作戦』である。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6554470248604430849",
+    "language": "JA",
+    "raw_text": "うどん屋さんの屋号ながら、豚バラ丼がメインを張ってる。",
+    "sentence": "うどん屋さんの屋号ながら、豚バラ丼がメインを張ってる。",
+    "mwe": "メインを張ってる",
+    "mwe_lemmas": [
+      "メイン",
+      "を",
+      "張る"
+    ],
+    "paraphrase": "うどん屋という店名ですが、豚バラ丼が中心的な役割を担っています。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6892515081660900498",
+    "language": "JA",
+    "raw_text": "一点突破したものがあなたにあるか。",
+    "sentence": "一点突破したものがあなたにあるか。",
+    "mwe": "一点突破",
+    "mwe_lemmas": [
+      "一点",
+      "突破"
+    ],
+    "paraphrase": "あなたには、一つの分野で圧倒的な成果を上げた経験がありますか。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5256639705701236160",
+    "language": "JA",
+    "raw_text": "主にアダルトゲームやドラマCDのシナリオを手がける。",
+    "sentence": "主にアダルトゲームやドラマCDのシナリオを手がける。",
+    "mwe": "手がける",
+    "mwe_lemmas": [
+      "手がける"
+    ],
+    "paraphrase": "主にアダルトゲームやドラマCDのシナリオを制作している。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-9088979028215940435",
+    "language": "JA",
+    "raw_text": "物心ついたころからあるお店です。",
+    "sentence": "物心ついたころからあるお店です。",
+    "mwe": "物心ついた",
+    "mwe_lemmas": [
+      "物心",
+      "つく"
+    ],
+    "paraphrase": "私が幼いころからあるお店です。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8369715171898442609",
+    "language": "JA",
+    "raw_text": "妹は、医学生の彼がいる短大生。",
+    "sentence": "妹は、医学生の彼がいる短大生。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "妹は、医学生の彼がいる短大生。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "2579318530362546583",
+    "language": "JA",
+    "raw_text": "parejoと似た形状であるが先端と吸い口からFiguradoの特徴がある。",
+    "sentence": "parejoと似た形状であるが先端と吸い口からFiguradoの特徴がある。",
+    "mwe": "似た形状",
+    "mwe_lemmas": [
+      "似る",
+      "形状"
+    ],
+    "paraphrase": "parejoと類似した外見であるが先端と吸い口からFiguradoの特徴がある。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2884787821634154395",
+    "language": "JA",
+    "raw_text": "この間、552人の卒業生を輩出した。",
+    "sentence": "この間、552人の卒業生を輩出した。",
+    "mwe": "この間",
+    "mwe_lemmas": [
+      "この",
+      "間"
+    ],
+    "paraphrase": "その期間中に、552人の卒業生を輩出した。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5914196007578853566",
+    "language": "JA",
+    "raw_text": "街なかで同じだけ食べて飲んだら結構なお値段になるはず。",
+    "sentence": "街なかで同じだけ食べて飲んだら結構なお値段になるはず。",
+    "mwe": "結構なお値段",
+    "mwe_lemmas": [
+      "結構",
+      "な",
+      "お値段"
+    ],
+    "paraphrase": "街なかで同じだけ食べて飲んだら高額になるはず。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2384834112729687611",
+    "language": "JA",
+    "raw_text": "そんな日々を支えるのは、家族の存在。",
+    "sentence": "そんな日々を支えるのは、家族の存在。",
+    "mwe": "支える",
+    "mwe_lemmas": [
+      "支える"
+    ],
+    "paraphrase": "そんな日々を維持するのは、家族の存在だ。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4947288102444017131",
+    "language": "JA",
+    "raw_text": "のち横光利一に師事し、33年文壇に出て、徳田秋声の娘と結婚。",
+    "sentence": "のち横光利一に師事し、33年文壇に出て、徳田秋声の娘と結婚。",
+    "mwe": "師事し",
+    "mwe_lemmas": [
+      "師事",
+      "する"
+    ],
+    "paraphrase": "その後、横光利一に弟子入りし、33年に文壇へ登場して徳田秋声の娘と結婚した。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4373962527427874344",
+    "language": "JA",
+    "raw_text": "同じ文章は上祐氏のmixi日記にもアップされています。",
+    "sentence": "同じ文章は上祐氏のmixi日記にもアップされています。",
+    "mwe": "アップされています",
+    "mwe_lemmas": [
+      "アップ",
+      "する"
+    ],
+    "paraphrase": "同じ文章は上祐氏のmixi日記にも掲載されています。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7336498893002591299",
+    "language": "JA",
+    "raw_text": "池袋にあるサラリーマンの友。",
+    "sentence": "池袋にあるサラリーマンの友。",
+    "mwe": "サラリーマンの友",
+    "mwe_lemmas": [
+      "サラリーマン",
+      "の",
+      "友"
+    ],
+    "paraphrase": "池袋にある会社員の味方。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5311247636608835718",
+    "language": "JA",
+    "raw_text": "公園に面したテラスが居心地がイイです。",
+    "sentence": "公園に面したテラスが居心地がイイです。",
+    "mwe": "居心地がイイ",
+    "mwe_lemmas": [
+      "居心地",
+      "が",
+      "いい"
+    ],
+    "paraphrase": "公園に面したテラスは快適です。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-621873442780407374",
+    "language": "JA",
+    "raw_text": "翌日、党本部から事務局の幹部が県連を訪れて陳謝。",
+    "sentence": "翌日、党本部から事務局の幹部が県連を訪れて陳謝。",
+    "mwe": "党本部",
+    "mwe_lemmas": [
+      "党",
+      "本部"
+    ],
+    "paraphrase": "翌日、政党の中枢機関から事務局の幹部が県連を訪れて陳謝。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "408343208049734292",
+    "language": "JA",
+    "raw_text": "すごくおもしろい占いなので、気になった人は是非受けてもらいたいですね。",
+    "sentence": "すごくおもしろい占いなので、気になった人は是非受けてもらいたいですね。",
+    "mwe": "気になった",
+    "mwe_lemmas": [
+      "気",
+      "なる"
+    ],
+    "paraphrase": "とても興味を惹かれた方は、ぜひ受けてみてください。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3234078799366863616",
+    "language": "JA",
+    "raw_text": "それが当たり前、普通であって、驚いたり、嫌がったりしない。",
+    "sentence": "それが当たり前、普通であって、驚いたり、嫌がったりしない。",
+    "mwe": "当たり前",
+    "mwe_lemmas": [
+      "当たり前"
+    ],
+    "paraphrase": "それが当然、普通であって、驚いたり、嫌がったりしない。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8369537702543032746",
+    "language": "JA",
+    "raw_text": "似たようなコンセプトがウィリアム・トムソンのサイフォン式レコーダーにもあらわれている。",
+    "sentence": "似たようなコンセプトがウィリアム・トムソンのサイフォン式レコーダーにもあらわれている。",
+    "mwe": "似たような",
+    "mwe_lemmas": [
+      "似る",
+      "よう"
+    ],
+    "paraphrase": "同様のコンセプトがウィリアム・トムソンのサイフォン式レコーダーにもあらわれている。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6007048560449830995",
+    "language": "JA",
+    "raw_text": "遺体のそばに吉住さんのものとみられる手提げバッグと病院の駐車場に車が残されていて、吉住さんは出勤途中に事件に遭ったとみられています。",
+    "sentence": "遺体のそばに吉住さんのものとみられる手提げバッグと病院の駐車場に車が残されていて、吉住さんは出勤途中に事件に遭ったとみられています。",
+    "mwe": "事件に遭った",
+    "mwe_lemmas": [
+      "事件",
+      "に",
+      "遭う"
+    ],
+    "paraphrase": "遺体のそばに吉住さんのものとみられる手提げバッグと病院の駐車場に車が残されていて、吉住さんは出勤途中に犯罪の被害を受けたものとみられています。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "817406713063180721",
+    "language": "JA",
+    "raw_text": "区内の農作地の大部分が水田であり、農業は稲作が中心となっている。",
+    "sentence": "区内の農作地の大部分が水田であり、農業は稲作が中心となっている。",
+    "mwe": "中心となっている",
+    "mwe_lemmas": [
+      "中心",
+      "と",
+      "なる"
+    ],
+    "paraphrase": "区内の農作地の大部分が水田であり、農業は稲作が主軸である。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4162206695067335229",
+    "language": "JA",
+    "raw_text": "飯田氏は,“よろしいでしょうか”と聞いておきながら,こちらの返事も待たずに一方的に電話を切ってしまいました。",
+    "sentence": "飯田氏は,“よろしいでしょうか”と聞いておきながら,こちらの返事も待たずに一方的に電話を切ってしまいました。",
+    "mwe": "電話を切って",
+    "mwe_lemmas": [
+      "電話",
+      "切る"
+    ],
+    "paraphrase": "飯田氏は,“よろしいでしょうか”と聞いておきながら,こちらの返事も待たずに一方的に通話を終了してしまいました。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7550833191446547716",
+    "language": "JA",
+    "raw_text": "宇宙全土で影響力を失い、崩壊も時間の問題となった。",
+    "sentence": "宇宙全土で影響力を失い、崩壊も時間の問題となった。",
+    "mwe": "時間の問題",
+    "mwe_lemmas": [
+      "時間",
+      "の",
+      "問題"
+    ],
+    "paraphrase": "宇宙全土で影響力を失い、崩壊は避けられない状況となった。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3848154506782511498",
+    "language": "JA",
+    "raw_text": "高校野球は「柳川」しか知らなかった末次監督が驚いたのは、自由ケ丘の選手たちの明るさだ。",
+    "sentence": "高校野球は「柳川」しか知らなかった末次監督が驚いたのは、自由ケ丘の選手たちの明るさだ。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "高校野球は「柳川」しか知らなかった末次監督が驚いたのは、自由ケ丘の選手たちの明るさだ。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "3167505481295829845",
+    "language": "JA",
+    "raw_text": "季節を大切にした感じも良いです。",
+    "sentence": "季節を大切にした感じも良いです。",
+    "mwe": "大切にした",
+    "mwe_lemmas": [
+      "大切",
+      "にする"
+    ],
+    "paraphrase": "季節を尊重する姿勢も良いです。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3245880806314268506",
+    "language": "JA",
+    "raw_text": "放物線を描いて飛んでいく「氣雷砲」は、相手の飛び道具に相殺も反撃もされにくい。",
+    "sentence": "放物線を描いて飛んでいく「氣雷砲」は、相手の飛び道具に相殺も反撃もされにくい。",
+    "mwe": "放物線を描いて",
+    "mwe_lemmas": [
+      "放物線",
+      "を",
+      "描く"
+    ],
+    "paraphrase": "弧を描きながら飛んでいく「氣雷砲」は、相手の飛び道具に相殺も反撃もされにくい。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1482090521390295361",
+    "language": "JA",
+    "raw_text": "自由通路は全長37m、幅員約4.5mとなっている。",
+    "sentence": "自由通路は全長37m、幅員約4.5mとなっている。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "自由通路は全長37m、幅員約4.5mとなっている。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "8305945406159244669",
+    "language": "JA",
+    "raw_text": "パークチョン駅は、タイ王国中部サラブリー県の人口約5万人が暮らすムワックレック郡に位置する。",
+    "sentence": "パークチョン駅は、タイ王国中部サラブリー県の人口約5万人が暮らすムワックレック郡に位置する。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "パークチョン駅は、タイ王国中部サラブリー県の人口約5万人が暮らすムワックレック郡に位置する。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "6908333923777400300",
+    "language": "JA",
+    "raw_text": "そこへ,憮然とした表情の署長が入ってきた。",
+    "sentence": "そこへ,憮然とした表情の署長が入ってきた。",
+    "mwe": "入ってきた",
+    "mwe_lemmas": [
+      "入る",
+      "来る"
+    ],
+    "paraphrase": "そこへ、憮然とした表情の署長が姿を現した。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6956380703387460839",
+    "language": "JA",
+    "raw_text": "今川良真を名乗ったとする説もある。",
+    "sentence": "今川良真を名乗ったとする説もある。",
+    "mwe": "名乗った",
+    "mwe_lemmas": [
+      "名乗る"
+    ],
+    "paraphrase": "今川良真と自称したとする説もある。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6652817350606918239",
+    "language": "JA",
+    "raw_text": "むしろ,キャラクターの成長や,ソウルのコレクションなど,RPGの要素を強めたことで,より個性的な戦い方ができるようになります。",
+    "sentence": "むしろ,キャラクターの成長や,ソウルのコレクションなど,RPGの要素を強めたことで,より個性的な戦い方ができるようになります。",
+    "mwe": "戦い方ができる",
+    "mwe_lemmas": [
+      "戦い方",
+      "できる"
+    ],
+    "paraphrase": "むしろ、キャラクターの成長やソウルのコレクションといったRPG要素を強めたことで、より個性的な戦闘スタイルを選択可能になります。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5534237922428826916",
+    "language": "JA",
+    "raw_text": "布佐にこのお店があって重宝しています。",
+    "sentence": "布佐にこのお店があって重宝しています。",
+    "mwe": "重宝しています",
+    "mwe_lemmas": [
+      "重宝",
+      "する"
+    ],
+    "paraphrase": "布佐にこのお店があってとても便利です。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4989645577257715684",
+    "language": "JA",
+    "raw_text": "ランチタイムも良いですが、夜メニューの手打ちパスタと金華豚のアロストが最高でしたー。",
+    "sentence": "ランチタイムも良いですが、夜メニューの手打ちパスタと金華豚のアロストが最高でしたー。",
+    "mwe": "手打ちパスタ",
+    "mwe_lemmas": [
+      "手打ち",
+      "パスタ"
+    ],
+    "paraphrase": "ランチタイムも良いですが、夜メニューの職人がこねた麺料理と金華豚のアロストが最高でしたー。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4128489365415705767",
+    "language": "JA",
+    "raw_text": "紙の製法が中国からイスラム世界に伝わった契機は751年のタラス河畔の戦いで、アッバース朝軍に捕えられた唐の捕虜に紙職人がいたことである。",
+    "sentence": "紙の製法が中国からイスラム世界に伝わった契機は751年のタラス河畔の戦いで、アッバース朝軍に捕えられた唐の捕虜に紙職人がいたことである。",
+    "mwe": "タラス河畔の戦い",
+    "mwe_lemmas": [
+      "タラス",
+      "河畔",
+      "の",
+      "戦い"
+    ],
+    "paraphrase": "紙の製法が中国からイスラム世界へ伝わったきっかけは、751年に中央アジアで発生したアッバース朝と唐の軍事衝突であり、その際に捕虜となった唐の兵士の中に紙の製造技術者が含まれていたことである。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "989255227726903388",
+    "language": "JA",
+    "raw_text": "かなりの確率で一度行けば気に入っちゃいますよ。",
+    "sentence": "かなりの確率で一度行けば気に入っちゃいますよ。",
+    "mwe": "かなりの確率",
+    "mwe_lemmas": [
+      "かなり",
+      "の",
+      "確率"
+    ],
+    "paraphrase": "高い可能性で一度行けば気に入っちゃいますよ。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-437026104077832990",
+    "language": "JA",
+    "raw_text": "ただ具は皆無に等しい。",
+    "sentence": "ただ具は皆無に等しい。",
+    "mwe": "皆無に等しい",
+    "mwe_lemmas": [
+      "皆無",
+      "に",
+      "等しい"
+    ],
+    "paraphrase": "ただ具はほとんど存在しない。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3702013696279159759",
+    "language": "JA",
+    "raw_text": "それに気づいてテンション上がりまくりのD子。",
+    "sentence": "それに気づいてテンション上がりまくりのD子。",
+    "mwe": "テンション上がりまくり",
+    "mwe_lemmas": [
+      "テンション",
+      "上がる",
+      "まくり"
+    ],
+    "paraphrase": "それに気づいて非常に興奮しているD子。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4578829472614873140",
+    "language": "JA",
+    "raw_text": "ムガル帝国領となった後、18世紀~19世紀には、マラーター諸族間の抗争の地となった。",
+    "sentence": "ムガル帝国領となった後、18世紀~19世紀には、マラーター諸族間の抗争の地となった。",
+    "mwe": "抗争の地",
+    "mwe_lemmas": [
+      "抗争",
+      "地"
+    ],
+    "paraphrase": "ムガル帝国領となった後、18世紀から19世紀にかけては、マラーター諸族が争う場所となった。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5348871126128705314",
+    "language": "JA",
+    "raw_text": "発行額は未定。",
+    "sentence": "発行額は未定。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "発行額は未定。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-7850950651348155263",
+    "language": "JA",
+    "raw_text": "また、あまり度が過ぎると、のび太だけでなくジャイアンやしずかまでも呆れさせてしまうことがある。",
+    "sentence": "また、あまり度が過ぎると、のび太だけでなくジャイアンやしずかまでも呆れさせてしまうことがある。",
+    "mwe": "度が過ぎる",
+    "mwe_lemmas": [
+      "度",
+      "過ぎる"
+    ],
+    "paraphrase": "また、あまりに常軌を逸すると、のび太だけでなくジャイアンやしずかまでも呆れさせてしまうことがある。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3296796168240259023",
+    "language": "JA",
+    "raw_text": "テッサリアには古くからの人の営みがあり、紀元前2500年頃の新石器時代の遺跡がある。",
+    "sentence": "テッサリアには古くからの人の営みがあり、紀元前2500年頃の新石器時代の遺跡がある。",
+    "mwe": "古くからの",
+    "mwe_lemmas": [
+      "古い",
+      "から",
+      "の"
+    ],
+    "paraphrase": "テッサリアには太古より人の営みがあり、紀元前2500年頃の新石器時代の遺跡がある。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-739589806863989923",
+    "language": "JA",
+    "raw_text": "譜が複雑で、替えの手が多く、装飾的な傾向がつよい。",
+    "sentence": "譜が複雑で、替えの手が多く、装飾的な傾向がつよい。",
+    "mwe": "替えの手",
+    "mwe_lemmas": [
+      "替え",
+      "の",
+      "手"
+    ],
+    "paraphrase": "譜が複雑で、代わりの演奏技法が多く、装飾的な傾向がつよい。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "5974903187987611505",
+    "language": "JA",
+    "raw_text": "折込チラシを見て行きました。",
+    "sentence": "折込チラシを見て行きました。",
+    "mwe": "折込チラシ",
+    "mwe_lemmas": [
+      "折込",
+      "チラシ"
+    ],
+    "paraphrase": "新聞に挟まれていた広告を見て行きました。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6979613314581440784",
+    "language": "JA",
+    "raw_text": "ロシア・スラブ地方の生まれだったが、奴隷商人にさらわれ、売春窟へと売られ屈辱と絶望の日々を過ごす。",
+    "sentence": "ロシア・スラブ地方の生まれだったが、奴隷商人にさらわれ、売春窟へと売られ屈辱と絶望の日々を過ごす。",
+    "mwe": "日々を過ごす",
+    "mwe_lemmas": [
+      "日々",
+      "過ごす"
+    ],
+    "paraphrase": "ロシア・スラブ地方の生まれだったが、奴隷商人にさらわれ、売春窟へと売られ屈辱と絶望の中で生きた。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4921436087857439864",
+    "language": "JA",
+    "raw_text": "お世話になっている弁理士事務所です。",
+    "sentence": "お世話になっている弁理士事務所です。",
+    "mwe": "お世話になっている",
+    "mwe_lemmas": [
+      "お世話",
+      "に",
+      "なる"
+    ],
+    "paraphrase": "日頃から支援を受けている弁理士事務所です。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-247682223951973787",
+    "language": "JA",
+    "raw_text": "1978年ごろには、芸能界デビューまもないタモリも生徒だった。",
+    "sentence": "1978年ごろには、芸能界デビューまもないタモリも生徒だった。",
+    "mwe": "芸能界デビュー",
+    "mwe_lemmas": [
+      "芸能界",
+      "デビュー"
+    ],
+    "paraphrase": "1978年ごろには、テレビの世界に入ったばかりのタモリも生徒だった。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8155943467230511162",
+    "language": "JA",
+    "raw_text": "蔵の街循環「のらっせ号」市立小・中学校に通う場合、学区は以下の通りとなる。",
+    "sentence": "蔵の街循環「のらっせ号」市立小・中学校に通う場合、学区は以下の通りとなる。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "蔵の街循環「のらっせ号」市立小・中学校に通う場合、学区は以下の通りとなる。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "7534983273394721040",
+    "language": "JA",
+    "raw_text": "長野県を本来の美しい風土にしたい、と情熱を燃やし続ける。",
+    "sentence": "長野県を本来の美しい風土にしたい、と情熱を燃やし続ける。",
+    "mwe": "情熱を燃やし続ける",
+    "mwe_lemmas": [
+      "情熱",
+      "を",
+      "燃やす",
+      "続ける"
+    ],
+    "paraphrase": "長野県を本来の美しい風土にしたいという強い意欲を抱き続けている。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3923290922537100251",
+    "language": "JA",
+    "raw_text": "意外な年俸アップの陰に、横浜のアンバランスな選手構成がのぞく。",
+    "sentence": "意外な年俸アップの陰に、横浜のアンバランスな選手構成がのぞく。",
+    "mwe": "陰に",
+    "mwe_lemmas": [
+      "陰",
+      "に"
+    ],
+    "paraphrase": "意外な年俸アップの裏側には、横浜のアンバランスな選手構成が見え隠れしている。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6890110401449985830",
+    "language": "JA",
+    "raw_text": "ソフィア大聖堂は素晴らしい世界遺産です。",
+    "sentence": "ソフィア大聖堂は素晴らしい世界遺産です。",
+    "mwe": "世界遺産",
+    "mwe_lemmas": [
+      "世界",
+      "遺産"
+    ],
+    "paraphrase": "ソフィア大聖堂は国際的に保護されるべき文化財です。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1613571314680540992",
+    "language": "JA",
+    "raw_text": "自分の目元をもっとはっきりさせたくてここのサロンに行きました。",
+    "sentence": "自分の目元をもっとはっきりさせたくてここのサロンに行きました。",
+    "mwe": "目元",
+    "mwe_lemmas": [
+      "目元"
+    ],
+    "paraphrase": "自分の目の周りをもっとはっきりさせたくてここのサロンに行きました。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4862943098306111649",
+    "language": "JA",
+    "raw_text": "誘電体の表面の分極電荷の面積密度は、分極Pの表面法線成分に等しい。",
+    "sentence": "誘電体の表面の分極電荷の面積密度は、分極Pの表面法線成分に等しい。",
+    "mwe": "表面法線成分",
+    "mwe_lemmas": [
+      "表面",
+      "法線",
+      "成分"
+    ],
+    "paraphrase": "誘電体の表面における分極電荷の面積密度は、分極Pが境界に対して垂直な方向へ向かう大きさに等しい。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5164271097630236693",
+    "language": "JA",
+    "raw_text": "統一教会側は約1時間で抗議活動を終了。",
+    "sentence": "統一教会側は約1時間で抗議活動を終了。",
+    "mwe": "抗議活動",
+    "mwe_lemmas": [
+      "抗議",
+      "活動"
+    ],
+    "paraphrase": "統一教会側は約1時間で反対運動を終了した。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6845630441119112021",
+    "language": "JA",
+    "raw_text": "これ以後、尹が四川省の主導権を握ることはなかったのである。",
+    "sentence": "これ以後、尹が四川省の主導権を握ることはなかったのである。",
+    "mwe": "主導権を握る",
+    "mwe_lemmas": [
+      "主導権",
+      "握る"
+    ],
+    "paraphrase": "これ以後、尹が四川省を支配することはなかったのである。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1329994189612251250",
+    "language": "JA",
+    "raw_text": "夜、10時までやっていてキレイで気に入ってます!",
+    "sentence": "夜、10時までやっていてキレイで気に入ってます!",
+    "mwe": "気に入って",
+    "mwe_lemmas": [
+      "気",
+      "入る"
+    ],
+    "paraphrase": "夜10時まで営業していて綺麗なので、とても好きです！",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2499151760319412599",
+    "language": "JA",
+    "raw_text": "また、名称も漢数字からアラビア数字の「2号機」に改められている。",
+    "sentence": "また、名称も漢数字からアラビア数字の「2号機」に改められている。",
+    "mwe": "改められている",
+    "mwe_lemmas": [
+      "改める",
+      "いる"
+    ],
+    "paraphrase": "また、名称も漢数字からアラビア数字の「2号機」に変更された。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8570646830016605634",
+    "language": "JA",
+    "raw_text": "一方の父親バックが監督を務める“グラディエーター”は地区でも一目置かれる強豪チーム。",
+    "sentence": "一方の父親バックが監督を務める“グラディエーター”は地区でも一目置かれる強豪チーム。",
+    "mwe": "一目置かれる",
+    "mwe_lemmas": [
+      "一目",
+      "置く"
+    ],
+    "paraphrase": "一方の父親バックが監督を務める“グラディエーター”は地区でも尊敬を集める強豪チーム。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4290196952784381162",
+    "language": "JA",
+    "raw_text": "「Ray」10月号では、ペンシルパンツを使った最新の着こなしテクニックを多数紹介。",
+    "sentence": "「Ray」10月号では、ペンシルパンツを使った最新の着こなしテクニックを多数紹介。",
+    "mwe": "着こなし",
+    "mwe_lemmas": [
+      "着こなし"
+    ],
+    "paraphrase": "「Ray」10月号では、ペンシルパンツを用いた最新の服装術を多数紹介。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6247263441754456611",
+    "language": "JA",
+    "raw_text": "このクォリティーでこの価格は超格安でした。",
+    "sentence": "このクォリティーでこの価格は超格安でした。",
+    "mwe": "超格安",
+    "mwe_lemmas": [
+      "超",
+      "格安"
+    ],
+    "paraphrase": "このクォリティーでこの価格は非常に手頃でした。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5462979848337461825",
+    "language": "JA",
+    "raw_text": "客層はさまざまで、50歳台位が多いようです。",
+    "sentence": "客層はさまざまで、50歳台位が多いようです。",
+    "mwe": "50歳台",
+    "mwe_lemmas": [
+      "50",
+      "歳",
+      "台"
+    ],
+    "paraphrase": "客層はさまざまで、五十代半ばの人が多いようです。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3745899700692519073",
+    "language": "JA",
+    "raw_text": "総監督は『ゼイラム』や『牙狼-GARO-』などを手がけた雨宮慶太が担当、ストーリーやイメージイラストなど、本作品の様々な部分に携わっている。",
+    "sentence": "総監督は『ゼイラム』や『牙狼-GARO-』などを手がけた雨宮慶太が担当、ストーリーやイメージイラストなど、本作品の様々な部分に携わっている。",
+    "mwe": "手がけた",
+    "mwe_lemmas": [
+      "手掛ける"
+    ],
+    "paraphrase": "総監督は『ゼイラム』や『牙狼-GARO-』などを制作した雨宮慶太が担当、ストーリーやイメージイラストなど、本作品の様々な部分に携わっている。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7097781451751999867",
+    "language": "JA",
+    "raw_text": "その文面は以下のとおりです。",
+    "sentence": "その文面は以下のとおりです。",
+    "mwe": "以下のとおり",
+    "mwe_lemmas": [
+      "以下",
+      "の",
+      "とおり"
+    ],
+    "paraphrase": "その内容は次の通りです。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2746635989040330928",
+    "language": "JA",
+    "raw_text": "民宿とは思えないほどの決め細やかなサービスと、バリエーションに富んだお料理でとても満足できましたよ!",
+    "sentence": "民宿とは思えないほどの決め細やかなサービスと、バリエーションに富んだお料理でとても満足できましたよ!",
+    "mwe": "バリエーションに富んだ",
+    "mwe_lemmas": [
+      "バリエーション",
+      "に",
+      "富む"
+    ],
+    "paraphrase": "民宿とは思えないほどのきめ細やかなサービスと、多様な種類のお料理でとても満足できましたよ!",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1037444389021337066",
+    "language": "JA",
+    "raw_text": "理事長先生の診察が痛くなくて、人当たりも優しいのでここに通っています。",
+    "sentence": "理事長先生の診察が痛くなくて、人当たりも優しいのでここに通っています。",
+    "mwe": "人当たり",
+    "mwe_lemmas": [
+      "人当たり"
+    ],
+    "paraphrase": "理事長先生の診察が痛くなくて、接し方も優しいのでここに通っています。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "497968511680375941",
+    "language": "JA",
+    "raw_text": "ミレニアムシリーズの続編や、ディズニー「海底2万里」のリメイク作品も控えている。",
+    "sentence": "ミレニアムシリーズの続編や、ディズニー「海底2万里」のリメイク作品も控えている。",
+    "mwe": "控えている",
+    "mwe_lemmas": [
+      "控える",
+      "いる"
+    ],
+    "paraphrase": "ミレニアムシリーズの続編や、ディズニー「海底2万里」のリメイク作品も準備中だ。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-2338062396608304430",
+    "language": "JA",
+    "raw_text": "優柔不断な青年の役、コミカルな役、ひねくれ者の役などくせのある役柄を演じることが多く、「キリン生烏龍」などのインパクトのあるCM出演がある。",
+    "sentence": "優柔不断な青年の役、コミカルな役、ひねくれ者の役などくせのある役柄を演じることが多く、「キリン生烏龍」などのインパクトのあるCM出演がある。",
+    "mwe": "優柔不断",
+    "mwe_lemmas": [
+      "優柔不断"
+    ],
+    "paraphrase": "意志が弱く決断力に欠ける青年の役、コミカルな役、ひねくれ者の役などくせのある役柄を演じることが多く、「キリン生烏龍」などのインパクトのあるCM出演がある。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6939970745515942353",
+    "language": "JA",
+    "raw_text": "コーヒーをテーブルで入れてもらう際の香りがたまりません。",
+    "sentence": "コーヒーをテーブルで入れてもらう際の香りがたまりません。",
+    "mwe": "入れてもらう",
+    "mwe_lemmas": [
+      "入れる",
+      "もらう"
+    ],
+    "paraphrase": "テーブルでコーヒーを淹れていただく際の香りが最高です。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6852537256184180916",
+    "language": "JA",
+    "raw_text": "後述の車体カラーリングが話題を呼んだ。",
+    "sentence": "後述の車体カラーリングが話題を呼んだ。",
+    "mwe": "話題を呼んだ",
+    "mwe_lemmas": [
+      "話題",
+      "を",
+      "呼ぶ"
+    ],
+    "paraphrase": "後述の車体カラーリングが注目を集めた。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3860970417393542694",
+    "language": "JA",
+    "raw_text": "記者がオウムの名を初めて目にしたのは20数年前,杉並区内の電柱に貼られていたビラだった。",
+    "sentence": "記者がオウムの名を初めて目にしたのは20数年前,杉並区内の電柱に貼られていたビラだった。",
+    "mwe": "目にした",
+    "mwe_lemmas": [
+      "目",
+      "する"
+    ],
+    "paraphrase": "記者がオウムの名を初めて見たのは20数年前、杉並区内の電柱に貼られていたビラだった。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4586888607236839574",
+    "language": "JA",
+    "raw_text": "同議員直系の地元市議は霊感商法の店舗の代表取締役経験者。",
+    "sentence": "同議員直系の地元市議は霊感商法の店舗の代表取締役経験者。",
+    "mwe": "代表取締役",
+    "mwe_lemmas": [
+      "代表",
+      "取締役"
+    ],
+    "paraphrase": "同議員直系の地元市議は、霊感商法の店舗で経営の最高責任者を務めた経験がある。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8450447642525686687",
+    "language": "JA",
+    "raw_text": "事実、信長の六女・三の丸殿は秀吉が死の間際に側室としている。",
+    "sentence": "事実、信長の六女・三の丸殿は秀吉が死の間際に側室としている。",
+    "mwe": "死の間際",
+    "mwe_lemmas": [
+      "死",
+      "の",
+      "間際"
+    ],
+    "paraphrase": "事実、信長の六女・三の丸殿は秀吉が亡くなる直前に側室となっている。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1012656506343840895",
+    "language": "JA",
+    "raw_text": "戦後最大の労働問題とされるJR不採用問題では、組合員側が解雇の無効などを求めて訴訟を続けている。",
+    "sentence": "戦後最大の労働問題とされるJR不採用問題では、組合員側が解雇の無効などを求めて訴訟を続けている。",
+    "mwe": "訴訟を続けている",
+    "mwe_lemmas": [
+      "訴訟",
+      "続ける"
+    ],
+    "paraphrase": "戦後最大の労働問題とされるJR不採用問題では、組合員側が解雇の無効などを求めて裁判を継続している。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8675561245205599418",
+    "language": "JA",
+    "raw_text": "メロンパンナを飛べなくしたが、マリンの体当たりを喰らい、壊れた。",
+    "sentence": "メロンパンナを飛べなくしたが、マリンの体当たりを喰らい、壊れた。",
+    "mwe": "体当たりを喰らい",
+    "mwe_lemmas": [
+      "体当たり",
+      "食らう"
+    ],
+    "paraphrase": "メロンパンナを飛べなくしたが、マリンの突撃を受けて壊れた。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7708773193299849459",
+    "language": "JA",
+    "raw_text": "蝶、蛾もかつては、かはひらこ、ひひる、ひむしなどと大和言葉で呼ばれていた。",
+    "sentence": "蝶、蛾もかつては、かはひらこ、ひひる、ひむしなどと大和言葉で呼ばれていた。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "蝶、蛾もかつては、かはひらこ、ひひる、ひむしなどと大和言葉で呼ばれていた。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-7597735154926288227",
+    "language": "JA",
+    "raw_text": "これが係船浮標である。",
+    "sentence": "これが係船浮標である。",
+    "mwe": "係船浮標",
+    "mwe_lemmas": [
+      "係船",
+      "浮標"
+    ],
+    "paraphrase": "これが船を繋ぎ止めるためのブイである。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-245646948066677394",
+    "language": "JA",
+    "raw_text": "出来たても日が経っても美味い。",
+    "sentence": "出来たても日が経っても美味い。",
+    "mwe": "日が経っても",
+    "mwe_lemmas": [
+      "日",
+      "が",
+      "経つ",
+      "ても"
+    ],
+    "paraphrase": "作りたてでも時間が経過しても美味い。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1238877788271114607",
+    "language": "JA",
+    "raw_text": "これからも、仕事の合間をぬって通おうと思います!",
+    "sentence": "これからも、仕事の合間をぬって通おうと思います!",
+    "mwe": "合間をぬって",
+    "mwe_lemmas": [
+      "合間",
+      "を",
+      "ぬう"
+    ],
+    "paraphrase": "これからも、仕事の隙間時間を見つけて通おうと思います!",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5267205343033861678",
+    "language": "JA",
+    "raw_text": "全面禁煙は大阪府が08年5月から実施。",
+    "sentence": "全面禁煙は大阪府が08年5月から実施。",
+    "mwe": "実施",
+    "mwe_lemmas": [
+      "実施"
+    ],
+    "paraphrase": "全面禁煙は大阪府が08年5月から導入した。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-803381400364122946",
+    "language": "JA",
+    "raw_text": "気分が晴れる感じがして安心できました。",
+    "sentence": "気分が晴れる感じがして安心できました。",
+    "mwe": "気分が晴れる",
+    "mwe_lemmas": [
+      "気分",
+      "が",
+      "晴れる"
+    ],
+    "paraphrase": "心が軽くなる感じがして安心できました。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-880674868813878522",
+    "language": "JA",
+    "raw_text": "署長の顔が,突然ほころんだ。",
+    "sentence": "署長の顔が,突然ほころんだ。",
+    "mwe": "顔がほころんだ",
+    "mwe_lemmas": [
+      "顔",
+      "ほころぶ"
+    ],
+    "paraphrase": "署長は突然にこやかな表情を見せた。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7814854970096219360",
+    "language": "JA",
+    "raw_text": "荒神輿は「チョーサンヤ」、団車は「アラヨーイトナ」の掛け声で進む。",
+    "sentence": "荒神輿は「チョーサンヤ」、団車は「アラヨーイトナ」の掛け声で進む。",
+    "mwe": "掛け声",
+    "mwe_lemmas": [
+      "掛け声"
+    ],
+    "paraphrase": "荒神輿は「チョーサンヤ」、団車は「アラヨーイトナ」という威勢の良い声で進む。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-3102240822818998427",
+    "language": "JA",
+    "raw_text": "現在の昭島市の中部に位置する。",
+    "sentence": "現在の昭島市の中部に位置する。",
+    "mwe": "位置する",
+    "mwe_lemmas": [
+      "位置",
+      "する"
+    ],
+    "paraphrase": "現在の昭島市の中部に存在している。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "4777598953539148543",
+    "language": "JA",
+    "raw_text": "魚料理は日本海の新鮮なお魚で最高。",
+    "sentence": "魚料理は日本海の新鮮なお魚で最高。",
+    "mwe": "魚料理",
+    "mwe_lemmas": [
+      "魚",
+      "料理"
+    ],
+    "paraphrase": "海鮮メニューは日本海の新鮮な食材を使っており最高だ。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-1904588464465078261",
+    "language": "JA",
+    "raw_text": "朝の目覚めがよく,一日中,元気で眠くならないのです。",
+    "sentence": "朝の目覚めがよく,一日中,元気で眠くならないのです。",
+    "mwe": "目覚めがよく",
+    "mwe_lemmas": [
+      "目覚め",
+      "が",
+      "よい"
+    ],
+    "paraphrase": "朝、すっきりと起きられるので、一日中元気で眠くなりません。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2773419754128938051",
+    "language": "JA",
+    "raw_text": "しかし、そんな情報通な彼もダンディ坂野の「崖っぷちからの脱出方法」だけは答えられなかった。",
+    "sentence": "しかし、そんな情報通な彼もダンディ坂野の「崖っぷちからの脱出方法」だけは答えられなかった。",
+    "mwe": "情報通",
+    "mwe_lemmas": [
+      "情報通"
+    ],
+    "paraphrase": "しかし、そんな物知りな彼もダンディ坂野の「崖っぷちからの脱出方法」だけは答えられなかった。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4667954929692750499",
+    "language": "JA",
+    "raw_text": "長男はファッションデザイナーの倉石一樹。",
+    "sentence": "長男はファッションデザイナーの倉石一樹。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "長男はファッションデザイナーの倉石一樹。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-4768202175758427946",
+    "language": "JA",
+    "raw_text": "女性は嫌な人もいるので気にした方がよいかな!",
+    "sentence": "女性は嫌な人もいるので気にした方がよいかな!",
+    "mwe": "気にした",
+    "mwe_lemmas": [
+      "気にする"
+    ],
+    "paraphrase": "女性の中には苦手な人もいるので注意した方がよいかな！",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-6580101432284208858",
+    "language": "JA",
+    "raw_text": "昨年の中国での販売台数は9万0500台で、今年の目標はそれを33%上回る水準となる。",
+    "sentence": "昨年の中国での販売台数は9万0500台で、今年の目標はそれを33%上回る水準となる。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "昨年の中国での販売台数は9万0500台で、今年の目標はそれを33%上回る水準となる。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "2391382073236872514",
+    "language": "JA",
+    "raw_text": "また,営利目的の団体ではありません。",
+    "sentence": "また,営利目的の団体ではありません。",
+    "mwe": "営利目的",
+    "mwe_lemmas": [
+      "営利",
+      "目的"
+    ],
+    "paraphrase": "また、利益を追求する団体ではありません。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4304948253579181715",
+    "language": "JA",
+    "raw_text": "統一教義では,信者の二世が教会の集団結婚に参加できなければ悪魔にも劣り,地獄に堕ちるとされる。",
+    "sentence": "統一教義では,信者の二世が教会の集団結婚に参加できなければ悪魔にも劣り,地獄に堕ちるとされる。",
+    "mwe": "地獄に堕ちる",
+    "mwe_lemmas": [
+      "地獄",
+      "に",
+      "堕ちる"
+    ],
+    "paraphrase": "統一教義では、信者の二世が教会の集団結婚に参加できなければ悪魔にも劣り、永遠の苦しみを味わうとされる。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2476142617466480815",
+    "language": "JA",
+    "raw_text": "画面周りからジョブの設定方法、移行項目までご覧いただけます。",
+    "sentence": "画面周りからジョブの設定方法、移行項目までご覧いただけます。",
+    "mwe": "ご覧いただけます",
+    "mwe_lemmas": [
+      "ご覧",
+      "いただく"
+    ],
+    "paraphrase": "画面周りからジョブの設定方法、移行項目まで確認できます。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6216407040208771839",
+    "language": "JA",
+    "raw_text": "離れた場所のものでも操作できる「遠隔操作のアリス」を持つ。",
+    "sentence": "離れた場所のものでも操作できる「遠隔操作のアリス」を持つ。",
+    "mwe": "遠隔操作",
+    "mwe_lemmas": [
+      "遠隔",
+      "操作"
+    ],
+    "paraphrase": "離れた場所のものでも動かせる「リモートコントロールのアリス」を持つ。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "7228077124680907892",
+    "language": "JA",
+    "raw_text": "光線兵器レーザーを使い、外人部隊を率いる。",
+    "sentence": "光線兵器レーザーを使い、外人部隊を率いる。",
+    "mwe": "外人部隊",
+    "mwe_lemmas": [
+      "外人",
+      "部隊"
+    ],
+    "paraphrase": "光線兵器レーザーを使い、外国人傭兵集団を率いる。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4775605598904607432",
+    "language": "JA",
+    "raw_text": "これはもはや感性ではなく,色気違いである。",
+    "sentence": "これはもはや感性ではなく,色気違いである。",
+    "mwe": "色気違い",
+    "mwe_lemmas": [
+      "色気違い"
+    ],
+    "paraphrase": "これはもはや感性ではなく、単なる狂気である。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-698623972266637981",
+    "language": "JA",
+    "raw_text": "神戸の心理カウンセリングならば『ヒーリングスペース・リーブル』がとっても良かったですよー。",
+    "sentence": "神戸の心理カウンセリングならば『ヒーリングスペース・リーブル』がとっても良かったですよー。",
+    "mwe": "心理カウンセリング",
+    "mwe_lemmas": [
+      "心理",
+      "カウンセリング"
+    ],
+    "paraphrase": "神戸で心の悩み相談をするなら『ヒーリングスペース・リーブル』がとっても良かったですよー。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "2137886772036162700",
+    "language": "JA",
+    "raw_text": "初戦は移動ミスでプロフェッサーを倒され、凍結を防げなくなり敗北。",
+    "sentence": "初戦は移動ミスでプロフェッサーを倒され、凍結を防げなくなり敗北。",
+    "mwe": "プロフェッサーを倒され",
+    "mwe_lemmas": [
+      "プロフェッサー",
+      "倒す"
+    ],
+    "paraphrase": "初戦は移動ミスで教授のキャラクターを失い、凍結を防げなくなり敗北。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3907802980514862278",
+    "language": "JA",
+    "raw_text": "その彼の希望にそっただけです。",
+    "sentence": "その彼の希望にそっただけです。",
+    "mwe": "希望にそった",
+    "mwe_lemmas": [
+      "希望",
+      "に",
+      "沿う"
+    ],
+    "paraphrase": "私は彼が望んだ通りにしただけです。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6234934443654302812",
+    "language": "JA",
+    "raw_text": "買い物に来る人達はみな真剣です。",
+    "sentence": "買い物に来る人達はみな真剣です。",
+    "mwe": "買い物に来る",
+    "mwe_lemmas": [
+      "買い物",
+      "に",
+      "来る"
+    ],
+    "paraphrase": "品物を購入しに来る人達はみな真剣です。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "3805110764831947834",
+    "language": "JA",
+    "raw_text": "ランチでも人が絶えない人気店です。",
+    "sentence": "ランチでも人が絶えない人気店です。",
+    "mwe": "人が絶えない",
+    "mwe_lemmas": [
+      "人",
+      "絶える"
+    ],
+    "paraphrase": "ランチでも客足が途切れない人気店です。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "6264356524307258439",
+    "language": "JA",
+    "raw_text": "資格も取れて、希望通りの就職もかないました。",
+    "sentence": "資格も取れて、希望通りの就職もかないました。",
+    "mwe": "希望通り",
+    "mwe_lemmas": [
+      "希望",
+      "通り"
+    ],
+    "paraphrase": "資格も取れて、望んでいた通りの就職もかないました。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-4482952842235809793",
+    "language": "JA",
+    "raw_text": "先制点は相手のミスから。",
+    "sentence": "先制点は相手のミスから。",
+    "mwe": "先制点",
+    "mwe_lemmas": [
+      "先制",
+      "点"
+    ],
+    "paraphrase": "最初の得点は相手のミスによるものだった。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-5896716368251805498",
+    "language": "JA",
+    "raw_text": "1875年には北カフカスへ向かう北カフカース鉄道がバタイスクを通るようになった。",
+    "sentence": "1875年には北カフカスへ向かう北カフカース鉄道がバタイスクを通るようになった。",
+    "mwe": "通るようになった",
+    "mwe_lemmas": [
+      "通る",
+      "なる"
+    ],
+    "paraphrase": "1875年には北カフカスへ向かう北カフカース鉄道がバタイスクを経由し始めた。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-7644061635999683558",
+    "language": "JA",
+    "raw_text": "保健室の養護教諭。",
+    "sentence": "保健室の養護教諭。",
+    "mwe": "養護教諭",
+    "mwe_lemmas": [
+      "養護",
+      "教諭"
+    ],
+    "paraphrase": "保健室の看護師。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "1550727836005647395",
+    "language": "JA",
+    "raw_text": "私はむかしから首元におおきなシミがあるので、なるべくタートルを着たり、見えないようにしてきました。",
+    "sentence": "私はむかしから首元におおきなシミがあるので、なるべくタートルを着たり、見えないようにしてきました。",
+    "mwe": "首元",
+    "mwe_lemmas": [
+      "首",
+      "元"
+    ],
+    "paraphrase": "私はむかしから喉のあたりにおおきなシミがあるので、なるべくタートルを着たり、見えないようにしてきました。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "8828700668115463811",
+    "language": "JA",
+    "raw_text": "これがブリティッシュ・ロックの夜明けである。",
+    "sentence": "これがブリティッシュ・ロックの夜明けである。",
+    "mwe": "ブリティッシュ・ロック",
+    "mwe_lemmas": [
+      "ブリティッシュ",
+      "ロック"
+    ],
+    "paraphrase": "これがイギリスの音楽の始まりである。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": null
+  },
+  {
+    "id": "-8938893331635056130",
+    "language": "JA",
+    "raw_text": "そして2月22日,教団はきょう子氏の“永久追放”を発表。",
+    "sentence": "そして2月22日,教団はきょう子氏の“永久追放”を発表。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "そして2月22日,教団はきょう子氏の“永久追放”を発表。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-5132718814494975169",
+    "language": "JA",
+    "raw_text": "亜理沙がいなければゼウスの野望は達成できないと考え、薬で亜理沙を仮死状態にした。",
+    "sentence": "亜理沙がいなければゼウスの野望は達成できないと考え、薬で亜理沙を仮死状態にした。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "亜理沙がいなければゼウスの野望は達成できないと考え、薬で亜理沙を仮死状態にした。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-7931553608357862021",
+    "language": "JA",
+    "raw_text": "大型の闘犬と同じくらいの大きさで、見た目も性質も猫に近いが猫ではない。",
+    "sentence": "大型の闘犬と同じくらいの大きさで、見た目も性質も猫に近いが猫ではない。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "大型の闘犬と同じくらいの大きさで、見た目も性質も猫に近いが猫ではない。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "2071589217588626603",
+    "language": "JA",
+    "raw_text": "声を掛けると,全員足立教会の信者だった。",
+    "sentence": "声を掛けると,全員足立教会の信者だった。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "声を掛けると,全員足立教会の信者だった。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-3086082743439161711",
+    "language": "JA",
+    "raw_text": "受付から治療まで、皆さんとても親切でいつ通っても気持ちの良い歯科医さんでした。",
+    "sentence": "受付から治療まで、皆さんとても親切でいつ通っても気持ちの良い歯科医さんでした。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "受付から治療まで、皆さんとても親切でいつ通っても気持ちの良い歯科医さんでした。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-1967684733236561658",
+    "language": "JA",
+    "raw_text": "冠山の山頂から西北西約1.8kmに位置する。",
+    "sentence": "冠山の山頂から西北西約1.8kmに位置する。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "冠山の山頂から西北西約1.8kmに位置する。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-6135188730624446087",
+    "language": "JA",
+    "raw_text": "第6代将軍・足利義教の偏諱を受けて教康と名乗った。",
+    "sentence": "第6代将軍・足利義教の偏諱を受けて教康と名乗った。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "第6代将軍・足利義教の偏諱を受けて教康と名乗った。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-8200455032624897812",
+    "language": "JA",
+    "raw_text": "主人公三人にスポットを当てた、ミュージッククリップ。",
+    "sentence": "主人公三人にスポットを当てた、ミュージッククリップ。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "主人公三人にスポットを当てた、ミュージッククリップ。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "8210287464108692262",
+    "language": "JA",
+    "raw_text": "アニメーションをマンガのように読める工夫を凝らし、斬新でインパクトあるコミック体験を可能にしております。",
+    "sentence": "アニメーションをマンガのように読める工夫を凝らし、斬新でインパクトあるコミック体験を可能にしております。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "アニメーションをマンガのように読める工夫を凝らし、斬新でインパクトあるコミック体験を可能にしております。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "1337101887011448379",
+    "language": "JA",
+    "raw_text": "この研究所は主に科学的機器の製造を目的としていた。",
+    "sentence": "この研究所は主に科学的機器の製造を目的としていた。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "この研究所は主に科学的機器の製造を目的としていた。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-4820161593294313199",
+    "language": "JA",
+    "raw_text": "このとき、ヒューストン・アストロズのスカウトを勤めていたアンドレス・レイナーがサンタナの強肩ぶりに目をつける。",
+    "sentence": "このとき、ヒューストン・アストロズのスカウトを勤めていたアンドレス・レイナーがサンタナの強肩ぶりに目をつける。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "このとき、ヒューストン・アストロズのスカウトを勤めていたアンドレス・レイナーがサンタナの強肩ぶりに目をつける。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-7095784110850496353",
+    "language": "JA",
+    "raw_text": "また、寝起きが悪く、仁が起こしに行かないとずっと寝ていることもある。",
+    "sentence": "また、寝起きが悪く、仁が起こしに行かないとずっと寝ていることもある。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "また、寝起きが悪く、仁が起こしに行かないとずっと寝ていることもある。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "3106226370030236909",
+    "language": "JA",
+    "raw_text": "ご来場くださった皆さん,出演者のみなさん,ありがとうございます。",
+    "sentence": "ご来場くださった皆さん,出演者のみなさん,ありがとうございます。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "ご来場くださった皆さん,出演者のみなさん,ありがとうございます。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-3429335303379545496",
+    "language": "JA",
+    "raw_text": "東日本大震災後、5月27日までに職探しを始めた有効求職者数は、被災3県で計3万8942人。",
+    "sentence": "東日本大震災後、5月27日までに職探しを始めた有効求職者数は、被災3県で計3万8942人。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "東日本大震災後、5月27日までに職探しを始めた有効求職者数は、被災3県で計3万8942人。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-25283980580119932",
+    "language": "JA",
+    "raw_text": "北朝鮮の金正日総書記の死去で大きく揺れた韓国の株式市場の今後のポイントを探ります。",
+    "sentence": "北朝鮮の金正日総書記の死去で大きく揺れた韓国の株式市場の今後のポイントを探ります。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "北朝鮮の金正日総書記の死去で大きく揺れた韓国の株式市場の今後のポイントを探ります。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-8124764766180064738",
+    "language": "JA",
+    "raw_text": "今回の海外写真集は日本がほとんどですが、これから5年たった時は、欧米など海外に見聞を広めた人がさらに増えるに違いありません。",
+    "sentence": "今回の海外写真集は日本がほとんどですが、これから5年たった時は、欧米など海外に見聞を広めた人がさらに増えるに違いありません。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "今回の海外写真集は日本がほとんどですが、これから5年たった時は、欧米など海外に見聞を広めた人がさらに増えるに違いありません。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "3577521002055027180",
+    "language": "JA",
+    "raw_text": "不在時は車内精算。",
+    "sentence": "不在時は車内精算。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "不在時は車内精算。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "5801428588587009352",
+    "language": "JA",
+    "raw_text": "明朗快活なヒロイン、同伊はハン・ヒョジュのイメージぴったり。",
+    "sentence": "明朗快活なヒロイン、同伊はハン・ヒョジュのイメージぴったり。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "明朗快活なヒロイン、同伊はハン・ヒョジュのイメージぴったり。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-5486084278712205281",
+    "language": "JA",
+    "raw_text": "サスペンスドラマのタイアップな所為か、ストーリー仕立てになっている。",
+    "sentence": "サスペンスドラマのタイアップな所為か、ストーリー仕立てになっている。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "サスペンスドラマのタイアップな所為か、ストーリー仕立てになっている。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  },
+  {
+    "id": "-3653805995067615848",
+    "language": "JA",
+    "raw_text": "そんな時にこちらを訪れたのですが、スタッフさんやその対応が良い会社で、びっくりしましたね。",
+    "sentence": "そんな時にこちらを訪れたのですが、スタッフさんやその対応が良い会社で、びっくりしましたね。",
+    "mwe": "",
+    "mwe_lemmas": [],
+    "paraphrase": "そんな時にこちらを訪れたのですが、スタッフさんやその対応が良い会社で、びっくりしましたね。",
+    "constraint_satisfied": true,
+    "retries_used": 0,
+    "error": "No MWE detected"
+  }
+]
