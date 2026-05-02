@@ -17,3 +17,12 @@ accelerate>=0.29.0
 
 # ── Utilities ─────────────────────────────────────────────────────────────────
 tqdm
+
+# ── Scoring program (scoring_program/evaluate.py + score_our_results.py) ──────
+# bert-score is already listed above (also used here)
+spacy>=3.7.0                    # language-specific tokenisation
+regex>=2023.0.0                 # Unicode-aware regex used in evaluate.py
+# diversutils — install from source (not on PyPI):
+#   pip install git+https://github.com/estevelouis/WG4
+# Japanese spaCy model — install after spaCy:
+#   python -m spacy download ja_core_news_sm

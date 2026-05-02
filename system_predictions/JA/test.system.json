@@ -1,0 +1,514 @@
+[
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2208",
+    "prediction": "当初からバウを好んでいる、暴力団の娘。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2217",
+    "prediction": "利用日の1か月前から当日まで発売。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2224",
+    "prediction": "デザインも良いし,秋の夜長にピッタリなサイトだと思います。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2238",
+    "prediction": "賑やかに楽しく過ごすときにおすすめ。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2240",
+    "prediction": "ブロフェルドの最初の登場はシリーズ第二作『007危機一発』で、その次が第四作『サンダーボール作戦』である。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2241",
+    "prediction": "うどん屋という店名ですが、豚バラ丼が中心的な役割を担っています。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2252",
+    "prediction": "あなたには、一つの分野で圧倒的な成果を上げた経験がありますか。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2301",
+    "prediction": "主にアダルトゲームやドラマCDのシナリオを制作している。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2303",
+    "prediction": "私が幼いころからあるお店です。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2370",
+    "prediction": "妹は、医学生の彼がいる短大生。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2392",
+    "prediction": "parejoと類似した外見であるが先端と吸い口からFiguradoの特徴がある。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2417",
+    "prediction": "その期間中に、552人の卒業生を輩出した。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2420",
+    "prediction": "街なかで同じだけ食べて飲んだら高額になるはず。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2427",
+    "prediction": "そんな日々を維持するのは、家族の存在だ。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2468",
+    "prediction": "その後、横光利一に弟子入りし、33年に文壇へ登場して徳田秋声の娘と結婚した。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2483",
+    "prediction": "同じ文章は上祐氏のmixi日記にも掲載されています。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2508",
+    "prediction": "池袋にある会社員の味方。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2511",
+    "prediction": "公園に面したテラスは快適です。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2514",
+    "prediction": "翌日、政党の中枢機関から事務局の幹部が県連を訪れて陳謝。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2546",
+    "prediction": "とても興味を惹かれた方は、ぜひ受けてみてください。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2547",
+    "prediction": "それが当然、普通であって、驚いたり、嫌がったりしない。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2580",
+    "prediction": "同様のコンセプトがウィリアム・トムソンのサイフォン式レコーダーにもあらわれている。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2609",
+    "prediction": "遺体のそばに吉住さんのものとみられる手提げバッグと病院の駐車場に車が残されていて、吉住さんは出勤途中に犯罪の被害を受けたものとみられています。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2616",
+    "prediction": "区内の農作地の大部分が水田であり、農業は稲作が主軸である。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2645",
+    "prediction": "飯田氏は,“よろしいでしょうか”と聞いておきながら,こちらの返事も待たずに一方的に通話を終了してしまいました。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2647",
+    "prediction": "宇宙全土で影響力を失い、崩壊は避けられない状況となった。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2652",
+    "prediction": "高校野球は「柳川」しか知らなかった末次監督が驚いたのは、自由ケ丘の選手たちの明るさだ。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2684",
+    "prediction": "季節を尊重する姿勢も良いです。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2686",
+    "prediction": "弧を描きながら飛んでいく「氣雷砲」は、相手の飛び道具に相殺も反撃もされにくい。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2712",
+    "prediction": "自由通路は全長37m、幅員約4.5mとなっている。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2724",
+    "prediction": "パークチョン駅は、タイ王国中部サラブリー県の人口約5万人が暮らすムワックレック郡に位置する。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2745",
+    "prediction": "そこへ、憮然とした表情の署長が姿を現した。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2768",
+    "prediction": "今川良真と自称したとする説もある。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2771",
+    "prediction": "むしろ、キャラクターの成長やソウルのコレクションといったRPG要素を強めたことで、より個性的な戦闘スタイルを選択可能になります。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2784",
+    "prediction": "布佐にこのお店があってとても便利です。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2786",
+    "prediction": "ランチタイムも良いですが、夜メニューの職人がこねた麺料理と金華豚のアロストが最高でしたー。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2800",
+    "prediction": "紙の製法が中国からイスラム世界へ伝わったきっかけは、751年に中央アジアで発生したアッバース朝と唐の軍事衝突であり、その際に捕虜となった唐の兵士の中に紙の製造技術者が含まれていたことである。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2802",
+    "prediction": "高い可能性で一度行けば気に入っちゃいますよ。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2810",
+    "prediction": "ただ具はほとんど存在しない。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2815",
+    "prediction": "それに気づいて非常に興奮しているD子。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2824",
+    "prediction": "ムガル帝国領となった後、18世紀から19世紀にかけては、マラーター諸族が争う場所となった。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2842",
+    "prediction": "発行額は未定。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2852",
+    "prediction": "また、あまりに常軌を逸すると、のび太だけでなくジャイアンやしずかまでも呆れさせてしまうことがある。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2857",
+    "prediction": "テッサリアには太古より人の営みがあり、紀元前2500年頃の新石器時代の遺跡がある。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2874",
+    "prediction": "譜が複雑で、代わりの演奏技法が多く、装飾的な傾向がつよい。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2920",
+    "prediction": "新聞に挟まれていた広告を見て行きました。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2944",
+    "prediction": "ロシア・スラブ地方の生まれだったが、奴隷商人にさらわれ、売春窟へと売られ屈辱と絶望の中で生きた。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2947",
+    "prediction": "日頃から支援を受けている弁理士事務所です。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s2978",
+    "prediction": "1978年ごろには、テレビの世界に入ったばかりのタモリも生徒だった。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3034",
+    "prediction": "蔵の街循環「のらっせ号」市立小・中学校に通う場合、学区は以下の通りとなる。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3038",
+    "prediction": "長野県を本来の美しい風土にしたいという強い意欲を抱き続けている。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3064",
+    "prediction": "意外な年俸アップの裏側には、横浜のアンバランスな選手構成が見え隠れしている。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3074",
+    "prediction": "ソフィア大聖堂は国際的に保護されるべき文化財です。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3085",
+    "prediction": "自分の目の周りをもっとはっきりさせたくてここのサロンに行きました。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3097",
+    "prediction": "誘電体の表面における分極電荷の面積密度は、分極Pが境界に対して垂直な方向へ向かう大きさに等しい。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3103",
+    "prediction": "統一教会側は約1時間で反対運動を終了した。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3112",
+    "prediction": "これ以後、尹が四川省を支配することはなかったのである。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3120",
+    "prediction": "夜10時まで営業していて綺麗なので、とても好きです！"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3132",
+    "prediction": "また、名称も漢数字からアラビア数字の「2号機」に変更された。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3156",
+    "prediction": "一方の父親バックが監督を務める“グラディエーター”は地区でも尊敬を集める強豪チーム。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3194",
+    "prediction": "「Ray」10月号では、ペンシルパンツを用いた最新の服装術を多数紹介。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3208",
+    "prediction": "このクォリティーでこの価格は非常に手頃でした。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3223",
+    "prediction": "客層はさまざまで、五十代半ばの人が多いようです。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3226",
+    "prediction": "総監督は『ゼイラム』や『牙狼-GARO-』などを制作した雨宮慶太が担当、ストーリーやイメージイラストなど、本作品の様々な部分に携わっている。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3228",
+    "prediction": "その内容は次の通りです。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3237",
+    "prediction": "民宿とは思えないほどのきめ細やかなサービスと、多様な種類のお料理でとても満足できましたよ!"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3248",
+    "prediction": "理事長先生の診察が痛くなくて、接し方も優しいのでここに通っています。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3262",
+    "prediction": "ミレニアムシリーズの続編や、ディズニー「海底2万里」のリメイク作品も準備中だ。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3275",
+    "prediction": "意志が弱く決断力に欠ける青年の役、コミカルな役、ひねくれ者の役などくせのある役柄を演じることが多く、「キリン生烏龍」などのインパクトのあるCM出演がある。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3287",
+    "prediction": "テーブルでコーヒーを淹れていただく際の香りが最高です。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3290",
+    "prediction": "後述の車体カラーリングが注目を集めた。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3317",
+    "prediction": "記者がオウムの名を初めて見たのは20数年前、杉並区内の電柱に貼られていたビラだった。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3331",
+    "prediction": "同議員直系の地元市議は、霊感商法の店舗で経営の最高責任者を務めた経験がある。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3336",
+    "prediction": "事実、信長の六女・三の丸殿は秀吉が亡くなる直前に側室となっている。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3340",
+    "prediction": "戦後最大の労働問題とされるJR不採用問題では、組合員側が解雇の無効などを求めて裁判を継続している。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3369",
+    "prediction": "メロンパンナを飛べなくしたが、マリンの突撃を受けて壊れた。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3370",
+    "prediction": "蝶、蛾もかつては、かはひらこ、ひひる、ひむしなどと大和言葉で呼ばれていた。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3385",
+    "prediction": "これが船を繋ぎ止めるためのブイである。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3420",
+    "prediction": "作りたてでも時間が経過しても美味い。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3433",
+    "prediction": "これからも、仕事の隙間時間を見つけて通おうと思います!"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3472",
+    "prediction": "全面禁煙は大阪府が08年5月から導入した。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3490",
+    "prediction": "心が軽くなる感じがして安心できました。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3528",
+    "prediction": "署長は突然にこやかな表情を見せた。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3537",
+    "prediction": "荒神輿は「チョーサンヤ」、団車は「アラヨーイトナ」という威勢の良い声で進む。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3547",
+    "prediction": "現在の昭島市の中部に存在している。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3577",
+    "prediction": "海鮮メニューは日本海の新鮮な食材を使っており最高だ。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3619",
+    "prediction": "朝、すっきりと起きられるので、一日中元気で眠くなりません。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3630",
+    "prediction": "しかし、そんな物知りな彼もダンディ坂野の「崖っぷちからの脱出方法」だけは答えられなかった。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3638",
+    "prediction": "長男はファッションデザイナーの倉石一樹。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3643",
+    "prediction": "女性の中には苦手な人もいるので注意した方がよいかな！"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3663",
+    "prediction": "昨年の中国での販売台数は9万0500台で、今年の目標はそれを33%上回る水準となる。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3688",
+    "prediction": "また、利益を追求する団体ではありません。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3689",
+    "prediction": "統一教義では、信者の二世が教会の集団結婚に参加できなければ悪魔にも劣り、永遠の苦しみを味わうとされる。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3699",
+    "prediction": "画面周りからジョブの設定方法、移行項目まで確認できます。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3727",
+    "prediction": "離れた場所のものでも動かせる「リモートコントロールのアリス」を持つ。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3739",
+    "prediction": "光線兵器レーザーを使い、外国人傭兵集団を率いる。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3762",
+    "prediction": "これはもはや感性ではなく、単なる狂気である。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3775",
+    "prediction": "神戸で心の悩み相談をするなら『ヒーリングスペース・リーブル』がとっても良かったですよー。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3813",
+    "prediction": "初戦は移動ミスで教授のキャラクターを失い、凍結を防げなくなり敗北。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3846",
+    "prediction": "私は彼が望んだ通りにしただけです。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3857",
+    "prediction": "品物を購入しに来る人達はみな真剣です。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3858",
+    "prediction": "ランチでも客足が途切れない人気店です。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3861",
+    "prediction": "資格も取れて、望んでいた通りの就職もかないました。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3889",
+    "prediction": "最初の得点は相手のミスによるものだった。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3904",
+    "prediction": "1875年には北カフカスへ向かう北カフカース鉄道がバタイスクを経由し始めた。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3914",
+    "prediction": "保健室の看護師。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3917",
+    "prediction": "私はむかしから喉のあたりにおおきなシミがあるので、なるべくタートルを着たり、見えないようにしてきました。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3924",
+    "prediction": "これがイギリスの音楽の始まりである。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3926",
+    "prediction": "そして2月22日,教団はきょう子氏の“永久追放”を発表。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s3949",
+    "prediction": "亜理沙がいなければゼウスの野望は達成できないと考え、薬で亜理沙を仮死状態にした。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4015",
+    "prediction": "大型の闘犬と同じくらいの大きさで、見た目も性質も猫に近いが猫ではない。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4018",
+    "prediction": "声を掛けると,全員足立教会の信者だった。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4036",
+    "prediction": "受付から治療まで、皆さんとても親切でいつ通っても気持ちの良い歯科医さんでした。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4048",
+    "prediction": "冠山の山頂から西北西約1.8kmに位置する。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4052",
+    "prediction": "第6代将軍・足利義教の偏諱を受けて教康と名乗った。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4083",
+    "prediction": "主人公三人にスポットを当てた、ミュージッククリップ。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4084",
+    "prediction": "アニメーションをマンガのように読める工夫を凝らし、斬新でインパクトあるコミック体験を可能にしております。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4094",
+    "prediction": "この研究所は主に科学的機器の製造を目的としていた。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4111",
+    "prediction": "このとき、ヒューストン・アストロズのスカウトを勤めていたアンドレス・レイナーがサンタナの強肩ぶりに目をつける。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4116",
+    "prediction": "また、寝起きが悪く、仁が起こしに行かないとずっと寝ていることもある。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4121",
+    "prediction": "ご来場くださった皆さん,出演者のみなさん,ありがとうございます。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4127",
+    "prediction": "東日本大震災後、5月27日までに職探しを始めた有効求職者数は、被災3県で計3万8942人。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4144",
+    "prediction": "北朝鮮の金正日総書記の死去で大きく揺れた韓国の株式市場の今後のポイントを探ります。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4148",
+    "prediction": "今回の海外写真集は日本がほとんどですが、これから5年たった時は、欧米など海外に見聞を広めた人がさらに増えるに違いありません。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4157",
+    "prediction": "不在時は車内精算。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4167",
+    "prediction": "明朗快活なヒロイン、同伊はハン・ヒョジュのイメージぴったり。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4189",
+    "prediction": "サスペンスドラマのタイアップな所為か、ストーリー仕立てになっている。"
+  },
+  {
+    "source_sent_id": ". JA_GSDLUW_train3.folia.xml train-s4191",
+    "prediction": "そんな時にこちらを訪れたのですが、スタッフさんやその対応が良い会社で、びっくりしましたね。"
+  }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id":1759,
+        "text":" Les élèves de la classe de CE1 de l' école Notre-Dame ont [[pris part]] à les festivités .",
+        "source_sent_id":"http://hdl.handle.net/11234/1-5901 UD_French-Sequoia/fr_sequoia-ud-train.conllu annodis.er_00049",
+        "current_id":"5",
+        "raw_text":"Les élèves de la classe de CE1 de l'école Notre-Dame ont pris part aux festivités.",
+        "label":["Creative: Les élèves de la classe de CE1 de l'école Notre-Dame ont fait la fête.",
+                 "Minimal: Les élèves de la classe de CE1 de l'école Notre-Dame ont participé aux festivités."],
+        "Comments":[]
+    },
+    {
+        "id":1764,
+        "text":" Il laisse à sa famille et amis , le souvenir d' un homme dévoué , généreux , jovial , toujours prêt à [[rendre service]] .",
+        "source_sent_id":"http://hdl.handle.net/11234/1-5901 UD_French-Sequoia/fr_sequoia-ud-train.conllu annodis.er_00080",
+        "current_id":"10",
+        "raw_text":"Il laisse à sa famille et amis, le souvenir d'un homme dévoué, généreux, jovial, toujours prêt à rendre service.",
+        "label":["Creative: C'est le souvenir d'un homme dévoué, généreux, jovial, toujours prêt à donner un coup de main, qu'il laisse à sa famille et amis.",
+                 "Minimal: Il laisse à sa famille et amis, le souvenir d'un homme dévoué, généreux, jovial, toujours prêt à aider."],
+                 "Comments":[]
+    }
+]

@@ -219,6 +219,128 @@ Zip the `outputs/` directory and upload to Codabench.
 
 ---
 
+## Scoring with the Official Evaluator
+
+`score_our_results.py` converts our pipeline outputs into the format
+expected by the PARSEME scoring program (`scoring_program/evaluate.py`)
+and runs it for every language.
+
+### How it works
+
+| Step | What happens |
+|------|--------------|
+| 1 | Reads `results/<LANG>_detailed_results.json` (our predictions) |
+| 2 | Reads `data/<LANG>/test.blind.json` to get `source_sent_id` (joined on `raw_text`) |
+| 3 | Writes `system_predictions/<LANG>_test.system.json` in the format `evaluate.py` expects |
+| 4 | Calls `scoring_program/evaluate.py <gold> <system>` for each language |
+| 5 | Saves `system_predictions/<LANG>/results.txt` (used by the averaging script) |
+
+### Prerequisite — gold test files
+
+The official **gold test files** (with `Creative` / `Minimal` reference labels) must
+be placed at `data/<LANG>/test.json`. These are **not** the blind files included
+in this repo — they are released by PARSEME after the evaluation period.
+
+Without them you can still use `--convert-only` to prepare the submission format.
+
+### Scoring program dependencies
+
+```bash
+pip install bert-score spacy regex
+pip install git+https://github.com/estevelouis/WG4   # diversutils
+python -m spacy download ja_core_news_sm
+```
+
+### Usage
+
+```bash
+# Convert predictions to system format only (no gold files needed):
+python score_our_results.py --convert-only
+
+# Score all 14 languages (gold files must exist at data/<LANG>/test.json):
+python score_our_results.py
+
+# Score a single language:
+python score_our_results.py --lang EL
+
+# Score all languages + compute the global macro-average:
+python score_our_results.py --avg
+
+# Use a different directory for gold files:
+python score_our_results.py --gold-dir path/to/gold/
+```
+
+### Output
+
+```
+system_predictions/
+├── EL_test.system.json   ← converted prediction file (evaluate.py input)
+├── EL/
+│   └── results.txt       ← raw output of evaluate.py (for averaging script)
+├── FR_test.system.json
+├── FR/
+│   └── results.txt
+...
+├── scores.json           ← global scores (only with --avg)
+└── scores.html           ← HTML report  (only with --avg)
+```
+
+---
+
+## Self-Evaluation (no gold files needed)
+
+`evaluate_self.py` evaluates our pipeline outputs directly from
+`results/<LANG>_detailed_results.json` — **no gold reference files required**.
+
+This is useful while the official gold test labels are not yet publicly available.
+
+### Metrics
+
+| Metric | Description | Ideal |
+|--------|-------------|-------|
+| **Constr%** | % of MWE sentences where MWE tokens were removed | As high as possible |
+| **Unchan%** | % of paraphrases identical to the original (model did nothing) | ~0% |
+| **Err%** | % of sentences the pipeline could not process | ~0% |
+| **Retries** | Average retries used per sentence | Low |
+| **BERTf1%** | Semantic similarity: paraphrase ↔ original sentence (multilingual BERT) | High but < 100% |
+
+> **BERTf1% note:** this is the *opposite* direction to the official metric.
+> The official score compares our paraphrase against human references;
+> this compares against the original sentence as a proxy for meaning preservation.
+> A good paraphrase should score high (meaning kept) but not 100% (something changed).
+
+### Usage
+
+```bash
+# Fast — constraint metrics only (no GPU, instant):
+python evaluate_self.py --no-bert
+
+# Full — with BERTScore (~2 min per language):
+python evaluate_self.py
+
+# Single language:
+python evaluate_self.py --lang FR
+
+# Save summary to JSON:
+python evaluate_self.py --out results/self_eval.json
+
+# Single language, full, save output:
+python evaluate_self.py --lang EL --out results/EL_self_eval.json
+```
+
+### Sample output
+
+```
+  Lang  Total  No MWE  Constr%  Unchan%   Err%  Retries  BERTf1%      ±
+  ──────────────────────────────────────────────────────────────────────
+  EL      295       5   97.62%    0.00%  0.00%     0.12    88.41%   4.21
+  FR       95       2   96.77%    1.08%  0.00%     0.05    91.23%   3.87
+  ...
+  ALL    1890      48   96.50%    0.42%  0.21%     0.09    89.10%
+```
+
+---
+
 ## Language — Lemmatizer Mapping
 
 | Code | Language           | Lemmatizer |
