@@ -11,18 +11,20 @@ from typing import Optional
 
 logger = logging.getLogger(__name__)
 
-_client = None
-
+_clients: dict = {}
 
 
 def _get_client(api_key_index: int = 0):
-    global _client
-    if _client is None:
+    if api_key_index not in _clients:
         from google import genai
         from config import GEMINI_API_KEYS
-        _client = genai.Client(api_key=GEMINI_API_KEYS[api_key_index])
-        logger.info("[LLM] Gemini client initialised")
-    return _client
+        if api_key_index >= len(GEMINI_API_KEYS):
+            raise IndexError(
+                f"api_key_index={api_key_index} but only {len(GEMINI_API_KEYS)} keys configured"
+            )
+        _clients[api_key_index] = genai.Client(api_key=GEMINI_API_KEYS[api_key_index])
+        logger.info(f"[LLM] Gemini client initialised for key index {api_key_index}")
+    return _clients[api_key_index]
 
 def call_llm(
     messages: list,
