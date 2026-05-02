@@ -1,0 +1,53 @@
+{
+  "title": "PARSEME 2.0 share task, subtask 2 on MWE paraphrasing -- gold file",
+  "description": "This json schema describes the JSON format of a gold file in PARSEME 2.0 shared task, subtask 2 on MWE paraphrasing",
+  "type": "array",
+  "items": {
+    "description": "Paraphrases for one sentence",
+    "type": "object",
+    "properties": {
+      "id": {
+        "description": "Sentence identifier",
+        "type": "number"
+      },
+      "text": {
+        "description": "Tokenized sentence with a highlighted MWE",
+        "type": "string"
+      },
+      "source_sent_id": {
+        "description": "Source sentence identifier",
+        "type": "string"
+      },
+      "current_id": {
+        "description": "Another identifier",
+        "type": "string"
+      },
+      "raw_text": {
+        "description": "Untokenized sentence, not highlighting the MWE",
+        "type": "string"
+      },
+      "MWE_type": {
+        "description": "Category of the highligned MWE (VID, NID or AdjID)",
+        "type": "string"
+      },
+      "label": {
+        "description": "Minimal and creative gold paraphrases",
+        "type": "array",
+        "items": {
+          "description": "One paraphrase",
+          "type": "string"
+        }
+      },
+      "comments": {
+        "description": "Comments from annotators",
+        "type": "array",
+        "items": {
+          "description": "comment",
+          "type": "string"
+        }
+      }
+    },
+    "required": ["text", "raw_text", "MWE_type", "label"]
+  }
+}
+

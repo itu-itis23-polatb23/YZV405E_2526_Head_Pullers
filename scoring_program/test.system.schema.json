@@ -1,0 +1,21 @@
+{
+  "title": "PARSEME 2.0 share task, subtask 2 on MWE paraphrasing -- system prediction file",
+  "description": "This json schema describes the JSON format of a system prediction to be submitted to PARSEME 2.0 shared task, subtask 2 on MWE paraphrasing",
+  "type": "array",
+  "items": {
+    "description": "System prediction for one sentence",
+    "type": "object",
+    "properties": {
+      "source_sent_id": {
+        "description": "Source sentence identifier",
+        "type": "string"
+      },
+      "prediction": {
+        "description": "Sentence identifier",
+        "type": "string"
+      }
+    },
+  "required": ["source_sent_id", "prediction"]
+  }
+}
+
