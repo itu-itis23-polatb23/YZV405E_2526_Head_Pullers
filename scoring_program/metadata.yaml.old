@@ -1,0 +1,2 @@
+command: bash ./evaluate-system.sh /app/input/ref /app/input/res test.system.schema.json /app/output/
+
