@@ -124,6 +124,10 @@
     "prediction": "Totodată, a fost una dintre entitățile care au susținut derularea Proiectului strategic „Perfecționarea profesorilor din învățământul preuniversitar, care predau limba română minorităților naționale” (POSDRU/87/1.3/S/63909), 2011-2012, în mediul etnic ucrainean din Maramureș, sprijinind învățătorii și dascălii de etnie ucraineană în activitatea lor educațională."
   },
   {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-6137",
+    "prediction": "Vor avea loc negocieri crâncene, vreme de 2 ani, între hâtrul și rutinatul Albion și Uniunea Europeană, încă crudă și nesedimentată."
+  },
+  {
     "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4333",
     "prediction": "La 7 iunie, după încheierea Congresului PMP, Elena Udrea a anunțat că prezidențiabilul partidului înființat de Traian Băsescu este Cristian Diaconescu, fost ministru de Externe și consilier prezidențial."
   },
@@ -186,6 +190,10 @@
   {
     "source_sent_id": ". RO-testnou.17.folia.xml DCN-corola-1697",
     "prediction": "Procurorii au stabilit că cele trei persoane din respectivul material sunt Aurelian Mihai Szanto, așa-zisul \"intermediar\" și cel care a asigurat traducerea, Attila Csaba Pantics și Levente Pantics, persoane care descriu și manipulează pistoalele și puștile oferite spre vânzare."
+  },
+  {
+    "source_sent_id": ". RO-testnou.24.folia.xml DCN-corola-4707",
+    "prediction": "Mirel Palada continuă prin a sublinia echipa nouă fabuloasă a lui Klaus Iohannis: \"toți oameni noi, din viitor, politicieni proaspeți, numai buni de schimbat fața României\"."
   },
   {
     "source_sent_id": ". RO-testnou.11.folia.xml BsE-corola-5657",
@@ -474,6 +482,14 @@
   {
     "source_sent_id": ". RO-testnou.10.folia.xml BsE-corola-5151",
     "prediction": "În martie 2015, comisarul european pentru Extindere Johannes Hahn notifica Tirana asupra faptului că începerea negocierilor de aderare nu poate debuta fără îndeplinirea a două condiții: redeschiderea dialogului politic cu opoziția și reforme vizibile în cinci domenii cu probleme - administrație publică, respectarea normelor juridice, corupție, crimă organizată și drepturi fundamentale."
+  },
+  {
+    "source_sent_id": ". RO-testnou.25.folia.xml DCN-corola-5504",
+    "prediction": "Un înalt oficial al Casei Albe a declarat miercuri că Washingtonul ia în calcul varianta dislocării de forțe terestre în Irak pentru a-i ajuta pe irakieni în misiunea de salvare a refugiaților yazidi."
+  },
+  {
+    "source_sent_id": ". RO-testnou.19.folia.xml DCN-corola-2567",
+    "prediction": "Cei trei furnizori de comunicații electronice sancționați vor trebui să achite contravaloarea amenzilor contravenționale către bugetul de stat și să își îndeplinească obligațiile de acoperire prevăzute în licențele de utilizare a spectrului de frecvențe radio."
   },
   {
     "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3146",
