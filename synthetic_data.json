@@ -1,0 +1,4226 @@
+{
+  "French": [
+    {
+      "idiom": "être à la fête",
+      "example": "Avec cette canicule les grillons sont à la fête!",
+      "paraphrase": "Avec cette canicule les grillons se réjouissent!"
+    },
+    {
+      "idiom": "attacher sa tuque",
+      "example": "Du côté du bureau d'information touristique à Magog, on m'a dit qu'il faudra attacher nos tuques.",
+      "paraphrase": "Du côté du bureau d'information touristique à Magog, on m'a dit qu'il faudra se préparer à affronter la situation."
+    },
+    {
+      "idiom": "avant la lettre",
+      "example": "C'est une œuvre écologiste avant la lettre.",
+      "paraphrase": "C'est une œuvre écologiste précurseure."
+    },
+    {
+      "idiom": "poser un lapin",
+      "example": "Il m'a donné rendez-vous au restaurant mais il m'a posé un lapin.",
+      "paraphrase": "Il m'a donné rendez-vous au restaurant mais il n'est pas venu."
+    },
+    {
+      "idiom": "en revenir",
+      "example": "Je n'en reviens pas de cette nouvelle incroyable!",
+      "paraphrase": "Je suis très surpris par cette nouvelle incroyable!"
+    },
+    {
+      "idiom": "avoir le cafard",
+      "example": "Quand il pleut pendant plusieurs jours, j'ai souvent le cafard.",
+      "paraphrase": "Quand il pleut pendant plusieurs jours, je suis souvent triste."
+    },
+    {
+      "idiom": "casser les pieds",
+      "example": "Tu commences vraiment à me casser les pieds avec tes histoires.",
+      "paraphrase": "Tu commences vraiment à m'agacer avec tes histoires."
+    },
+    {
+      "idiom": "tomber dans les pommes",
+      "example": "Sous l'effet de la chaleur étouffante, elle est tombée dans les pommes.",
+      "paraphrase": "Sous l'effet de la chaleur étouffante, elle s'est évanouie."
+    },
+    {
+      "idiom": "avoir le bras long",
+      "example": "Il a obtenu ce poste de direction car il a le bras long dans le milieu.",
+      "paraphrase": "Il a obtenu ce poste de direction car il a beaucoup d'influence dans le milieu."
+    },
+    {
+      "idiom": "jeter l'éponge",
+      "example": "Face à la difficulté extrême du problème, j'ai fini par jeter l'éponge.",
+      "paraphrase": "Face à la difficulté extrême du problème, j'ai fini par abandonner."
+    },
+    {
+      "idiom": "se mettre le doigt dans l'œil",
+      "example": "Si tu penses qu'il va t'aider gratuitement, tu te mets le doigt dans l'œil.",
+      "paraphrase": "Si tu penses qu'il va t'aider gratuitement, tu te trompes complètement."
+    },
+    {
+      "idiom": "donner sa langue au chat",
+      "example": "Après avoir cherché la solution pendant des heures, il a fini par donner sa langue au chat.",
+      "paraphrase": "Après avoir cherché la solution pendant des heures, il a fini par abandonner."
+    },
+    {
+      "idiom": "raconter des salades",
+      "example": "Arrête de nous raconter des salades, on sait que tu n'y étais pas.",
+      "paraphrase": "Arrête de nous mentir, on sait que tu n'y étais pas."
+    },
+    {
+      "idiom": "coûter les yeux de la tête",
+      "example": "Cette nouvelle voiture de sport a dû lui coûter les yeux de la tête.",
+      "paraphrase": "Cette nouvelle voiture de sport a dû lui coûter très cher."
+    },
+    {
+      "idiom": "avoir un poil dans la main",
+      "example": "Ce nouvel employé ne fait absolument rien, il a un poil dans la main.",
+      "paraphrase": "Ce nouvel employé ne fait absolument rien, il est très paresseux."
+    },
+    {
+      "idiom": "péter un plomb",
+      "example": "Quand son ordinateur a planté juste avant la sauvegarde, il a pété un plomb.",
+      "paraphrase": "Quand son ordinateur a planté juste avant la sauvegarde, il a fait une crise de colère."
+    },
+    {
+      "idiom": "broyer du noir",
+      "example": "Depuis qu'elle a perdu son emploi, elle passe ses journées à broyer du noir.",
+      "paraphrase": "Depuis qu'elle a perdu son emploi, elle passe ses journées à déprimer."
+    },
+    {
+      "idiom": "chercher midi à quatorze heures",
+      "example": "Le problème est simple, il ne faut pas chercher midi à quatorze heures.",
+      "paraphrase": "Le problème est simple, il ne faut pas compliquer les choses."
+    },
+    {
+      "idiom": "couper les cheveux en quatre",
+      "example": "Cet avocat a tendance à toujours couper les cheveux en quatre lors des négociations.",
+      "paraphrase": "Cet avocat a tendance à toujours s'attarder sur des détails inutiles lors des négociations."
+    },
+    {
+      "idiom": "découvrir le pot aux roses",
+      "example": "En fouillant dans les tiroirs, le détective a fini par découvrir le pot aux roses.",
+      "paraphrase": "En fouillant dans les tiroirs, le détective a fini par découvrir la vérité."
+    },
+    {
+      "idiom": "faire la grasse matinée",
+      "example": "Ce dimanche, je compte bien faire la grasse matinée jusqu'à midi.",
+      "paraphrase": "Ce dimanche, je compte bien dormir tard jusqu'à midi."
+    },
+    {
+      "idiom": "mettre la main à la pâte",
+      "example": "Pour que le projet avance plus vite, tout le monde doit mettre la main à la pâte.",
+      "paraphrase": "Pour que le projet avance plus vite, tout le monde doit participer."
+    },
+    {
+      "idiom": "prendre la mouche",
+      "example": "Dès qu'on lui fait une petite remarque constructive, il prend la mouche.",
+      "paraphrase": "Dès qu'on lui fait une petite remarque constructive, il se vexe."
+    },
+    {
+      "idiom": "avoir le cœur sur la main",
+      "example": "C'est un homme formidable qui a vraiment le cœur sur la main.",
+      "paraphrase": "C'est un homme formidable qui est très généreux."
+    },
+    {
+      "idiom": "noyer le poisson",
+      "example": "Lors du débat, le politicien a essayé de noyer le poisson pour éviter la question.",
+      "paraphrase": "Lors du débat, le politicien a essayé de créer la confusion pour éviter la question."
+    },
+    {
+      "idiom": "pleuvoir des cordes",
+      "example": "N'oublie pas ton parapluie car il pleut des cordes dehors aujourd'hui.",
+      "paraphrase": "N'oublie pas ton parapluie car il pleut abondamment dehors aujourd'hui."
+    },
+    {
+      "idiom": "sauter du coq à l'âne",
+      "example": "Son discours était confus, il n'arrêtait pas de sauter du coq à l'âne.",
+      "paraphrase": "Son discours était confus, il n'arrêtait pas de changer de sujet brusquement."
+    },
+    {
+      "idiom": "tirer le diable par la queue",
+      "example": "À la fin du mois, les étudiants tirent souvent le diable par la queue.",
+      "paraphrase": "À la fin du mois, les étudiants ont souvent des difficultés financières."
+    },
+    {
+      "idiom": "avoir la moutarde qui monte au nez",
+      "example": "Face à tant d'insolence de la part du client, il a senti la moutarde qui monte au nez.",
+      "paraphrase": "Face à tant d'insolence de la part du client, il a commencé à s'énerver."
+    },
+    {
+      "idiom": "casser sa pipe",
+      "example": "Le vieux marin a finalement cassé sa pipe après une longue maladie.",
+      "paraphrase": "Le vieux marin est finalement mort après une longue maladie."
+    },
+    {
+      "idiom": "mettre du beurre dans les épinards",
+      "example": "Cette prime de fin d'année va nous permettre de mettre du beurre dans les épinards.",
+      "paraphrase": "Cette prime de fin d'année va nous permettre d'améliorer notre quotidien financier."
+    },
+    {
+      "idiom": "passer l'arme à gauche",
+      "example": "Le célèbre acteur a passé l'arme à gauche à l'âge de quatre-vingt-dix ans.",
+      "paraphrase": "Le célèbre acteur est décédé à l'âge de quatre-vingt-dix ans."
+    },
+    {
+      "idiom": "rouler dans la farine",
+      "example": "L'escroc a réussi à la rouler dans la farine avec ses belles promesses de rendement.",
+      "paraphrase": "L'escroc a réussi à la tromper avec ses belles promesses de rendement."
+    },
+    {
+      "idiom": "tomber des nues",
+      "example": "En apprenant la faillite soudaine de l'entreprise, le directeur est tombé des nues.",
+      "paraphrase": "En apprenant la faillite soudaine de l'entreprise, le directeur a été stupéfait."
+    },
+    {
+      "idiom": "vendre la mèche",
+      "example": "Mon petit frère n'a pas pu garder le secret et a vendu la mèche à tout le monde.",
+      "paraphrase": "Mon petit frère n'a pas pu garder le secret et a tout révélé à tout le monde."
+    },
+    {
+      "idiom": "avoir un chat dans la gorge",
+      "example": "Excusez-moi, j'ai un chat dans la gorge, je dois boire un peu d'eau avant de reprendre.",
+      "paraphrase": "Excusez-moi, j'ai la voix enrouée, je dois boire un peu d'eau avant de reprendre."
+    },
+    {
+      "idiom": "faire chou blanc",
+      "example": "Les policiers ont perquisitionné la maison suspecte mais ont fait chou blanc.",
+      "paraphrase": "Les policiers ont perquisitionné la maison suspecte mais n'ont rien trouvé."
+    },
+    {
+      "idiom": "fumer comme un pompier",
+      "example": "Malgré les avertissements stricts du médecin, il continue de fumer comme un pompier.",
+      "paraphrase": "Malgré les avertissements stricts du médecin, il continue de fumer excessivement."
+    },
+    {
+      "idiom": "monter sur ses grands chevaux",
+      "example": "Dès qu'on la contredit sur ce sujet, elle a l'habitude de monter sur ses grands chevaux.",
+      "paraphrase": "Dès qu'on la contredit sur ce sujet, elle a l'habitude de se mettre en colère."
+    },
+    {
+      "idiom": "pisser dans un violon",
+      "example": "Lui donner des conseils d'organisation, c'est comme pisser dans un violon.",
+      "paraphrase": "Lui donner des conseils d'organisation, c'est totalement inutile."
+    },
+    {
+      "idiom": "avaler des couleuvres",
+      "example": "Au travail, elle a dû avaler des couleuvres pendant des années pour ne pas être licenciée.",
+      "paraphrase": "Au travail, elle a dû subir des humiliations pendant des années pour ne pas être licenciée."
+    },
+    {
+      "idiom": "avoir la gueule de bois",
+      "example": "Après la grande fête d'hier soir, j'ai une terrible gueule de bois ce matin.",
+      "paraphrase": "Après la grande fête d'hier soir, je suis malade à cause de l'alcool ce matin."
+    },
+    {
+      "idiom": "courir sur le haricot",
+      "example": "Cette musique extrêmement forte commence vraiment à me courir sur le haricot.",
+      "paraphrase": "Cette musique extrêmement forte commence vraiment à m'énerver."
+    },
+    {
+      "idiom": "décrocher la lune",
+      "example": "Pour elle, il serait prêt à décrocher la lune sans la moindre hésitation.",
+      "paraphrase": "Pour elle, il serait prêt à faire l'impossible sans la moindre hésitation."
+    },
+    {
+      "idiom": "jeter l'argent par les fenêtres",
+      "example": "Acheter cette machine défectueuse, c'est littéralement jeter l'argent par les fenêtres.",
+      "paraphrase": "Acheter cette machine défectueuse, c'est littéralement gaspiller ses économies."
+    },
+    {
+      "idiom": "mettre les pieds dans le plat",
+      "example": "En posant cette question indiscrète devant tout le monde, il a vraiment mis les pieds dans le plat.",
+      "paraphrase": "En posant cette question indiscrète devant tout le monde, il a commis une grosse maladresse."
+    },
+    {
+      "idiom": "prendre ses jambes à son cou",
+      "example": "À la vue de l'ours féroce, les campeurs ont pris leurs jambes à leur cou.",
+      "paraphrase": "À la vue de l'ours féroce, les campeurs se sont enfuis très vite."
+    },
+    {
+      "idiom": "se noyer dans un verre d'eau",
+      "example": "Face à ce léger imprévu d'emploi du temps, tu as tendance à te noyer dans un verre d'eau.",
+      "paraphrase": "Face à ce léger imprévu d'emploi du temps, tu as tendance à paniquer pour rien."
+    },
+    {
+      "idiom": "tirer les vers du nez",
+      "example": "La police a dû lui tirer les vers du nez pour obtenir des aveux complets.",
+      "paraphrase": "La police a dû le questionner habilement pour obtenir des aveux complets."
+    },
+    {
+      "idiom": "un froid de canard",
+      "example": "Couvre-toi bien avant de sortir, il fait un froid de canard ce soir.",
+      "paraphrase": "Couvre-toi bien avant de sortir, il fait un froid glacial ce soir."
+    },
+    {
+      "idiom": "avoir le sang chaud",
+      "example": "Il s'énerve très rapidement au volant de sa voiture car il a le sang chaud.",
+      "paraphrase": "Il s'énerve très rapidement au volant de sa voiture car il est impulsif."
+    },
+    {
+      "idiom": "battre le fer pendant qu'il est chaud",
+      "example": "Cette promotion est valable peu de temps, il faut battre le fer pendant qu'il est chaud.",
+      "paraphrase": "Cette promotion est valable peu de temps, il faut agir au bon moment."
+    },
+    {
+      "idiom": "chercher la petite bête",
+      "example": "Le correcteur tatillon a passé des heures à chercher la petite bête dans mon rapport final.",
+      "paraphrase": "Le correcteur tatillon a passé des heures à chercher la moindre erreur dans mon rapport final."
+    },
+    {
+      "idiom": "donner un coup de main",
+      "example": "Est-ce que tu pourrais me donner un coup de main pour déplacer ce lourd canapé ?",
+      "paraphrase": "Est-ce que tu pourrais m'aider pour déplacer ce lourd canapé ?"
+    },
+    {
+      "idiom": "faire d'une pierre deux coups",
+      "example": "En allant chercher le pain à la boulangerie, je posterai la lettre pour faire d'une pierre deux coups.",
+      "paraphrase": "En allant chercher le pain à la boulangerie, je posterai la lettre pour régler deux affaires en même temps."
+    },
+    {
+      "idiom": "garder son sang-froid",
+      "example": "Malgré la panique générale dans le bâtiment, l'hôtesse de l'air a su garder son sang-froid.",
+      "paraphrase": "Malgré la panique générale dans le bâtiment, l'hôtesse de l'air est restée calme."
+    },
+    {
+      "idiom": "jeter un coup d'œil",
+      "example": "Je vais juste jeter un coup d'œil au document confidentiel avant la réunion de demain.",
+      "paraphrase": "Je vais juste regarder rapidement le document confidentiel avant la réunion de demain."
+    },
+    {
+      "idiom": "marcher sur des œufs",
+      "example": "Avec ce client particulièrement susceptible, le vendeur doit vraiment marcher sur des œufs.",
+      "paraphrase": "Avec ce client particulièrement susceptible, le vendeur doit vraiment agir avec précaution."
+    },
+    {
+      "idiom": "passer une nuit blanche",
+      "example": "Pour finir ce dossier urgent avant la date butoir, j'ai dû passer une nuit blanche.",
+      "paraphrase": "Pour finir ce dossier urgent avant la date butoir, je n'ai pas dormi de la nuit."
+    },
+    {
+      "idiom": "rire jaune",
+      "example": "Face à cette plaisanterie d'un goût très douteux, le patron a juste ri jaune.",
+      "paraphrase": "Face à cette plaisanterie d'un goût très douteux, le patron a eu un rire forcé."
+    },
+    {
+      "idiom": "tourner autour du pot",
+      "example": "Dis-moi directement ce que tu veux pour ton anniversaire sans tourner autour du pot.",
+      "paraphrase": "Dis-moi directement ce que tu veux pour ton anniversaire sans tergiverser."
+    },
+    {
+      "idiom": "avoir la frite",
+      "example": "Après une bonne semaine de vacances au soleil, j'ai vraiment la frite ce matin.",
+      "paraphrase": "Après une bonne semaine de vacances au soleil, je suis en pleine forme ce matin."
+    },
+    {
+      "idiom": "être dans le pétrin",
+      "example": "S'il ne paie pas ses dettes importantes d'ici demain soir, il sera dans le pétrin.",
+      "paraphrase": "S'il ne paie pas ses dettes importantes d'ici demain soir, il sera dans une situation très difficile."
+    },
+    {
+      "idiom": "faire la sourde oreille",
+      "example": "Face à mes réclamations répétées concernant la facture, le service client a fait la sourde oreille.",
+      "paraphrase": "Face à mes réclamations répétées concernant la facture, le service client a feint de ne pas entendre."
+    },
+    {
+      "idiom": "mener en bateau",
+      "example": "Le commercial de cette agence m'a mené en bateau pendant des semaines avec ce contrat.",
+      "paraphrase": "Le commercial de cette agence m'a dupé pendant des semaines avec ce contrat."
+    },
+    {
+      "idiom": "perdre la tête",
+      "example": "Devant l'ampleur effrayante de la tâche qui l'attendait, il a complètement perdu la tête.",
+      "paraphrase": "Devant l'ampleur effrayante de la tâche qui l'attendait, il s'est affolé."
+    },
+    {
+      "idiom": "ronger son frein",
+      "example": "Le coureur blessé au genou doit ronger son frein en attendant de pouvoir reprendre l'entraînement.",
+      "paraphrase": "Le coureur blessé au genou doit patienter avec frustration en attendant de pouvoir reprendre l'entraînement."
+    },
+    {
+      "idiom": "tomber sur un os",
+      "example": "Le projet de construction avançait très bien jusqu'à ce que nous tombions sur un os.",
+      "paraphrase": "Le projet de construction avançait très bien jusqu'à ce que nous rencontrions une difficulté imprévue."
+    },
+    {
+      "idiom": "voir la vie en rose",
+      "example": "Depuis qu'il a rencontré le grand amour la semaine dernière, il voit la vie en rose.",
+      "paraphrase": "Depuis qu'il a rencontré le grand amour la semaine dernière, il est très optimiste."
+    },
+    {
+      "idiom": "filer à l'anglaise",
+      "example": "Avant la fin ennuyeuse du repas d'affaires, le convive discret a préféré filer à l'anglaise.",
+      "paraphrase": "Avant la fin ennuyeuse du repas d'affaires, le convive discret a préféré partir en douce."
+    }
+  ],
+  "Georgian": [
+    {
+      "idiom": "შთაბეჭდილების ქვეშ ყოფნა",
+      "example": "სპექტაკლის დასრულების შემდეგ მთელი დარბაზი შთაბეჭდილების ქვეშ იყო.",
+      "paraphrase": "სპექტაკლის დასრულების შემდეგ მთელი დარბაზი აღფრთოვანებული იყო."
+    },
+    {
+      "idiom": "დედამიწის ზურგზე",
+      "example": "მთელ დედამიწის ზურგზე არ მოიძებნება მასზე უფრო კეთილი ადამიანი.",
+      "paraphrase": "მთელ მსოფლიოში არ მოიძებნება მასზე უფრო კეთილი ადამიანი."
+    },
+    {
+      "idiom": "თვალში ნაცრის შეყრა",
+      "example": "ის ცდილობს ხალხს თვალში ნაცარი შეაყაროს თავისი ცრუ დაპირებებით.",
+      "paraphrase": "ის ცდილობს ხალხი მოატყუოს თავისი ცრუ დაპირებებით."
+    },
+    {
+      "idiom": "გულზე ხელის დადება",
+      "example": "გულზე ხელი დაიდო და ისე გვითხრა სიმართლე მომხდარის შესახებ.",
+      "paraphrase": "ძალიან გულწრფელად გვითხრა სიმართლე მომხდარის შესახებ."
+    },
+    {
+      "idiom": "თავის გატანა",
+      "example": "ამ რთულ ეკონომიკურ პირობებში ოჯახები ძლივს ახერხებენ თავის გატანას.",
+      "paraphrase": "ამ რთულ ეკონომიკურ პირობებში ოჯახები ძლივს ახერხებენ გადარჩენას."
+    },
+    {
+      "idiom": "პირში წყლის ჩაგუბება",
+      "example": "როცა მას ამ შეცდომაზე მიუთითეს, ყველას წინაშე პირში წყალი ჩაიგუბა.",
+      "paraphrase": "როცა მას ამ შეცდომაზე მიუთითეს, ყველას წინაშე დადუმდა."
+    },
+    {
+      "idiom": "ყურებზე ხახვის დაჭრა",
+      "example": "რაც გინდათ ის ილაპარაკეთ, მე მაინც ყურებზე ხახვს ვერ დამაჭრით.",
+      "paraphrase": "რაც გინდათ ის ილაპარაკეთ, მე მაინც ვერაფერს დამაკლებთ."
+    },
+    {
+      "idiom": "წყლიდან მშრალი გამოსვლა",
+      "example": "მიუხედავად ბევრი დანაშაულის ჩადენისა, ის ყოველთვის მშრალი გამოდის წყლიდან.",
+      "paraphrase": "მიუხედავად ბევრი დანაშაულის ჩადენისა, ის ყოველთვის დაუსჯელი რჩება."
+    },
+    {
+      "idiom": "ხელის ჩაქნევა",
+      "example": "ამდენი უშედეგო მცდელობის შემდეგ მან საბოლოოდ ხელი ჩაიქნია ამ პროექტზე.",
+      "paraphrase": "ამდენი უშედეგო მცდელობის შემდეგ ის საბოლოოდ დანებდა ამ პროექტზე."
+    },
+    {
+      "idiom": "ენაზე კბილის დაჭერა",
+      "example": "გთხოვ, ენაზე კბილი დაიჭირე და ეს საიდუმლო არავის გაუმხილო.",
+      "paraphrase": "გთხოვ, გაჩუმდი და ეს საიდუმლო არავის გაუმხილო."
+    },
+    {
+      "idiom": "ფეხებზე დაკიდება",
+      "example": "მან თავისი მოვალეობები ფეხებზე დაიკიდა და სამსახურში აღარ გამოცხადდა.",
+      "paraphrase": "მან თავისი მოვალეობები უგულებელყო და სამსახურში აღარ გამოცხადდა."
+    },
+    {
+      "idiom": "თავში ავარდნა",
+      "example": "პირველივე წარმატების შემდეგ მას დიდება თავში აუვარდა.",
+      "paraphrase": "პირველივე წარმატების შემდეგ ის ძალიან გაყოყოჩდა."
+    },
+    {
+      "idiom": "ცაში აფრენა",
+      "example": "გამოცდის ჩაბარების ამბავი რომ გაიგო, სიხარულისგან ცაში აფრინდა.",
+      "paraphrase": "გამოცდის ჩაბარების ამბავი რომ გაიგო, ძალიან გაუხარდა."
+    },
+    {
+      "idiom": "მიწასთან გასწორება",
+      "example": "ძლიერმა ქარიშხალმა მთელი სოფლის მოსავალი მიწასთან გაასწორა.",
+      "paraphrase": "ძლიერმა ქარიშხალმა მთელი სოფლის მოსავალი გაანადგურა."
+    },
+    {
+      "idiom": "თვალის დახამხამება",
+      "example": "თვალის დახამხამებაში გაქრა იქიდან, თითქოს არც ყოფილა.",
+      "paraphrase": "ძალიან სწრაფად გაქრა იქიდან, თითქოს არც ყოფილა."
+    },
+    {
+      "idiom": "კბილების კრაჭუნი",
+      "example": "ის კბილების კრაჭუნით ისმენდა ამ შეურაცხმყოფელ სიტყვებს.",
+      "paraphrase": "ის ბრაზის შეკავებით ისმენდა ამ შეურაცხმყოფელ სიტყვებს."
+    },
+    {
+      "idiom": "სიტყვის გატეხა",
+      "example": "მან სიტყვა გატეხა და დათქმულ დროს შეხვედრაზე არ მოვიდა.",
+      "paraphrase": "მან პირობა დაარღვია და დათქმულ დროს შეხვედრაზე არ მოვიდა."
+    },
+    {
+      "idiom": "ყურის მოკვრა",
+      "example": "ქუჩაში მივდიოდი და შემთხვევით მოვკარი ყური მათ საუბარს.",
+      "paraphrase": "ქუჩაში მივდიოდი და შემთხვევით გავიგონე მათი საუბარი."
+    },
+    {
+      "idiom": "სისხლის გაშრობა",
+      "example": "ამ ბავშვმა თავისი ცელქობით მთელი სისხლი გამიშრო დღეს.",
+      "paraphrase": "ამ ბავშვმა თავისი ცელქობით ძალიან გამაწვალა დღეს."
+    },
+    {
+      "idiom": "თვალის ჩაკვრა",
+      "example": "მან მეგობარს შეუმჩნევლად ჩაუკრა თვალი, რომ დახმარებოდა.",
+      "paraphrase": "მან მეგობარს შეუმჩნევლად ანიშნა, რომ დახმარებოდა."
+    },
+    {
+      "idiom": "გულის გადაშლა",
+      "example": "წლების განშორების შემდეგ მან ბოლოს და ბოლოს გული გადამიშალა.",
+      "paraphrase": "წლების განშორების შემდეგ მან ბოლოს და ბოლოს გულწრფელად მესაუბრა."
+    },
+    {
+      "idiom": "ჭკუიდან გადასვლა",
+      "example": "ამხელა ხმაურისგან შეიძლება ადამიანი ჭკუიდან გადავიდეს.",
+      "paraphrase": "ამხელა ხმაურისგან შეიძლება ადამიანი გაგიჟდეს."
+    },
+    {
+      "idiom": "ფეხის ათრევა",
+      "example": "სკოლაში წასვლა არ უნდოდა და დილით მაგრად ითრევდა ფეხს.",
+      "paraphrase": "სკოლაში წასვლა არ უნდოდა და დილით ძალიან უხალისოდ ემზადებოდა."
+    },
+    {
+      "idiom": "ცეცხლზე ნავთის დასხმა",
+      "example": "შენი ეს კომენტარი ახლა მხოლოდ ცეცხლზე ნავთის დასხმაა.",
+      "paraphrase": "შენი ეს კომენტარი ახლა მხოლოდ სიტუაციის გამწვავებაა."
+    },
+    {
+      "idiom": "გზის გაკვალვა",
+      "example": "მან თავისი შრომითა და ნიჭით თავად გაიკვალა გზა ცხოვრებაში.",
+      "paraphrase": "მან თავისი შრომითა და ნიჭით თავად მიაღწია წარმატებას ცხოვრებაში."
+    },
+    {
+      "idiom": "ცხვირის აწევა",
+      "example": "რაც დააწინაურეს, ცხვირი აწია და ძველ მეგობრებს აღარ ესალმება.",
+      "paraphrase": "რაც დააწინაურეს, გაამპარტავნდა და ძველ მეგობრებს აღარ ესალმება."
+    },
+    {
+      "idiom": "გულის აცრუება",
+      "example": "ამდენი ტყუილის შემდეგ მასზე საბოლოოდ აიცრუა გული.",
+      "paraphrase": "ამდენი ტყუილის შემდეგ მასზე საბოლოოდ იმედი გაუცრუვდა."
+    },
+    {
+      "idiom": "ხელის მოთბობა",
+      "example": "ზოგიერთი ადამიანი სხვის უბედურებაზე ცდილობს ხელის მოთბობას.",
+      "paraphrase": "ზოგიერთი ადამიანი სხვის უბედურებაზე ცდილობს გამორჩენის ნახვას."
+    },
+    {
+      "idiom": "წელში გაწყვეტა",
+      "example": "მთელი დღე მინდორში ვმუშაობდი და წელში ვარ გაწყვეტილი.",
+      "paraphrase": "მთელი დღე მინდორში ვმუშაობდი და ძალიან ვარ დაღლილი."
+    },
+    {
+      "idiom": "ჩალის ფასად",
+      "example": "მათ თავიანთი სახლი სრულიად ჩალის ფასად გაყიდეს.",
+      "paraphrase": "მათ თავიანთი სახლი ძალიან იაფად გაყიდეს."
+    },
+    {
+      "idiom": "ქარის წამოღებული",
+      "example": "ის ჭორები სულ ქარის წამოღებული იყო და სიმართლეს არ відпоვედა.",
+      "paraphrase": "ის ჭორები სრულიად უსაფუძვლო იყო და სიმართლეს არ შეესაბამებოდა."
+    },
+    {
+      "idiom": "წყლის ნაყვა",
+      "example": "მასთან კამათი ახლა უბრალოდ წყლის ნაყვაა და მეტი არაფერი.",
+      "paraphrase": "მასთან კამათი ახლა უბრალოდ უშედეგო შრომაა და მეტი არაფერი."
+    },
+    {
+      "idiom": "ნემსის ყუნწში გაძრომა",
+      "example": "ამ საქმის მოსაგვარებლად ნემსის ყუნწში გაძრომა მოგვიწევს.",
+      "paraphrase": "ამ საქმის მოსაგვარებლად დიდი სიძნელეების გადალახვა მოგვიწევს."
+    },
+    {
+      "idiom": "სულზე მისწრება",
+      "example": "შენი მოტანილი წყალი ამ სიცხეში პირდაპირ სულზე მისწრება იყო.",
+      "paraphrase": "შენი მოტანილი წყალი ამ სიცხეში პირდაპირ დროული დახმარება იყო."
+    },
+    {
+      "idiom": "ცხვირის ჩამოშვება",
+      "example": "ნუ ჩამოუშვი ცხვირი, ყველაფერი კარგად იქნება.",
+      "paraphrase": "ნუ დაღონდი, ყველაფერი კარგად იქნება."
+    },
+    {
+      "idiom": "გულის გახეთქვა",
+      "example": "უცებ რომ გადმოხტი კუთხიდან, კინაღამ გული გამიხეთქე.",
+      "paraphrase": "უცებ რომ გადმოხტი კუთხიდან, კინაღამ ძალიან შემაშინე."
+    },
+    {
+      "idiom": "თითის გაშვერა",
+      "example": "ყველაზე ადვილი სხვისკენ თითის გაშვერაა, როცა თავად ცდები.",
+      "paraphrase": "ყველაზე ადვილი სხვის დადანაშაულებაა, როცა თავად ცდები."
+    },
+    {
+      "idiom": "სულის შებერვა",
+      "example": "ექიმებმა ყველაფერი გააკეთეს და პაციენტს ხელახლა შეჰბერეს სული.",
+      "paraphrase": "ექიმებმა ყველაფერი გააკეთეს და პაციენტი ხელახლა გააცოცხლეს."
+    },
+    {
+      "idiom": "ტვინის ბურღვა",
+      "example": "მთელი გზა თავისი პრობლემებით ტვინი გამიბურღა.",
+      "paraphrase": "მთელი გზა თავისი პრობლემებით ძალიან შემაწუხა."
+    },
+    {
+      "idiom": "ჯოჯოხეთის გამოვლა",
+      "example": "ომის დროს ამ ხალხმა ნამდვილი ჯოჯოხეთი გამოიარა.",
+      "paraphrase": "ომის დროს ამ ხალხმა დიდი ტანჯვა გადაიტანა."
+    },
+    {
+      "idiom": "ძვლებში დამტვრევა",
+      "example": "გუშინდელი ვარჯიშის მერე ისე ვარ, თითქოს ძვლებში დამაწყვიტეს.",
+      "paraphrase": "გუშინდელი ვარჯიშის მერე ისე ვარ, თითქოს ძალიან მცემეს."
+    },
+    {
+      "idiom": "ნერვების მოშლა",
+      "example": "თავისი უპასუხისმგებლო საქციელით მან ნერვები მომიშალა.",
+      "paraphrase": "თავისი უპასუხისმგებლო საქციელით მან ძალიან გამაბრაზა."
+    },
+    {
+      "idiom": "თვალების გადმოკარკვლა",
+      "example": "ფასი რომ გაიგო, გაკვირვებისგან თვალები გადმოკარკლა.",
+      "paraphrase": "ფასი რომ გაიგო, ძალიან გაუკვირდა."
+    },
+    {
+      "idiom": "გონების დაკარგვა",
+      "example": "სიცხისგან რამდენიმე ადამიანმა გონება დაკარგა.",
+      "paraphrase": "სიცხისგან რამდენიმე ადამიანს გული წაუვიდა."
+    },
+    {
+      "idiom": "თავზე ხელის აღება",
+      "example": "სასოწარკვეთილმა თავზე ხელი აიღო და ყველაფერი მიატოვა.",
+      "paraphrase": "სასოწარკვეთილმა უკიდურეს ნაბიჯს მიმართა და ყველაფერი მიატოვა."
+    },
+    {
+      "idiom": "კუდის ამოძუება",
+      "example": "პოლიციის დანახვაზე ქურდმა კუდი ამოიძუა და გაიქცა.",
+      "paraphrase": "პოლიციის დანახვაზე ქურდი შეშინდა და გაიქცა."
+    },
+    {
+      "idiom": "მზის დაბნელება",
+      "example": "შვილის დაკარგვა მისთვის ნამდვილი მზის დაბნელება იყო.",
+      "paraphrase": "შვილის დაკარგვა მისთვის უდიდესი უბედურება იყო."
+    },
+    {
+      "idiom": "ენის მიტანა",
+      "example": "თანამშრომლებმა უფროსთან მაშინვე ენა მიიტანეს მის დაგვიანებაზე.",
+      "paraphrase": "თანამშრომლებმა უფროსთან მაშინვე დააბეზღეს მისი დაგვიანება."
+    },
+    {
+      "idiom": "თვალში ჩავარდნა",
+      "example": "ეს გოგონა პირველივე დანახვისთანავე თვალში ჩამივარდა.",
+      "paraphrase": "ეს გოგონა პირველივე დანახვისთანავე ძალიან მომეწონა."
+    },
+    {
+      "idiom": "სულის ამოძრობა",
+      "example": "სანამ ეს ტვირთი მეხუთე სართულზე ავიტანე, სული ამომძვრა.",
+      "paraphrase": "სანამ ეს ტვირთი მეხუთე სართულზე ავიტანე, ძალიან დავიღალე."
+    },
+    {
+      "idiom": "თავის გადადება",
+      "example": "მეგობრის გადასარჩენად მან თავი გადადო.",
+      "paraphrase": "მეგობრის გადასარჩენად მან თავი გაწირა."
+    },
+    {
+      "idiom": "გულის მოფხანა",
+      "example": "მან თავისი მტრის მარცხით კარგად მოიფხანა გული.",
+      "paraphrase": "მან თავისი მტრის მარცხით დიდი სიამოვნება მიიღო."
+    },
+    {
+      "idiom": "ჭიის გახარება",
+      "example": "ბავშვმა ერთი ნაყინით ჭია გაიხარა და დამშვიდდა.",
+      "paraphrase": "ბავშვმა ერთი ნაყინით მცირეოდენი სიამოვნება მიიღო და დამშვიდდა."
+    },
+    {
+      "idiom": "ფეხქვეშ გათელვა",
+      "example": "მან სხვისი ღირსება უმოწყალოდ გათელა ფეხქვეშ.",
+      "paraphrase": "მან სხვისი ღირსება უმოწყალოდ დაამცირა."
+    },
+    {
+      "idiom": "თვალის დადგმა",
+      "example": "იმ ახალ მანქანას კარგა ხანია თვალი დავადგი.",
+      "paraphrase": "იმ ახალი მანქანის ყიდვა კარგა ხანია გადავწყვიტე."
+    },
+    {
+      "idiom": "ყურების ჩამოყრა",
+      "example": "წაგების შემდეგ გუნდის მოთამაშეებმა ყურები ჩამოყარეს.",
+      "paraphrase": "წაგების შემდეგ გუნდის მოთამაშეები ძალიან მოიწყინეს."
+    },
+    {
+      "idiom": "თავის მოჩვენება",
+      "example": "ისე მოაჩვენა თავი, თითქოს არაფერი იცოდა ამ საქმეზე.",
+      "paraphrase": "ისე ითვალთმაქცა, თითქოს არაფერი იცოდა ამ საქმეზე."
+    },
+    {
+      "idiom": "გულის მოლბობა",
+      "example": "ბავშვის ცრემლებმა მას მაშინვე მოულბო გული.",
+      "paraphrase": "ბავშვის ცრემლებმა მას მაშინვე შეაცოდა თავისი თავი."
+    },
+    {
+      "idiom": "სისხლის დალევა",
+      "example": "თავისი მუდმივი ეჭვიანობით ცოლს სისხლი დაულია.",
+      "paraphrase": "თავისი მუდმივი ეჭვიანობით ცოლი ძალიან გაამწარა."
+    },
+    {
+      "idiom": "კბილის გაკვრა",
+      "example": "საუბრისას მან თავის ძველ მეგობარსაც გაჰკრა კბილი.",
+      "paraphrase": "საუბრისას მან თავის ძველ მეგობარსაც ირიბად მიაყენა შეურაცხყოფა."
+    },
+    {
+      "idiom": "პირდაპირ შეხედვა",
+      "example": "დროა სიმართლეს თვალი გავუსწოროთ და რეალობა მივიღოთ.",
+      "paraphrase": "დროა სიმართლე პირდაპირ ვაღიაროთ და რეალობა მივიღოთ."
+    },
+    {
+      "idiom": "ხელის გულზე ტარება",
+      "example": "ბებია თავის ერთადერთ შვილიშვილს ხელის გულზე ატარებდა.",
+      "paraphrase": "ბებია თავის ერთადერთ შვილიშვილს ძალიან ანებივრებდა."
+    },
+    {
+      "idiom": "პირის მოტყუება",
+      "example": "დილით მხოლოდ ერთი ვაშლით მოვიტყუე პირი.",
+      "paraphrase": "დილით მხოლოდ ერთი ვაშლი შევჭამე ცოტათი."
+    },
+    {
+      "idiom": "თვალის მოკვრა",
+      "example": "შორიდან მოვკარი თვალი შენს ძმას, მაგრამ ვერ მივეწიე.",
+      "paraphrase": "შორიდან დავინახე შენი ძმა, მაგრამ ვერ მივეწიე."
+    },
+    {
+      "idiom": "გულის ჯიბეში ჩადება",
+      "example": "სამსახურში პროფესიონალი უნდა იყო და გული ჯიბეში ჩაიდო.",
+      "paraphrase": "სამსახურში პროფესიონალი უნდა იყო და ემოციები დამალო."
+    },
+    {
+      "idiom": "თავზე დაჯდომა",
+      "example": "რაც უფრო კარგად ვექცევი, მით უფრო მაჯდება თავზე.",
+      "paraphrase": "რაც უფრო კარგად ვექცევი, მით უფრო მითავხედდება."
+    },
+    {
+      "idiom": "ენის გადმოგდება",
+      "example": "ისე ვირბინე ავტობუსის მოსასწრებად, ენა გადმოვაგდე.",
+      "paraphrase": "ისე ვირბინე ავტობუსის მოსასწრებად, ძალიან დავიღალე."
+    },
+    {
+      "idiom": "თვალის ახელა",
+      "example": "მისი ღალატის შემდეგ, როგორც იქნა, თვალი ამეხილა.",
+      "paraphrase": "მისი ღალატის შემდეგ, როგორც იქნა, სიმართლე დავინახე."
+    },
+    {
+      "idiom": "სულის შებერვით",
+      "example": "დედამისი მას სულის შებერვით და დიდი სიყვარულით ზრდიდა.",
+      "paraphrase": "დედამისი მას დიდი სითბოთი და დიდი სიყვარულით ზრდიდა."
+    },
+    {
+      "idiom": "კედელთან მიმწყვდევა",
+      "example": "ჟურნალისტმა თავისი კითხვებით პოლიტიკოსი კედელთან მიიმწყვდია.",
+      "paraphrase": "ჟურნალისტმა თავისი კითხვებით პოლიტიკოსი გამოუვალ მდგომარეობაში ჩააყენა."
+    }
+  ],
+  "Greek": [
+    {
+      "idiom": "βρέχει καρεκλοπόδαρα",
+      "example": "Δεν μπορούμε να βγούμε έξω τώρα, βρέχει καρεκλοπόδαρα.",
+      "paraphrase": "Δεν μπορούμε να βγούμε έξω τώρα, ρίχνει πολύ δυνατή βροχή."
+    },
+    {
+      "idiom": "κάνω τα στραβά μάτια",
+      "example": "Ο δάσκαλος έκανε τα στραβά μάτια όταν με είδε να αντιγράφω.",
+      "paraphrase": "Ο δάσκαλος με αγνόησε επίτηδες όταν με είδε να αντιγράφω."
+    },
+    {
+      "idiom": "χάνω τα αυγά και τα πασχάλια",
+      "example": "Με τόση πολλή δουλειά σήμερα, έχω χάσει τα αυγά και τα πασχάλια.",
+      "paraphrase": "Με τόση πολλή δουλειά σήμερα, έχω μπερδευτεί τελείως."
+    },
+    {
+      "idiom": "βγάζω το φίδι από την τρύπα",
+      "example": "Πάντα εγώ πρέπει να βγάζω το φίδι από την τρύπα στο γραφείο.",
+      "paraphrase": "Πάντα εγώ πρέπει να λύνω τα δύσκολα προβλήματα στο γραφείο."
+    },
+    {
+      "idiom": "πνίγομαι σε μια κουταλιά νερό",
+      "example": "Μην αγχώνεσαι τόσο πολύ, πνίγεσαι σε μια κουταλιά νερό.",
+      "paraphrase": "Μην αγχώνεσαι τόσο πολύ, πανικοβάλλεσαι με το παραμικρό."
+    },
+    {
+      "idiom": "πιάνω τον ταύρο από τα κέρατα",
+      "example": "Αποφάσισε να πιάσει τον ταύρο από τα κέρατα και να μιλήσει στο αφεντικό.",
+      "paraphrase": "Αποφάσισε να αντιμετωπίσει άμεσα το πρόβλημα και να μιλήσει στο αφεντικό."
+    },
+    {
+      "idiom": "τα κάνω θάλασσα",
+      "example": "Στις τελικές εξετάσεις τα έκανα θάλασσα και δυστυχώς απέτυχα.",
+      "paraphrase": "Στις τελικές εξετάσεις τα έκανα χάλια και δυστυχώς απέτυχα."
+    },
+    {
+      "idiom": "βάζω το χέρι μου στη φωτιά",
+      "example": "Για την εντιμότητά του βάζω το χέρι μου στη φωτιά χωρίς δισταγμό.",
+      "paraphrase": "Για την εντιμότητά του είμαι απολύτως σίγουρος χωρίς δισταγμό."
+    },
+    {
+      "idiom": "ρίχνω λάδι στη φωτιά",
+      "example": "Με αυτά που του λες τώρα, απλώς ρίχνεις λάδι στη φωτιά.",
+      "paraphrase": "Με αυτά που του λες τώρα, απλώς χειροτερεύεις την κατάσταση."
+    },
+    {
+      "idiom": "πετάω στα σύννεφα",
+      "example": "Από τότε που πήρε την προαγωγή, πετάει στα σύννεφα.",
+      "paraphrase": "Από τότε που πήρε την προαγωγή, είναι πάρα πολύ ευτυχισμένος."
+    },
+    {
+      "idiom": "βγάζω από τη μύγα ξύγκι",
+      "example": "Αυτός ο επιχειρηματίας καταφέρνει πάντα να βγάζει από τη μύγα ξύγκι.",
+      "paraphrase": "Αυτός ο επιχειρηματίας καταφέρνει πάντα να βγάζει κέρδος από το τίποτα."
+    },
+    {
+      "idiom": "τα παίρνω στο κρανίο",
+      "example": "Όταν μου μιλάνε με αυτόν τον τρόπο, τα παίρνω στο κρανίο.",
+      "paraphrase": "Όταν μου μιλάνε με αυτόν τον τρόπο, εκνευρίζομαι πάρα πολύ."
+    },
+    {
+      "idiom": "γίνομαι καπνός",
+      "example": "Μόλις είδε την αστυνομία, ο ύποπτος έγινε καπνός.",
+      "paraphrase": "Μόλις είδε την αστυνομία, ο ύποπτος εξαφανίστηκε αμέσως."
+    },
+    {
+      "idiom": "βγάζω ασπροπρόσωπο",
+      "example": "Με την εξαιρετική της παρουσίαση μας έβγαλε όλους ασπροπρόσωπους.",
+      "paraphrase": "Με την εξαιρετική της παρουσίαση μας έκανε όλους περήφανους."
+    },
+    {
+      "idiom": "κάθομαι σε αναμμένα κάρβουνα",
+      "example": "Περιμένω τα αποτελέσματα των εξετάσεων και κάθομαι σε αναμμένα κάρβουνα.",
+      "paraphrase": "Περιμένω τα αποτελέσματα των εξετάσεων και έχω τεράστια αγωνία."
+    },
+    {
+      "idiom": "τα φορτώνω στον κόκορα",
+      "example": "Αντί να διαβάσει, τα φόρτωσε στον κόκορα και πήγε βόλτα.",
+      "paraphrase": "Αντί να διαβάσει, αδιαφόρησε εντελώς για τις υποχρεώσεις του και πήγε βόλτα."
+    },
+    {
+      "idiom": "τα μασάω",
+      "example": "Όταν τον ρώτησα πού ήταν χθες, άρχισε να τα μασάει.",
+      "paraphrase": "Όταν τον ρώτησα πού ήταν χθες, άρχισε να δικαιολογείται διστακτικά."
+    },
+    {
+      "idiom": "ψάχνω ψύλλους στ' άχυρα",
+      "example": "Το να βρεις το χαμένο δαχτυλίδι στην άμμο είναι σαν να ψάχνεις ψύλλους στ' άχυρα.",
+      "paraphrase": "Το να βρεις το χαμένο δαχτυλίδι στην άμμο είναι κάτι πρακτικά αδύνατο."
+    },
+    {
+      "idiom": "μου μπαίνουν ψύλλοι στ' αυτιά",
+      "example": "Με αυτά που άκουσα σήμερα, άρχισαν να μου μπαίνουν ψύλλοι στ' αυτιά.",
+      "paraphrase": "Με αυτά που άκουσα σήμερα, άρχισα να υποψιάζομαι κάτι."
+    },
+    {
+      "idiom": "χρυσώνω το χάπι",
+      "example": "Μην προσπαθείς να μου χρυσώσεις το χάπι, ξέρω ότι η κατάσταση είναι σοβαρή.",
+      "paraphrase": "Μην προσπαθείς να ωραιοποιήσεις τα πράγματα, ξέρω ότι η κατάσταση είναι σοβαρή."
+    },
+    {
+      "idiom": "πετάω τη σκούφια μου",
+      "example": "Μόλις άκουσε για την εκδρομή, πέταξε τη σκούφια του.",
+      "paraphrase": "Μόλις άκουσε για την εκδρομή, χάρηκε πάρα πολύ."
+    },
+    {
+      "idiom": "κάνω την πάπια",
+      "example": "Όταν ήρθε η ώρα να πληρώσουμε, εκείνος έκανε την πάπια.",
+      "paraphrase": "Όταν ήρθε η ώρα να πληρώσουμε, εκείνος προσποιήθηκε ότι δεν καταλαβαίνει."
+    },
+    {
+      "idiom": "πουλάω φύκια για μεταξωτές κορδέλες",
+      "example": "Ο πωλητής προσπάθησε να μας πουλήσει φύκια για μεταξωτές κορδέλες.",
+      "paraphrase": "Ο πωλητής προσπάθησε να μας εξαπατήσει με κάτι ευτελές σαν πολύτιμο."
+    },
+    {
+      "idiom": "δίνω τόπο στην οργή",
+      "example": "Αποφάσισα να δώσω τόπο στην οργή και να μην του απαντήσω.",
+      "paraphrase": "Αποφάσισα να υποχωρήσω για να αποφύγω τον καυγά και να μην του απαντήσω."
+    },
+    {
+      "idiom": "τα κάνω μαντάρα",
+      "example": "Προσπάθησα να φτιάξω το υδραυλικό πρόβλημα μόνος μου και τα έκανα μαντάρα.",
+      "paraphrase": "Προσπάθησα να φτιάξω το υδραυλικό πρόβλημα μόνος μου και κατέστρεψα τα πάντα."
+    },
+    {
+      "idiom": "χτυπάω ξύλο",
+      "example": "Η υγεία μας είναι μια χαρά, χτύπα ξύλο.",
+      "paraphrase": "Η υγεία μας είναι μια χαρά, ας ξορκίσουμε το κακό."
+    },
+    {
+      "idiom": "πέφτω από τα σύννεφα",
+      "example": "Όταν έμαθα ότι χώρισαν, έπεσα από τα σύννεφα.",
+      "paraphrase": "Όταν έμαθα ότι χώρισαν, εξεπλάγην δυσάρεστα."
+    },
+    {
+      "idiom": "σπάω το κεφάλι μου",
+      "example": "Σπάω το κεφάλι μου να θυμηθώ πού άφησα τα κλειδιά.",
+      "paraphrase": "Σκέφτομαι πάρα πολύ έντονα να θυμηθώ πού άφησα τα κλειδιά."
+    },
+    {
+      "idiom": "μου ανεβαίνει το αίμα στο κεφάλι",
+      "example": "Με αυτές τις προσβολές, μου ανεβαίνει το αίμα στο κεφάλι.",
+      "paraphrase": "Με αυτές τις προσβολές, εξοργίζομαι υπερβολικά."
+    },
+    {
+      "idiom": "του αλλάζω τα φώτα",
+      "example": "Αν σε πιάσω να με κοροϊδεύεις, θα σου αλλάξω τα φώτα.",
+      "paraphrase": "Αν σε πιάσω να με κοροϊδεύεις, θα σε δείρω άγρια."
+    },
+    {
+      "idiom": "γυρίζω την πλάτη",
+      "example": "Στα δύσκολα όλοι οι φίλοι του του γύρισαν την πλάτη.",
+      "paraphrase": "Στα δύσκολα όλοι οι φίλοι του τον εγκατέλειψαν."
+    },
+    {
+      "idiom": "το βάζω στα πόδια",
+      "example": "Ο κλέφτης είδε τον φρουρό και το έβαλε στα πόδια.",
+      "paraphrase": "Ο κλέφτης είδε τον φρουρό και άρχισε να τρέχει για να ξεφύγει."
+    },
+    {
+      "idiom": "κόβω λάσπη",
+      "example": "Είναι αργά, κόβε λάσπη από δω πριν έρθει ο πατέρας μου.",
+      "paraphrase": "Είναι αργά, φύγε γρήγορα από δω πριν έρθει ο πατέρας μου."
+    },
+    {
+      "idiom": "ανοίγω τα χαρτιά μου",
+      "example": "Ήρθε η ώρα να ανοίξω τα χαρτιά μου και να πω τις προθέσεις μου.",
+      "paraphrase": "Ήρθε η ώρα να αποκαλύψω τα σχέδιά μου και να πω τις προθέσεις μου."
+    },
+    {
+      "idiom": "τρώω πόρτα",
+      "example": "Πήγαμε στο καινούργιο κλαμπ αλλά φάγαμε πόρτα επειδή δεν είχαμε κράτηση.",
+      "paraphrase": "Πήγαμε στο καινούργιο κλαμπ αλλά δεν μας άφησαν να μπούμε επειδή δεν είχαμε κράτηση."
+    },
+    {
+      "idiom": "χάνω το χρώμα μου",
+      "example": "Μόλις άκουσε τα κακά νέα, έχασε το χρώμα του.",
+      "paraphrase": "Μόλις άκουσε τα κακά νέα, χλώμιασε από τον φόβο."
+    },
+    {
+      "idiom": "μου κόβονται τα ήπατα",
+      "example": "Όταν είδα το φίδι στην αυλή, μου κόπηκαν τα ήπατα.",
+      "paraphrase": "Όταν είδα το φίδι στην αυλή, τρόμαξα πάρα πολύ."
+    },
+    {
+      "idiom": "είμαι στο στοιχείο μου",
+      "example": "Όταν μιλάει για υπολογιστές, φαίνεται ότι είναι στο στοιχείο του.",
+      "paraphrase": "Όταν μιλάει για υπολογιστές, φαίνεται ότι βρίσκεται στον τομέα που γνωρίζει άριστα."
+    },
+    {
+      "idiom": "τρέχω και δεν φτάνω",
+      "example": "Από το πρωί στο γραφείο τρέχω και δεν φτάνω με τόσες δουλειές.",
+      "paraphrase": "Από το πρωί στο γραφείο είμαι υπερβολικά απασχολημένος με τόσες δουλειές."
+    },
+    {
+      "idiom": "παίζω με τη φωτιά",
+      "example": "Όποιος μπλέκει με τέτοιους εγκληματίες, παίζει με τη φωτιά.",
+      "paraphrase": "Όποιος μπλέκει με τέτοιους εγκληματίες, ρισκάρει επικίνδυνα."
+    },
+    {
+      "idiom": "ρίχνω στάχτη στα μάτια",
+      "example": "Όλα αυτά τα δώρα είναι απλώς για να σου ρίξει στάχτη στα μάτια.",
+      "paraphrase": "Όλα αυτά τα δώρα είναι απλώς για να σε παραπλανήσει."
+    },
+    {
+      "idiom": "παίρνω τον στραβό δρόμο",
+      "example": "Από τότε που έμπλεξε με κακές παρέες, πήρε τον στραβό δρόμο.",
+      "paraphrase": "Από τότε που έμπλεξε με κακές παρέες, άρχισε να συμπεριφέρεται άσχημα και παράνομα."
+    },
+    {
+      "idiom": "λέω τα σύκα σύκα και τη σκάφη σκάφη",
+      "example": "Εγώ θα πω τα σύκα σύκα και τη σκάφη σκάφη, ας παρεξηγηθείτε.",
+      "paraphrase": "Εγώ θα πω την απόλυτη αλήθεια με ειλικρίνεια, ας παρεξηγηθείτε."
+    },
+    {
+      "idiom": "δεν βγάζω άχνα",
+      "example": "Σε όλη τη διάρκεια του συμβουλίου δεν έβγαλε άχνα.",
+      "paraphrase": "Σε όλη τη διάρκεια του συμβουλίου δεν μίλησε καθόλου."
+    },
+    {
+      "idiom": "τα λέω έξω από τα δόντια",
+      "example": "Ο διευθυντής μάς τα είπε έξω από τα δόντια για τις καθυστερήσεις.",
+      "paraphrase": "Ο διευθυντής μάς μίλησε πολύ ανοιχτά και αυστηρά για τις καθυστερήσεις."
+    },
+    {
+      "idiom": "πατάω επί πτωμάτων",
+      "example": "Για να φτάσει σε αυτή τη θέση, πάτησε επί πτωμάτων.",
+      "paraphrase": "Για να φτάσει σε αυτή τη θέση, δεν υπολόγισε κανέναν και φέρθηκε αδίστακτα."
+    },
+    {
+      "idiom": "βγάζω το ψωμί μου",
+      "example": "Δουλεύω σκληρά στην οικοδομή για να βγάλω το ψωμί μου.",
+      "paraphrase": "Δουλεύω σκληρά στην οικοδομή για να κερδίσω τα προς το ζην."
+    },
+    {
+      "idiom": "μου λύνεται η γλώσσα",
+      "example": "Μετά από δυο ποτήρια κρασί, του λύθηκε η γλώσσα.",
+      "paraphrase": "Μετά από δυο ποτήρια κρασί, άρχισε να μιλάει ελεύθερα."
+    },
+    {
+      "idiom": "δένω τον γάιδαρό μου",
+      "example": "Με αυτό το συμβόλαιο, έδεσα τον γάιδαρό μου για φέτος.",
+      "paraphrase": "Με αυτό το συμβόλαιο, εξασφαλίστηκα πλήρως για φέτος."
+    },
+    {
+      "idiom": "κουβαλάω νερό στο μύλο",
+      "example": "Αυτές οι δηλώσεις κουβαλάνε νερό στον μύλο της αντιπολίτευσης.",
+      "paraphrase": "Αυτές οι δηλώσεις εξυπηρετούν τα συμφέροντα της αντιπολίτευσης."
+    },
+    {
+      "idiom": "το παίρνω πάνω μου",
+      "example": "Μην ανησυχείς για την παρουσίαση, θα το πάρω πάνω μου.",
+      "paraphrase": "Μην ανησυχείς για την παρουσίαση, θα αναλάβω εγώ την ευθύνη."
+    },
+    {
+      "idiom": "βάζω τα δυνατά μου",
+      "example": "Θα βάλω τα δυνατά μου για να περάσω τις εξετάσεις φέτος.",
+      "paraphrase": "Θα προσπαθήσω όσο περισσότερο μπορώ για να περάσω τις εξετάσεις φέτος."
+    },
+    {
+      "idiom": "κάνω πίσω",
+      "example": "Δεν πρόκειται να κάνω πίσω στις απαιτήσεις μου.",
+      "paraphrase": "Δεν πρόκειται να υποχωρήσω στις απαιτήσεις μου."
+    },
+    {
+      "idiom": "είμαι του χεριού του",
+      "example": "Αυτός ο αντίπαλος είναι του χεριού μας, θα νικήσουμε εύκολα.",
+      "paraphrase": "Αυτός ο αντίπαλος είναι πολύ εύκολος για εμάς, θα νικήσουμε εύκολα."
+    },
+    {
+      "idiom": "κλείνω το σπίτι",
+      "example": "Ο τζόγος θα του κλείσει το σπίτι αν δεν προσέξει.",
+      "paraphrase": "Ο τζόγος θα τον καταστρέψει οικονομικά αν δεν προσέξει."
+    },
+    {
+      "idiom": "μου τρέχουν τα σάλια",
+      "example": "Μόλις είδα αυτή την τούρτα σοκολάτας, μου έτρεξαν τα σάλια.",
+      "paraphrase": "Μόλις είδα αυτή την τούρτα σοκολάτας, τη λαχτάρησα πάρα πολύ."
+    },
+    {
+      "idiom": "παίρν τον αέρα",
+      "example": "Ο μικρός μας έχει πάρει τον αέρα και δεν ακούει κανέναν.",
+      "paraphrase": "Ο μικρός έχει αποκτήσει θάρρος εις βάρος μας και δεν ακούει κανέναν."
+    },
+    {
+      "idiom": "τα τσουγκρίζω",
+      "example": "Μετά την τελευταία διαφωνία, τα τσούγκρισαν οριστικά.",
+      "paraphrase": "Μετά την τελευταία διαφωνία, χάλασαν τις σχέσεις τους οριστικά."
+    },
+    {
+      "idiom": "τα βρίσκω σκούρα",
+      "example": "Στην αρχή τα βρήκε σκούρα στη νέα δουλειά, αλλά προσαρμόστηκε.",
+      "paraphrase": "Στην αρχή αντιμετώπισε μεγάλες δυσκολίες στη νέα δουλειά, αλλά προσαρμόστηκε."
+    },
+    {
+      "idiom": "δαγκώνω τη γλώσσα μου",
+      "example": "Πήγα να του το πω, αλλά την τελευταία στιγμή δάγκωσα τη γλώσσα μου.",
+      "paraphrase": "Πήγα να του το πω, αλλά την τελευταία στιγμή κρατήθηκα και δεν μίλησα."
+    },
+    {
+      "idiom": "πιάνω τον παπά από τα γένια",
+      "example": "Νομίζει ότι με αυτή την επένδυση έπιασε τον παπά από τα γένια.",
+      "paraphrase": "Νομίζει ότι με αυτή την επένδυση πέτυχε την απόλυτη ευκαιρία."
+    },
+    {
+      "idiom": "ρίχνω μαύρη πέτρα πίσω μου",
+      "example": "Όταν έφυγε για το εξωτερικό, έριξε μαύρη πέτρα πίσω του.",
+      "paraphrase": "Όταν έφυγε για το εξωτερικό, έκοψε κάθε δεσμό με το παρελθόν του."
+    },
+    {
+      "idiom": "πέφτω στα μαλακά",
+      "example": "Παρά το μεγάλο σφάλμα του, τελικά έπεσε στα μαλακά με την τιμωρία.",
+      "paraphrase": "Παρά το μεγάλο σφάλμα του, τελικά είχε επιεική μεταχείριση με την τιμωρία."
+    },
+    {
+      "idiom": "τραβάω τον δρόμο μου",
+      "example": "Εσύ κάνε ό,τι νομίζεις, εγώ θα τραβήξω τον δρόμο μου.",
+      "paraphrase": "Εσύ κάνε ό,τι νομίζεις, εγώ θα συνεχίσω τη δική μου πορεία."
+    },
+    {
+      "idiom": "κοιμάμαι όρθιος",
+      "example": "Αν νομίζεις ότι θα σου δώσει τα λεφτά πίσω, μάλλον κοιμάσαι όρθιος.",
+      "paraphrase": "Αν νομίζεις ότι θα σου δώσει τα λεφτά πίσω, μάλλον έχεις πλήρη άγνοια."
+    },
+    {
+      "idiom": "του λιναριού τα πάθη",
+      "example": "Τράβηξε του λιναριού τα πάθη μέχρι να χτίσει αυτό το σπίτι.",
+      "paraphrase": "Πέρασε απίστευτες ταλαιπωρίες μέχρι να χτίσει αυτό το σπίτι."
+    },
+    {
+      "idiom": "κάνω τρίχες κατσαρές",
+      "example": "Μην φοβάσαι τις απειλές του, θα μας κάνει τρίχες κατσαρές.",
+      "paraphrase": "Μην φοβάσαι τις απειλές του, δεν μπορεί να μας κάνει απολύτως τίποτα."
+    },
+    {
+      "idiom": "πνέω τα λοίσθια",
+      "example": "Ο παλιός υπολογιστής μου πνέει τα λοίσθια, χρειάζομαι καινούργιο.",
+      "paraphrase": "Ο παλιός υπολογιστής μου είναι έτοιμος να χαλάσει τελείως, χρειάζομαι καινούργιο."
+    },
+    {
+      "idiom": "κάνω την τρίχα τριχιά",
+      "example": "Δεν υπάρχει λόγος να κάνεις την τρίχα τριχιά για ένα μικρό λάθος.",
+      "paraphrase": "Δεν υπάρχει λόγος να μεγαλοποιείς τα πράγματα για ένα μικρό λάθος."
+    },
+    {
+      "idiom": "παίρνω τα βουνά",
+      "example": "Με όλα αυτά τα προβλήματα στο κεφάλι μου, μου έρχεται να πάρω τα βουνά.",
+      "paraphrase": "Με όλα αυτά τα προβλήματα στο κεφάλι μου, μου έρχεται να φύγω μακριά από όλους."
+    }
+  ],
+  "Japanese": [
+    {
+      "idiom": "猫を被る",
+      "example": "彼女は就職の面接の時だけ猫を被っていた。",
+      "paraphrase": "彼女は就職の面接の時だけおとなしく振る舞っていた。"
+    },
+    {
+      "idiom": "耳に蛸ができる",
+      "example": "上司のその自慢話はもう耳に蛸ができるほど聞いた。",
+      "paraphrase": "上司のその自慢話はもう何度も繰り返し聞いた。"
+    },
+    {
+      "idiom": "匙を投げる",
+      "example": "名医と呼ばれる彼も、その患者には匙を投げた。",
+      "paraphrase": "名医と呼ばれる彼も、その患者の治療を諦めた。"
+    },
+    {
+      "idiom": "骨を折る",
+      "example": "この大きなプロジェクトのために随分と骨を折った。",
+      "paraphrase": "この大きなプロジェクトのために随分と苦労した。"
+    },
+    {
+      "idiom": "頭が下がる",
+      "example": "彼の長年のボランティア活動には本当に頭が下がる。",
+      "paraphrase": "彼の長年のボランティア活動には本当に感心する。"
+    },
+    {
+      "idiom": "馬が合う",
+      "example": "あの二人はいまいち馬が合わないようで、よく口論になる。",
+      "paraphrase": "あの二人はいまいち気が合わないようで、よく口論になる。"
+    },
+    {
+      "idiom": "腹を割る",
+      "example": "今夜はお互いに腹を割ってしっかり話し合おう。",
+      "paraphrase": "今夜はお互いに本音でしっかり話し合おう。"
+    },
+    {
+      "idiom": "足を洗う",
+      "example": "彼は昔の悪い仲間から完全に足を洗って真面目に働いている。",
+      "paraphrase": "彼は昔の悪い仲間から完全に縁を切って真面目に働いている。"
+    },
+    {
+      "idiom": "肩を落とす",
+      "example": "決勝戦で試合に負けて、選手たちは肩を落としていた。",
+      "paraphrase": "決勝戦で試合に負けて、選手たちはがっかりしていた。"
+    },
+    {
+      "idiom": "水に流す",
+      "example": "過去のくだらない喧嘩は水に流して、また仲良くしよう。",
+      "paraphrase": "過去のくだらない喧嘩は忘れて、また仲良くしよう。"
+    },
+    {
+      "idiom": "顔が広い",
+      "example": "彼はこの業界でとても顔が広いので、すぐに仕事が見つかるだろう。",
+      "paraphrase": "彼はこの業界でとても人脈があるので、すぐに仕事が見つかるだろう。"
+    },
+    {
+      "idiom": "目がない",
+      "example": "私は昔から甘いものに目がなくて、毎日ケーキを食べてしまう。",
+      "paraphrase": "私は昔から甘いものが大好きで、毎日ケーキを食べてしまう。"
+    },
+    {
+      "idiom": "鼻が高い",
+      "example": "息子が有名な大学に合格して、親としてとても鼻が高い。",
+      "paraphrase": "息子が有名な大学に合格して、親としてとても誇らしい。"
+    },
+    {
+      "idiom": "首を長くする",
+      "example": "海外に住む娘が帰郷する日を、私たちは首を長くして待っている。",
+      "paraphrase": "海外に住む娘が帰郷する日を、私たちは心待ちにしている。"
+    },
+    {
+      "idiom": "手を抜く",
+      "example": "この作業で手を抜くと、後で大きな問題に繋がるよ。",
+      "paraphrase": "この作業で怠けると、後で大きな問題に繋がるよ。"
+    },
+    {
+      "idiom": "気を落とす",
+      "example": "試験に落ちたくらいで、そんなに気を落とさないでください。",
+      "paraphrase": "試験に落ちたくらいで、そんなに落ち込まないでください。"
+    },
+    {
+      "idiom": "腹が立つ",
+      "example": "彼の無責任な態度を見ていると、本当に腹が立つ。",
+      "paraphrase": "彼の無責任な態度を見ていると、本当に怒りを感じる。"
+    },
+    {
+      "idiom": "足を引っ張る",
+      "example": "チームメイトの足を引っ張らないように、一生懸命練習した。",
+      "paraphrase": "チームメイトの邪魔にならないように、一生懸命練習した。"
+    },
+    {
+      "idiom": "手を焼く",
+      "example": "このクラスは反抗的な生徒が多くて、先生もかなり手を焼いている。",
+      "paraphrase": "このクラスは反抗的な生徒が多くて、先生もかなり手こずっている。"
+    },
+    {
+      "idiom": "耳を傾ける",
+      "example": "彼は市民の悩みに真剣に耳を傾ける立派な政治家だ。",
+      "paraphrase": "彼は市民の悩みを真剣に聞く立派な政治家だ。"
+    },
+    {
+      "idiom": "気が重い",
+      "example": "明日は嫌な会議があるので、今からとても気が重い。",
+      "paraphrase": "明日は嫌な会議があるので、今からとても憂鬱だ。"
+    },
+    {
+      "idiom": "顔を出す",
+      "example": "近くまで来たので、少しだけパーティーに顔を出した。",
+      "paraphrase": "近くまで来たので、少しだけパーティーに参加した。"
+    },
+    {
+      "idiom": "口が堅い",
+      "example": "彼女は口が堅いので、秘密の相談をするのに最適だ。",
+      "paraphrase": "彼女は秘密を守るので、秘密の相談をするのに最適だ。"
+    },
+    {
+      "idiom": "口が軽い",
+      "example": "彼は口が軽いから、この話は絶対に彼にしないでね。",
+      "paraphrase": "彼はすぐ人に話してしまうから、この話は絶対に彼にしないでね。"
+    },
+    {
+      "idiom": "気が利く",
+      "example": "彼女はいつも周囲への配慮ができ、とても気が利く人だ。",
+      "paraphrase": "彼女はいつも周囲への配慮ができ、とても思いやりのある人だ。"
+    },
+    {
+      "idiom": "手を貸す",
+      "example": "荷物が重そうですね、少し手を貸しましょうか。",
+      "paraphrase": "荷物が重そうですね、少し手伝いましょうか。"
+    },
+    {
+      "idiom": "胸をなで下ろす",
+      "example": "迷子になっていた子供が無事に見つかり、母親は胸をなで下ろした。",
+      "paraphrase": "迷子になっていた子供が無事に見つかり、母親は安心した。"
+    },
+    {
+      "idiom": "足を運ぶ",
+      "example": "わざわざ遠くまで足を運んでいただき、ありがとうございます。",
+      "paraphrase": "わざわざ遠くまで来ていただき、ありがとうございます。"
+    },
+    {
+      "idiom": "目を丸くする",
+      "example": "彼女はその信じられないニュースを聞いて目を丸くした。",
+      "paraphrase": "彼女はその信じられないニュースを聞いて非常に驚いた。"
+    },
+    {
+      "idiom": "気が合う",
+      "example": "初対面だったが、彼とはとても気が合ってすぐに親友になった。",
+      "paraphrase": "初対面だったが、彼とはとても相性が良くてすぐに親友になった。"
+    },
+    {
+      "idiom": "口を挟む",
+      "example": "人が話している途中で口を挟むのは失礼ですよ。",
+      "paraphrase": "人が話している途中で割り込むのは失礼ですよ。"
+    },
+    {
+      "idiom": "歯が立たない",
+      "example": "相手は世界チャンピオンで、私では全く歯が立たなかった。",
+      "paraphrase": "相手は世界チャンピオンで、私では全く敵わなかった。"
+    },
+    {
+      "idiom": "首を突っ込む",
+      "example": "他人の家庭の事情にむやみに首を突っ込むべきではない。",
+      "paraphrase": "他人の家庭の事情にむやみに関与するべきではない。"
+    },
+    {
+      "idiom": "息が合う",
+      "example": "あの漫才コンビは、長年組んでいるだけあって見事に息が合っている。",
+      "paraphrase": "あの漫才コンビは、長年組んでいるだけあって見事にタイミングが合っている。"
+    },
+    {
+      "idiom": "腰を上げる",
+      "example": "何度も説得されて、彼はようやく重い腰を上げた。",
+      "paraphrase": "何度も説得されて、彼はようやく行動を起こした。"
+    },
+    {
+      "idiom": "目を疑う",
+      "example": "部屋の惨状を見た時、私は自分の目を疑った。",
+      "paraphrase": "部屋の惨状を見た時、私は信じられなかった。"
+    },
+    {
+      "idiom": "耳を疑う",
+      "example": "彼の突然の辞任のニュースに、誰もが耳を疑った。",
+      "paraphrase": "彼の突然の辞任のニュースに、誰もが信じられない思いだった。"
+    },
+    {
+      "idiom": "腹を決める",
+      "example": "色々悩んだが、最後は自分の意思で留学する腹を決めた。",
+      "paraphrase": "色々悩んだが、最後は自分の意思で留学する決心をした。"
+    },
+    {
+      "idiom": "肩を持つ",
+      "example": "どんな状況でも、親は自分の子供の肩を持つものだ。",
+      "paraphrase": "どんな状況でも、親は自分の子供の味方をするものだ。"
+    },
+    {
+      "idiom": "手を打つ",
+      "example": "被害がこれ以上拡大する前に、早急に手を打つ必要がある。",
+      "paraphrase": "被害がこれ以上拡大する前に、早急に対策を講じる必要がある。"
+    },
+    {
+      "idiom": "気を持たせる",
+      "example": "できない約束をして、彼女に気を持たせるのは残酷だ。",
+      "paraphrase": "できない約束をして、彼女に期待させるのは残酷だ。"
+    },
+    {
+      "idiom": "目に浮かぶ",
+      "example": "故郷の美しい景色が、今でもありありと目に浮かぶ。",
+      "paraphrase": "故郷の美しい景色が、今でもありありと思い出される。"
+    },
+    {
+      "idiom": "鼻にかける",
+      "example": "彼は高学歴なのを鼻にかけて、他人を見下している。",
+      "paraphrase": "彼は高学歴なのを自慢して、他人を見下している。"
+    },
+    {
+      "idiom": "口が滑る",
+      "example": "お酒の席でつい口が滑り、社外秘のプロジェクトについて話してしまった。",
+      "paraphrase": "お酒の席でつい失言し、社外秘のプロジェクトについて話してしまった。"
+    },
+    {
+      "idiom": "腕を磨く",
+      "example": "一流の料理人になるために、フランスに留学して腕を磨くつもりだ。",
+      "paraphrase": "一流の料理人になるために、フランスに留学して技術を向上させるつもりだ。"
+    },
+    {
+      "idiom": "足が棒になる",
+      "example": "ディズニーランドを一日中歩き回ったので、足が棒になった。",
+      "paraphrase": "ディズニーランドを一日中歩き回ったので、足が極度に疲れた。"
+    },
+    {
+      "idiom": "気を遣う",
+      "example": "上司との飲み会はとても気を遣うので疲れる。",
+      "paraphrase": "上司との飲み会はとても遠慮や配慮が必要なので疲れる。"
+    },
+    {
+      "idiom": "腹を抱える",
+      "example": "彼の面白い冗談を聞いて、みんなで腹を抱えて笑った。",
+      "paraphrase": "彼の面白い冗談を聞いて、みんなで大笑いした。"
+    },
+    {
+      "idiom": "肩の荷が降りる",
+      "example": "大規模なプロジェクトが無事に終わり、ようやく肩の荷が降りた。",
+      "paraphrase": "大規模なプロジェクトが無事に終わり、ようやくプレッシャーから解放された。"
+    },
+    {
+      "idiom": "手が空く",
+      "example": "この仕事が終わって手が空いたら、そっちを手伝いに行くよ。",
+      "paraphrase": "この仕事が終わって暇になったら、そっちを手伝いに行くよ。"
+    },
+    {
+      "idiom": "耳が痛い",
+      "example": "彼の指摘は正論ばかりなので、私には非常に耳が痛い。",
+      "paraphrase": "彼の指摘は正論ばかりなので、私には非常に聞くのが辛い。"
+    },
+    {
+      "idiom": "目を光らせる",
+      "example": "試験中はカンニングがないように、試験監督が目を光らせている。",
+      "paraphrase": "試験中はカンニングがないように、試験監督が厳しく監視している。"
+    },
+    {
+      "idiom": "息を呑む",
+      "example": "山頂からの景色は、息を呑むほど美しかった。",
+      "paraphrase": "山頂からの景色は、圧倒されるほど美しかった。"
+    },
+    {
+      "idiom": "腰が低い",
+      "example": "彼は社長になっても、誰に対しても腰が低いままだ。",
+      "paraphrase": "彼は社長になっても、誰に対しても謙虚なままだ。"
+    },
+    {
+      "idiom": "気が短い",
+      "example": "彼は気が短いので、少し待たされただけで怒り出す。",
+      "paraphrase": "彼は怒りっぽいので、少し待たされただけで怒り出す。"
+    },
+    {
+      "idiom": "口を出す",
+      "example": "部下の仕事のやり方に、いちいち口を出すのは良くない。",
+      "paraphrase": "部下の仕事のやり方に、いちいち干渉するのは良くない。"
+    },
+    {
+      "idiom": "手を広げる",
+      "example": "彼の会社は最近、飲食業だけでなく不動産業にも手を広げている。",
+      "paraphrase": "彼の会社は最近、飲食業だけでなく不動産業にも事業を拡大している。"
+    },
+    {
+      "idiom": "胸が痛む",
+      "example": "ニュースで被災地の惨状を見るたびに胸が痛む。",
+      "paraphrase": "ニュースで被災地の惨状を見るたびに悲しくなる。"
+    },
+    {
+      "idiom": "足が出る",
+      "example": "予算を管理しないと、すぐに足が出て赤字になってしまう。",
+      "paraphrase": "予算を管理しないと、すぐに予算オーバーして赤字になってしまう。"
+    },
+    {
+      "idiom": "目を盗む",
+      "example": "授業中、先生の目を盗んで友達と手紙を交換した。",
+      "paraphrase": "授業中、先生に見つからないように友達と手紙を交換した。"
+    },
+    {
+      "idiom": "鼻を明かす",
+      "example": "いつも私を馬鹿にするライバルに、見事勝って鼻を明かしてやった。",
+      "paraphrase": "いつも私を馬鹿にするライバルに、見事勝って驚かせてやった。"
+    },
+    {
+      "idiom": "腹を括る",
+      "example": "ここまで来たら、失敗してもいいように腹を括るしかない。",
+      "paraphrase": "ここまで来たら、失敗してもいいように覚悟を決めるしかない。"
+    },
+    {
+      "idiom": "気を配る",
+      "example": "彼女は常にお客様が快適に過ごせるように気を配っている。",
+      "paraphrase": "彼女は常にお客様が快適に過ごせるように配慮している。"
+    },
+    {
+      "idiom": "肩を並べる",
+      "example": "彼らはついに世界の一流企業と肩を並べるレベルに成長した。",
+      "paraphrase": "彼らはついに世界の一流企業と同等のレベルに成長した。"
+    },
+    {
+      "idiom": "手に余る",
+      "example": "この問題は複雑すぎて、私の手に余る。",
+      "paraphrase": "この問題は複雑すぎて、私には対処できない。"
+    },
+    {
+      "idiom": "耳を澄ます",
+      "example": "夜の森で耳を澄ますと、フクロウの鳴き声が聞こえた。",
+      "paraphrase": "夜の森で注意深く音を聞くと、フクロウの鳴き声が聞こえた。"
+    },
+    {
+      "idiom": "目をつぶる",
+      "example": "今回の彼の小さなミスは、目をつぶることにしよう。",
+      "paraphrase": "今回の彼の小さなミスは、見逃すことにしよう。"
+    },
+    {
+      "idiom": "息を殺す",
+      "example": "犯人が通り過ぎるまで、クローゼットの中で息を殺して隠れていた。",
+      "paraphrase": "犯人が通り過ぎるまで、クローゼットの中で静かにして隠れていた。"
+    },
+    {
+      "idiom": "頭を抱える",
+      "example": "突然のシステム障害の対応に、担当者は頭を抱えている。",
+      "paraphrase": "突然のシステム障害の対応に、担当者はどうしていいか分からず困っている。"
+    },
+    {
+      "idiom": "腑に落ちない",
+      "example": "彼の言い訳には、どうも腑に落ちない点がある。",
+      "paraphrase": "彼の言い訳には、どうも納得できない点がある。"
+    }
+  ],
+  "Hebrew": [
+    {
+      "idiom": "חי בסרט",
+      "example": "הוא חושב שהוא יתעשר מחר בבוקר, הוא ממש חי בסרט.",
+      "paraphrase": "הוא חושב שהוא יתעשר מחר בבוקר, הוא ממש מנותק מהמציאות."
+    },
+    {
+      "idiom": "אוכל סרטים",
+      "example": "מאז המבחן היא אוכלת סרטים שהיא נכשלה בו.",
+      "paraphrase": "מאז המבחן היא דואגת מאוד שהיא נכשלה בו."
+    },
+    {
+      "idiom": "ירד לו האסימון",
+      "example": "רק אחרי שעות של הסברים מסובכים ירד לו האסימון.",
+      "paraphrase": "רק אחרי שעות של הסברים מסובכים הוא סוף סוף הבין."
+    },
+    {
+      "idiom": "על הפנים",
+      "example": "המזג אוויר היום פשוט על הפנים, אי אפשר לצאת החוצה.",
+      "paraphrase": "המזג אוויר היום פשוט גרוע מאוד, אי אפשר לצאת החוצה."
+    },
+    {
+      "idiom": "עושה חיים",
+      "example": "הם נסעו לחופשה ארוכה ורואים שהם עושים חיים.",
+      "paraphrase": "הם נסעו לחופשה ארוכה ורואים שהם נהנים מאוד."
+    },
+    {
+      "idiom": "שובר את הראש",
+      "example": "אני שובר את הראש כבר שעה שלמה על החידה הזו.",
+      "paraphrase": "אני חושב קשה כבר שעה שלמה על החידה הזו."
+    },
+    {
+      "idiom": "קופץ מעל הפופיק",
+      "example": "אל תקפוץ מעל הפופיק בפרויקט הראשון, תתחיל במשימות קלות.",
+      "paraphrase": "אל תנסה לעשות משהו שגדול עליך בפרויקט הראשון, תתחיל במשימות קלות."
+    },
+    {
+      "idiom": "שם פס",
+      "example": "הוא פשוט שם פס על כל החוקים של בית הספר.",
+      "paraphrase": "הוא פשוט מתעלם מכל החוקים של בית הספר."
+    },
+    {
+      "idiom": "יצא מכל החורים",
+      "example": "השיר החדש הזה שמושמע כל הזמן ברדיו כבר יצא לי מכל החורים.",
+      "paraphrase": "השיר החדש הזה שמושמע כל הזמן ברדיו כבר נמאס עליי לגמרי."
+    },
+    {
+      "idiom": "מחפש בנרות",
+      "example": "חיפשתי בנרות את המפתחות שלי הבוקר ולא מצאתי אותם.",
+      "paraphrase": "חיפשתי היטב את המפתחות שלי הבוקר ולא מצאתי אותם."
+    },
+    {
+      "idiom": "הלך פייפן",
+      "example": "אחרי חמש שנים של שימוש אינטנסיבי, המחשב הישן שלי הלך פייפן.",
+      "paraphrase": "אחרי חמש שנים של שימוש אינטנסיבי, המחשב הישן שלי התקלקל לגמרי."
+    },
+    {
+      "idiom": "מדבר אל הקיר",
+      "example": "אני מסביר לו למה זה מסוכן אבל אני פשוט מדבר אל הקיר.",
+      "paraphrase": "אני מסביר לו למה זה מסוכן אבל הוא בכלל לא מקשיב לי."
+    },
+    {
+      "idiom": "טוחן מים",
+      "example": "הדיון הזה כבר לא מתקדם לשום מקום, אנחנו סתם טוחנים מים.",
+      "paraphrase": "הדיון הזה כבר לא מתקדם לשום מקום, אנחנו סתם מבזבזים את הזמן."
+    },
+    {
+      "idiom": "שומר טינה",
+      "example": "למרות שהתנצלתי אלף פעמים על הטעות, הוא עדיין שומר טינה.",
+      "paraphrase": "למרות שהתנצלתי אלף פעמים על הטעות, הוא עדיין כועס ולא סולח."
+    },
+    {
+      "idiom": "הולך על ביצים",
+      "example": "ליד הבוס החדש והקפדן, כולם במשרד הולכים על ביצים.",
+      "paraphrase": "ליד הבוס החדש והקפדן, כולם במשרד נזהרים מאוד בדבריהם."
+    },
+    {
+      "idiom": "פרה קדושה",
+      "example": "התקציב של מחלקת הביטחון בחברה הוא פרה קדושה שאסור לגעת בה.",
+      "paraphrase": "התקציב של מחלקת הביטחון בחברה הוא נושא שאסור לבקר או לשנות."
+    },
+    {
+      "idiom": "נרדם בשמירה",
+      "example": "המנהל נרדם בשמירה והמתחרים שלנו השיקו מוצר טוב ומהיר יותר.",
+      "paraphrase": "המנהל לא שם לב והמתחרים שלנו השיקו מוצר טוב ומהיר יותר."
+    },
+    {
+      "idiom": "משחק באש",
+      "example": "מי שמתעסק עם עבריינים בשוק האפור פשוט משחק באש.",
+      "paraphrase": "מי שמתעסק עם עבריינים בשוק האפור לוקח סיכון גדול מאוד."
+    },
+    {
+      "idiom": "כבשה שחורה",
+      "example": "תמיד הרגשתי שאני הכבשה השחורה במשפחה המוצלחת והאקדמאית הזו.",
+      "paraphrase": "תמיד הרגשתי שאני החריג והפחות מוצלח במשפחה המוצלחת והאקדמאית הזו."
+    },
+    {
+      "idiom": "מרים ידיים",
+      "example": "אחרי המון ניסיונות כושלים לפתור את התקלה במנוע, הטכנאי הרים ידיים.",
+      "paraphrase": "אחרי המון ניסיונות כושלים לפתור את התקלה במנוע, הטכנאי התייאש."
+    },
+    {
+      "idiom": "אוכל את הכובע",
+      "example": "אמרת שאין סיכוי שננצח במשחק, עכשיו בטח אתה אוכל את הכובע.",
+      "paraphrase": "אמרת שאין סיכוי שננצח במשחק, עכשיו אתה בטוח מודה שטעית."
+    },
+    {
+      "idiom": "עושה שמיניות באוויר",
+      "example": "היא עשתה שמיניות באוויר כדי לארגן לו את מסיבת ההפתעה המושלמת.",
+      "paraphrase": "היא התאמצה מאוד כדי לארגן לו את מסיבת ההפתעה המושלמת."
+    },
+    {
+      "idiom": "תופס טרמפ",
+      "example": "הפוליטיקאי הזה תמיד תופס טרמפ על ההצלחות של אחרים במפלגה.",
+      "paraphrase": "הפוליטיקאי הזה תמיד מנצל לטובתו את ההצלחות של אחרים במפלגה."
+    },
+    {
+      "idiom": "חופר במוח",
+      "example": "הבחור הזה שישב לידי באוטובוס חפר לי במוח כל הדרך עד חיפה.",
+      "paraphrase": "הבחור הזה שישב לידי באוטובוס דיבר איתי בלי הפסקה כל הדרך עד חיפה."
+    },
+    {
+      "idiom": "מוריד את הכובע",
+      "example": "אני מוריד את הכובע בפני כל אדם שמתנדב למען הקהילה בזמנו הפנוי.",
+      "paraphrase": "אני מביע כבוד רב בפני כל אדם שמתנדב למען הקהילה בזמנו הפנוי."
+    },
+    {
+      "idiom": "בולע את הצפרדע",
+      "example": "לא אהבתי את ההחלטה של ההנהלה, אבל נאלצתי לבלוע את הצפרדע.",
+      "paraphrase": "לא אהבתי את ההחלטה של ההנהלה, אבל נאלצתי להשלים איתה בשקט."
+    },
+    {
+      "idiom": "מכניס את הראש למיטה חולה",
+      "example": "למה לך לנהל את הפרויקט הכושל הזה ולהכניס את הראש למיטה חולה?",
+      "paraphrase": "למה לך לנהל את הפרויקט הכושל הזה ולהיכנס לצרות בכוונה?"
+    },
+    {
+      "idiom": "מוציא מהכלים",
+      "example": "הרעש של עבודות השיפוצים בשכונה כל בוקר פשוט מוציא אותי מהכלים.",
+      "paraphrase": "הרעש של עבודות השיפוצים בשכונה כל בוקר פשוט משגע אותי לגמרי."
+    },
+    {
+      "idiom": "מאבד את העשתונות",
+      "example": "כשהוא גילה שפרצו לו לרכב וגנבו את התיק, הוא איבד את העשתונות.",
+      "paraphrase": "כשהוא גילה שפרצו לו לרכב וגנבו את התיק, הוא נכנס לפאניקה גמורה."
+    },
+    {
+      "idiom": "תופס את החבל בשני קצותיו",
+      "example": "אי אפשר גם לא לעבוד וגם להרוויח הרבה, אתה לא יכול לתפוס את החבל בשני קצותיו.",
+      "paraphrase": "אי אפשר גם לא לעבוד וגם להרוויח הרבה, אתה לא יכול ליהנות משני דברים סותרים."
+    },
+    {
+      "idiom": "פותח דף חדש",
+      "example": "אחרי התקופה הקשה שעברנו בשנה שעברה, החלטנו לעבור עיר ולפתוח דף חדש.",
+      "paraphrase": "אחרי התקופה הקשה שעברנו בשנה שעברה, החלטנו לעבור עיר ולהתחיל מהתחלה."
+    },
+    {
+      "idiom": "יוצא דופן",
+      "example": "הכישרון שלה בנגינה על פסנתר הוא ממש יוצא דופן לגילה הצעיר.",
+      "paraphrase": "הכישרון שלה בנגינה על פסנתר הוא ממש מיוחד ונדיר לגילה הצעיר."
+    },
+    {
+      "idiom": "הופך את הקערה על פיה",
+      "example": "העד החדש שהגיע במפתיע במשפט הפך את הקערה על פיה והוכיח את חפותו של הנאשם.",
+      "paraphrase": "העד החדש שהגיע במפתיע במשפט שינה את המצב לחלוטין והוכיח את חפותו של הנאשם."
+    },
+    {
+      "idiom": "יושב על הגדר",
+      "example": "בסקרים האחרונים, הרבה מצביעים עדיין יושבים על הגדר ולא החליטו במי לבחור.",
+      "paraphrase": "בסקרים האחרונים, הרבה מצביעים עדיין מתלבטים ולא החליטו במי לבחור."
+    },
+    {
+      "idiom": "משאיר אדמה חרוכה",
+      "example": "המנכ\"ל העוזב כעס מאוד על הפיטורים והשאיר אחריו אדמה חרוכה בחברה.",
+      "paraphrase": "המנכ\"ל העוזב כעס מאוד על הפיטורים והרס את כל מה שיכול היה בחברה."
+    },
+    {
+      "idiom": "מכה מתחת לחגורה",
+      "example": "להזכיר לו את הגירושין הכואבים במהלך הוויכוח המקצועי בינינו זו מכה מתחת לחגורה.",
+      "paraphrase": "להזכיר לו את הגירושין הכואבים במהלך הוויכוח המקצועי בינינו זה צעד לא הוגן."
+    },
+    {
+      "idiom": "קורא בין השורות",
+      "example": "אם קוראים בין השורות במכתב הרשמי שלו, אפשר להבין שהוא מתכוון להתפטר בקרוב.",
+      "paraphrase": "אם מבינים את המסר הסמוי במכתב הרשמי שלו, אפשר להבין שהוא מתכוון להתפטר בקרוב."
+    },
+    {
+      "idiom": "הולך בתלם",
+      "example": "הוא לא אוהב לקחת סיכונים מיותרים בחייו ומעדיף תמיד ללכת בתלם כמו כולם.",
+      "paraphrase": "הוא לא אוהב לקחת סיכונים מיותרים בחייו ומעדיף תמיד להתנהג לפי המקובל כמו כולם."
+    },
+    {
+      "idiom": "קורא לילד בשמו",
+      "example": "הגיע הזמן להפסיק להתעלם מהבעיה הקשה שיש לנו כאן ולקרוא לילד בשמו.",
+      "paraphrase": "הגיע הזמן להפסיק להתעלם מהבעיה הקשה שיש לנו כאן ולהגיד את האמת בצורה מפורשת."
+    },
+    {
+      "idiom": "יורק לבריכה שממנה שתה",
+      "example": "הוא פגע קשות במנהל שקידם אותו כל השנים ובעצם ירק לבריכה שממנה שתה.",
+      "paraphrase": "הוא פגע קשות במנהל שקידם אותו כל השנים ובעצם גילה כפיות טובה כלפיו."
+    },
+    {
+      "idiom": "עולה על דרך המלך",
+      "example": "אחרי חודשים ארוכים של טיפולי פיזיותרפיה, השיקום שלו סוף סוף עולה על דרך המלך.",
+      "paraphrase": "אחרי חודשים ארוכים של טיפולי פיזיותרפיה, השיקום שלו סוף סוף מתקדם בכיוון הנכון."
+    },
+    {
+      "idiom": "מטמין את הראש בחול",
+      "example": "הממשלה אינה יכולה להמשיך להטמין את הראש בחול ולהתעלם מהמשבר הכלכלי העמוק.",
+      "paraphrase": "הממשלה אינה יכולה להמשיך להתעלם מהמציאות ולהתעלם מהמשבר הכלכלי העמוק."
+    },
+    {
+      "idiom": "סותם את הגולל",
+      "example": "ההפסד הצורב במשחק אתמול סתם את הגולל על הסיכויים שלנו לעלות ליגה העונה.",
+      "paraphrase": "ההפסד הצורב במשחק אתמול חיסל סופית את הסיכויים שלנו לעלות ליגה העונה."
+    },
+    {
+      "idiom": "מושך בחוטים",
+      "example": "כולם במחלקה יודעים שמי שבאמת מושך בחוטים במשרד הזה הוא למעשה סגן המנהל.",
+      "paraphrase": "כולם במחלקה יודעים שמי שבאמת שולט מאחורי הקלעים במשרד הזה הוא למעשה סגן המנהל."
+    },
+    {
+      "idiom": "מוסיף שמן למדורה",
+      "example": "התגובה התוקפנית שלו רק הוסיפה שמן למדורה וגרמה לריב ביניהם להחריף עוד יותר.",
+      "paraphrase": "התגובה התוקפנית שלו רק החמירה את המצב וגרמה לריב ביניהם להחריף עוד יותר."
+    },
+    {
+      "idiom": "רואה את הנולד",
+      "example": "איש העסקים הממולח הזה תמיד רואה את הנולד ומקפיד להשקיע מוקדם בטכנולוגיות העתיד.",
+      "paraphrase": "איש העסקים הממולח הזה תמיד חוזה את העתיד ומקפיד להשקיע מוקדם בטכנולוגיות העתיד."
+    },
+    {
+      "idiom": "נופל בין הכיסאות",
+      "example": "בגלל חוסר תקשורת מוחלט בין שתי המחלקות, הבקשה הדחופה של הלקוח נפלה בין הכיסאות.",
+      "paraphrase": "בגלל חוסר תקשורת מוחלט בין שתי המחלקות, הבקשה הדחופה של הלקוח נשכחה ולא טופלה."
+    },
+    {
+      "idiom": "מכה על חטא",
+      "example": "אחרי שהבין עד כמה פגע בחברו הטוב, הוא הכה על חטא ומיהר לבקש את סליחתו.",
+      "paraphrase": "אחרי שהבין עד כמה פגע בחברו הטוב, הוא התחרט מאוד ומיהר לבקש את סליחתו."
+    },
+    {
+      "idiom": "קופא על השמרים",
+      "example": "חברת טכנולוגיה שלא מפתחת מוצרים חדשים פשוט קופאת על השמרים ותיסגר לבסוף.",
+      "paraphrase": "חברת טכנולוגיה שלא מפתחת מוצרים חדשים פשוט לא מתקדמת ותיסגר לבסוף."
+    },
+    {
+      "idiom": "נכנס לעובי הקורה",
+      "example": "המנכ\"ל בעצמו נכנס לעובי הקורה כדי להבין מהן הסיבות האמיתיות לעיכוב בפרויקט.",
+      "paraphrase": "המנכ\"ל בעצמו חקר את הנושא לעומק כדי להבין מהן הסיבות האמיתיות לעיכוב בפרויקט."
+    },
+    {
+      "idiom": "יצא בשן ועין",
+      "example": "החברה אמנם שרדה איכשהו את המשבר הכלכלי העולמי, אבל היא יצאה ממנו בשן ועין.",
+      "paraphrase": "החברה אמנם שרדה איכשהו את המשבר הכלכלי העולמי, אבל היא יצאה ממנו עם נזקים כבדים."
+    },
+    {
+      "idiom": "מאיר עיניים",
+      "example": "ההסבר המפורט שנתן המרצה על ההיסטוריה של האמנות המודרנית היה פשוט מאיר עיניים.",
+      "paraphrase": "ההסבר המפורט שנתן המרצה על ההיסטוריה של האמנות המודרנית היה פשוט מלמד ומרחיב אופקים."
+    },
+    {
+      "idiom": "עומד על תילו",
+      "example": "למרות רעידת האדמה החזקה שהרסה את רוב העיר, המבצר העתיק עדיין עומד על תילו.",
+      "paraphrase": "למרות רעידת האדמה החזקה שהרסה את רוב העיר, המבצר העתיק עדיין נשאר שלם."
+    },
+    {
+      "idiom": "שם רגל",
+      "example": "גיליתי שהקולגה שלי במשרד ניסה לשים לו רגל כדי שהוא בעצמו יקבל את הקידום.",
+      "paraphrase": "גיליתי שהקולגה שלי במשרד ניסה להכשיל אותו כדי שהוא בעצמו יקבל את הקידום."
+    },
+    {
+      "idiom": "יורד לסוף דעתו",
+      "example": "אני מקשיב להסברים המלומדים שלו כבר חצי שעה, אבל אני פשוט לא מצליח לרדת לסוף דעתו.",
+      "paraphrase": "אחרי שאני מקשיב להסברים המלומדים שלו כבר חצי שעה, אני פשוט לא מצליח להבין את כוונתו במלואה."
+    },
+    {
+      "idiom": "מכיר לפני ולפנים",
+      "example": "אני עובד במפעל הייצור הזה למעלה מעשרים שנה ומכיר אותו לפני ולפנים.",
+      "paraphrase": "אני עובד במפעל הייצור הזה למעלה מעשרים שנה ומכיר אותו בצורה יסודית ומעמיקה."
+    },
+    {
+      "idiom": "עומד מנגד",
+      "example": "כאזרחים שומרי חוק, אסור לנו לעמוד מנגד כשאנחנו רואים עוול כזה מתרחש מול עינינו.",
+      "paraphrase": "כאזרחים שומרי חוק, אסור לנו להישאר אדישים כשאנחנו רואים עוול כזה מתרחש מול עינינו."
+    },
+    {
+      "idiom": "חסר שחר",
+      "example": "כל השמועות הזדוניות שהפיצו עליו לאחרונה בעיתונות המקומית הן לחלוטין חסרות שחר.",
+      "paraphrase": "כל השמועות הזדוניות שהפיצו עליו לאחרונה בעיתונות המקומית הן לחלוטין מבוססות על שקרים."
+    },
+    {
+      "idiom": "לוקח ללב",
+      "example": "צריך לדבר אליו בעדינות, הוא בחור מאוד רגיש שלוקח ללב כל הערה קטנה שמעירים לו.",
+      "paraphrase": "צריך לדבר אליו בעדינות, הוא בחור מאוד רגיש שנפגע אישית מכל הערה קטנה שמעירים לו."
+    },
+    {
+      "idiom": "פול גז בניוטרל",
+      "example": "אנחנו עובדים סביב השעון בצוות אבל לא מתקדמים לשום מקום, זה ממש פול גז בניוטרל.",
+      "paraphrase": "אנחנו עובדים סביב השעון בצוות אבל לא מתקדמים לשום מקום, זה ממש מאמץ אדיר ללא כל תוצאה."
+    },
+    {
+      "idiom": "מכל הבא ליד",
+      "example": "כשהוא חזר הביתה רעב באמצע הלילה, הוא פתח את המקרר ואכל מכל הבא ליד.",
+      "paraphrase": "כשהוא חזר הביתה רעב באמצע הלילה, הוא פתח את המקרר ואכל כל מה שמצא שם."
+    },
+    {
+      "idiom": "על רגל אחת",
+      "example": "אין לי זמן להסביר לך את כל תוכנית העבודה עכשיו, אז אתן לך תקציר על רגל אחת.",
+      "paraphrase": "אין לי זמן להסביר לך את כל תוכנית העבודה עכשיו, אז אתן לך תקציר בצורה מהירה וקצרה."
+    },
+    {
+      "idiom": "שיח חירשים",
+      "example": "ישיבת ההנהלה הסוערת אתמול הייתה פשוט שיח חירשים, אף צד לא באמת הקשיב לשני.",
+      "paraphrase": "ישיבת ההנהלה הסוערת אתמול הייתה פשוט מצב שבו אף צד לא באמת הקשיב לשני."
+    },
+    {
+      "idiom": "ברחל בתך הקטנה",
+      "example": "בחוזה העבודה שלנו צריך לכתוב הכל ברחל בתך הקטנה כדי למנוע אי הבנות בעתיד.",
+      "paraphrase": "בחוזה העבודה שלנו צריך לכתוב הכל בצורה המפורטת והברורה ביותר כדי למנוע אי הבנות בעתיד."
+    },
+    {
+      "idiom": "אותיות של קידוש לבנה",
+      "example": "אזהרת הבטיחות החשובה מודפסת בחזית האריזה באותיות של קידוש לבנה.",
+      "paraphrase": "אזהרת הבטיחות החשובה מודפסת בחזית האריזה בגופן גדול ובולט במיוחד."
+    },
+    {
+      "idiom": "עקב אכילס",
+      "example": "ההגנה החלשה והאיטית של הקבוצה היא ללא ספק עקב אכילס שלה בעונה הנוכחית.",
+      "paraphrase": "ההגנה החלשה והאיטית של הקבוצה היא ללא ספק נקודת התורפה שלה בעונה הנוכחית."
+    },
+    {
+      "idiom": "נחבא אל הכלים",
+      "example": "למרות שהוא המדען הבכיר והמוביל ביותר בצוות המחקר, הוא אדם צנוע ונחבא אל הכלים.",
+      "paraphrase": "למרות שהוא המדען הבכיר והמוביל ביותר בצוות המחקר, הוא אדם צנוע וביישן מאוד."
+    },
+    {
+      "idiom": "סערה בכוס מים",
+      "example": "כל הריב התקשורתי המוגזם הזה הוא סתם סערה בכוס מים שתשכח לחלוטין עד מחר בבוקר.",
+      "paraphrase": "כל הריב התקשורתי המוגזם הזה הוא סתם מהומה על לא דבר שתשכח לחלוטין עד מחר בבוקר."
+    },
+    {
+      "idiom": "לא דובים ולא יער",
+      "example": "העיתונאי טען בכתבה שהשר הבכיר לקח שוחד כספי, אך מהר מאוד התברר שלא דובים ולא יער.",
+      "paraphrase": "העיתונאי טען בכתבה שהשר הבכיר לקח שוחד כספי, אך מהר מאוד התברר שאין בדברים טיפת אמת."
+    },
+    {
+      "idiom": "טמן ידו בצלחת",
+      "example": "במהלך המהומה האלימה שפרצה במועדון, גם המאבטח לא טמן ידו בצלחת והחל להכות.",
+      "paraphrase": "במהלך המהומה האלימה שפרצה במועדון, גם המאבטח לקח חלק פעיל והחל להכות."
+    }
+  ],
+  "Latvian": [
+    {
+      "idiom": "pūst pīlītes",
+      "example": "Beidz man pūst pīlītes par saviem neticamajiem panākumiem!",
+      "paraphrase": "Beidz man stāstīt melus par saviem neticamajiem panākumiem!"
+    },
+    {
+      "idiom": "liet kā pa Jāņiem",
+      "example": "Ārā līst kā pa Jāņiem, labāk šovakar paliksim mājās.",
+      "paraphrase": "Ārā ļoti stipri līst, labāk šovakar paliksim mājās."
+    },
+    {
+      "idiom": "dzīvot cepuri kuldamam",
+      "example": "Kopš viņš vinnēja loterijā, viņš tagad dzīvo cepuri kuldams.",
+      "paraphrase": "Kopš viņš vinnēja loterijā, viņš tagad dzīvo bez bēdu."
+    },
+    {
+      "idiom": "kā sauc, tā atskan",
+      "example": "Atceries, ka dzīvē bieži ir tā: kā sauc, tā atskan.",
+      "paraphrase": "Atceries, ka dzīvē bieži ir tā: kāda būs tava rīcība, tāda būs atbilde."
+    },
+    {
+      "idiom": "likt aiz auss",
+      "example": "Tev noteikti vajadzētu šo vērtīgo padomu likt aiz auss.",
+      "paraphrase": "Tev noteikti vajadzētu šo vērtīgo padomu kārtīgi atcerēties."
+    },
+    {
+      "idiom": "mest plinti krūmos",
+      "example": "Nevajag uzreiz mest plinti krūmos, mēģini to izdarīt vēlreiz!",
+      "paraphrase": "Nevajag uzreiz padoties, mēģini to izdarīt vēlreiz!"
+    },
+    {
+      "idiom": "krist uz nerviem",
+      "example": "Viņa pastāvīgā sūdzēšanās man pamazām sāk krist uz nerviem.",
+      "paraphrase": "Viņa pastāvīgā sūdzēšanās mani pamazām sāk kaitināt."
+    },
+    {
+      "idiom": "sēdēt rokas klēpī salikušam",
+      "example": "Nevar taču sēdēt rokas klēpī salikušam, kad visi citi strādā.",
+      "paraphrase": "Nevar taču dīkā stāvēt, kad visi citi strādā."
+    },
+    {
+      "idiom": "vest aiz deguna",
+      "example": "Man šķiet, ka viņš mūs visus šajā situācijā ved aiz deguna.",
+      "paraphrase": "Man šķiet, ka viņš mūs visus šajā situācijā māna."
+    },
+    {
+      "idiom": "turēt īkšķus",
+      "example": "Rīt man ir svarīgs eksāmens, lūdzu, turi par mani īkšķus!",
+      "paraphrase": "Rīt man ir svarīgs eksāmens, lūdzu, vēli man veiksmi!"
+    },
+    {
+      "idiom": "lauzt galvu",
+      "example": "Es visu dienu lauzu galvu, mēģinot atrisināt šo matemātikas uzdevumu.",
+      "paraphrase": "Es visu dienu intensīvi domāju, mēģinot atrisināt šo matemātikas uzdevumu."
+    },
+    {
+      "idiom": "vilkt aiz mēles",
+      "example": "Man tevi nav jāvelk aiz mēles, saki uzreiz, kas noticis!",
+      "paraphrase": "Man nav tevi jāpiespiež runāt, saki uzreiz, kas noticis!"
+    },
+    {
+      "idiom": "iet pa pieskari",
+      "example": "Viss mūsu rūpīgi izplānotais ceļojums beigās aizgāja pa pieskari.",
+      "paraphrase": "Viss mūsu rūpīgi izplānotais ceļojums beigās pilnībā izgāzās."
+    },
+    {
+      "idiom": "rādīt ar pirkstu",
+      "example": "Nevajag tagad rādīt ar pirkstu uz citiem, ja pats esi vainīgs.",
+      "paraphrase": "Nevajag tagad vainot citus, ja pats esi vainīgs."
+    },
+    {
+      "idiom": "bēgt kā no uguns",
+      "example": "Viņš no atbildības vienmēr bēg kā no uguns.",
+      "paraphrase": "Viņš no atbildības vienmēr ļoti cenšas izvairīties."
+    },
+    {
+      "idiom": "vējā izmests",
+      "example": "Visa šī nauda par dārgo reklāmu bija vējā izmesta.",
+      "paraphrase": "Visa šī nauda par dārgo reklāmu tika velti iztērēta."
+    },
+    {
+      "idiom": "matu skaldīšana",
+      "example": "Tā jau ir matu skaldīšana, pievērst uzmanību tik sīkām detaļām.",
+      "paraphrase": "Tā jau ir pārmērīga piekasīšanās, pievērst uzmanību tik sīkām detaļām."
+    },
+    {
+      "idiom": "medusmaize",
+      "example": "Viņam tāda uzslava no priekšnieka bija īsta medusmaize.",
+      "paraphrase": "Viņam tāda uzslava no priekšnieka sagādāja lielu prieku."
+    },
+    {
+      "idiom": "ūdens duļķošana",
+      "example": "Tā ir tikai ūdens duļķošana, lai novērstu uzmanību no galvenā.",
+      "paraphrase": "Tā ir tikai apzināta jaukšana, lai novērstu uzmanību no galvenā."
+    },
+    {
+      "idiom": "kā no gaisa nokritis",
+      "example": "Viņš ieradās sapulcē pilnīgi nesagatavojies, kā no gaisa nokritis.",
+      "paraphrase": "Viņš ieradās sapulcē pilnīgi nesagatavojies, it kā neko nesaprastu."
+    },
+    {
+      "idiom": "likt galvu ķīlā",
+      "example": "Par viņa godīgumu es esmu gatavs likt galvu ķīlā.",
+      "paraphrase": "Par viņa godīgumu es esmu gatavs pilnībā galvot."
+    },
+    {
+      "idiom": "aizvērt acis",
+      "example": "Mēs nedrīkstam aizvērt acis uz šo acīmredzamo netaisnību.",
+      "paraphrase": "Mēs nedrīkstam ignorēt šo acīmredzamo netaisnību."
+    },
+    {
+      "idiom": "spēlēt ar uguni",
+      "example": "Nodarboties ar šādu biznesu nozīmē spēlēt ar uguni.",
+      "paraphrase": "Nodarboties ar šādu biznesu nozīmē stipri riskēt."
+    },
+    {
+      "idiom": "caur adatas aci",
+      "example": "Viņš eksāmenu nolika tikai caur adatas aci.",
+      "paraphrase": "Viņš eksāmenu nolika ar vislielākajām grūtībām."
+    },
+    {
+      "idiom": "kā pīlei ūdens",
+      "example": "Es viņam saku, bet viņam viss kā pīlei ūdens.",
+      "paraphrase": "Es viņam saku, bet viņš to pilnībā ignorē."
+    },
+    {
+      "idiom": "asinis stings dzīslās",
+      "example": "Skatoties šo šausmu filmu, man asinis stinga dzīslās.",
+      "paraphrase": "Skatoties šo šausmu filmu, es jutu milzīgas bailes."
+    },
+    {
+      "idiom": "ieliet eļļu ugunī",
+      "example": "Tavs asais komentārs tikai ielēja eļļu ugunī.",
+      "paraphrase": "Tavs asais komentārs tikai vēl vairāk saasināja situāciju."
+    },
+    {
+      "idiom": "noņemt cepuri",
+      "example": "Man tiešām jānoņem cepure viņa talanta priekšā.",
+      "paraphrase": "Man tiešām jāizsaka dziļa cieņa viņa talanta priekšā."
+    },
+    {
+      "idiom": "lēkt augstāk par savu pēcpusi",
+      "example": "Nevajag lēkt augstāk par savu pēcpusi, dari to, ko spēj.",
+      "paraphrase": "Nevajag censties izdarīt neiespējamo, dari to, ko spēj."
+    },
+    {
+      "idiom": "iekosties lūpā",
+      "example": "Man gribējās viņam atbildēt, bet es tikai iekodos lūpā.",
+      "paraphrase": "Man gribējās viņam atbildēt, bet es apvaldījos un klusēju."
+    },
+    {
+      "idiom": "rīt asaras",
+      "example": "Pēc šķiršanās viņa naktīs klusām rija asaras.",
+      "paraphrase": "Pēc šķiršanās viņa naktīs klusām un rūgti raudāja."
+    },
+    {
+      "idiom": "vilkt garumā",
+      "example": "Beidz vilkt garumā un beidzot paziņo savu lēmumu!",
+      "paraphrase": "Beidz vilcināties un beidzot paziņo savu lēmumu!"
+    },
+    {
+      "idiom": "iet kā pa celmiem",
+      "example": "Mūsu jaunais projekts pagaidām iet kā pa celmiem.",
+      "paraphrase": "Mūsu jaunais projekts pagaidām virzās uz priekšu ar grūtībām."
+    },
+    {
+      "idiom": "celt gaisa pilis",
+      "example": "Tā vietā, lai strādātu, viņš tikai ceļ gaisa pilis par nākotni.",
+      "paraphrase": "Tā vietā, lai strādātu, viņš tikai sapņo par nereālām lietām."
+    },
+    {
+      "idiom": "spert zibeņus",
+      "example": "Kad priekšnieks uzzināja par kļūdu, viņš sāka spert zibeņus.",
+      "paraphrase": "Kad priekšnieks uzzināja par kļūdu, viņš kļuva ļoti dusmīgs."
+    },
+    {
+      "idiom": "pievilkt jostu",
+      "example": "Šomēnes mums būs nedaudz jāpievelk josta, lai ietaupītu naudu.",
+      "paraphrase": "Šomēnes mums būs nedaudz jāsamazina tēriņi, lai ietaupītu naudu."
+    },
+    {
+      "idiom": "raukt degunu",
+      "example": "Viņš tikai rauca degunu par mūsu piedāvāto cienastu.",
+      "paraphrase": "Viņš izrādīja nepatiku par mūsu piedāvāto cienastu."
+    },
+    {
+      "idiom": "skriet ar galvu sienā",
+      "example": "Turpināt šo strīdu ir tas pats, kas skriet ar galvu sienā.",
+      "paraphrase": "Turpināt šo strīdu ir pilnīgi bezjēdzīgi un stūrgalvīgi."
+    },
+    {
+      "idiom": "ietiepīgs kā ēzelis",
+      "example": "Ar viņu nevar vienoties, jo viņš ir ietiepīgs kā ēzelis.",
+      "paraphrase": "Ar viņu nevar vienoties, jo viņš ir ārkārtīgi spītīgs."
+    },
+    {
+      "idiom": "klusē kā kaps",
+      "example": "Es viņam jautāju par notikušo, bet viņš klusē kā kaps.",
+      "paraphrase": "Es viņam jautāju par notikušo, bet viņš nesaka ne vārda."
+    },
+    {
+      "idiom": "melot acīs skatīdamies",
+      "example": "Es nespēju noticēt, ka viņš var melot acīs skatīdamies.",
+      "paraphrase": "Es nespēju noticēt, ka viņš var tik bezkauņīgi melot."
+    },
+    {
+      "idiom": "zaudēt pamatu zem kājām",
+      "example": "Pēc atlaišanas no darba viņš pilnībā zaudēja pamatu zem kājām.",
+      "paraphrase": "Pēc atlaišanas no darba viņš pilnībā zaudēja stabilitāti un drošību."
+    },
+    {
+      "idiom": "runāt caur puķēm",
+      "example": "Viņai patīk runāt caur puķēm, tāpēc grūti saprast, ko viņa domā.",
+      "paraphrase": "Viņai patīk izteikties netieši un aplinkus, tāpēc grūti saprast, ko viņa domā."
+    },
+    {
+      "idiom": "lēts kā bors",
+      "example": "Šīs vecās mēbeles tirgū tagad maksā lēti kā bors.",
+      "paraphrase": "Šīs vecās mēbeles tirgū tagad maksā ļoti maz."
+    },
+    {
+      "idiom": "kā saukts",
+      "example": "Tu ierodies tieši kā saukts, mums tieši vajadzēja palīdzību.",
+      "paraphrase": "Tu ierodies tieši īstajā brīdī, mums tieši vajadzēja palīdzību."
+    },
+    {
+      "idiom": "kost pirkstos",
+      "example": "Ja tu palaidīsi garām šo iespēju, vēlāk nāksies kost pirkstos.",
+      "paraphrase": "Ja tu palaidīsi garām šo iespēju, vēlāk nāksies to ļoti nožēlot."
+    },
+    {
+      "idiom": "kā uz adatām",
+      "example": "Es sēdēju kā uz adatām visu to laiku, kamēr gaidīju rezultātus.",
+      "paraphrase": "Es jutos ļoti uztraucies visu to laiku, kamēr gaidīju rezultātus."
+    },
+    {
+      "idiom": "rīvēt kanti",
+      "example": "Ar saviem asajiem izteikumiem viņš man sāk rīvēt kanti.",
+      "paraphrase": "Ar saviem asajiem izteikumiem viņš mani sāk pamazām kaitināt."
+    },
+    {
+      "idiom": "cirst saknē",
+      "example": "Šāda nepieņemama uzvedība komandā ir jācērt saknē.",
+      "paraphrase": "Šāda nepieņemama uzvedība komandā ir jānovērš pašā sākumā."
+    },
+    {
+      "idiom": "iet pa gaisu",
+      "example": "Vecais koka šķūnis vētras laikā vienkārši aizgāja pa gaisu.",
+      "paraphrase": "Vecais koka šķūnis vētras laikā tika pilnībā iznīcināts un aizpūsts."
+    },
+    {
+      "idiom": "kā diena pret nakti",
+      "example": "Šie divi brāļi pēc rakstura ir kā diena pret nakti.",
+      "paraphrase": "Šie divi brāļi pēc rakstura ir pilnīgi atšķirīgi."
+    },
+    {
+      "idiom": "atrotīt piedurknes",
+      "example": "Ir pienācis laiks atrotīt piedurknes un sākt lielo tīrīšanu.",
+      "paraphrase": "Ir pienācis laiks sagatavoties nopietnam darbam un sākt lielo tīrīšanu."
+    },
+    {
+      "idiom": "bārstīt pērles cūkām",
+      "example": "Viņam stāstīt par mākslu ir kā bārstīt pērles cūkām.",
+      "paraphrase": "Viņam stāstīt par mākslu ir pilnīga laika un pūļu izšķiešana."
+    },
+    {
+      "idiom": "lauzt sirdi",
+      "example": "Ziņa par viņa aizbraukšanu viņai lauza sirdi.",
+      "paraphrase": "Ziņa par viņa aizbraukšanu viņu ļoti sāpināja."
+    },
+    {
+      "idiom": "smags raksturs",
+      "example": "Viņam ir diezgan smags raksturs, tāpēc citiem ar viņu klājas grūti.",
+      "paraphrase": "Viņš ir grūti saprotams un spītīgs, tāpēc citiem ar viņu klājas grūti."
+    },
+    {
+      "idiom": "acis kā apakštasītes",
+      "example": "Kad viņš ieraudzīja dāvanu, viņam bija acis kā apakštasītes.",
+      "paraphrase": "Kad viņš ieraudzīja dāvanu, viņš izskatījās ārkārtīgi pārsteigts."
+    },
+    {
+      "idiom": "ciet ciet",
+      "example": "Man šobrīd no naudas ir pilnīgi ciet ciet, nevaru neko atļauties.",
+      "paraphrase": "Man šobrīd vispār nav naudas, nevaru neko atļauties."
+    },
+    {
+      "idiom": "griezt zobus",
+      "example": "Dzirdot šos netaisnīgos apvainojumus, viņš tikai grieza zobus.",
+      "paraphrase": "Dzirdot šos netaisnīgos apvainojumus, viņš centās apvaldīt milzīgas dusmas."
+    },
+    {
+      "idiom": "sirds pilna",
+      "example": "Man sirds ir pilna no viņa pastāvīgās melošanas.",
+      "paraphrase": "Es esmu ārkārtīgi sarūgtināts un dusmīgs viņa pastāvīgās melošanas dēļ."
+    },
+    {
+      "idiom": "asaras kā pupas",
+      "example": "Bērnam bira asaras kā pupas, kad viņš pazaudēja savu rotaļlietu.",
+      "paraphrase": "Bērns gauži un lāsēm raudāja, kad viņš pazaudēja savu rotaļlietu."
+    },
+    {
+      "idiom": "viena pagale nedeg",
+      "example": "Strīdā vienmēr ir vainīgi abi, jo viena pagale nedeg.",
+      "paraphrase": "Strīdā vienmēr ir vainīgi abi, jo neviens nestrīdas viens pats."
+    },
+    {
+      "idiom": "iemest akmeni citā dārzā",
+      "example": "Ar šo komentāru viņš skaidri iemeta akmeni mana dārziņā.",
+      "paraphrase": "Ar šo komentāru viņš skaidri izteica netiešu pārmetumu man."
+    },
+    {
+      "idiom": "atvērt acis",
+      "example": "Šī grāmata man palīdzēja atvērt acis uz pasaules problēmām.",
+      "paraphrase": "Šī grāmata man palīdzēja labāk izprast pasaules problēmas."
+    },
+    {
+      "idiom": "celt debesīs",
+      "example": "Presē viņa jauno romānu cēla debesīs vēl pirms tā iznākšanas.",
+      "paraphrase": "Presē viņa jauno romānu pārmērīgi slavēja vēl pirms tā iznākšanas."
+    },
+    {
+      "idiom": "kā no ūdens izvilkts",
+      "example": "Pēc smagā treniņa viņš izskatījās kā no ūdens izvilkts.",
+      "paraphrase": "Pēc smagā treniņa viņš izskatījās ārkārtīgi noguris un nosvīdis."
+    },
+    {
+      "idiom": "krist nežēlastībā",
+      "example": "Jaunais ministrs ātri vien krita nežēlastībā tautas acīs.",
+      "paraphrase": "Jaunais ministrs ātri vien zaudēja atbalstu un popularitāti tautas acīs."
+    },
+    {
+      "idiom": "zelta rokas",
+      "example": "Manam vectēvam bija zelta rokas, viņš prata visu salabot.",
+      "paraphrase": "Manam vectēvam bija liels amata talants, viņš prata visu salabot."
+    },
+    {
+      "idiom": "šķērsām kaklā",
+      "example": "Viņa pastāvīgie padomi man jau stāv šķērsām kaklā.",
+      "paraphrase": "Viņa pastāvīgie padomi man jau ir pamatīgi apnikuši."
+    },
+    {
+      "idiom": "ar gariem zobiem",
+      "example": "Viņš to darbu piekrita darīt ar gariem zobiem.",
+      "paraphrase": "Viņš to darbu piekrita darīt ar lielu negribēšanu un nepatiku."
+    },
+    {
+      "idiom": "zilonis trauku veikalā",
+      "example": "Viņš ar savu uzvedību šajā trauslajā situācijā ir kā zilonis trauku veikalā.",
+      "paraphrase": "Viņš ar savu uzvedību šajā trauslajā situācijā ir ļoti neuzmanīgs un neveikls."
+    }
+  ],
+  "Persian": [
+    {
+      "idiom": "دست و پا کردن",
+      "example": "او توانست یک شغل بسیار خوب برای خودش دست و پا کند.",
+      "paraphrase": "او توانست یک شغل بسیار خوب برای خودش پیدا کند."
+    },
+    {
+      "idiom": "از کوره در رفتن",
+      "example": "وقتی حرف‌های توهین‌آمیزش را شنیدم، کاملاً از کوره در رفتم.",
+      "paraphrase": "وقتی حرف‌های توهین‌آمیزش را شنیدم، کاملاً عصبانی شدم."
+    },
+    {
+      "idiom": "زیر آبی رفتن",
+      "example": "حواست باشد، همکارت دوباره دارد در شرکت زیر آبی می‌رود.",
+      "paraphrase": "حواست باشد، همکارت دوباره دارد در شرکت کارهای پنهانی انجام می‌دهد."
+    },
+    {
+      "idiom": "سر به هوا بودن",
+      "example": "او خیلی سر به هوا است و همیشه وسایل مهمش را گم می‌کند.",
+      "paraphrase": "او خیلی بی‌دقت است و همیشه وسایل مهمش را گم می‌کند."
+    },
+    {
+      "idiom": "آب از سر گذشتن",
+      "example": "دیگر آب از سر گذشته است و نمی‌توان این اشتباه را جبران کرد.",
+      "paraphrase": "دیگر کار از کار گذشته است و نمی‌توان این اشتباه را جبران کرد."
+    },
+    {
+      "idiom": "کاسه داغ‌تر از آش",
+      "example": "او همیشه در این مسائل خانوادگی کاسه داغ‌تر از آش می‌شود.",
+      "paraphrase": "او همیشه در این مسائل خانوادگی بیشتر از حد لزوم دخالت می‌کند."
+    },
+    {
+      "idiom": "پا در کفش کسی کردن",
+      "example": "لطفاً پا در کفش من نکن و بگذار خودم کارم را انجام بدهم.",
+      "paraphrase": "لطفاً در کار من دخالت نکن و بگذار خودم کارم را انجام بدهم."
+    },
+    {
+      "idiom": "گاو پیشانی سفید",
+      "example": "در این محله کوچک دیگر همه مرا می‌شناسند، شده‌ام گاو پیشانی سفید.",
+      "paraphrase": "در این محله کوچک دیگر همه مرا می‌شناسند، شده‌ام فردی کاملاً انگشت‌نما."
+    },
+    {
+      "idiom": "دندان طمع را کندن",
+      "example": "باید دندان طمع را بکنی و به حق قانونی خودت راضی باشی.",
+      "paraphrase": "باید از زیاده‌خواهی دست برداری و به حق قانونی خودت راضی باشی."
+    },
+    {
+      "idiom": "ماست‌ها را کیسه کردن",
+      "example": "وقتی مدیر وارد اتاق شد، همه کارمندان ماست‌ها را کیسه کردند.",
+      "paraphrase": "وقتی مدیر وارد اتاق شد، همه کارمندان ترسیدند و ساکت شدند."
+    },
+    {
+      "idiom": "شاخ و شانه کشیدن",
+      "example": "او برای همسایه‌ها شاخ و شانه می‌کشید تا قدرت خود را نشان دهد.",
+      "paraphrase": "او برای همسایه‌ها تهدید می‌کرد تا قدرت خود را نشان دهد."
+    },
+    {
+      "idiom": "سنگ تمام گذاشتن",
+      "example": "در مهمانی دیشب، میزبان برای ما سنگ تمام گذاشت.",
+      "paraphrase": "در مهمانی دیشب، میزبان برای ما نهایت تلاش را کرد."
+    },
+    {
+      "idiom": "کلاه سر کسی گذاشتن",
+      "example": "فروشنده سعی کرد با این قیمت گزاف کلاه سر من بگذارد.",
+      "paraphrase": "فروشنده سعی کرد با این قیمت گزاف من را فریب دهد."
+    },
+    {
+      "idiom": "جا زدن",
+      "example": "در میانه راه کوهنوردی خسته شد و متأسفانه جا زد.",
+      "paraphrase": "در میانه راه کوهنوردی خسته شد و متأسفانه منصرف شد."
+    },
+    {
+      "idiom": "دست به سر کردن",
+      "example": "هر بار که طلبکار می‌آمد، او را با ترفندی دست به سر می‌کرد.",
+      "paraphrase": "هر بار که طلبکار می‌آمد، او را با ترفندی رد می‌کرد."
+    },
+    {
+      "idiom": "آب در هاون کوبیدن",
+      "example": "بحث کردن با این آدم لجباز دقیقاً مثل آب در هاون کوبیدن است.",
+      "paraphrase": "بحث کردن با این آدم لجباز دقیقاً مثل کار بیهوده انجام دادن است."
+    },
+    {
+      "idiom": "موش دواندن",
+      "example": "همکار حسودش در پروژه جدید موش دواند تا او موفق نشود.",
+      "paraphrase": "همکار حسودش در پروژه جدید کارشکنی کرد تا او موفق نشود."
+    },
+    {
+      "idiom": "آستین بالا زدن",
+      "example": "برای تمیز کردن کل خانه باید از همین حالا آستین بالا بزنیم.",
+      "paraphrase": "برای تمیز کردن کل خانه باید از همین حالا آماده کار بشویم."
+    },
+    {
+      "idiom": "خوب از آب درآمدن",
+      "example": "کیک تولدی که برای اولین بار پخته بود بسیار خوب از آب درآمد.",
+      "paraphrase": "کیک تولدی که برای اولین بار پخته بود نتیجه بسیار خوبی داشت."
+    },
+    {
+      "idiom": "به در بسته خوردن",
+      "example": "تمام تلاش‌هایش برای گرفتن وام مسکن دوباره به در بسته خورد.",
+      "paraphrase": "تمام تلاش‌هایش برای گرفتن وام مسکن دوباره با بن‌بست مواجه شد."
+    },
+    {
+      "idiom": "پنبه کسی را زدن",
+      "example": "در غیاب مدیر، کارمندان شروع کردند و پنبه او را زدند.",
+      "paraphrase": "در غیاب مدیر، کارمندان شروع کردند و از او بدگویی کردند."
+    },
+    {
+      "idiom": "پشت گوش انداختن",
+      "example": "پرداخت قبض‌ها را آنقدر پشت گوش انداخت تا در نهایت جریمه شد.",
+      "paraphrase": "پرداخت قبض‌ها را آنقدر به تعویق انداخت تا در نهایت جریمه شد."
+    },
+    {
+      "idiom": "خون خونش را خوردن",
+      "example": "از شدت نگرانی برای تأخیر فرزندش در خانه خون خونش را می‌خورد.",
+      "paraphrase": "از شدت نگرانی برای تأخیر فرزندش در خانه به شدت مضطرب بود."
+    },
+    {
+      "idiom": "دل به دریا زدن",
+      "example": "سرانجام دل به دریا زد و راز بزرگ خود را به دوستش گفت.",
+      "paraphrase": "سرانجام خطر کرد و راز بزرگ خود را به دوستش گفت."
+    },
+    {
+      "idiom": "زیرآب کسی را زدن",
+      "example": "او با دروغ‌گویی مداوم زیرآب همکارش را پیش رئیس زد.",
+      "paraphrase": "او با دروغ‌گویی مداوم موقعیت همکارش را پیش رئیس به خطر انداخت."
+    },
+    {
+      "idiom": "سر و سامان گرفتن",
+      "example": "خوشحالم که برادرم بالاخره سر و سامان گرفت و تشکیل خانواده داد.",
+      "paraphrase": "خوشحالم که برادرم بالاخره وضعیت پایداری پیدا کرد و تشکیل خانواده داد."
+    },
+    {
+      "idiom": "شکم صابون زدن",
+      "example": "برای پاداش آخر سال در شرکت حسابی شکم صابون زده بودیم.",
+      "paraphrase": "برای پاداش آخر سال در شرکت حسابی دلخوش کرده بودیم."
+    },
+    {
+      "idiom": "طاقچه بالا گذاشتن",
+      "example": "برای قبول کردن این پیشنهاد کاری ساده مدام طاقچه بالا می‌گذارد.",
+      "paraphrase": "برای قبول کردن این پیشنهاد کاری ساده مدام ناز می‌کند."
+    },
+    {
+      "idiom": "قوز بالای قوز",
+      "example": "خراب شدن ماشین در این هوای بارانی و سرد قوز بالای قوز شد.",
+      "paraphrase": "خراب شدن ماشین در این هوای بارانی و سرد مشکل مضاعفی شد."
+    },
+    {
+      "idiom": "گوش خواباندن",
+      "example": "دزدان برای سرقت از گاوصندوق بانک ماه‌ها گوش خوابانده بودند.",
+      "paraphrase": "دزدان برای سرقت از گاوصندوق بانک ماه‌ها منتظر فرصت بودند."
+    },
+    {
+      "idiom": "لفت دادن",
+      "example": "شما انجام این کار ساده اداری را بیش از حد لفت دادی.",
+      "paraphrase": "شما انجام این کار ساده اداری را بیش از حد طولانی کردی."
+    },
+    {
+      "idiom": "مته به خشخاش گذاشتن",
+      "example": "معلم ما در تصحیح برگه‌های امتحانی خیلی مته به خشخاش می‌گذارد.",
+      "paraphrase": "معلم ما در تصحیح برگه‌های امتحانی خیلی وسواس به خرج می‌دهد."
+    },
+    {
+      "idiom": "نان به نرخ روز خوردن",
+      "example": "آدم‌هایی که در سیاست نان به نرخ روز می‌خورند، قابل اعتماد نیستند.",
+      "paraphrase": "آدم‌هایی که در سیاست فرصت‌طلب هستند، قابل اعتماد نیستند."
+    },
+    {
+      "idiom": "هفت خوان رستم",
+      "example": "برای گرفتن این مجوز ساختمانی باید از هفت خوان رستم عبور کنی.",
+      "paraphrase": "برای گرفتن این مجوز ساختمانی باید مراحل بسیار سختی را طی کنی."
+    },
+    {
+      "idiom": "یک کلاغ چهل کلاغ کردن",
+      "example": "مردم این محله عادت دارند خبرهای ساده را یک کلاغ چهل کلاغ کنند.",
+      "paraphrase": "مردم این محله عادت دارند خبرهای ساده را به شدت بزرگ‌نمایی کنند."
+    },
+    {
+      "idiom": "آب پاکی روی دست کسی ریختن",
+      "example": "مدیر با رد کردن طرح در جلسه، آب پاکی را روی دست همه ریخت.",
+      "paraphrase": "مدیر با رد کردن طرح در جلسه، همه را کاملاً ناامید کرد."
+    },
+    {
+      "idiom": "باد در غبغب انداختن",
+      "example": "پس از گرفتن ترفیع مقام، باد در غبغب انداخته و جواب سلام نمی‌دهد.",
+      "paraphrase": "پس از گرفتن ترفیع مقام، مغرور شده و جواب سلام نمی‌دهد."
+    },
+    {
+      "idiom": "پر و بال دادن",
+      "example": "ما نباید به شایعات بی‌اساس در فضای مجازی بیشتر از این پر و بال بدهیم.",
+      "paraphrase": "ما نباید به شایعات بی‌اساس در فضای مجازی بیشتر از این دامن بزنیم."
+    },
+    {
+      "idiom": "تره خرد نکردن",
+      "example": "او برای حرف‌های توهین‌آمیز منتقدانش اصلاً تره خرد نمی‌کند.",
+      "paraphrase": "او برای حرف‌های توهین‌آمیز منتقدانش اصلاً اهمیتی قائل نمی‌شود."
+    },
+    {
+      "idiom": "جان به لب شدن",
+      "example": "تا جواب نهایی آزمایش پزشکی آماده شود، من از استرس جان به لب شدم.",
+      "paraphrase": "تا جواب نهایی آزمایش پزشکی آماده شود، من از استرس بسیار عذاب کشیدم."
+    },
+    {
+      "idiom": "چشم و هم‌چشمی کردن",
+      "example": "این دو خواهر همیشه در خرید لباس و لوازم خانه چشم و هم‌چشمی می‌کنند.",
+      "paraphrase": "این دو خواهر همیشه در خرید لباس و لوازم خانه رقابت حسادت‌آمیز می‌کنند."
+    },
+    {
+      "idiom": "حرف توی دهان کسی گذاشتن",
+      "example": "من هرگز چنین چیزی نگفتم، لطفاً در این جلسه حرف توی دهان من نگذار.",
+      "paraphrase": "من هرگز چنین چیزی نگفتم، لطفاً در این جلسه به دروغ حرفی را به من نسبت نده."
+    },
+    {
+      "idiom": "خاکی بودن",
+      "example": "با وجود ثروت فراوان و شهرت، او انسان بسیار خاکی و مهربانی است.",
+      "paraphrase": "با وجود ثروت فراوان و شهرت، او انسان بسیار متواضع و مهربانی است."
+    },
+    {
+      "idiom": "دود شدن و به هوا رفتن",
+      "example": "تمام سرمایه‌اش در بازار بورس یک‌شبه دود شد و به هوا رفت.",
+      "paraphrase": "تمام سرمایه‌اش در بازار بورس یک‌شبه کاملاً از بین رفت."
+    },
+    {
+      "idiom": "رگ خواب کسی را پیدا کردن",
+      "example": "مادر باتجربه می‌داند چطور رگ خواب کودک لجبازش را پیدا کند.",
+      "paraphrase": "مادر باتجربه می‌داند چطور قلق کودک لجبازش را به دست بیاورد."
+    },
+    {
+      "idiom": "زهر چشم گرفتن",
+      "example": "معلم با تنبیه دانش‌آموز متخلف، از بقیه کلاس به خوبی زهر چشم گرفت.",
+      "paraphrase": "معلم با تنبیه دانش‌آموز متخلف، بقیه کلاس را به خوبی ترساند."
+    },
+    {
+      "idiom": "سر کیسه را شل کردن",
+      "example": "برای خریدن این خانه رویایی باید بالاخره سر کیسه را شل کنی.",
+      "paraphrase": "برای خریدن این خانه رویایی باید بالاخره پول زیادی خرج کنی."
+    },
+    {
+      "idiom": "شست کسی خبردار شدن",
+      "example": "قبل از اینکه سارقان فرار کنند، پلیس شستش خبردار شد و آنها را دستگیر کرد.",
+      "paraphrase": "قبل از اینکه سارقان فرار کنند، پلیس متوجه ماجرا شد و آنها را دستگیر کرد."
+    },
+    {
+      "idiom": "صابون کسی به تن خوردن",
+      "example": "من قبلا با او کار کرده‌ام و صابونش حسابی به تنم خورده است.",
+      "paraphrase": "من قبلا با او کار کرده‌ام و آسیبش حسابی به من رسیده است."
+    },
+    {
+      "idiom": "طفره رفتن",
+      "example": "سیاستمدار در مصاحبه زنده از پاسخ دادن به سؤالات خبرنگاران طفره می‌رفت.",
+      "paraphrase": "سیاستمدار در مصاحبه زنده از پاسخ دادن به سؤالات خبرنگاران فرار می‌کرد."
+    },
+    {
+      "idiom": "عزا گرفتن",
+      "example": "برای امتحان سخت ریاضی فردا، من از همین حالا عزا گرفته‌ام.",
+      "paraphrase": "برای امتحان سخت ریاضی فردا، من از همین حالا پیشاپیش غصه می‌خورم."
+    },
+    {
+      "idiom": "غزل خداحافظی را خواندن",
+      "example": "تیم محبوب ما با این باخت سنگین، غزل خداحافظی را از مسابقات خواند.",
+      "paraphrase": "تیم محبوب ما با این باخت سنگین، برای حذف شدن از مسابقات آماده شد."
+    },
+    {
+      "idiom": "فیلش یاد هندوستان کردن",
+      "example": "پدربزرگ بعد از سال‌ها دوباره فیلش یاد هندوستان کرده و می‌خواهد به سفر برود.",
+      "paraphrase": "پدربزرگ بعد از سال‌ها دوباره هوس گذشته کرده و می‌خواهد به سفر برود."
+    },
+    {
+      "idiom": "قید چیزی را زدن",
+      "example": "آنقدر ماشینش خراب می‌شد که بالاخره قید آن را زد و با ضرر فروختش.",
+      "paraphrase": "آنقدر ماشینش خراب می‌شد که بالاخره از آن صرف‌نظر کرد و با ضرر فروختش."
+    },
+    {
+      "idiom": "کاسه کوزه را سر کسی شکستن",
+      "example": "وقتی پروژه بزرگ شرکت شکست خورد، مدیر کاسه کوزه‌ها را سر من شکست.",
+      "paraphrase": "وقتی پروژه بزرگ شرکت شکست خورد، مدیر تمام تقصیرها را گردن من انداخت."
+    },
+    {
+      "idiom": "کفر کسی را درآوردن",
+      "example": "رفتارهای خودخواهانه و بی‌ادبانه او در مهمانی دیشب کفر همه را درآورد.",
+      "paraphrase": "رفتارهای خودخواهانه و بی‌ادبانه او در مهمانی دیشب همه را به شدت عصبانی کرد."
+    },
+    {
+      "idiom": "گوش مالی دادن",
+      "example": "پدر تصمیم گرفت پسر سرکشش را بابت اشتباهات مکررش گوش مالی دهد.",
+      "paraphrase": "پدر تصمیم گرفت پسر سرکشش را بابت اشتباهات مکررش به سختی تنبیه کند."
+    },
+    {
+      "idiom": "لنگ در هوا بودن",
+      "example": "وضعیت تمدید قرارداد ما هنوز مشخص نیست و کارها لنگ در هوا مانده است.",
+      "paraphrase": "وضعیت تمدید قرارداد ما هنوز مشخص نیست و کارها بلاتکلیف مانده است."
+    },
+    {
+      "idiom": "مو از ماست کشیدن",
+      "example": "بازرس مالیاتی هنگام بررسی حساب‌های شرکت معمولا مو از ماست می‌کشد.",
+      "paraphrase": "بازرس مالیاتی هنگام بررسی حساب‌های شرکت معمولا با دقت بسیار بررسی می‌کند."
+    },
+    {
+      "idiom": "نمک گیر شدن",
+      "example": "ما چند روز مهمان آنها بودیم و حسابی نمک گیر محبت بی‌دریغشان شدیم.",
+      "paraphrase": "ما چند روز مهمان آنها بودیم و حسابی مدیون احسان بی‌دریغشان شدیم."
+    },
+    {
+      "idiom": "هندوانه زیر بغل کسی گذاشتن",
+      "example": "او برای گرفتن وام بانکی، مدام هندوانه زیر بغل رئیس شعبه می‌گذاشت.",
+      "paraphrase": "او برای گرفتن وام بانکی، مدام چاپلوسی رئیس شعبه را می‌کرد."
+    },
+    {
+      "idiom": "یقه کسی را گرفتن",
+      "example": "به خاطر اشتباهات عمدی دیگران، اکنون قانون یقه من را گرفته است.",
+      "paraphrase": "به خاطر اشتباهات عمدی دیگران، اکنون قانون من را مؤاخذه کرده است."
+    },
+    {
+      "idiom": "آتش بیار معرکه",
+      "example": "در دعوای طولانی دو همسایه قدیمی، او همیشه آتش بیار معرکه بود.",
+      "paraphrase": "در دعوای طولانی دو همسایه قدیمی، او همیشه عامل تشدید درگیری بود."
+    },
+    {
+      "idiom": "سر به نیست کردن",
+      "example": "مجرم تلاش کرد تا تمام مدارک جرم را در بیابان تاریک سر به نیست کند.",
+      "paraphrase": "مجرم تلاش کرد تا تمام مدارک جرم را در بیابان تاریک مخفیانه نابود کند."
+    },
+    {
+      "idiom": "پیاز داغ چیزی را زیاد کردن",
+      "example": "نیازی نیست هنگام تعریف کردن این داستان ساده پیاز داغ آن را اینقدر زیاد کنی.",
+      "paraphrase": "نیازی نیست هنگام تعریف کردن این داستان ساده اینقدر در آن اغراق کنی."
+    },
+    {
+      "idiom": "توی ذوق زدن",
+      "example": "رفتار بسیار سرد او در اولین ملاقات کاری حسابی توی ذوقم زد.",
+      "paraphrase": "رفتار بسیار سرد او در اولین ملاقات کاری به شدت من را ناامید کرد."
+    },
+    {
+      "idiom": "جانماز آب کشیدن",
+      "example": "کسی که خودش پر از اشتباهات مالی است نباید برای ما جانماز آب بکشد.",
+      "paraphrase": "کسی که خودش پر از اشتباهات مالی است نباید برای ما تظاهر به پاکدستی کند."
+    },
+    {
+      "idiom": "دندان گرد بودن",
+      "example": "این مغازه‌دار بسیار دندان گرد است و اجناسش را به شدت گران می‌فروشد.",
+      "paraphrase": "این مغازه‌دار بسیار طماع است و اجناسش را به شدت گران می‌فروشد."
+    },
+    {
+      "idiom": "زبان ریختن",
+      "example": "فروشنده سیار با زبان ریختن فراوان توانست جنس بنجل خود را به مشتری بفروشد.",
+      "paraphrase": "فروشنده سیار با چرب‌زبانی فراوان توانست جنس بنجل خود را به مشتری بفروشد."
+    },
+    {
+      "idiom": "گربه رقصاندن",
+      "example": "پیمانکار برای تحویل دادن نهایی ساختمان مدام برای ما گربه می‌رقصاند.",
+      "paraphrase": "پیمانکار برای تحویل دادن نهایی ساختمان مدام برای ما بهانه‌تراشی می‌کند."
+    }
+  ],
+  "Polish": [
+    {
+      "idiom": "rzucać grochem o ścianę",
+      "example": "Tłumaczę mu to od godziny, ale to jak rzucać grochem o ścianę.",
+      "paraphrase": "Tłumaczę mu to od godziny, ale on w ogóle mnie nie słucha."
+    },
+    {
+      "idiom": "wziąć nogi za pas",
+      "example": "Gdy tylko zobaczył agresywnego psa, od razu wziął nogi za pas.",
+      "paraphrase": "Gdy tylko zobaczył agresywnego psa, od razu zaczął uciekać."
+    },
+    {
+      "idiom": "owijać w bawełnę",
+      "example": "Powiedz mi wreszcie prawdę i przestań owijać w bawełnę.",
+      "paraphrase": "Powiedz mi wreszcie prawdę i przestań mówić ogródkami."
+    },
+    {
+      "idiom": "bujać w obłokach",
+      "example": "Zamiast skupić się na dzisiejszej pracy, on ciągle buja w obłokach.",
+      "paraphrase": "Zamiast skupić się na dzisiejszej pracy, on ciągle marzy i jest nieobecny."
+    },
+    {
+      "idiom": "kropla w morzu",
+      "example": "Nasza wczorajsza pomoc finansowa to tylko kropla w morzu potrzeb.",
+      "paraphrase": "Nasza wczorajsza pomoc finansowa to tylko znikoma część potrzeb."
+    },
+    {
+      "idiom": "rzucać kłody pod nogi",
+      "example": "Życie ciągle rzuca mi kłody pod nogi, ale nigdy się nie poddaję.",
+      "paraphrase": "Życie ciągle sprawia mi trudności, ale nigdy się nie poddaję."
+    },
+    {
+      "idiom": "kupować kota w worku",
+      "example": "Zgoda na te warunki w ciemno to jak kupować kota w worku.",
+      "paraphrase": "Zgoda na te warunki w ciemno to jak kupować rzecz niesprawdzoną."
+    },
+    {
+      "idiom": "mydlić oczy",
+      "example": "Przestań mi mydlić oczy swoimi wymówkami i powiedz, jak jest naprawdę.",
+      "paraphrase": "Przestań mnie oszukiwać swoimi wymówkami i powiedz, jak jest naprawdę."
+    },
+    {
+      "idiom": "w gorącej wodzie kąpany",
+      "example": "On zawsze podejmuje decyzje zbyt szybko, jest w gorącej wodzie kąpany.",
+      "paraphrase": "On zawsze podejmuje decyzje zbyt szybko, jest bardzo niecierpliwy."
+    },
+    {
+      "idiom": "wyjść na prostą",
+      "example": "Po wielu miesiącach problemów finansowych w końcu wyszli na prostą.",
+      "paraphrase": "Po wielu miesiącach problemów finansowych w końcu poradzili sobie z kłopotami."
+    },
+    {
+      "idiom": "z deszczu pod rynnę",
+      "example": "Zmieniając tę pracę, wpadła niestety z deszczu pod rynnę.",
+      "paraphrase": "Zmieniając tę pracę, znalazła się niestety w jeszcze gorszej sytuacji."
+    },
+    {
+      "idiom": "na wagę złota",
+      "example": "W tej trudnej sytuacji dobry i zaufany przyjaciel jest na wagę złota.",
+      "paraphrase": "W tej trudnej sytuacji dobry i zaufany przyjaciel jest niezwykle cenny."
+    },
+    {
+      "idiom": "wpaść jak śliwka w kompot",
+      "example": "Zgadzając się na ten dziwny układ, wpadłem jak śliwka w kompot.",
+      "paraphrase": "Zgadzając się na ten dziwny układ, znalazłem się w sytuacji bez wyjścia."
+    },
+    {
+      "idiom": "dolać oliwy do ognia",
+      "example": "Jego ostry komentarz tylko dolał oliwy do ognia podczas ich kłótni.",
+      "paraphrase": "Jego ostry komentarz tylko pogorszył sytuację podczas ich kłótni."
+    },
+    {
+      "idiom": "nabrać wody w usta",
+      "example": "Gdy zapytałem ich o zaginione pieniądze, wszyscy nagle nabrali wody w usta.",
+      "paraphrase": "Gdy zapytałem ich o zaginione pieniądze, wszyscy nagle całkowicie zamilkli."
+    },
+    {
+      "idiom": "robić z igły widły",
+      "example": "Nie panikuj z powodu tak małego błędu, zawsze robisz z igły widły.",
+      "paraphrase": "Nie panikuj z powodu tak małego błędu, zawsze strasznie przesadzasz."
+    },
+    {
+      "idiom": "trzymać kciuki",
+      "example": "Będę mocno trzymać kciuki za twoją jutrzejszą rozmowę kwalifikacyjną.",
+      "paraphrase": "Będę mocno życzyć ci powodzenia podczas twojej jutrzejszej rozmowy kwalifikacyjnej."
+    },
+    {
+      "idiom": "palcem na wodzie pisane",
+      "example": "Jego wielkie obietnice dotyczące podwyżki są palcem na wodzie pisane.",
+      "paraphrase": "Jego wielkie obietnice dotyczące podwyżki są bardzo niepewne i złudne."
+    },
+    {
+      "idiom": "płakać nad rozlanym mlekiem",
+      "example": "Czas naprawić ten błąd, nie ma sensu teraz płakać nad rozlanym mlekiem.",
+      "paraphrase": "Czas naprawić ten błąd, nie ma sensu teraz żałować tego, co się stało."
+    },
+    {
+      "idiom": "włos jeży się na głowie",
+      "example": "Kiedy słucham tych strasznych wiadomości, po prostu włos jeży się na głowie.",
+      "paraphrase": "Kiedy słucham tych strasznych wiadomości, odczuwam ogromne przerażenie."
+    },
+    {
+      "idiom": "rzucić rękawicę",
+      "example": "Nasz mały zespół postanowił rzucić rękawicę rynkowym gigantom.",
+      "paraphrase": "Nasz mały zespół postanowił wyzwać na pojedynek rynkowych gigantów."
+    },
+    {
+      "idiom": "być w siódmym niebie",
+      "example": "Kiedy wręczył jej ten wspaniały prezent, była w siódmym niebie.",
+      "paraphrase": "Kiedy wręczył jej ten wspaniały prezent, była niesamowicie szczęśliwa."
+    },
+    {
+      "idiom": "pójść po rozum do głowy",
+      "example": "Mam nadzieję, że on wreszcie pójdzie po rozum do głowy i przeprosi.",
+      "paraphrase": "Mam nadzieję, że on wreszcie opamięta się i przeprosi."
+    },
+    {
+      "idiom": "dać komuś popalić",
+      "example": "Nowy szef potrafi naprawdę dać wszystkim pracownikom popalić.",
+      "paraphrase": "Nowy szef potrafi naprawdę bardzo zmęczyć i zestresować wszystkich pracowników."
+    },
+    {
+      "idiom": "mrozić krew w żyłach",
+      "example": "Jego wczorajsza opowieść o wypadku mroziła krew w żyłach.",
+      "paraphrase": "Jego wczorajsza opowieść o wypadku wywoływała ogromne przerażenie."
+    },
+    {
+      "idiom": "szukać wiatru w polu",
+      "example": "Chcesz odzyskać od niego dług? To jak szukać wiatru w polu.",
+      "paraphrase": "Chcesz odzyskać od niego dług? To przedsięwzięcie z góry skazane na porażkę."
+    },
+    {
+      "idiom": "niedźwiedzia przysługa",
+      "example": "Zrobiłeś za niego zadanie domowe, ale to była tylko niedźwiedzia przysługa.",
+      "paraphrase": "Zrobiłeś za niego zadanie domowe, ale to działanie przyniosło mu więcej szkody niż pożytku."
+    },
+    {
+      "idiom": "łapać dwie sroki za ogon",
+      "example": "Jeśli próbujesz łapać dwie sroki za ogon, niczego dobrze nie zrobisz.",
+      "paraphrase": "Jeśli próbujesz robić zbyt wiele rzeczy na raz, niczego dobrze nie zrobisz."
+    },
+    {
+      "idiom": "siedzieć jak na szpilkach",
+      "example": "Czekając na wyniki ważnych badań lekarskich, siedziałem jak na szpilkach.",
+      "paraphrase": "Czekając na wyniki ważnych badań lekarskich, bardzo mocno się denerwowałem."
+    },
+    {
+      "idiom": "pleść trzy po trzy",
+      "example": "Przestań pleść trzy po trzy i zacznij mówić o faktach.",
+      "paraphrase": "Przestań wygadywać totalne bzdury i zacznij mówić o faktach."
+    },
+    {
+      "idiom": "dzielić włos na czworo",
+      "example": "W tej sprawie nie ma co dzielić włosa na czworo, decyzja jest prosta.",
+      "paraphrase": "W tej sprawie nie ma co zbytnio komplikować, decyzja jest prosta."
+    },
+    {
+      "idiom": "chować głowę w piasek",
+      "example": "W obliczu pierwszego trudnego kryzysu zarząd chowa głowę w piasek.",
+      "paraphrase": "W obliczu pierwszego trudnego kryzysu zarząd udaje, że nie ma problemu."
+    },
+    {
+      "idiom": "rzucać słowa na wiatr",
+      "example": "On nigdy nie rzuca słów na wiatr, zawsze dotrzymuje swoich obietnic.",
+      "paraphrase": "On nigdy nie składa pustych obietnic, zawsze dotrzymuje swoich obietnic."
+    },
+    {
+      "idiom": "rwać włosy z głowy",
+      "example": "Gdy zobaczyłem bałagan zostawiony w moim pokoju, rwałem włosy z głowy.",
+      "paraphrase": "Gdy zobaczyłem bałagan zostawiony w moim pokoju, wpadłem w ogromną rozpacz."
+    },
+    {
+      "idiom": "obiecywać gruszki na wierzbie",
+      "example": "Politycy przed wyborami zawsze obiecują gruszki na wierzbie.",
+      "paraphrase": "Politycy przed wyborami zawsze obiecują rzeczy całkowicie niemożliwe."
+    },
+    {
+      "idiom": "z otwartymi ramionami",
+      "example": "Nasza wesoła rodzina przyjęła nowego gościa z otwartymi ramionami.",
+      "paraphrase": "Nasza wesoła rodzina przyjęła nowego gościa bardzo serdecznie i gościnnie."
+    },
+    {
+      "idiom": "puszczać mimo uszu",
+      "example": "Wszystkie moje dobre rady on niestety zawsze puszcza mimo uszu.",
+      "paraphrase": "Wszystkie moje dobre rady on niestety zawsze całkowicie ignoruje."
+    },
+    {
+      "idiom": "dmuchać na zimne",
+      "example": "Lepiej dmuchać na zimne i wcześniej zrobić kopię zapasową ważnych danych.",
+      "paraphrase": "Lepiej być ostrożnym na zapas i wcześniej zrobić kopię zapasową ważnych danych."
+    },
+    {
+      "idiom": "wyjść obronną ręką",
+      "example": "Z tej wielkiej afery firmowej nasz dyrektor wyszedł obronną ręką.",
+      "paraphrase": "Z tej wielkiej afery firmowej nasz dyrektor uratował się bez szwanku."
+    },
+    {
+      "idiom": "spocząć na laurach",
+      "example": "Po wygranej walce sportowiec nie spoczął na laurach i dalej trenuje.",
+      "paraphrase": "Po wygranej walce sportowiec nie przestał się starać i dalej trenuje."
+    },
+    {
+      "idiom": "mieć węża w kieszeni",
+      "example": "Mój sąsiad ma węża w kieszeni i nigdy nie daje napiwków w restauracji.",
+      "paraphrase": "Mój sąsiad jest bardzo skąpy i nigdy nie daje napiwków w restauracji."
+    },
+    {
+      "idiom": "czuć miętę",
+      "example": "Widać z daleka, że ci dwoje od dawna czują do siebie miętę.",
+      "paraphrase": "Widać z daleka, że ci dwoje od dawna czują do siebie wyraźny pociąg."
+    },
+    {
+      "idiom": "siedzieć z założonymi rękami",
+      "example": "Zamiast mi pomóc w gotowaniu, on po prostu siedzi z założonymi rękami.",
+      "paraphrase": "Zamiast mi pomóc w gotowaniu, on po prostu biernie patrzy i nic nie robi."
+    },
+    {
+      "idiom": "rzucać perły przed wieprze",
+      "example": "Tłumaczenie mu tej pięknej poezji to jak rzucać perły przed wieprze.",
+      "paraphrase": "Tłumaczenie mu tej pięknej poezji to dawanie wartości czegoś, komuś kto tego nie doceni."
+    },
+    {
+      "idiom": "bić się w piersi",
+      "example": "Zrozumiał swój poważny błąd i teraz głośno bije się w piersi.",
+      "paraphrase": "Zrozumiał swój poważny błąd i teraz szczerze przyznaje się do winy."
+    },
+    {
+      "idiom": "kura znosząca złote jaja",
+      "example": "Ten nowy produkt to dla naszej fabryki prawdziwa kura znosząca złote jaja.",
+      "paraphrase": "Ten nowy produkt to dla naszej fabryki niezwykle zyskowne przedsięwzięcie."
+    },
+    {
+      "idiom": "mieć muchy w nosie",
+      "example": "Kasia ma dzisiaj od rana muchy w nosie i do nikogo się nie odzywa.",
+      "paraphrase": "Kasia jest dzisiaj od rana bardzo naburmuszona i do nikogo się nie odzywa."
+    },
+    {
+      "idiom": "wodzić za nos",
+      "example": "Kłamliwy prawnik przez długie lata wodził całą rodzinę za nos.",
+      "paraphrase": "Kłamliwy prawnik przez długie lata zręcznie oszukiwał całą rodzinę."
+    },
+    {
+      "idiom": "spalić za sobą mosty",
+      "example": "Odchodząc z korporacji w gniewie, niestety całkowicie spalił za sobą mosty.",
+      "paraphrase": "Odchodząc z korporacji w gniewie, niestety pozbawił się możliwości powrotu."
+    },
+    {
+      "idiom": "w mgnieniu oka",
+      "example": "Burza zerwała się na morzu dosłownie w mgnieniu oka.",
+      "paraphrase": "Burza zerwała się na morzu dosłownie w ułamku sekundy."
+    },
+    {
+      "idiom": "patrzeć przez palce",
+      "example": "Nauczyciel często patrzy przez palce na jej drobne przewinienia na lekcji.",
+      "paraphrase": "Nauczyciel często pobłażliwie traktuje jej drobne przewinienia na lekcji."
+    },
+    {
+      "idiom": "czuć pismo nosem",
+      "example": "Widząc te dziwne spojrzenia, zacząłem od razu czuć pismo nosem.",
+      "paraphrase": "Widząc te dziwne spojrzenia, zacząłem od razu domyślać się podstępu."
+    },
+    {
+      "idiom": "stać nad grobem",
+      "example": "Ten stary, schorowany człowiek już niestety stoi nad grobem.",
+      "paraphrase": "Ten stary, schorowany człowiek jest już niestety bardzo bliski śmierci."
+    },
+    {
+      "idiom": "zjeść zęby",
+      "example": "Nasz mechanik zjadł zęby na naprawach tych starszych modeli silników.",
+      "paraphrase": "Nasz mechanik nabył ogromnego doświadczenia na naprawach tych starszych modeli silników."
+    },
+    {
+      "idiom": "wstać lewą nogą",
+      "example": "Nic mi dzisiaj nie wychodzi w pracy, musiałem rano wstać lewą nogą.",
+      "paraphrase": "Nic mi dzisiaj nie wychodzi w pracy, muszę być od rana w złym nastroju."
+    },
+    {
+      "idiom": "maczać palce",
+      "example": "Jestem absolutnie pewny, że on maczał palce w tej wielkiej kradzieży.",
+      "paraphrase": "Jestem absolutnie pewny, że on miał ukryty udział w tej wielkiej kradzieży."
+    },
+    {
+      "idiom": "czuć się jak ryba w wodzie",
+      "example": "Na dużych spotkaniach towarzyskich on zawsze czuje się jak ryba w wodzie.",
+      "paraphrase": "Na dużych spotkaniach towarzyskich on zawsze czuje się w swoim żywiole."
+    },
+    {
+      "idiom": "kłamstwo ma krótkie nogi",
+      "example": "Prędzej czy później prawda wyjdzie na jaw, w końcu kłamstwo ma krótkie nogi.",
+      "paraphrase": "Prędzej czy później prawda wyjdzie na jaw, w końcu oszustwo zawsze zostaje odkryte."
+    },
+    {
+      "idiom": "rzucać cień",
+      "example": "Jego dawne skandale wciąż rzucają cień na jego dzisiejszą kampanię wyborczą.",
+      "paraphrase": "Jego dawne skandale wciąż psują reputację jego dzisiejszej kampanii wyborczej."
+    },
+    {
+      "idiom": "od deski do deski",
+      "example": "Zainteresowany tematem student przeczytał całą książkę historyczną od deski do deski.",
+      "paraphrase": "Zainteresowany tematem student przeczytał całą książkę historyczną od samego początku do końca."
+    },
+    {
+      "idiom": "zapędzić w kozi róg",
+      "example": "Zadając te niezwykle trudne pytania, dziennikarz zapędził ministra w kozi róg.",
+      "paraphrase": "Zadając te niezwykle trudne pytania, dziennikarz doprowadził ministra do sytuacji bez wyjścia."
+    },
+    {
+      "idiom": "urwać się z choinki",
+      "example": "Pytasz mnie o to teraz? Ty chyba właśnie urwałeś się z choinki!",
+      "paraphrase": "Pytasz mnie o to teraz? Ty chyba w ogóle nie wiesz, co się dzieje!"
+    },
+    {
+      "idiom": "po nitce do kłębka",
+      "example": "Detektywi pracowali cierpliwie i po nitce do kłębka dotarli do prawdy.",
+      "paraphrase": "Detektywi pracowali cierpliwie i drogą logicznych dedukcji dotarli do prawdy."
+    },
+    {
+      "idiom": "mieć serce na dłoni",
+      "example": "To cudowna kobieta, która dla każdego ze znajomych ma serce na dłoni.",
+      "paraphrase": "To cudowna kobieta, która dla każdego ze znajomych jest bardzo dobra i życzliwa."
+    },
+    {
+      "idiom": "krew zalewa",
+      "example": "Kiedy widzę tę ogromną niesprawiedliwość wokół nas, po prostu krew mnie zalewa.",
+      "paraphrase": "Kiedy widzę tę ogromną niesprawiedliwość wokół nas, po prostu wpadam w ogromną wściekłość."
+    },
+    {
+      "idiom": "wywiesić białą flagę",
+      "example": "Nasza zmęczona drużyna nie miała wyjścia i musiała dzisiaj wywiesić białą flagę.",
+      "paraphrase": "Nasza zmęczona drużyna nie miała wyjścia i musiała się dzisiaj poddać."
+    },
+    {
+      "idiom": "burza w szklance wody",
+      "example": "Ten ich głośny i publiczny spór to zwykła burza w szklance wody.",
+      "paraphrase": "Ten ich głośny i publiczny spór to tylko awantura z błahego powodu."
+    },
+    {
+      "idiom": "patrzeć jak cielę na malowane wrota",
+      "example": "Kiedy dostał to dziwne zadanie matematyczne, patrzył jak cielę na malowane wrota.",
+      "paraphrase": "Kiedy dostał to dziwne zadanie matematyczne, wpatrywał się z tępym niezrozumieniem."
+    },
+    {
+      "idiom": "pasować jak wół do karety",
+      "example": "Jego nowoczesny ubiór do tak eleganckiej restauracji pasuje jak wół do karety.",
+      "paraphrase": "Jego nowoczesny ubiór do tak eleganckiej restauracji kompletnie nie pasuje."
+    },
+    {
+      "idiom": "ręka rękę myje",
+      "example": "W tej małej i skorumpowanej instytucji rządowej niestety ręka rękę myje.",
+      "paraphrase": "W tej małej i skorumpowanej instytucji rządowej niestety ludzie wzajemnie tuszują swoje winy."
+    }
+  ],
+  "Romanian": [
+    {
+      "idiom": "a tăia frunză la câini",
+      "example": "În loc să muncească la proiect, stă acasă și taie frunză la câini.",
+      "paraphrase": "În loc să muncească la proiect, stă acasă și pierde timpul degeaba."
+    },
+    {
+      "idiom": "a da cu bâta în baltă",
+      "example": "Când a spus acea glumă total nepotrivită la interviu, a dat cu bâta în baltă.",
+      "paraphrase": "Când a spus acea glumă total nepotrivită la interviu, a făcut o mare gafă."
+    },
+    {
+      "idiom": "a face din țânțar armăsar",
+      "example": "Nu te mai plânge atât pentru o zgârietură, faci din țânțar armăsar.",
+      "paraphrase": "Nu te mai plânge atât pentru o zgârietură, exagerezi lucrurile foarte mult."
+    },
+    {
+      "idiom": "a vinde gogoși",
+      "example": "Nu mă mai minți cu poveștile astea, știu foarte bine că îmi vinzi gogoși.",
+      "paraphrase": "Nu mă mai minți cu poveștile astea, știu foarte bine că îmi spui neadevăruri."
+    },
+    {
+      "idiom": "a lua țeapă",
+      "example": "A cumpărat o mașină second-hand stricată și a luat o mare țeapă.",
+      "paraphrase": "A cumpărat o mașină second-hand stricată și a fost înșelat grav."
+    },
+    {
+      "idiom": "a umbla cu cioara vopsită",
+      "example": "Nu încerca să mă convingi, știu clar că umbli cu cioara vopsită.",
+      "paraphrase": "Nu încerca să mă convingi, știu clar că încerci să mă păcălești."
+    },
+    {
+      "idiom": "a băga mâna în foc",
+      "example": "Aș băga mâna în foc că el spune adevărul în această situație complicată.",
+      "paraphrase": "Aș garanta absolut că el spune adevărul în această situație complicată."
+    },
+    {
+      "idiom": "a-i sări țandăra",
+      "example": "I-a sărit țandăra imediat când a auzit ce au spus colegii despre el.",
+      "paraphrase": "S-a enervat brusc imediat când a auzit ce au spus colegii despre el."
+    },
+    {
+      "idiom": "a da bir cu fugiții",
+      "example": "Când a văzut cât de greu este testul, a dat imediat bir cu fugiții.",
+      "paraphrase": "Când a văzut cât de greu este testul, a abandonat imediat totul."
+    },
+    {
+      "idiom": "a o lua la sănătoasa",
+      "example": "Hoțul a văzut mașina de poliție și a luat-o la sănătoasa pe strada cealaltă.",
+      "paraphrase": "Hoțul a văzut mașina de poliție și a început să fugă repede pe strada cealaltă."
+    },
+    {
+      "idiom": "a prinde cu mâța-n sac",
+      "example": "Paznicul l-a prins cu mâța-n sac chiar când încerca să iasă din depozit.",
+      "paraphrase": "Paznicul l-a surprins furând chiar când încerca să iasă din depozit."
+    },
+    {
+      "idiom": "a trage pe sfoară",
+      "example": "Comercianții necinstiți mereu încearcă să tragă pe sfoară clienții naivi în această piață.",
+      "paraphrase": "Comercianții necinstiți mereu încearcă să păcălească clienții naivi în această piață."
+    },
+    {
+      "idiom": "a face ochi dulci",
+      "example": "Băiatul a început să-i facă ochi dulci colegei sale de bancă în timpul orei.",
+      "paraphrase": "Băiatul a început să flirteze cu colega sa de bancă în timpul orei."
+    },
+    {
+      "idiom": "a călca pe bec",
+      "example": "Angajatul a călcat pe bec și acum trebuie să suporte consecințele la locul de muncă.",
+      "paraphrase": "Angajatul a încălcat grav regulamentul și acum trebuie să suporte consecințele la locul de muncă."
+    },
+    {
+      "idiom": "a pune la cale",
+      "example": "Infractorii au pus la cale un plan detaliat pentru jaful băncii centrale.",
+      "paraphrase": "Infractorii au complotat un plan detaliat pentru jaful băncii centrale."
+    },
+    {
+      "idiom": "a scoate din sărite",
+      "example": "Zgomotul continuu al bormașinii vecinului mă scoate din sărite în fiecare dimineață.",
+      "paraphrase": "Zgomotul continuu al bormașinii vecinului mă enervează la culme în fiecare dimineață."
+    },
+    {
+      "idiom": "a tăia elanul",
+      "example": "Critica dură a profesorului i-a tăiat elanul studentului care tocmai prezentase lucrarea.",
+      "paraphrase": "Critica dură a profesorului i-a distrus tot entuziasmul studentului care tocmai prezentase lucrarea."
+    },
+    {
+      "idiom": "a-i pica fisa",
+      "example": "După zece minute de explicații matematice complicate, în sfârșit i-a picat fisa.",
+      "paraphrase": "După zece minute de explicații matematice complicate, în sfârșit a înțeles ideea."
+    },
+    {
+      "idiom": "a spăla putina",
+      "example": "Petrecerea devenise plictisitoare și gălăgioasă, așa că am spălat putina devreme.",
+      "paraphrase": "Petrecerea devenise plictisitoare și gălăgioasă, așa că am plecat rapid devreme."
+    },
+    {
+      "idiom": "a se da în stambă",
+      "example": "După ce a băut prea mult vin, a început să se dea în stambă la nuntă.",
+      "paraphrase": "După ce a băut prea mult vin, a început să se facă de râs la nuntă."
+    },
+    {
+      "idiom": "a face zile fripte",
+      "example": "Noul manager de departament îi face zile fripte cu toate aceste rapoarte urgente inutile.",
+      "paraphrase": "Noul manager de departament îi îngreunează viața cu toate aceste rapoarte urgente inutile."
+    },
+    {
+      "idiom": "a umbla teleleu",
+      "example": "După absolvirea liceului, a preferat să umble teleleu prin oraș toată vara.",
+      "paraphrase": "După absolvirea liceului, a preferat să rătăcească fără scop prin oraș toată vara."
+    },
+    {
+      "idiom": "a o întoarce ca la Ploiești",
+      "example": "Când și-a dat seama că argumentul lui e greșit, a întors-o ca la Ploiești imediat.",
+      "paraphrase": "Când și-a dat seama că argumentul lui e greșit, și-a schimbat brusc discursul imediat."
+    },
+    {
+      "idiom": "a-și lua inima în dinți",
+      "example": "Și-a luat inima în dinți și i-a cerut în sfârșit șefului o mărire de salariu meritată.",
+      "paraphrase": "A prins un curaj mare și i-a cerut în sfârșit șefului o mărire de salariu meritată."
+    },
+    {
+      "idiom": "a călca pe nervi",
+      "example": "Modul zgomotos în care mestecă guma mă calcă pe nervi absolut îngrozitor.",
+      "paraphrase": "Modul zgomotos în care mestecă guma mă irită profund absolut îngrozitor."
+    },
+    {
+      "idiom": "a sta ca pe ghimpi",
+      "example": "A stat ca pe ghimpi pe scaun până când a aflat rezultatul final al examenului medical.",
+      "paraphrase": "A stat extrem de agitat pe scaun până când a aflat rezultatul final al examenului medical."
+    },
+    {
+      "idiom": "a da din colț în colț",
+      "example": "Când a fost întrebat direct unde sunt banii firmei, a început să dea din colț în colț.",
+      "paraphrase": "Când a fost întrebat direct unde sunt banii firmei, a început să evite un răspuns clar."
+    },
+    {
+      "idiom": "a nu avea o lețcaie",
+      "example": "După ce și-a cumpărat acel laptop scump pentru jocuri, nu mai are nicio lețcaie în cont.",
+      "paraphrase": "După ce și-a cumpărat acel laptop scump pentru jocuri, a rămas complet fără bani în cont."
+    },
+    {
+      "idiom": "a pune paie pe foc",
+      "example": "Remarca ta foarte ironică nu a făcut decât să pună paie pe foc în timpul scandalului familial.",
+      "paraphrase": "Remarca ta foarte ironică nu a făcut decât să agraveze situația tensionată în timpul scandalului familial."
+    },
+    {
+      "idiom": "a da apă la moară",
+      "example": "Dacă îi răspunzi la provocările acelea online, doar îi dai apă la moară.",
+      "paraphrase": "Dacă îi răspunzi la provocările acelea online, doar îl încurajezi să continue scandalul."
+    },
+    {
+      "idiom": "a duce cu zăhărelul",
+      "example": "Candidatul la primărie i-a dus cu zăhărelul pe toți alegătorii promițând spitale noi.",
+      "paraphrase": "Candidatul la primărie i-a amăgit pe toți alegătorii promițând spitale noi."
+    },
+    {
+      "idiom": "a prinde rădăcini",
+      "example": "Simt că am prins rădăcini așteptând acest autobuz întârziat în stație timp de o oră.",
+      "paraphrase": "Simt că am stat un timp exagerat de lung așteptând acest autobuz întârziat în stație timp de o oră."
+    },
+    {
+      "idiom": "a bate la ochi",
+      "example": "Mașina lui sport de un roșu aprins chiar bătea la ochi pe acea străduță săracă.",
+      "paraphrase": "Mașina lui sport de un roșu aprins chiar atrăgea atenția în mod evident pe acea străduță săracă."
+    },
+    {
+      "idiom": "a fi oală și ulcel",
+      "example": "Până când se va construi efectiv acea autostradă promisă, noi toți vom fi oală și ulcel.",
+      "paraphrase": "Până când se va construi efectiv acea autostradă promisă, noi toți vom fi morți de multă vreme."
+    },
+    {
+      "idiom": "a lăsa baltă",
+      "example": "A lăsat baltă absolut toate proiectele echipei și a plecat într-o vacanță neanunțată.",
+      "paraphrase": "A abandonat complet absolut toate proiectele echipei și a plecat într-o vacanță neanunțată."
+    },
+    {
+      "idiom": "a da de gol",
+      "example": "Expresia vinovată a feței sale l-a dat de gol imediat că el stricase imprimanta biroului.",
+      "paraphrase": "Expresia vinovată a feței sale l-a trădat imediat că el stricase imprimanta biroului."
+    },
+    {
+      "idiom": "a închide ochii",
+      "example": "Pentru a menține liniștea, conducerea a închis ochii la acele mici abateri ale angajaților vechi.",
+      "paraphrase": "Pentru a menține liniștea, conducerea a ignorat intenționat acele mici abateri ale angajaților vechi."
+    },
+    {
+      "idiom": "a vorbi la pereți",
+      "example": "Degeaba îi tot explic copilului meu ce are de făcut, simt adesea că vorbesc la pereți.",
+      "paraphrase": "Degeaba îi tot explic copilului meu ce are de făcut, simt adesea că nu mă ascultă deloc."
+    },
+    {
+      "idiom": "a-și aprinde paie în cap",
+      "example": "Dacă te cerți cu directorul general în fața tuturor, îți aprinzi paie în cap singur.",
+      "paraphrase": "Dacă te cerți cu directorul general în fața tuturor, îți provoci singur necazuri foarte mari."
+    },
+    {
+      "idiom": "a fi cu capul în nori",
+      "example": "De când s-a îndrăgostit nebunește vara trecută, colegul nostru este mereu cu capul în nori.",
+      "paraphrase": "De când s-a îndrăgostit nebunește vara trecută, colegul nostru este mereu distrat și visător."
+    },
+    {
+      "idiom": "a pune degetul pe rană",
+      "example": "Terapeutul a pus degetul pe rană exact când a menționat lipsa de comunicare din copilăria lui.",
+      "paraphrase": "Terapeutul a identificat cauza dureroasă exact când a menționat lipsa de comunicare din copilăria lui."
+    },
+    {
+      "idiom": "a umbla cu fofârlica",
+      "example": "Dacă vrem să reușim această afacere serioasă, trebuie să nu mai umblăm cu fofârlica și să fim corecți.",
+      "paraphrase": "Dacă vrem să reușim această afacere serioasă, trebuie să nu mai recurgem la șmecherii și să fim corecți."
+    },
+    {
+      "idiom": "a o lăsa mai moale",
+      "example": "Medicul cardiolog i-a recomandat foarte ferm să o lase mai moale cu stresul și munca peste program.",
+      "paraphrase": "Medicul cardiolog i-a recomandat foarte ferm să se tempereze și să se relaxeze cu stresul și munca peste program."
+    },
+    {
+      "idiom": "a face capul calendar",
+      "example": "Cu atâtea instrucțiuni extrem de complicate și contradictorii, pur și simplu mi-ai făcut capul calendar azi.",
+      "paraphrase": "Cu atâtea instrucțiuni extrem de complicate și contradictorii, pur și simplu m-ai zăpăcit complet azi."
+    },
+    {
+      "idiom": "a da chix",
+      "example": "Noul spectacol de teatru de aseară a dat chix din cauza unor probleme tehnice uriașe la sunet.",
+      "paraphrase": "Noul spectacol de teatru de aseară a eșuat lamentabil din cauza unor probleme tehnice uriașe la sunet."
+    },
+    {
+      "idiom": "a se bate cu morile de vânt",
+      "example": "A încerca să schimbi birocrația de stat de aici e fix ca și cum te-ai bate cu morile de vânt zilnic.",
+      "paraphrase": "A încerca să schimbi birocrația de stat de aici e fix o luptă total inutilă și sortită eșecului zilnic."
+    },
+    {
+      "idiom": "a ploua cu găleata",
+      "example": "Te sfătuiesc să nu uiți umbrela mare acasă astăzi, deoarece la știri au spus că afară plouă cu găleata.",
+      "paraphrase": "Te sfătuiesc să nu uiți umbrela mare acasă astăzi, deoarece la știri au spus că afară plouă torențial abundent."
+    },
+    {
+      "idiom": "a fi la cuțite",
+      "example": "Cei doi vecini de la etajul doi sunt la cuțite de ani de zile din cauza acelui loc de parcare disputat.",
+      "paraphrase": "Cei doi vecini de la etajul doi sunt în relații extrem de ostile de ani de zile din cauza acelui loc de parcare disputat."
+    },
+    {
+      "idiom": "a face pe niznaiul",
+      "example": "Când profesorul a întrebat cine a spart geamul clasei, elevul vinovat a făcut pe niznaiul imediat.",
+      "paraphrase": "Când profesorul a întrebat cine a spart geamul clasei, elevul vinovat s-a prefăcut că nu știe absolut nimic imediat."
+    },
+    {
+      "idiom": "a nu clinti un deget",
+      "example": "Deși toți aveam mare nevoie de ajutor la curățenia generală, el a stat pe canapea și nu a clintit un deget.",
+      "paraphrase": "Deși toți aveam mare nevoie de ajutor la curățenia generală, el a stat pe canapea și nu a oferit niciun fel de ajutor."
+    },
+    {
+      "idiom": "a trăi pe picior mare",
+      "example": "De când domnul Popescu a câștigat la loteria națională, întreaga lor familie trăiește pe picior mare.",
+      "paraphrase": "De când domnul Popescu a câștigat la loteria națională, întreaga lor familie duce o viață plină de lux exagerat."
+    },
+    {
+      "idiom": "a scoate ochii",
+      "example": "Sora mea îmi scoate ochii zilnic pentru acea mică sumă de bani pe care mi-a împrumutat-o anul trecut.",
+      "paraphrase": "Sora mea îmi reproșează cu răutate zilnic pentru acea mică sumă de bani pe care mi-a împrumutat-o anul trecut."
+    },
+    {
+      "idiom": "a sta de șase",
+      "example": "Unul dintre băieții mai mari din grup stătea de șase la poartă în timp ce ceilalți explorau curtea părăsită.",
+      "paraphrase": "Unul dintre băieții mai mari din grup pândea cu atenție la poartă în timp ce ceilalți explorau curtea părăsită."
+    },
+    {
+      "idiom": "a trage un pui de somn",
+      "example": "După un prânz de duminică atât de copios și obositor, eu intenționez serios să trag un pui de somn.",
+      "paraphrase": "După un prânz de duminică atât de copios și obositor, eu intenționez serios să dorm puțin ca să mă odihnesc."
+    },
+    {
+      "idiom": "a o face de oaie",
+      "example": "Prin acea declarație necugetată făcută ieri în direct la televizor, ministrul economiei a făcut-o de oaie.",
+      "paraphrase": "Prin acea declarație necugetată făcută ieri în direct la televizor, ministrul economiei a gafat într-un mod ridicol și grav."
+    },
+    {
+      "idiom": "a da sfară în țară",
+      "example": "Imediat ce tânăra a aflat vestea logodnei sale surpriză, mama ei a dat sfară în țară către toate rudele.",
+      "paraphrase": "Imediat ce tânăra a aflat vestea logodnei sale surpriză, mama ei a răspândit noutatea cu repeziciune către toate rudele."
+    },
+    {
+      "idiom": "a despica firul în patru",
+      "example": "Avocatul apărării a început imediat să despice firul în patru pentru a găsi absolut orice mică hibă în contract.",
+      "paraphrase": "Avocatul apărării a început imediat să analizeze detaliile în mod obsesiv și minuțios pentru a găsi absolut orice mică hibă în contract."
+    },
+    {
+      "idiom": "a fi mână spartă",
+      "example": "Din păcate, soțului ei nu-i poți încredința administrarea bugetului familiei pe termen lung, fiindcă este o mână spartă.",
+      "paraphrase": "Din păcate, soțului ei nu-i poți încredința administrarea bugetului familiei pe termen lung, fiindcă este o persoană care risipește toți banii."
+    },
+    {
+      "idiom": "a fi tobă de carte",
+      "example": "Noul nostru profesor invitat de istorie contemporană este cu adevărat tobă de carte și știe răspunsul la orice întrebare.",
+      "paraphrase": "Noul nostru profesor invitat de istorie contemporană este cu adevărat extrem de învățat și erudit și știe răspunsul la orice întrebare."
+    },
+    {
+      "idiom": "a pica din cer",
+      "example": "Această oportunitate grozavă de angajare ne-a picat din cer exact în momentul în care aveam cele mai mari datorii la bancă.",
+      "paraphrase": "Această oportunitate grozavă de angajare a apărut complet pe neașteptate ca o salvare exact în momentul în care aveam cele mai mari datorii la bancă."
+    },
+    {
+      "idiom": "a bate apa-n piuă",
+      "example": "Deși discutăm de peste două ore despre aceeași problemă minoră de logistică, practic doar batem apa-n piuă fără rezultat.",
+      "paraphrase": "Deși discutăm de peste două ore despre aceeași problemă minoră de logistică, practic doar irosim timpul repetând aceleași lucruri inutile fără rezultat."
+    },
+    {
+      "idiom": "a fi pe drojdie",
+      "example": "După acea vacanță neplanificată și foarte costisitoare în străinătate, bugetul nostru lunar este momentan pe drojdie.",
+      "paraphrase": "După acea vacanță neplanificată și foarte costisitoare în străinătate, bugetul nostru lunar este momentan aproape complet epuizat."
+    },
+    {
+      "idiom": "a da peste nas",
+      "example": "Când acel subaltern tânăr a devenit prea arogant în ședință, șeful experimentat i-a dat imediat peste nas.",
+      "paraphrase": "Când acel subaltern tânăr a devenit prea arogant în ședință, șeful experimentat l-a mustrat tăios și l-a pus la locul lui imediat."
+    },
+    {
+      "idiom": "a lua taurul de coarne",
+      "example": "După nenumărate ezitări și frici, antreprenorul a decis în sfârșit să ia taurul de coarne și să înceapă propria afacere.",
+      "paraphrase": "După nenumărate ezitări și frici, antreprenorul a decis în sfârșit să acționeze cu mult curaj și decizie și să înceapă propria afacere."
+    },
+    {
+      "idiom": "a-și băga mințile în cap",
+      "example": "Doar după accidentul acela rutier din fericire destul de ușor, tânărul șofer rebel și-a băgat mințile în cap.",
+      "paraphrase": "Doar după accidentul acela rutier din fericire destul de ușor, tânărul șofer rebel a devenit brusc chibzuit și responsabil."
+    },
+    {
+      "idiom": "a se uita ca vițelul la poarta nouă",
+      "example": "Când profesorul i-a explicat la tablă noul algoritm complex de programare, studentul se uita ca vițelul la poarta nouă.",
+      "paraphrase": "Când profesorul i-a explicat la tablă noul algoritm complex de programare, studentul privea cu o totală lipsă de înțelegere și mirare."
+    },
+    {
+      "idiom": "a prinde aripi",
+      "example": "Imediat după ce a primit premiul național de excelență pentru debutul său literar, tânărul scriitor a prins aripi.",
+      "paraphrase": "Imediat după ce a primit premiul național de excelență pentru debutul său literar, tânărul scriitor a căpătat o încredere și un avânt extraordinar."
+    },
+    {
+      "idiom": "a avea ac de cojocul cuiva",
+      "example": "Lasă-l pe acel coleg turbulent în grija mea de acum încolo, fiindcă eu știu sigur că am ac de cojocul lui.",
+      "paraphrase": "Lasă-l pe acel coleg turbulent în grija mea de acum încolo, fiindcă eu știu sigur cum să-l pedepsesc și să-l stăpânesc."
+    },
+    {
+      "idiom": "a se culca pe o ureche",
+      "example": "Deși elevul are note bune la toate testele de până acum, nu trebuie deloc să se culce pe o ureche până la bacalaureat.",
+      "paraphrase": "Deși elevul are note bune la toate testele de până acum, nu trebuie deloc să devină delăsător bazându-se pe succesele trecute până la bacalaureat."
+    },
+    {
+      "idiom": "a ține piept",
+      "example": "În ciuda diferenței de echipament, mica trupă de apărători curajoși a reușit cu brio să țină piept unei armate inamice mult mai mari.",
+      "paraphrase": "În ciuda diferenței de echipament, mica trupă de apărători curajoși a reușit cu brio să reziste cu îndârjire atacurilor unei armate inamice mult mai mari."
+    }
+  ],
+  "Serbian": [
+    {
+      "idiom": "mlatiti praznu slamu",
+      "example": "Umesto što stalno mlatite praznu slamu, počnite da radite nešto korisno.",
+      "paraphrase": "Umesto što stalno gubite vreme na prazne priče, počnite da radite nešto korisno."
+    },
+    {
+      "idiom": "Bogu iza nogu",
+      "example": "Oni žive u nekom selu Bogu iza nogu, jedva smo ih našli kolima.",
+      "paraphrase": "Oni žive u nekom selu veoma daleko, jedva smo ih našli kolima."
+    },
+    {
+      "idiom": "čamiti čekajući",
+      "example": "Opet ćeš nas ostaviti da čamimo čekajući ispred restorana ako zakasniš.",
+      "paraphrase": "Opet ćeš nas ostaviti da dugo i uzaludno čekamo ispred restorana ako zakasniš."
+    },
+    {
+      "idiom": "padati s kruške",
+      "example": "Nisam pao s kruške da poverujem u te očigledne laži.",
+      "paraphrase": "Nisam toliko glup da poverujem u te očigledne laži."
+    },
+    {
+      "idiom": "vedriti i oblačiti",
+      "example": "Novi direktor vedri i oblači u celoj našoj kompaniji.",
+      "paraphrase": "Novi direktor ima potpunu moć i odlučuje o svemu u celoj našoj kompaniji."
+    },
+    {
+      "idiom": "prodavati maglu",
+      "example": "Svi političari nam pred svake izbore redovno prodaju maglu.",
+      "paraphrase": "Svi političari nam pred svake izbore redovno pričaju prazne priče."
+    },
+    {
+      "idiom": "bacati prašinu u oči",
+      "example": "Njihova nova obećanja su samo bacanje prašine u oči siromašnom narodu.",
+      "paraphrase": "Njihova nova obećanja su samo davanje lažne nade siromašnom narodu."
+    },
+    {
+      "idiom": "izvući deblji kraj",
+      "example": "U toj velikoj kafanskoj svađi, on je na kraju izvukao deblji kraj.",
+      "paraphrase": "U toj velikoj kafanskoj svađi, on je na kraju lošije prošao."
+    },
+    {
+      "idiom": "staviti ruku u vatru",
+      "example": "Za njegovu poštenost i nevinost bih smeo da stavim ruku u vatru.",
+      "paraphrase": "Za njegovu poštenost i nevinost bih smeo da apsolutno garantujem."
+    },
+    {
+      "idiom": "spavati kao zaklan",
+      "example": "Posle veoma napornog dana na poslu, legao je i spavao kao zaklan.",
+      "paraphrase": "Posle veoma napornog dana na poslu, legao je i spavao veoma čvrsto."
+    },
+    {
+      "idiom": "hvatati zjale",
+      "example": "Po ceo dan samo hvata zjale po kući umesto da traži posao.",
+      "paraphrase": "Po ceo dan samo lenčari po kući umesto da traži posao."
+    },
+    {
+      "idiom": "lupati glavu",
+      "example": "Već satima lupam glavu oko ovog matematičkog problema na testu.",
+      "paraphrase": "Već satima intenzivno razmišljam oko ovog matematičkog problema na testu."
+    },
+    {
+      "idiom": "deveta rupa na svirali",
+      "example": "U tom velikom i uspešnom preduzeću on je oduvek bio deveta rupa na svirali.",
+      "paraphrase": "U tom velikom i uspešnom preduzeću on je oduvek bio potpuno nebitan."
+    },
+    {
+      "idiom": "trčati pred rudu",
+      "example": "Nemoj da trčiš pred rudu sa zaključcima dok ne čujemo sve činjenice.",
+      "paraphrase": "Nemoj da prenagljeno reaguješ sa zaključcima dok ne čujemo sve činjenice."
+    },
+    {
+      "idiom": "držati fige",
+      "example": "Sutra ujutru imam onaj važan vozački ispit, obavezno mi drži fige!",
+      "paraphrase": "Sutra ujutru imam onaj važan vozački ispit, obavezno mi poželi sreću!"
+    },
+    {
+      "idiom": "sedeti na dve stolice",
+      "example": "Ne možeš večno sedeti na dve stolice, moraš konačno izabrati stranu.",
+      "paraphrase": "Ne možeš večno biti neodlučan, moraš konačno izabrati stranu."
+    },
+    {
+      "idiom": "raditi iza leđa",
+      "example": "Saznao sam sasvim slučajno da mi onaj najbolji prijatelj već mesecima radi iza leđa.",
+      "paraphrase": "Saznao sam sasvim slučajno da moj najbolji prijatelj već mesecima tajno radi protiv mene."
+    },
+    {
+      "idiom": "staviti karte na sto",
+      "example": "Mislim da je krajnje vreme da stavimo karte na sto i kažemo pravu istinu.",
+      "paraphrase": "Mislim da je krajnje vreme da budemo potpuno otvoreni i kažemo pravu istinu."
+    },
+    {
+      "idiom": "mačji kašalj",
+      "example": "Taj tvoj današnji test iz vožnje je običan mačji kašalj u poređenju sa mojim.",
+      "paraphrase": "Taj tvoj današnji test iz vožnje je veoma laka stvar u poređenju sa mojim."
+    },
+    {
+      "idiom": "lupiti šakom o sto",
+      "example": "Otac je na kraju morao da lupi šakom o sto i zauvek prekine tu raspravu.",
+      "paraphrase": "Otac je na kraju morao energično da preseče stvar i zauvek prekine tu raspravu."
+    },
+    {
+      "idiom": "ići grlom u jagode",
+      "example": "Otvorio je firmu potpuno nepripremljen za taksi posao, bukvalno je otišao grlom u jagode.",
+      "paraphrase": "Otvorio je firmu potpuno nepripremljen za taksi posao, bukvalno je srljao u opasnost."
+    },
+    {
+      "idiom": "ispeci pa reci",
+      "example": "Pre nego što ga bez dokaza optužiš za krađu, uvek se seti onog pravila ispeci pa reci.",
+      "paraphrase": "Pre nego što ga bez dokaza optužiš za krađu, uvek dobro razmisli pre nego što progovoriš."
+    },
+    {
+      "idiom": "staviti na led",
+      "example": "Zbog iznenadne finansijske krize smo morali da stavimo taj građevinski projekat na led.",
+      "paraphrase": "Zbog iznenadne finansijske krize smo morali da privremeno odložimo taj građevinski projekat."
+    },
+    {
+      "idiom": "sipati so na ranu",
+      "example": "Svi njegovi surovi komentari su samo sipali so na ranu već unesrećenoj porodici.",
+      "paraphrase": "Svi njegovi surovi komentari su samo dodatno otežavali situaciju već unesrećenoj porodici."
+    },
+    {
+      "idiom": "gutati knedle",
+      "example": "Dok je stajao ispred direktora i slušao oštru kritiku, samo je u tišini gutao knedle.",
+      "paraphrase": "Dok je stajao ispred direktora i slušao oštru kritiku, samo je jedva zadržavao nervozu."
+    },
+    {
+      "idiom": "nemati dlake na jeziku",
+      "example": "Moja tetka je poznata po tome što nema dlake na jeziku kada nepravda treba da se osudi.",
+      "paraphrase": "Moja tetka je poznata po tome što govori veoma direktno kada nepravda treba da se osudi."
+    },
+    {
+      "idiom": "stati na ludi kamen",
+      "example": "Posle deset godina duge veze, moj stariji brat je prošlog vikenda konačno stao na ludi kamen.",
+      "paraphrase": "Posle deset godina duge veze, moj stariji brat se prošlog vikenda konačno oženio."
+    },
+    {
+      "idiom": "pasti s neba",
+      "example": "To genijalno poslovno rešenje nam je bukvalno palo s neba baš kad smo gubili svaku nadu.",
+      "paraphrase": "To genijalno poslovno rešenje nam je stiglo potpuno neočekivano baš kad smo gubili svaku nadu."
+    },
+    {
+      "idiom": "ići uz dlaku",
+      "example": "On mu u razgovoru uvek namerno ide uz dlaku samo da bi ga do kraja isprovocirao.",
+      "paraphrase": "On mu u razgovoru uvek namerno kontrira samo da bi ga do kraja isprovocirao."
+    },
+    {
+      "idiom": "podviti rep",
+      "example": "Kad je napokon video da je njegov protivnik zapravo mnogo jači, podvio je rep i pobegao.",
+      "paraphrase": "Kad je napokon video da je njegov protivnik zapravo mnogo jači, povukao se u strahu i pobegao."
+    },
+    {
+      "idiom": "pregristi jezik",
+      "example": "Hteo sam svašta da mu kažem dok se drao, ali sam na vreme pregrizao jezik i ćutao.",
+      "paraphrase": "Hteo sam svašta da mu kažem dok se drao, ali sam na vreme ućutao i ćutao."
+    },
+    {
+      "idiom": "presipati iz šupljeg u prazno",
+      "example": "Ovi njihovi celodnevni kancelarijski sastanci su obično presipanje iz šupljeg u prazno.",
+      "paraphrase": "Ovi njihovi celodnevni kancelarijski sastanci su obično potpuno beskoristan posao."
+    },
+    {
+      "idiom": "kupovati mačku u džaku",
+      "example": "Potpisivanje tog poslovnog ugovora bez prethodnog detaljnog čitanja je kao kupovanje mačke u džaku.",
+      "paraphrase": "Potpisivanje tog poslovnog ugovora bez prethodnog detaljnog čitanja je kao preuzimanje rizika na slepo."
+    },
+    {
+      "idiom": "praviti od muve slona",
+      "example": "Prestani da histerišeš pred ljudima i praviš od muve slona zbog jedne obične male greške.",
+      "paraphrase": "Prestani da histerišeš pred ljudima i preuveličavaš stvari zbog jedne obične male greške."
+    },
+    {
+      "idiom": "vrag odneo šalu",
+      "example": "Kada su cene hrane ponovo drastično skočile, svi su shvatili da je vrag odneo šalu.",
+      "paraphrase": "Kada su cene hrane ponovo drastično skočile, svi su shvatili da je situacija postala ozbiljna."
+    },
+    {
+      "idiom": "spasti na niske grane",
+      "example": "Ovaj nekada jako uspešan lokalni biznismen je zbog proklete kocke spao na niske grane.",
+      "paraphrase": "Ovaj nekada jako uspešan lokalni biznismen je zbog proklete kocke potpuno materijalno propao."
+    },
+    {
+      "idiom": "okretati leđa",
+      "example": "Pravi i iskreni prijatelji ti nikada u životu neće okrenuti leđa u velikoj nevolji.",
+      "paraphrase": "Pravi i iskreni prijatelji te nikada u životu neće napustiti u velikoj nevolji."
+    },
+    {
+      "idiom": "trljati ruke",
+      "example": "Vlasnici prodavnica po gradu već uveliko trljaju ruke zbog predstojećih prazničnih popusta i rasprodaja.",
+      "paraphrase": "Vlasnici prodavnica po gradu se već uveliko raduju profitu zbog predstojećih prazničnih popusta i rasprodaja."
+    },
+    {
+      "idiom": "hladan kao špricer",
+      "example": "Tokom celog današnjeg suđenja za taj ozbiljan zločin optuženi je ostao hladan kao špricer.",
+      "paraphrase": "Tokom celog današnjeg suđenja za taj ozbiljan zločin optuženi je ostao potpuno smiren."
+    },
+    {
+      "idiom": "pijan kao letva",
+      "example": "Posle proslave mature i mnogo pića on se vratio svojoj kući pijan kao letva.",
+      "paraphrase": "Posle proslave mature i mnogo pića on se vratio svojoj kući u veoma alkoholisanom stanju."
+    },
+    {
+      "idiom": "obrati zelen bostan",
+      "example": "Ako moja majka danas sazna za ovu strašnu štetu na prozorima, svi smo obrali zelen bostan.",
+      "paraphrase": "Ako moja majka danas sazna za ovu strašnu štetu na prozorima, svi smo jako nadrljali."
+    },
+    {
+      "idiom": "biti u sosu",
+      "example": "Posle potpunog gubitka onog tajnog dokumenta iz fioke, on je shvatio da je u gadnom sosu.",
+      "paraphrase": "Posle potpunog gubitka onog tajnog dokumenta iz fioke, on je shvatio da je u velikom problemu."
+    },
+    {
+      "idiom": "imati zmiju u džepu",
+      "example": "Nema šanse da će on večeras platiti to piće kafani, taj čovek definitivno ima zmiju u džepu.",
+      "paraphrase": "Nema šanse da će on večeras platiti to piće kafani, taj čovek je izuzetno škrt."
+    },
+    {
+      "idiom": "drži vodu dok majstori odu",
+      "example": "Taj tvoj jeftini pokušaj popravka cevi u kupatilu drži vodu dok majstori odu, opet će procureti.",
+      "paraphrase": "Taj tvoj jeftini pokušaj popravka cevi u kupatilu je jako lošeg kvaliteta, opet će procureti."
+    },
+    {
+      "idiom": "doliti ulje na vatru",
+      "example": "To tvoje neprestano vikanje pred decom će samo doliti ulje na vatru u ovoj besmislenoj svađi.",
+      "paraphrase": "To tvoje neprestano vikanje pred decom će samo drastično pogoršati situaciju u ovoj besmislenoj svađi."
+    },
+    {
+      "idiom": "terati mak na konac",
+      "example": "Glavni inspektor je odjednom rešio da tera mak na konac i pažljivo proveri baš svaku sitnicu.",
+      "paraphrase": "Glavni inspektor je odjednom rešio da bude preterano detaljan i pažljivo proveri baš svaku sitnicu."
+    },
+    {
+      "idiom": "obećavati kule i gradove",
+      "example": "Ovaj novi opozicioni kandidat obećava kule i gradove pre izbora, ali mu malo ko zaista veruje.",
+      "paraphrase": "Ovaj novi opozicioni kandidat daje potpuno nerealna obećanja pre izbora, ali mu malo ko zaista veruje."
+    },
+    {
+      "idiom": "dizati u zvezde",
+      "example": "Domaći mediji su tog vrlo mladog sportistu veoma brzo počeli da dižu u zvezde bez mnogo pokrića.",
+      "paraphrase": "Domaći mediji su tog vrlo mladog sportistu veoma brzo počeli da preterano hvale bez mnogo pokrića."
+    },
+    {
+      "idiom": "dići ruke",
+      "example": "Posle trećeg uzastopnog neuspeha na sudu, advokat je prosto digao ruke od tog beznadežnog slučaja.",
+      "paraphrase": "Posle trećeg uzastopnog neuspeha na sudu, advokat je prosto odustao od tog beznadežnog slučaja."
+    },
+    {
+      "idiom": "ostati kratkih rukava",
+      "example": "Naivno su danas otišli po svoju obećanu nagradu za projekat, ali su na kraju ostali kratkih rukava.",
+      "paraphrase": "Naivno su danas otišli po svoju obećanu nagradu za projekat, ali su na kraju ostali praznih ruku."
+    },
+    {
+      "idiom": "doći do guše",
+      "example": "Ovi ogromni neplaćeni dugovi za struju u stanu su mi već svima stvarno došli do guše.",
+      "paraphrase": "Ovi ogromni neplaćeni dugovi za struju u stanu su mi već svima stvarno postali neizdrživi."
+    },
+    {
+      "idiom": "zabadati nos",
+      "example": "Naša starija komšinica ima jako ružan običaj da po ceo dan stalno zabada nos u tuđe porodične poslove.",
+      "paraphrase": "Naša starija komšinica ima jako ružan običaj da se po ceo dan stalno nepozvana meša u tuđe porodične poslove."
+    },
+    {
+      "idiom": "živeti na visokoj nozi",
+      "example": "Otkako je dobio to ogromno nasledstvo iz Amerike, on i njegova žena žive na visokoj nozi.",
+      "paraphrase": "Otkako je dobio to ogromno nasledstvo iz Amerike, on i njegova žena žive veoma luksuzno i rasipnički."
+    },
+    {
+      "idiom": "ići na živce",
+      "example": "Ta njena preterano glasna jutarnja muzika mi strašno ide na živce svakog radnog dana.",
+      "paraphrase": "Ta njena preterano glasna jutarnja muzika me strašno jako nervira svakog radnog dana."
+    },
+    {
+      "idiom": "kao grom iz vedra neba",
+      "example": "Ona zvanična vest o njegovom neočekivanom otkazu je odjeknula kancelarijom kao grom iz vedra neba.",
+      "paraphrase": "Ona zvanična vest o njegovom neočekivanom otkazu je odjeknula kancelarijom potpuno šokantno i iznenadno."
+    },
+    {
+      "idiom": "probiti led",
+      "example": "Neko je morao konačno da probije led na proslavi i prvi započne neobavezan razgovor sa novim kolegama.",
+      "paraphrase": "Neko je morao konačno da prevaziđe početnu neprijatnost na proslavi i prvi započne neobavezan razgovor sa novim kolegama."
+    },
+    {
+      "idiom": "čuvati kao malo vode na dlanu",
+      "example": "Posle one nesreće baka ga je odgajila i čuvala kao malo vode na dlanu do njegove zrelosti.",
+      "paraphrase": "Posle one nesreće baka ga je odgajila i pazila sa najvećom mogućom pažnjom do njegove zrelosti."
+    },
+    {
+      "idiom": "zapeti iz petnih žila",
+      "example": "Morali smo bukvalno da zapnemo iz petnih žila da bismo uopšte stigli na voz na vreme.",
+      "paraphrase": "Morali smo bukvalno da uložimo ogroman fizički napor da bismo uopšte stigli na voz na vreme."
+    },
+    {
+      "idiom": "gledati kroz prste",
+      "example": "Njegov razredni starešina mu je ovaj put gledao kroz prste zbog onog kašnjenja jer je bio vidno bolestan.",
+      "paraphrase": "Njegov razredni starešina mu je ovaj put oprostio grešku zbog onog kašnjenja jer je bio vidno bolestan."
+    },
+    {
+      "idiom": "na vrhu jezika",
+      "example": "Tačno znam taj podatak iz geografije, veruj mi da mi stoji tu na vrhu jezika cele ove večeri.",
+      "paraphrase": "Tačno znam taj podatak iz geografije, veruj mi da sam jako blizu da se setim cele ove večeri."
+    },
+    {
+      "idiom": "ukrstiti koplja",
+      "example": "Na večerašnjoj žustroj televizijskoj debati će konačno ukrstiti koplja dva najveća ekonomska stručnjaka u zemlji.",
+      "paraphrase": "Na večerašnjoj žustroj televizijskoj debati će se konačno verbalno sukobiti dva najveća ekonomska stručnjaka u zemlji."
+    },
+    {
+      "idiom": "igrati žmurke",
+      "example": "Građani poručuju da vlast hitno prestane da igra žmurke sa celim narodom povodom uvođenja tog novog poreza.",
+      "paraphrase": "Građani poručuju da vlast hitno prestane da obmanjuje i krije istinu sa celim narodom povodom uvođenja tog novog poreza."
+    },
+    {
+      "idiom": "prevršiti svaku meru",
+      "example": "Njegovo izuzetno bezobrazno i arogantno ponašanje na času matematike je juče stvarno prevršilo svaku meru.",
+      "paraphrase": "Njegovo izuzetno bezobrazno i arogantno ponašanje na času matematike je juče stvarno postalo potpuno nepodnošljivo."
+    },
+    {
+      "idiom": "staviti glavu u torbu",
+      "example": "Hrabri spasioci su noćas morali da stave glavu u torbu da bi žive izvukli povređene rudare ispod zemlje.",
+      "paraphrase": "Hrabri spasioci su noćas morali da maksimalno rizikuju sopstveni život da bi žive izvukli povređene rudare ispod zemlje."
+    },
+    {
+      "idiom": "smejati se u brk",
+      "example": "Dok ga je dežurni policajac glasno grdio zbog divlje vožnje, on mu se veoma bezobrazno smejao u brk.",
+      "paraphrase": "Dok ga je dežurni policajac glasno grdio zbog divlje vožnje, on ga je veoma bezobrazno i otvoreno ismevao."
+    },
+    {
+      "idiom": "mirna bačka",
+      "example": "Ako kojim slučajem platimo taj ogromni račun danas pre podne, onda je od sutra mirna bačka.",
+      "paraphrase": "Ako kojim slučajem platimo taj ogromni račun danas pre podne, onda od sutra nema više nikakvih briga."
+    },
+    {
+      "idiom": "otkriti toplu vodu",
+      "example": "Nisi ti tu zapravo ništa genijalno smislio, nego si nam ponosno saopštio kako si otkrio toplu vodu.",
+      "paraphrase": "Nisi ti tu zapravo ništa genijalno smislio, nego si nam ponosno izneo odavno poznatu i očiglednu činjenicu."
+    },
+    {
+      "idiom": "skočiti sam sebi u stomak",
+      "example": "Svojom neverovatno ishitrenom i glupom izjavom u javnosti, gradonačelnik je danas skočio sam sebi u stomak.",
+      "paraphrase": "Svojom neverovatno ishitrenom i glupom izjavom u javnosti, gradonačelnik je danas naneo jako veliku štetu sebi."
+    },
+    {
+      "idiom": "biti trn u oku",
+      "example": "Njegov munjeviti finansijski uspeh je od samog početka bio veliki trn u oku mnogim zavidnim kolegama na poslu.",
+      "paraphrase": "Njegov munjeviti finansijski uspeh je od samog početka stalno izazivao ogromnu zavist i smetao mnogim zavidnim kolegama na poslu."
+    },
+    {
+      "idiom": "čist račun duga ljubav",
+      "example": "Najbolje je da odmah danas na papiru pošteno podelimo sve troškove puta, čist račun duga ljubav.",
+      "paraphrase": "Najbolje je da odmah danas na papiru pošteno podelimo sve troškove puta, čisti odnosi sprečavaju buduće svađe."
+    }
+  ],
+  "Slovene": [
+    {
+      "idiom": "imeti mačka",
+      "example": "Po včerajšnji dolgi zabavi imam danes zjutraj groznega mačka.",
+      "paraphrase": "Po včerajšnji dolgi zabavi se danes zjutraj počutim zelo slabo zaradi alkohola."
+    },
+    {
+      "idiom": "vreči puško v koruzo",
+      "example": "Ne smeš takoj vreči puške v koruzo, če ti prva vaja ne uspe.",
+      "paraphrase": "Ne smeš takoj obupati, če ti prva vaja ne uspe."
+    },
+    {
+      "idiom": "kupiti mačka v žaklju",
+      "example": "Pri takih spletnih nakupih hitro kupiš mačka v žaklju in ostaneš brez denarja.",
+      "paraphrase": "Pri takih spletnih nakupih hitro dobiš nekaj nepreverjenega in ostaneš brez denarja."
+    },
+    {
+      "idiom": "biti na istem čolnu",
+      "example": "Zdaj smo vsi sodelavci na istem čolnu in moramo nujno sodelovati.",
+      "paraphrase": "Zdaj smo vsi sodelavci v enaki situaciji in moramo nujno sodelovati."
+    },
+    {
+      "idiom": "soliti pamet",
+      "example": "Ne rabiš mi stalno soliti pameti, saj točno vem kaj delam.",
+      "paraphrase": "Ne rabiš me stalno poučevati, saj točno vem kaj delam."
+    },
+    {
+      "idiom": "vleči za nos",
+      "example": "Mislim, da nas ta sumljivi prodajalec že ves čas vleče za nos.",
+      "paraphrase": "Mislim, da nas ta sumljivi prodajalec že ves čas zavaja."
+    },
+    {
+      "idiom": "delati slona iz muhe",
+      "example": "Ne razumem, zakaj vsakič delaš slona iz muhe zaradi take malenkosti.",
+      "paraphrase": "Ne razumem, zakaj vsakič tako pretiravaš zaradi take malenkosti."
+    },
+    {
+      "idiom": "imeti polne roke dela",
+      "example": "Pred božičnimi prazniki imamo v naši pekarni vedno polne roke dela.",
+      "paraphrase": "Pred božičnimi prazniki smo v naši pekarni vedno zelo zaposleni."
+    },
+    {
+      "idiom": "obrati do kosti",
+      "example": "Davčna uprava ga je pri zadnjem strogem pregledu obrala do kosti.",
+      "paraphrase": "Davčna uprava ga je pri zadnjem strogem pregledu popolnoma osiromašila."
+    },
+    {
+      "idiom": "iti po gobe",
+      "example": "Celoten tvoj poslovni načrt bo kmalu šel po gobe, če ne paziš na stroške.",
+      "paraphrase": "Celoten tvoj poslovni načrt bo kmalu propadel, če ne paziš na stroške."
+    },
+    {
+      "idiom": "brcati v temo",
+      "example": "Pri iskanju pravega odgovora na testu sem popolnoma brcnil v temo.",
+      "paraphrase": "Pri iskanju pravega odgovora na testu sem popolnoma napačno ugibal."
+    },
+    {
+      "idiom": "držati pesti",
+      "example": "Na jutrišnjem razgovoru za službo mi obvezno drži pesti!",
+      "paraphrase": "Na jutrišnjem razgovoru za službo mi obvezno želi srečo!"
+    },
+    {
+      "idiom": "gledati skozi prste",
+      "example": "Profesor mu je tokrat pogledal skozi prste, ker je bil dlje časa bolan.",
+      "paraphrase": "Profesor mu je tokrat prizanesel z napako, ker je bil dlje časa bolan."
+    },
+    {
+      "idiom": "hoditi po jajcih",
+      "example": "Okoli novega šefa moramo vsi v pisarni ves čas hoditi po jajcih.",
+      "paraphrase": "Okoli novega šefa moramo vsi v pisarni ves čas biti izjemno previdni."
+    },
+    {
+      "idiom": "metati polena pod noge",
+      "example": "Naša nepoštena konkurenca nam na trgu stalno meče polena pod noge.",
+      "paraphrase": "Naša nepoštena konkurenca nam na trgu stalno povzroča namerne ovire."
+    },
+    {
+      "idiom": "najti dlako v jajcu",
+      "example": "On je takšen perfekcionist, da mora pri vsakem projektu najti dlako v jajcu.",
+      "paraphrase": "On je takšen perfekcionist, da mora pri vsakem projektu iskati najmanjše napake."
+    },
+    {
+      "idiom": "pasti na plodna tla",
+      "example": "Njegov inovativni predlog je na včerajšnjem sestanku takoj padel na plodna tla.",
+      "paraphrase": "Njegov inovativni predlog je bil na včerajšnjem sestanku takoj zelo dobro sprejet."
+    },
+    {
+      "idiom": "pasti z lune",
+      "example": "Gledaš me tako zmedeno, kot da si ravnokar padel z lune.",
+      "paraphrase": "Gledaš me tako zmedeno, kot da trenutne situacije sploh ne razumeš."
+    },
+    {
+      "idiom": "plavati proti toku",
+      "example": "Včasih je v družbi zelo težko plavati proti toku in ohraniti svoja načela.",
+      "paraphrase": "Včasih je v družbi zelo težko nasprotovati večini in ohraniti svoja načela."
+    },
+    {
+      "idiom": "potegniti kratko",
+      "example": "Pri nedavni delitvi družinskega premoženja je najmlajši brat spet potegnil kratko.",
+      "paraphrase": "Pri nedavni delitvi družinskega premoženja je bil najmlajši brat spet oškodovan."
+    },
+    {
+      "idiom": "priti na zeleno vejo",
+      "example": "Po dolgih letih trdega dela so s podjetjem končno prišli na zeleno vejo.",
+      "paraphrase": "Po dolgih letih trdega dela so s podjetjem končno dosegli finančni uspeh."
+    },
+    {
+      "idiom": "prodajati meglo",
+      "example": "Številni politiki pred pomembnimi volitvami preprosto prodajajo meglo naivnim ljudem.",
+      "paraphrase": "Številni politiki pred pomembnimi volitvami preprosto dajejo prazne obljube naivnim ljudem."
+    },
+    {
+      "idiom": "skočiti v zelje",
+      "example": "Po vasi se že dolgo govori, da ji je njen mož skočil v zelje.",
+      "paraphrase": "Po vasi se že dolgo govori, da ji je njen mož bil nezvest."
+    },
+    {
+      "idiom": "spati kot polh",
+      "example": "Po celodnevnem napornem smučanju je otrok zvečer zaspal in spal kot polh.",
+      "paraphrase": "Po celodnevnem napornem smučanju je otrok zvečer zaspal in počival zelo trdno."
+    },
+    {
+      "idiom": "trkati na prava vrata",
+      "example": "Če potrebuješ dober pravni nasvet, pri njem zagotovo trkaš na prava vrata.",
+      "paraphrase": "Če potrebuješ dober pravni nasvet, se pri njem zagotovo obračaš na pravo osebo."
+    },
+    {
+      "idiom": "vzeti pod drobnogled",
+      "example": "Inšpekcijska služba bo to sporno podjetje vzela pod drobnogled že naslednji teden.",
+      "paraphrase": "Inšpekcijska služba bo to sporno podjetje zelo podrobno preiskala že naslednji teden."
+    },
+    {
+      "idiom": "z glavo skozi zid",
+      "example": "Včasih se moraš znati ustaviti, saj ne moreš iti vedno z glavo skozi zid.",
+      "paraphrase": "Včasih se moraš znati ustaviti, saj ne moreš vedno vsega izsiliti na silo."
+    },
+    {
+      "idiom": "jokati za polito mleko",
+      "example": "Škoda je že narejena in zdaj res nima smisla jokati za polito mleko.",
+      "paraphrase": "Škoda je že narejena in zdaj res nima smisla obžalovati preteklih napak."
+    },
+    {
+      "idiom": "mešati jabolka in hruške",
+      "example": "Pri teh dveh povsem različnih teorijah očitno preveč mešaš jabolka in hruške.",
+      "paraphrase": "Pri teh dveh povsem različnih teorijah očitno primerjaš popolnoma neprimerljive stvari."
+    },
+    {
+      "idiom": "na vrat na nos",
+      "example": "To pomembno poslovno odločitev so včeraj sprejeli na vrat na nos, povsem brez premisleka.",
+      "paraphrase": "To pomembno poslovno odločitev so včeraj sprejeli izjemno hitro in prenagljeno, povsem brez premisleka."
+    },
+    {
+      "idiom": "nesti kožo na trg",
+      "example": "Za rešitev tega nevarnega primera je moral detektiv dobesedno nesti kožo na trg.",
+      "paraphrase": "Za rešitev tega nevarnega primera je moral detektiv dobesedno tvegati lastno življenje."
+    },
+    {
+      "idiom": "obljubljati gradove v oblakih",
+      "example": "Novi menedžer nam je na sestanku naivno obljubljal gradove v oblakih glede naših plač.",
+      "paraphrase": "Novi menedžer nam je na sestanku naivno napovedoval povsem neuresničljive stvari glede naših plač."
+    },
+    {
+      "idiom": "odkriti toplo vodo",
+      "example": "S to svojo očitno ugotovitvijo na predavanju res nisi odkril tople vode.",
+      "paraphrase": "S to svojo očitno ugotovitvijo na predavanju res nisi povedal ničesar novega."
+    },
+    {
+      "idiom": "pometati pred svojim pragom",
+      "example": "Preden kritiziraš druge ljudi, bi moral najprej pometati pred svojim pragom.",
+      "paraphrase": "Preden kritiziraš druge ljudi, bi moral najprej razčistiti lastne napake."
+    },
+    {
+      "idiom": "potegniti črto",
+      "example": "Ob koncu dolgega delovnega leta moramo potegniti črto in natančno pregledati dosežene rezultate.",
+      "paraphrase": "Ob koncu dolgega delovnega leta moramo narediti jasen zaključek in natančno pregledati dosežene rezultate."
+    },
+    {
+      "idiom": "preliti kapljo čez rob",
+      "example": "Njegova zadnja javna žaljivka je sodelavcem dokončno prelila kapljo čez rob.",
+      "paraphrase": "Njegova zadnja javna žaljivka je sodelavcem dokončno uničila preostalo potrpljenje."
+    },
+    {
+      "idiom": "prst v rano",
+      "example": "S tistim neposrednim vprašanjem o ločitvi mu je novinar dregnil prst v rano.",
+      "paraphrase": "S tistim neposrednim vprašanjem o ločitvi mu je novinar zadel najbolj bolečo točko."
+    },
+    {
+      "idiom": "metati denar skozi okno",
+      "example": "Kupovati tako drage in nepotrebne avtomobile dobesedno pomeni metati denar skozi okno.",
+      "paraphrase": "Kupovati tako drage in nepotrebne avtomobile dobesedno pomeni nesmiselno zapravljati bogastvo."
+    },
+    {
+      "idiom": "skakati v besedo",
+      "example": "Zelo je nevljudno in nesramno stalno skakati v besedo starejšim med resnim pogovorom.",
+      "paraphrase": "Zelo je nevljudno in nesramno stalno prekinjati starejše med resnim pogovorom."
+    },
+    {
+      "idiom": "smejati se v brk",
+      "example": "Kljub strogi sodni prepovedi se mu je prestopnik predrzno smejal v brk.",
+      "paraphrase": "Kljub strogi sodni prepovedi se mu je prestopnik predrzno in nesramno posmehoval."
+    },
+    {
+      "idiom": "spraviti ob živce",
+      "example": "S svojim nenehnim in glasnim pritoževanjem me boš kmalu spravil ob živce.",
+      "paraphrase": "S svojim nenehnim in glasnim pritoževanjem me boš kmalu močno razjezil."
+    },
+    {
+      "idiom": "streljati kozle",
+      "example": "Na ustnem izpitu iz zgodovine je študent od hude treme streljal same kozle.",
+      "paraphrase": "Na ustnem izpitu iz zgodovine je študent od hude treme govoril same neumnosti."
+    },
+    {
+      "idiom": "tiščati glavo v pesek",
+      "example": "Kot družba ne moremo več tiščati glave v pesek pred prihajajočo podnebno krizo.",
+      "paraphrase": "Kot družba ne moremo več ignorirati resnosti situacije pred prihajajočo podnebno krizo."
+    },
+    {
+      "idiom": "v sedmih nebesih",
+      "example": "Ko je končno dobila zaročni prstan, je bila mlada nevesta v sedmih nebesih.",
+      "paraphrase": "Ko je končno dobila zaročni prstan, je bila mlada nevesta nepopisno srečna."
+    },
+    {
+      "idiom": "stisniti rep med noge",
+      "example": "Ko je nasilnež videl, da pošteno izgublja prepir, je hitro stisnil rep med noge.",
+      "paraphrase": "Ko je nasilnež videl, da pošteno izgublja prepir, se je hitro strahopetno umaknil."
+    },
+    {
+      "idiom": "dvigniti roke",
+      "example": "Po mnogih neuspešnih terapijah so zdravniki že davno dvignili roke od njegovega primera.",
+      "paraphrase": "Po mnogih neuspešnih terapijah so zdravniki že davno obupali in prenehali zdraviti njegov primer."
+    },
+    {
+      "idiom": "delati se norca",
+      "example": "Kot pošten delavec res ne dovolim, da se uprava dela norca iz mojega truda.",
+      "paraphrase": "Kot pošten delavec res ne dovolim, da uprava podcenjuje in zasmehuje moj trud."
+    },
+    {
+      "idiom": "imeti debelo kožo",
+      "example": "Če želiš preživeti v visoki politiki, moraš imeti debelo kožo za vse zlobne kritike.",
+      "paraphrase": "Če želiš preživeti v visoki politiki, moraš biti zelo neobčutljiv za vse zlobne kritike."
+    },
+    {
+      "idiom": "živeti kot bubreg v loju",
+      "example": "Z moževo odlično plačo v Švici bo ta družina zagotovo živela kot bubreg v loju.",
+      "paraphrase": "Z moževo odlično plačo v Švici bo ta družina zagotovo živela izjemno udobno in razkošno."
+    },
+    {
+      "idiom": "biti trn v peti",
+      "example": "Njegov hiter poslovni uspeh je bil vedno trn v peti številnim lokalnim zavistnežem.",
+      "paraphrase": "Njegov hiter poslovni uspeh je bil vedno velika motnja in razlog za jezo številnim lokalnim zavistnežem."
+    },
+    {
+      "idiom": "bosti v oči",
+      "example": "Ta grozna pravopisna napaka na velikem oglasnem plakatu res močno bode v oči mimoidočim.",
+      "paraphrase": "Ta grozna pravopisna napaka na velikem oglasnem plakatu je res zelo opazna in moteča mimoidočim."
+    },
+    {
+      "idiom": "čez noč",
+      "example": "Zavedati se morate, da takšnega ogromnega premoženja ni mogoče ustvariti čez noč.",
+      "paraphrase": "Zavedati se morate, da takšnega ogromnega premoženja ni mogoče ustvariti v zelo kratkem in hitrem času."
+    },
+    {
+      "idiom": "dati roko v ogenj",
+      "example": "Zanj in za njegovo poštenje bi takoj dal roko v ogenj pred vsakim sodiščem.",
+      "paraphrase": "Zanj in za njegovo poštenje bi takoj popolnoma jamčil pred vsakim sodiščem."
+    },
+    {
+      "idiom": "delati se Francoza",
+      "example": "Ko sem ga včeraj vprašal o starem dolgu, se je naivno delal Francoza.",
+      "paraphrase": "Ko sem ga včeraj vprašal o starem dolgu, se je naivno pretvarjal, da nič ne ve."
+    },
+    {
+      "idiom": "pokazati zobe",
+      "example": "Naša domača ekipa je v drugem polčasu tekme obiskovalcem končno pokazala zobe.",
+      "paraphrase": "Naša domača ekipa je v drugem polčasu tekme obiskovalcem končno odločno in borbeno nastopila."
+    },
+    {
+      "idiom": "igrati na dve struni",
+      "example": "Nihče mu zares ne zaupa, ker ta politik vedno preračunljivo igra na dve struni.",
+      "paraphrase": "Nihče mu zares ne zaupa, ker ta politik vedno preračunljivo deluje dvolično za lastno korist."
+    },
+    {
+      "idiom": "imeti dve levi roki",
+      "example": "Za kakršnokoli popravilo domačega avtomobila res nimam smisla, imam dve levi roki.",
+      "paraphrase": "Za kakršnokoli popravilo domačega avtomobila res nimam smisla, sem izjemno neroden."
+    },
+    {
+      "idiom": "imeti krompir",
+      "example": "Pri tistem hudem padcu z visokega drevesa si imel pa res velik krompir, da si preživel.",
+      "paraphrase": "Pri tistem hudem padcu z visokega drevesa si imel pa res ogromno srečo, da si preživel."
+    },
+    {
+      "idiom": "imeti maslo na glavi",
+      "example": "Tisti direktorji, ki imajo maslo na glavi, so ob medijskih aferah običajno najtišji.",
+      "paraphrase": "Tisti direktorji, ki skrivajo lastno krivdo, so ob medijskih aferah običajno najtišji."
+    },
+    {
+      "idiom": "imeti srce v hlačah",
+      "example": "Pred prvim javnim nastopom na šolskem odru je mali fantek imel srce v hlačah.",
+      "paraphrase": "Pred prvim javnim nastopom na šolskem odru se je mali fantek močno prestrašil."
+    },
+    {
+      "idiom": "iz prve roke",
+      "example": "To zelo pomembno in ekskluzivno informacijo sem na srečo izvedel iz prve roke.",
+      "paraphrase": "To zelo pomembno in ekskluzivno informacijo sem na srečo izvedel od neposrednega zanesljivega vira."
+    },
+    {
+      "idiom": "jezik za zobe",
+      "example": "V tej občutljivi situaciji bo najbolj pametno, da držiš jezik za zobe in poslušaš.",
+      "paraphrase": "V tej občutljivi situaciji bo najbolj pametno, da ostaneš popolnoma tiho in poslušaš."
+    },
+    {
+      "idiom": "prebiti led",
+      "example": "Z eno preprosto in dobro šalo mu je hitro uspelo prebiti led na spoznavnem sestanku.",
+      "paraphrase": "Z eno preprosto in dobro šalo mu je hitro uspelo sprostiti začetno napetost na spoznavnem sestanku."
+    },
+    {
+      "idiom": "loviti sapo",
+      "example": "Po hitrem teku v strm klanec smo še zelo dolgo počivali in lovili sapo.",
+      "paraphrase": "Po hitrem teku v strm klanec smo še zelo dolgo počivali in oteženo dihali."
+    },
+    {
+      "idiom": "metati pesek v oči",
+      "example": "S to lažno in popravljeno statistiko nam vlada samo meče pesek v oči pred krizo.",
+      "paraphrase": "S to lažno in popravljeno statistiko nas vlada samo poskuša prevarati pred krizo."
+    },
+    {
+      "idiom": "na robu obupa",
+      "example": "Zaradi nepričakovanih visokih dolgov je bila celotna delavska družina na robu obupa.",
+      "paraphrase": "Zaradi nepričakovanih visokih dolgov je bila celotna delavska družina v izjemno hudi čustveni stiski."
+    },
+    {
+      "idiom": "deliti usodo",
+      "example": "Vsi pošteni zaposleni v tem propadlem podjetju zdaj nepravično delimo isto usodo.",
+      "paraphrase": "Vsi pošteni zaposleni v tem propadlem podjetju smo zdaj nepravično v povsem enakem slabem položaju."
+    },
+    {
+      "idiom": "ne premakniti niti prsta",
+      "example": "Ko smo včeraj ves dan čistili umazano dvorano, on za pomoč ni premaknil niti prsta.",
+      "paraphrase": "Ko smo včeraj ves dan čistili umazano dvorano, on ni prav ničesar pomagal zraven."
+    },
+    {
+      "idiom": "pasti v vodo",
+      "example": "Zaradi zelo slabega vremena in dežja je naš dolgo planiran izlet na koncu padel v vodo.",
+      "paraphrase": "Zaradi zelo slabega vremena in dežja je bil naš dolgo planiran izlet na koncu v celoti odpovedan."
+    },
+    {
+      "idiom": "sedeti na dveh stolih",
+      "example": "V tej ostri in odločilni politični bitki ne moreš več varno sedeti na dveh stolih.",
+      "paraphrase": "V tej ostri in odločilni politični bitki ne moreš več varno ostati neopredeljen in ustreči obema stranema."
+    }
+  ],
+  "Ukrainian": [
+    {
+      "idiom": "бити байдики",
+      "example": "Замість того щоб вчитися перед іспитом, він цілий день б'є байдики.",
+      "paraphrase": "Замість того щоб вчитися перед іспитом, він цілий день лінується."
+    },
+    {
+      "idiom": "водити за ніс",
+      "example": "Я нарешті зрозумів, що ти мене весь цей довгий час водив за ніс.",
+      "paraphrase": "Я нарешті зрозумів, що ти мене весь цей довгий час обманював."
+    },
+    {
+      "idiom": "як кіт наплакав",
+      "example": "У нас до зарплати грошей залишилося як кіт наплакав.",
+      "paraphrase": "У нас до зарплати грошей залишилося дуже мало."
+    },
+    {
+      "idiom": "зробити з мухи слона",
+      "example": "Не треба з цього дрібного конфлікту робити з мухи слона.",
+      "paraphrase": "Не треба цей дрібний конфлікт перебільшувати."
+    },
+    {
+      "idiom": "намилити шию",
+      "example": "Батько дуже серйозно обіцяв намилити йому шию за розбите вікно.",
+      "paraphrase": "Батько дуже серйозно обіцяв суворо покарати його за розбите вікно."
+    },
+    {
+      "idiom": "пекти раків",
+      "example": "Коли вчитель раптом запитав його про оцінки, він почав пекти раків.",
+      "paraphrase": "Коли вчитель раптом запитав його про оцінки, він почав червоніти від сорому."
+    },
+    {
+      "idiom": "точити ляси",
+      "example": "Жінки зібралися біля двору і точать ляси вже цілу годину.",
+      "paraphrase": "Жінки зібралися біля двору і ведуть пусті розмови вже цілу годину."
+    },
+    {
+      "idiom": "як у воді мокне",
+      "example": "Ця паперова справа йде так повільно, ніби як у воді мокне.",
+      "paraphrase": "Ця паперова справа йде так повільно, ніби зовсім не просувається."
+    },
+    {
+      "idiom": "хоч око вийми",
+      "example": "На нічній вулиці зараз така темрява, що хоч око вийми.",
+      "paraphrase": "На нічній вулиці зараз така темрява, що абсолютно нічого не видно."
+    },
+    {
+      "idiom": "пасти задніх",
+      "example": "У цьому важливому спортивному змаганні наша команда не буде пасти задніх.",
+      "paraphrase": "У цьому важливому спортивному змаганні наша команда не буде відставати від інших."
+    },
+    {
+      "idiom": "ламати голову",
+      "example": "Він уже три години ламає голову над цією складною задачею.",
+      "paraphrase": "Він уже три години інтенсивно думає над цією складною задачею."
+    },
+    {
+      "idiom": "як сніг на голову",
+      "example": "Ця перевірка з міністерства впала нам як сніг на голову.",
+      "paraphrase": "Ця перевірка з міністерства з'явилася дуже несподівано."
+    },
+    {
+      "idiom": "замилювати очі",
+      "example": "Не треба нам замилювати очі цими фальшивими звітами про успіхи.",
+      "paraphrase": "Не треба нас обманювати цими фальшивими звітами про успіхи."
+    },
+    {
+      "idiom": "вставляти палки в колеса",
+      "example": "Конкуренти постійно намагаються вставляти нам палки в колеса під час тендерів.",
+      "paraphrase": "Конкуренти постійно намагаються заважати нам під час тендерів."
+    },
+    {
+      "idiom": "грати на нервах",
+      "example": "Цей постійний шум з вулиці вже починає грати мені на нервах.",
+      "paraphrase": "Цей постійний шум з вулиці вже починає мене дратувати."
+    },
+    {
+      "idiom": "гріти руки",
+      "example": "Багато хто хоче гріти руки на цьому великому державному будівництві.",
+      "paraphrase": "Багато хто хоче незаконно нажитися на цьому великому державному будівництві."
+    },
+    {
+      "idiom": "виводити на чисту воду",
+      "example": "Журналісти пообіцяли вивести цього корумпованого чиновника на чисту воду.",
+      "paraphrase": "Журналісти пообіцяли викрити махінації цього корумпованого чиновника."
+    },
+    {
+      "idiom": "ні риба ні м'ясо",
+      "example": "Новий співробітник виявився ні риба ні м'ясо, ніякої ініціативи від нього.",
+      "paraphrase": "Новий співробітник виявився дуже безхарактерним, ніякої ініціативи від нього."
+    },
+    {
+      "idiom": "передати куті меду",
+      "example": "У своїх вимогах до підлеглих новий директор явно передав куті меду.",
+      "paraphrase": "У своїх вимогах до підлеглих новий директор явно перебільшив."
+    },
+    {
+      "idiom": "зуб на зуб не попадає",
+      "example": "На вулиці такий страшний мороз, що в мене зуб на зуб не попадає.",
+      "paraphrase": "На вулиці такий страшний мороз, що я сильно тремчу від холоду."
+    },
+    {
+      "idiom": "як з гуски вода",
+      "example": "Я йому роблю серйозні зауваження, а йому все як з гуски вода.",
+      "paraphrase": "Я йому роблю серйозні зауваження, а він на це абсолютно не реагує."
+    },
+    {
+      "idiom": "дивитися крізь пальці",
+      "example": "Керівництво звикло дивитися крізь пальці на його часті запізнення.",
+      "paraphrase": "Керівництво звикло поблажливо ігнорувати його часті запізнення."
+    },
+    {
+      "idiom": "накивати п'ятами",
+      "example": "Як тільки запахло неприємностями, вони швидко накивали п'ятами.",
+      "paraphrase": "Як тільки запахло неприємностями, вони швидко втекли."
+    },
+    {
+      "idiom": "як білка в колесі",
+      "example": "На цій новій роботі я щодня кручуся як білка в колесі.",
+      "paraphrase": "На цій новій роботі я щодня дуже сильно зайнятий без перепочинку."
+    },
+    {
+      "idiom": "клювати носом",
+      "example": "Після безсонної ночі студент почав клювати носом просто на лекції.",
+      "paraphrase": "Після безсонної ночі студент почав засинати просто на лекції."
+    },
+    {
+      "idiom": "ховати кінці в воду",
+      "example": "Злочинці професійно вміють ховати кінці в воду після кожної крадіжки.",
+      "paraphrase": "Злочинці професійно вміють знищувати докази після кожної крадіжки."
+    },
+    {
+      "idiom": "ділити шкуру невбитого ведмедя",
+      "example": "Ми ще не виграли цей грант, тому не варто ділити шкуру невбитого ведмедя.",
+      "paraphrase": "Ми ще не виграли цей грант, тому не варто передчасно радіти успіху."
+    },
+    {
+      "idiom": "зарубати на носі",
+      "example": "Тобі треба зарубати на носі ці правила техніки безпеки на заводі.",
+      "paraphrase": "Тобі треба дуже добре запам'ятати ці правила техніки безпеки на заводі."
+    },
+    {
+      "idiom": "кусати лікті",
+      "example": "Коли він зрозумів, який шанс втратив, то почав кусати лікті.",
+      "paraphrase": "Коли він зрозумів, який шанс втратив, то почав сильно шкодувати."
+    },
+    {
+      "idiom": "море по коліна",
+      "example": "П'яному, як відомо, море по коліна, і він нічого не боїться.",
+      "paraphrase": "П'яному, як відомо, нічого не страшно, і він нічого не боїться."
+    },
+    {
+      "idiom": "вилетіло з голови",
+      "example": "Я хотів тобі щось важливе сказати, але воно геть вилетіло з голови.",
+      "paraphrase": "Я хотів тобі щось важливе сказати, але я це абсолютно забув."
+    },
+    {
+      "idiom": "продавати витрішки",
+      "example": "Замість того щоб допомогти нам з прибиранням, ти стоїш і продаєш витрішки.",
+      "paraphrase": "Замість того щоб допомогти нам з прибиранням, ти стоїш і бездіяльно розглядаєш усе навколо."
+    },
+    {
+      "idiom": "вбити двох зайців",
+      "example": "Поїхавши у відрядження, я зміг вбити двох зайців: і попрацювати, і побачити друзів.",
+      "paraphrase": "Поїхавши у відрядження, я зміг виконати дві справи одночасно: і попрацювати, і побачити друзів."
+    },
+    {
+      "idiom": "сидіти на двох стільцях",
+      "example": "У цій політичній ситуації довго сидіти на двох стільцях просто неможливо.",
+      "paraphrase": "У цій політичній ситуації довго підтримувати дві протилежні сторони просто неможливо."
+    },
+    {
+      "idiom": "біла ворона",
+      "example": "У нашому спортивному класі він зі своєю любов'ю до поезії був як біла ворона.",
+      "paraphrase": "У нашому спортивному класі він зі своєю любов'ю до поезії дуже сильно відрізнявся від інших."
+    },
+    {
+      "idiom": "тримати язик за зубами",
+      "example": "Якщо хочеш залишитися на цій посаді, навчися тримати язик за зубами.",
+      "paraphrase": "Якщо хочеш залишитися на цій посаді, навчися мовчати і не розбовтувати таємниці."
+    },
+    {
+      "idiom": "заговорювати зуби",
+      "example": "Не треба мені тут заговорювати зуби, краще скажи, де ти був учора.",
+      "paraphrase": "Не треба мене тут відволікати розмовами, краще скажи, де ти був учора."
+    },
+    {
+      "idiom": "мотати на вус",
+      "example": "Слухай уважно поради старших майстрів і мотай на вус усе сказане.",
+      "paraphrase": "Слухай уважно поради старших майстрів і добре запам'ятовуй усе сказане."
+    },
+    {
+      "idiom": "розбити глек",
+      "example": "Вони були найкращими подругами, але минулого року через хлопця розбили глек.",
+      "paraphrase": "Вони були найкращими подругами, але минулого року через хлопця серйозно посварилися."
+    },
+    {
+      "idiom": "пускати пил в очі",
+      "example": "Він орендував дорогий автомобіль виключно для того, щоб пускати пил в очі партнерам.",
+      "paraphrase": "Він орендував дорогий автомобіль виключно для того, щоб справити хибне враження на партнерів."
+    },
+    {
+      "idiom": "сьома вода на киселі",
+      "example": "Цей чоловік не є моїм близьким родичем, він мені якась сьома вода на киселі.",
+      "paraphrase": "Цей чоловік не є моїм близьким родичем, він мені дуже далекий родич."
+    },
+    {
+      "idiom": "брати бика за роги",
+      "example": "Немає часу на вагання, треба брати бика за роги і починати діяти.",
+      "paraphrase": "Немає часу на вагання, треба діяти рішуче і починати діяти."
+    },
+    {
+      "idiom": "волосся стає дибом",
+      "example": "Від тих страшних історій, які він розповідав, волосся ставало дибом.",
+      "paraphrase": "Від тих страшних історій, які він розповідав, охоплював сильний жах."
+    },
+    {
+      "idiom": "жити як кішка з собакою",
+      "example": "Ці сусіди ніколи не миряться і живуть як кішка з собакою багато років.",
+      "paraphrase": "Ці сусіди ніколи не миряться і постійно ворогують багато років."
+    },
+    {
+      "idiom": "камінь з душі впав",
+      "example": "Коли я нарешті склав цей важкий іспит, у мене просто камінь з душі впав.",
+      "paraphrase": "Коли я нарешті склав цей важкий іспит, я відчув величезне полегшення."
+    },
+    {
+      "idiom": "робити великі очі",
+      "example": "Не треба робити великі очі, ти чудово знав про наслідки цього рішення.",
+      "paraphrase": "Не треба удавати сильне здивування, ти чудово знав про наслідки цього рішення."
+    },
+    {
+      "idiom": "ходити по муках",
+      "example": "Оформлення цих медичних довідок перетворилося для неї на справжнє ходіння по муках.",
+      "paraphrase": "Оформлення цих медичних довідок перетворилося для неї на довгі й виснажливі випробування."
+    },
+    {
+      "idiom": "сидіти на шиї",
+      "example": "У тридцять років соромно не працювати і продовжувати сидіти на шиї у літніх батьків.",
+      "paraphrase": "У тридцять років соромно не працювати і бути фінансовим тягарем для літніх батьків."
+    },
+    {
+      "idiom": "випити чашу до дна",
+      "example": "Цю складну життєву кризу нам доведеться випити чашу до дна.",
+      "paraphrase": "Цю складну життєву кризу нам доведеться пережити повністю до самого кінця."
+    },
+    {
+      "idiom": "як оселедці в бочці",
+      "example": "У ранковому метро люди їдуть на роботу як оселедці в бочці.",
+      "paraphrase": "У ранковому метро люди їдуть на роботу в дуже великій тисняві."
+    },
+    {
+      "idiom": "брати себе в руки",
+      "example": "Досить панікувати і плакати, негайно бери себе в руки і шукай вихід!",
+      "paraphrase": "Досить панікувати і плакати, негайно заспокойся і шукай вихід!"
+    },
+    {
+      "idiom": "давати зелене світло",
+      "example": "Міська рада нарешті дала зелене світло будівництву нового парку відпочинку.",
+      "paraphrase": "Міська рада нарешті дозволила початок будівництва нового парку відпочинку."
+    },
+    {
+      "idiom": "топтати ряст",
+      "example": "Поки ми ще топчемо ряст на цій землі, треба радіти кожному дню.",
+      "paraphrase": "Поки ми ще живемо на цій землі, треба радіти кожному дню."
+    },
+    {
+      "idiom": "звалитися з Місяця",
+      "example": "Ти що, звалився з Місяця? Усі вже давно знають про ці нові правила!",
+      "paraphrase": "Ти що, зовсім нічого не знаєш? Усі вже давно знають про ці нові правила!"
+    },
+    {
+      "idiom": "лити воду",
+      "example": "У своєму дипломі він намагався лити воду, щоб збільшити кількість сторінок.",
+      "paraphrase": "У своєму дипломі він намагався писати багато зайвого тексту, щоб збільшити кількість сторінок."
+    },
+    {
+      "idiom": "відкрити Америку",
+      "example": "Сказавши, що взимку буває холодно, ти для нас Америку не відкрив.",
+      "paraphrase": "Сказавши, що взимку буває холодно, ти не сказав нам нічого нового."
+    },
+    {
+      "idiom": "танцювати під чужу дудку",
+      "example": "Я самостійна людина і не збираюся танцювати під чужу дудку у своїй компанії.",
+      "paraphrase": "Я самостійна людина і не збираюся сліпо підкорятися іншим у своїй компанії."
+    },
+    {
+      "idiom": "стріляний горобець",
+      "example": "Його не так легко обдурити цими шахрайськими схемами, він уже стріляний горобець.",
+      "paraphrase": "Його не так легко обдурити цими шахрайськими схемами, він людина з великим життєвим досвідом."
+    },
+    {
+      "idiom": "згущувати фарби",
+      "example": "Не треба так сильно згущувати фарби, ситуація не настільки катастрофічна.",
+      "paraphrase": "Не треба так сильно перебільшувати небезпеку, ситуація не настільки катастрофічна."
+    },
+    {
+      "idiom": "як дві краплі води",
+      "example": "Ці сестри-близнючки були схожі одна на одну як дві краплі води.",
+      "paraphrase": "Ці сестри-близнючки були абсолютно ідентичні одна одній."
+    },
+    {
+      "idiom": "як собака на сіні",
+      "example": "Він поводиться як собака на сіні: і сам цю книгу не читає, і іншим не дає.",
+      "paraphrase": "Він поводиться дуже жадібно: і сам цю книгу не читає, і іншим не дає."
+    },
+    {
+      "idiom": "кидати слова на вітер",
+      "example": "Наш мер завжди виконує обіцянки і ніколи не кидає слова на вітер.",
+      "paraphrase": "Наш мер завжди виконує обіцянки і ніколи не дає порожніх обіцянок."
+    },
+    {
+      "idiom": "знайти спільну мову",
+      "example": "Після довгої розмови вони нарешті змогли знайти спільну мову щодо проекту.",
+      "paraphrase": "Після довгої розмови вони нарешті змогли порозумітися щодо проекту."
+    },
+    {
+      "idiom": "покласти зуби на полицю",
+      "example": "Якщо ми не знайдемо нових клієнтів, усій нашій фірмі доведеться покласти зуби на полицю.",
+      "paraphrase": "Якщо ми не знайдемо нових клієнтів, усій нашій фірмі доведеться голодувати і бідувати."
+    },
+    {
+      "idiom": "на вагу золота",
+      "example": "Хороший IT-спеціаліст у наш час справді цінується на вагу золота.",
+      "paraphrase": "Хороший IT-спеціаліст у наш час справді дуже високо цінується."
+    },
+    {
+      "idiom": "ставити крапку над і",
+      "example": "Нам час серйозно поговорити і остаточно розставити крапки над і у наших стосунках.",
+      "paraphrase": "Нам час серйозно поговорити і остаточно все з'ясувати у наших стосунках."
+    },
+    {
+      "idiom": "грати з вогнем",
+      "example": "Співпрацювати з такими кримінальними особами — це означає свідомо грати з вогнем.",
+      "paraphrase": "Співпрацювати з такими кримінальними особами — це означає свідомо дуже сильно ризикувати."
+    },
+    {
+      "idiom": "міряти на свій аршин",
+      "example": "Не можна всіх людей навколо міряти на свій аршин, ми всі різні.",
+      "paraphrase": "Не можна всіх людей навколо оцінювати виключно за власними критеріями, ми всі різні."
+    },
+    {
+      "idiom": "підкласти свиню",
+      "example": "Колишній партнер по бізнесу підклав мені велику свиню, розірвавши контракт.",
+      "paraphrase": "Колишній партнер по бізнесу зробив мені велику підлість, розірвавши контракт."
+    },
+    {
+      "idiom": "народитися в сорочці",
+      "example": "Пасажири цього літака напевно народилися в сорочці, бо всі вижили після аварії.",
+      "paraphrase": "Пасажири цього літака напевно були надзвичайно щасливими, бо всі вижили після аварії."
+    }
+  ]
+}
