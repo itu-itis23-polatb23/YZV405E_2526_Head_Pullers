@@ -4222,5 +4222,709 @@
       "example": "Пасажири цього літака напевно народилися в сорочці, бо всі вижили після аварії.",
       "paraphrase": "Пасажири цього літака напевно були надзвичайно щасливими, бо всі вижили після аварії."
     }
+  ],
+  "Brazilian Portuguese": [
+    {
+      "idiom": "chutar o balde",
+      "example": "Ele ficou tão estressado com as exigências do chefe que resolveu chutar o balde.",
+      "paraphrase": "Ele ficou tão estressado com as exigências do chefe que resolveu desistir de tudo."
+    },
+    {
+      "idiom": "pisar na bola",
+      "example": "Você realmente pisou na bola comigo quando esqueceu do nosso compromisso.",
+      "paraphrase": "Você realmente me decepcionou quando esqueceu do nosso compromisso."
+    },
+    {
+      "idiom": "engolir sapo",
+      "example": "Durante anos, eu tive que engolir muito sapo para conseguir manter meu emprego.",
+      "paraphrase": "Durante anos, eu tuve que suportar muitas humilhações para conseguir manter meu emprego."
+    },
+    {
+      "idiom": "quebrar o galho",
+      "example": "Você pode quebrar esse galho para mim e me ajudar com a mudança hoje?",
+      "paraphrase": "Você pode me fazer esse favor e me ajudar com a mudança hoje?"
+    },
+    {
+      "idiom": "enfiar o pé na jaca",
+      "example": "No fim de semana passado, eu enfiei o pé na jaca na festa do meu amigo.",
+      "paraphrase": "No fim de semana passado, eu cometi muitos excessos na festa do meu amigo."
+    },
+    {
+      "idiom": "bater as botas",
+      "example": "O pobre cachorrinho de rua estava tão doente que acabou batendo as botas de madrugada.",
+      "paraphrase": "O pobre cachorrinho de rua estava tão doente que acabou morrendo de madrugada."
+    },
+    {
+      "idiom": "pagar o pato",
+      "example": "Eu não fiz absolutamente nada de errado, mas acabei pagando o pato sozinho.",
+      "paraphrase": "Eu não fiz absolutamente nada de errado, mas acabei levando a culpa sozinho."
+    },
+    {
+      "idiom": "chorar pelo leite derramado",
+      "example": "Agora o erro já foi feito, não adianta mais chorar pelo leite derramado.",
+      "paraphrase": "Agora o erro já foi feito, não adianta mais lamentar o passado."
+    },
+    {
+      "idiom": "meter os pés pelas mãos",
+      "example": "Ele tentou ajudar na organização do evento, mas acabou metendo os pés pelas mãos.",
+      "paraphrase": "Ele tentou ajudar na organização do evento, mas acabou se atrapalhando todo."
+    },
+    {
+      "idiom": "lavar as mãos",
+      "example": "Diante dessa confusão imensa na empresa, eu prefiro lavar as mãos.",
+      "paraphrase": "Diante dessa confusão imensa na empresa, eu prefiro não me envolver."
+    },
+    {
+      "idiom": "descascar o abacaxi",
+      "example": "O gerente deixou a reunião mais cedo e sobrou para mim descascar o abacaxi.",
+      "paraphrase": "O gerente deixou a reunião mais cedo e sobrou para mim resolver esse problema difícil."
+    },
+    {
+      "idiom": "encher linguiça",
+      "example": "O aluno não sabia a resposta da prova e ficou apenas enchendo linguiça na redação.",
+      "paraphrase": "O aluno não sabia a resposta da prova e ficou apenas escrevendo coisas inúteis na redação."
+    },
+    {
+      "idiom": "procurar sarna para se coçar",
+      "example": "Ele já tinha muito trabalho e pegou mais um projeto, só está procurando sarna para se coçar.",
+      "paraphrase": "Ele já tinha muito trabalho e pegou mais um projeto, só está arrumando problemas desnecessários."
+    },
+    {
+      "idiom": "jogar a toalha",
+      "example": "Depois de tentar emagrecer por três meses sem sucesso, ele resolveu jogar a toalha.",
+      "paraphrase": "Depois de tentar emagrecer por três meses sem sucesso, ele resolveu desistir completamente."
+    },
+    {
+      "idiom": "pular a cerca",
+      "example": "O casamento acabou logo depois que ela descobriu que o marido estava pulando a cerca.",
+      "paraphrase": "O casamento acabou logo depois que ela descobriu que o marido estava sendo infiel."
+    },
+    {
+      "idiom": "dar com os burros n'água",
+      "example": "A empresa tentou lançar um produto novo sem pesquisa e acabou dando com os burros n'água.",
+      "paraphrase": "A empresa tentou lançar um produto novo sem pesquisa e acabou fracassando terrivelmente."
+    },
+    {
+      "idiom": "estar com a faca e o queijo na mão",
+      "example": "Com esse novo investimento, a nossa equipe está com a faca e o queijo na mão para dominar o mercado.",
+      "paraphrase": "Com esse novo investimento, a nossa equipe tem todas as condições favoráveis para dominar o mercado."
+    },
+    {
+      "idiom": "procurar pelo em ovo",
+      "example": "Aquele inspetor rigoroso sempre tenta procurar pelo em ovo durante as auditorias anuais.",
+      "paraphrase": "Aquele inspetor rigoroso sempre tenta encontrar falhas inexistentes durante as auditorias anuais."
+    },
+    {
+      "idiom": "rodar a baiana",
+      "example": "Quando ela viu que a conta do restaurante estava errada, resolveu rodar a baiana na frente de todo mundo.",
+      "paraphrase": "Quando ela viu que a conta do restaurante estava errada, resolveu fazer um escândalo na frente de todo mundo."
+    },
+    {
+      "idiom": "virar a casaca",
+      "example": "O político foi eleito por um partido de esquerda e resolveu virar a casaca no ano seguinte.",
+      "paraphrase": "O político foi eleito por um partido de esquerda e resolveu mudar de lado no ano seguinte."
+    },
+    {
+      "idiom": "ficar a ver navios",
+      "example": "Nós chegamos atrasados no aeroporto e acabamos ficando a ver navios.",
+      "paraphrase": "Nós chegamos atrasados no aeroporto e acabamos perdendo a nossa grande oportunidade."
+    },
+    {
+      "idiom": "dar a volta por cima",
+      "example": "Apesar de todas as dificuldades financeiras, ela trabalhou duro e conseguiu dar a volta por cima.",
+      "paraphrase": "Apesar de todas as dificuldades financeiras, ela trabalhou duro e conseguiu superar a situação ruim."
+    },
+    {
+      "idiom": "pendurar as chuteiras",
+      "example": "O jogador veterano anunciou ontem que vai finalmente pendurar as chuteiras no final do ano.",
+      "paraphrase": "O jogador veterano anunciou ontem que vai finalmente se aposentar no final do ano."
+    },
+    {
+      "idiom": "tirar o cavalinho da chuva",
+      "example": "Se você acha que eu vou pagar o seu jantar hoje, pode ir tirando o cavalinho da chuva.",
+      "paraphrase": "Se você acha que eu vou pagar o seu jantar hoje, pode ir perdendo as esperanças."
+    },
+    {
+      "idiom": "ir pro beleléu",
+      "example": "Com essa forte tempestade, todo o planejamento do evento ao ar livre foi pro beleléu.",
+      "paraphrase": "Com essa forte tempestade, todo o planejamento do evento ao ar livre foi totalmente arruinado."
+    },
+    {
+      "idiom": "fazer tempestade em copo d'água",
+      "example": "Ela sempre chora por motivos bobos e tem a mania de fazer tempestade em copo d'água.",
+      "paraphrase": "Ela sempre chora por motivos bobos e tem a mania de exagerar as dificuldades."
+    },
+    {
+      "idiom": "passar a perna",
+      "example": "O vendedor desonesto tentou passar a perna no idoso durante a negociação do carro.",
+      "paraphrase": "O vendedor desonesto tentou enganar o idoso durante a negociação do carro."
+    },
+    {
+      "idiom": "pôr a mão no fogo",
+      "example": "Eu conheço a honestidade dela há anos e colocaria a mão no fogo por ela.",
+      "paraphrase": "Eu conheço a honestidade dela há anos e confiaria nela plenamente."
+    },
+    {
+      "idiom": "bater a cabeça",
+      "example": "Nós estamos batendo a cabeça há semanas para tentar resolver esse erro no sistema.",
+      "paraphrase": "Nós estamos nos esforçando arduamente há semanas para tentar resolver esse erro no sistema."
+    },
+    {
+      "idiom": "dar o braço a torcer",
+      "example": "Ele é muito orgulhoso e jamais daria o braço a torcer em uma discussão acalorada.",
+      "paraphrase": "Ele é muito orgulhoso e jamais admitiria o próprio erro em uma discussão acalorada."
+    },
+    {
+      "idiom": "abrir o jogo",
+      "example": "O suspeito não aguentou mais a pressão da polícia e decidiu abrir o jogo sobre o assalto.",
+      "paraphrase": "O suspeito não aguentou mais a pressão da polícia e decidiu contar a verdade sobre o assalto."
+    },
+    {
+      "idiom": "estar com a corda no pescoço",
+      "example": "Com tantas dívidas acumuladas, o pequeno empresário está com a corda no pescoço neste mês.",
+      "paraphrase": "Com tantas dívidas acumuladas, o pequeno empresário está em uma situação financeira muito crítica neste mês."
+    },
+    {
+      "idiom": "engolir em seco",
+      "example": "Quando ouvi aquele insulto terrível do meu chefe, eu só pude engolir em seco e ficar calado.",
+      "paraphrase": "Quando ouvi aquele insulto terrível do meu chefe, eu só pude segurar a emoção negativa e ficar calado."
+    },
+    {
+      "idiom": "jogar verde para colher maduro",
+      "example": "Ele não tinha certeza da traição, mas resolveu jogar verde para colher maduro e descobriu tudo.",
+      "paraphrase": "Ele não tinha certeza da traição, mas resolveu usar uma insinuação falsa para obter a confissão e descobriu tudo."
+    },
+    {
+      "idiom": "segurar a onda",
+      "example": "O menino teve que amadurecer rápido para segurar a onda da família após a perda do pai.",
+      "paraphrase": "O menino teve que amadurecer rápido para lidar com a situação difícil da família após a perda do pai."
+    },
+    {
+      "idiom": "baixar a bola",
+      "example": "O garoto estava muito arrogante e o professor mandou ele baixar a bola imediatamente.",
+      "paraphrase": "O garoto estava muito arrogante e o professor mandou ele diminuir a agressividade imediatamente."
+    },
+    {
+      "idiom": "estar no mato sem cachorro",
+      "example": "Sem bateria no celular no meio dessa estrada deserta, nós estamos no mato sem cachorro.",
+      "paraphrase": "Sem bateria no celular no meio dessa estrada deserta, nós estamos totalmente sem saída."
+    },
+    {
+      "idiom": "vestir a camisa",
+      "example": "A empresa precisa de funcionários engajados que realmente vistam a camisa da equipe o ano todo.",
+      "paraphrase": "A empresa precisa de funcionários engajados que realmente se dediquem integralmente aos objetivos da equipe o ano todo."
+    },
+    {
+      "idiom": "dar um gelo",
+      "example": "Ela descobriu a mentira dele e agora está dando um gelo nele há três dias seguidos.",
+      "paraphrase": "Ela descobriu a mentira dele e agora está ignorando-o de propósito há três dias seguidos."
+    },
+    {
+      "idiom": "lavar a roupa suja",
+      "example": "O casal decidiu procurar um terapeuta para finalmente lavar a roupa suja de forma saudável.",
+      "paraphrase": "O casal decidiu procurar um terapeuta para finalmente discutir seus problemas íntimos de forma saudável."
+    },
+    {
+      "idiom": "pisar em ovos",
+      "example": "O diretor está de mau humor hoje, então todo mundo precisa pisar em ovos ao falar com ele.",
+      "paraphrase": "O diretor está de mau humor hoje, então todo mundo precisa agir com muita cautela ao falar com ele."
+    },
+    {
+      "idiom": "dar uma de joão sem braço",
+      "example": "O funcionário atrasado tentou dar uma de joão sem braço e fingiu que não conhecia as regras.",
+      "paraphrase": "O funcionário atrasado tentou se fingir de desentendido e fingiu que não conhecia as regras."
+    },
+    {
+      "idiom": "trocar as pernas",
+      "example": "O homem bebeu demais na festa de casamento e começou a trocar as pernas na hora de ir embora.",
+      "paraphrase": "O homem bebeu demais na festa de casamento e começou a andar cambaleando na hora de ir embora."
+    },
+    {
+      "idiom": "falar pelos cotovelos",
+      "example": "A minha vizinha sentou do meu lado no ônibus e falou pelos cotovelos durante a viagem inteira.",
+      "paraphrase": "A minha vizinha sentou do meu lado no ônibus e conversou excessivamente durante a viagem inteira."
+    },
+    {
+      "idiom": "não ter papas na língua",
+      "example": "O comentarista de televisão é famoso por não ter papas na língua ao criticar os governantes.",
+      "paraphrase": "O comentarista de televisão é famoso por falar de forma muito direta e sincera ao criticar os governantes."
+    },
+    {
+      "idiom": "estar na pior",
+      "example": "Depois de perder a casa no terrível incêndio, a nossa família realmente está na pior.",
+      "paraphrase": "Depois de perder a casa no terrível incêndio, a nossa família realmente está em uma situação muito miserável."
+    },
+    {
+      "idiom": "quebrar a cara",
+      "example": "Ele achou que o investimento seria muito fácil, mas acabou quebrando a cara rapidamente.",
+      "paraphrase": "Ele achou que o investimento seria muito fácil, mas acabou se decepcionando amargamente rapidamente."
+    },
+    {
+      "idiom": "arrastar a asa",
+      "example": "Aquele rapaz novo do escritório está claramente arrastando a asa para a secretária da diretoria.",
+      "paraphrase": "Aquele rapaz novo do escritório está claramente demonstrando interesse romântico pela secretária da diretoria."
+    },
+    {
+      "idiom": "deitar o cabelo",
+      "example": "Quando o alarme de incêndio tocou no prédio, nós tivemos que deitar o cabelo pela escada de emergência.",
+      "paraphrase": "Quando o alarme de incêndio tocou no prédio, nós tivemos que fugir rapidamente pela escada de emergência."
+    },
+    {
+      "idiom": "entrar pelo cano",
+      "example": "O empresário confiou no sócio errado e acabou entrando pelo cano naquela negociação arriscada.",
+      "paraphrase": "O empresário confiou no sócio errado e acabou se dando muito mal naquela negociação arriscada."
+    },
+    {
+      "idiom": "apertar os cintos",
+      "example": "A inflação subiu muito neste último mês e todos nós vamos ter que apertar os cintos em casa.",
+      "paraphrase": "A inflação subiu muito neste último mês e todos nós vamos ter que economizar dinheiro rigorosamente em casa."
+    },
+    {
+      "idiom": "estar de mãos atadas",
+      "example": "O médico explicou para a família que a doença era incurável e ele estava de mãos atadas.",
+      "paraphrase": "O médico explicou para a família que a doença era incurável e ele não podia fazer mais nada para ajudar."
+    },
+    {
+      "idiom": "levar gato por lebre",
+      "example": "A consumidora comprou uma bolsa na feira e acabou levando gato por lebre sem perceber.",
+      "paraphrase": "A consumidora comprou uma bolsa na feira e acabou sendo enganada com uma imitação barata sem perceber."
+    },
+    {
+      "idiom": "perder a cabeça",
+      "example": "Durante a briga violenta de trânsito, o motorista perdeu a cabeça e bateu no outro carro propositalmente.",
+      "paraphrase": "Durante a briga violenta de trânsito, o motorista perdeu o controle emocional e bateu no outro carro propositalmente."
+    },
+    {
+      "idiom": "chorar as pitangas",
+      "example": "Ele passou a tarde de domingo inteira chorando as pitangas sobre o término do seu longo namoro.",
+      "paraphrase": "Ele passou a tarde de domingo inteira se lamentando intensamente sobre o término do seu longo namoro."
+    },
+    {
+      "idiom": "trocar em miúdos",
+      "example": "O advogado teve paciência e começou a trocar em miúdos os termos técnicos daquele contrato enorme.",
+      "paraphrase": "O advogado teve paciência e começou a explicar de forma simples os termos técnicos daquele contrato enorme."
+    },
+    {
+      "idiom": "matar a cobra e mostrar o pau",
+      "example": "O jornalista prometeu matar a cobra e mostrar o pau publicando todas as provas do grande esquema.",
+      "paraphrase": "O jornalista prometeu comprovar sua denúncia com evidências claras publicando todas as provas do grande esquema."
+    },
+    {
+      "idiom": "colocar as cartas na mesa",
+      "example": "O chefe chamou a equipe e decidiu colocar as cartas na mesa sobre os próximos cortes de verba.",
+      "paraphrase": "O chefe chamou a equipe e decidiu ser totalmente sincero sobre os próximos cortes de verba."
+    },
+    {
+      "idiom": "dormir no ponto",
+      "example": "Nós não conseguimos comprar os ingressos do show porque acabamos dormindo no ponto ontem à noite.",
+      "paraphrase": "Nós não conseguimos comprar os ingressos do show porque fomos desatentos e lentos ontem à noite."
+    },
+    {
+      "idiom": "estar no mundo da lua",
+      "example": "O aluno não prestou atenção em absolutamente nada da explicação porque estava no mundo da lua.",
+      "paraphrase": "O aluno não prestou atenção em absolutamente nada da explicação porque estava completamente distraído com seus pensamentos."
+    },
+    {
+      "idiom": "suar a camisa",
+      "example": "Para passar no vestibular de medicina deste ano, o estudante vai precisar suar a camisa todos os dias.",
+      "paraphrase": "Para passar no vestibular de medicina deste ano, o estudante vai precisar se esforçar exaustivamente todos os dias."
+    },
+    {
+      "idiom": "tirar o chapéu",
+      "example": "Eu tenho que tirar o chapéu para a organização impecável desse evento de caridade grandioso da prefeitura.",
+      "paraphrase": "Eu tenho que expressar profunda admiração para a organização impecável desse evento de caridade grandioso da prefeitura."
+    },
+    {
+      "idiom": "andar na linha",
+      "example": "Depois de ser suspenso da escola na semana passada, o adolescente prometeu para a mãe que vai andar na linha.",
+      "paraphrase": "Depois de ser suspenso da escola na semana passada, o adolescente prometeu para a mãe que vai se comportar corretamente."
+    },
+    {
+      "idiom": "jogar pedra na cruz",
+      "example": "Com tanta falta de sorte inacreditável na minha vida amorosa, eu acho sinceramente que joguei pedra na cruz.",
+      "paraphrase": "Com tanta falta de sorte inacreditável na minha vida amorosa, eu acho sinceramente que cometi um grande pecado no passado."
+    },
+    {
+      "idiom": "virar a mesa",
+      "example": "A negociação financeira estava perdida, mas o advogado conseguiu virar a mesa apresentando um novo argumento.",
+      "paraphrase": "A negociação financeira estava perdida, mas o advogado conseguiu reverter totalmente a situação apresentando um novo argumento."
+    },
+    {
+      "idiom": "ver estrelas",
+      "example": "Eu bati o dedinho do pé na quina do sofá de ferro e cheguei a ver estrelas de tanta dor aguda.",
+      "paraphrase": "Eu bati o dedinho do pé na quina do sofá de ferro e senti uma dor intensa e absurda."
+    },
+    {
+      "idiom": "dar um tiro no pé",
+      "example": "A empresa ofendeu seus próprios clientes naquela propaganda bizarra e acabou dando um tiro no pé gigantesco.",
+      "paraphrase": "A empresa ofendeu seus próprios clientes naquela propaganda bizarra e acabou cometendo uma atitude prejudicial a si mesma gigantescamente."
+    },
+    {
+      "idiom": "cair do cavalo",
+      "example": "Ele tentou enganar o professor na prova final de física, mas caiu do cavalo quando foi pego colando.",
+      "paraphrase": "Ele tentou enganar o professor na prova final de física, mas sofreu uma desilusão quando foi pego colando."
+    },
+    {
+      "idiom": "fechar o tempo",
+      "example": "Depois daquela discussão extremamente acalorada sobre política nacional, começou a fechar o tempo no almoço.",
+      "paraphrase": "Depois daquela discussão extremamente acalorada sobre política nacional, o clima ficou extremamente tenso no almoço."
+    },
+    {
+      "idiom": "custar os olhos da cara",
+      "example": "Aquele ingresso exclusivo para o festival internacional de música vai custar os olhos da cara no próximo mês.",
+      "paraphrase": "Aquele ingresso exclusivo para o festival internacional de música vai ser extremamente caro no próximo mês."
+    }
+  ],
+  "Swedish": [
+    {
+      "idiom": "kasta in handduken",
+      "example": "Efter flera svåra motgångar bestämde han sig äntligen för att kasta in handduken.",
+      "paraphrase": "Efter flera svåra motgångar bestämde han sig äntligen för att ge upp."
+    },
+    {
+      "idiom": "slå huvudet på spiken",
+      "example": "Där slog du verkligen huvudet på spiken med din skarpa kommentar.",
+      "paraphrase": "Där identifierade du verkligen det exakta problemet med din skarpa kommentar."
+    },
+    {
+      "idiom": "ana ugglor i mossen",
+      "example": "När kontoret var så misstänkt tyst började jag ana ugglor i mossen.",
+      "paraphrase": "När kontoret var så misstänkt tyst började jag misstänka att något var fel."
+    },
+    {
+      "idiom": "ha is i magen",
+      "example": "I sådana här stressiga kriser måste man alltid ha is i magen.",
+      "paraphrase": "I sådana här stressiga kriser måste man alltid hålla sig lugn."
+    },
+    {
+      "idiom": "köpa grisen i säcken",
+      "example": "Man ska inte skriva på utan att ha läst avtalet, det är som att köpa grisen i säcken.",
+      "paraphrase": "Man ska inte skriva på utan att ha läst avtalet, det är som att skaffa något helt osett."
+    },
+    {
+      "idiom": "dra alla över en kam",
+      "example": "Man kan inte dra alla över en kam bara för att några få individer gjorde fel.",
+      "paraphrase": "Man kan inte döma alla lika bara för att några få individer gjorde fel."
+    },
+    {
+      "idiom": "få kalla fötter",
+      "example": "Han skulle hoppa fallskärm idag men fick kalla fötter i allra sista sekunden.",
+      "paraphrase": "Han skulle hoppa fallskärm idag men blev för feg i allra sista sekunden."
+    },
+    {
+      "idiom": "bita i det sura äpplet",
+      "example": "Det är tråkigt, men vi måste bara bita i det sura äpplet och betala räkningen.",
+      "paraphrase": "Det är tråkigt, men vi måste bara acceptera det obehagliga och betala räkningen."
+    },
+    {
+      "idiom": "hålla tummarna",
+      "example": "Jag ska på en viktig arbetsintervju i morgon bitti, så du får hålla tummarna!",
+      "paraphrase": "Jag ska på en viktig arbetsintervju i morgon bitti, så du får hoppas på det bästa för min skull!"
+    },
+    {
+      "idiom": "trampa i klaveret",
+      "example": "Där trampade han verkligen i klaveret när han frågade om hennes ålder på festen.",
+      "paraphrase": "Där gjorde han verkligen bort sig när han frågade om hennes ålder på festen."
+    },
+    {
+      "idiom": "ta något med en nypa salt",
+      "example": "Du bör nog ta hans vilda historier med en nypa salt.",
+      "paraphrase": "Du bör nog lyssna ganska kritiskt till hans vilda historier."
+    },
+    {
+      "idiom": "få hjärtat i halsgropen",
+      "example": "När bilen plötsligt sladdade till på isen fick jag hjärtat i halsgropen.",
+      "paraphrase": "När bilen plötsligt sladdade till på isen blev jag oerhört rädd."
+    },
+    {
+      "idiom": "ha rent mjöl i påsen",
+      "example": "Polisen undersökte honom, men det visade sig att han hade rent mjöl i påsen.",
+      "paraphrase": "Polisen undersökte honom, men det visade sig att han var helt oskyldig."
+    },
+    {
+      "idiom": "sätta myror i huvudet",
+      "example": "Hans märkliga beteende under mötet satte verkligen myror i huvudet på mig.",
+      "paraphrase": "Hans märkliga beteende under mötet gav mig verkligen mycket att grubbla på."
+    },
+    {
+      "idiom": "tala ur skägget",
+      "example": "Sluta mumla och tala ur skägget så att alla kan höra dig!",
+      "paraphrase": "Sluta mumla och prata tydligt så att alla kan höra dig!"
+    },
+    {
+      "idiom": "ha en räv bakom örat",
+      "example": "Den där bilförsäljaren verkar ha en räv bakom örat, så var försiktig.",
+      "paraphrase": "Den där bilförsäljaren verkar vara opålitlig och listig, så var försiktig."
+    },
+    {
+      "idiom": "inte se skogen för alla träd",
+      "example": "Vi fokuserar så mycket på detaljerna att vi inte ser skogen för alla träd.",
+      "paraphrase": "Vi fokuserar så mycket på detaljerna att vi missar helheten."
+    },
+    {
+      "idiom": "sticka ut hakan",
+      "example": "Det krävs mod för att våga sticka ut hakan i den här debatten.",
+      "paraphrase": "Det krävs mod för att våga uttrycka en kontroversiell åsikt i den här debatten."
+    },
+    {
+      "idiom": "stå på egna ben",
+      "example": "Efter gymnasiet flyttade hon hemifrån för att lära sig att stå på egna ben.",
+      "paraphrase": "Efter gymnasiet flyttade hon hemifrån för att lära sig att bli självständig."
+    },
+    {
+      "idiom": "ta bladet från munnen",
+      "example": "Någon måste ta bladet från munnen och berätta sanningen för chefen.",
+      "paraphrase": "Någon måste sluta tiga och berätta sanningen för chefen."
+    },
+    {
+      "idiom": "kasta pärlor för svin",
+      "example": "Att servera dem dyr champagne är som att kasta pärlor för svin.",
+      "paraphrase": "Att servera dem dyr champagne är helt bortkastat eftersom de inte uppskattar det."
+    },
+    {
+      "idiom": "bita i gräset",
+      "example": "Det starkare laget fick till slut bita i gräset under finalen.",
+      "paraphrase": "Det starkare laget blev till slut besegrat under finalen."
+    },
+    {
+      "idiom": "en droppe i havet",
+      "example": "Vårt bidrag är tyvärr bara en droppe i havet jämfört med vad som behövs.",
+      "paraphrase": "Vårt bidrag är tyvärr en obetydlig summa jämfört med vad som behövs."
+    },
+    {
+      "idiom": "ge igen med samma mynt",
+      "example": "Efter hans elaka skämt bestämde hon sig för att ge igen med samma mynt.",
+      "paraphrase": "Efter hans elaka skämt bestämde hon sig för att hämnas på samma sätt."
+    },
+    {
+      "idiom": "gå som katten kring het gröt",
+      "example": "Sluta gå som katten kring het gröt och kom till saken någon gång!",
+      "paraphrase": "Sluta undvika ämnet och kom till saken någon gång!"
+    },
+    {
+      "idiom": "ha fötterna på jorden",
+      "example": "Trots all sin plötsliga rikedom har hon lyckats ha fötterna på jorden.",
+      "paraphrase": "Trots all sin plötsliga rikedom har hon lyckats förbli ödmjuk och realistisk."
+    },
+    {
+      "idiom": "kasta ett öga",
+      "example": "Kan du kasta ett öga på min väska medan jag går på toaletten?",
+      "paraphrase": "Kan du vakta min väska lite snabbt medan jag går på toaletten?"
+    },
+    {
+      "idiom": "komma ner på jorden",
+      "example": "Efter den fantastiska semestern var det svårt att komma ner på jorden igen.",
+      "paraphrase": "Efter den fantastiska semestern var det svårt att återgå till vardagsrutinen igen."
+    },
+    {
+      "idiom": "lägga korten på bordet",
+      "example": "Jag tror att det är bäst att vi lägger korten på bordet och berättar allt.",
+      "paraphrase": "Jag tror att det är bäst att vi är helt uppriktiga och berättar allt."
+    },
+    {
+      "idiom": "måla fan på väggen",
+      "example": "Vi vet inte ens vad som hänt än, så sluta måla fan på väggen.",
+      "paraphrase": "Vi vet inte ens vad som hänt än, så sluta förutspå det värsta tänkbara."
+    },
+    {
+      "idiom": "prata bredvid munnen",
+      "example": "Han råkade tyvärr prata bredvid munnen och avslöjade överraskningsfesten.",
+      "paraphrase": "Han råkade tyvärr försäga sig och avslöjade överraskningsfesten."
+    },
+    {
+      "idiom": "sätta punkt för",
+      "example": "Det är dags att vi sätter punkt för det här meningslösa bråket nu.",
+      "paraphrase": "Det är dags att vi definitivt avslutar det här meningslösa bråket nu."
+    },
+    {
+      "idiom": "ta någon på bar gärning",
+      "example": "Butikskontrollanten lyckades ta tjuven på bar gärning när han stoppade in varan i jackan.",
+      "paraphrase": "Butikskontrollanten lyckades ertappa tjuven mitt under brottet när han stoppade in varan i jackan."
+    },
+    {
+      "idiom": "slå två flugor i en smäll",
+      "example": "När vi ändå åker till stan kan vi slå två flugor i en smäll och handla mat också.",
+      "paraphrase": "När vi ändå åker till stan kan vi passa på att ordna en andra sak och handla mat också."
+    },
+    {
+      "idiom": "vara ute på hal is",
+      "example": "När du pratar om ämnen du inte förstår är du verkligen ute på hal is.",
+      "paraphrase": "När du pratar om ämnen du inte förstår rör du dig verkligen i ett osäkert område."
+    },
+    {
+      "idiom": "ha många järn i elden",
+      "example": "Hon är väldigt aktiv och älskar att ha många järn i elden hela tiden.",
+      "paraphrase": "Hon är väldigt aktiv och älskar att vara engagerad i många olika projekt hela tiden."
+    },
+    {
+      "idiom": "lägga näsan i blöt",
+      "example": "Han måste alltid lägga näsan i blöt i saker som inte angår honom.",
+      "paraphrase": "Han måste alltid blanda sig i saker som inte angår honom."
+    },
+    {
+      "idiom": "sitta i samma båt",
+      "example": "Under pandemin kände vi alla verkligen att vi satt i samma båt.",
+      "paraphrase": "Under pandemin kände vi alla verkligen att vi delade exakt samma svåra situation."
+    },
+    {
+      "idiom": "bränna sina broar",
+      "example": "Sluta jobbet snyggt så att du inte bränner dina broar för framtiden.",
+      "paraphrase": "Sluta jobbet snyggt så att du inte förstör dina chanser att återvända för framtiden."
+    },
+    {
+      "idiom": "vara en nagel i ögat",
+      "example": "Hennes framgångar har länge varit en nagel i ögat på hennes konkurrenter.",
+      "paraphrase": "Hennes framgångar har länge varit ett stort irritationsmoment för hennes konkurrenter."
+    },
+    {
+      "idiom": "ta tjuren vid hornen",
+      "example": "Det är lika bra att vi tar tjuren vid hornen och ringer det där jobbiga samtalet.",
+      "paraphrase": "Det är lika bra att vi modigt tar itu med problemet och ringer det där jobbiga samtalet."
+    },
+    {
+      "idiom": "dra jämnt",
+      "example": "De två syskonen har väldigt olika personligheter och drar sällan jämnt.",
+      "paraphrase": "De två syskonen har väldigt olika personligheter och kommer sällan överens."
+    },
+    {
+      "idiom": "falla mellan stolarna",
+      "example": "Patientens remiss råkade falla mellan stolarna på grund av dålig kommunikation.",
+      "paraphrase": "Patientens remiss råkade bli helt bortglömd av båda parter på grund av dålig kommunikation."
+    },
+    {
+      "idiom": "ta sig vatten över huvudet",
+      "example": "Genom att åta sig tre jobb samtidigt har han nog tagit sig vatten över huvudet.",
+      "paraphrase": "Genom att åta sig tre jobb samtidigt har han nog åtagit sig mer än han klarar av."
+    },
+    {
+      "idiom": "gråta över spilld mjölk",
+      "example": "Misstaget är redan gjort, så det är ingen mening att gråta över spilld mjölk.",
+      "paraphrase": "Misstaget är redan gjort, så det är ingen mening att i efterhand sörja över något oåterkalleligt."
+    },
+    {
+      "idiom": "vara på tapeten",
+      "example": "Klimatfrågan är ständigt på tapeten under de politiska debatterna numera.",
+      "paraphrase": "Klimatfrågan är ständigt ett aktuellt diskussionsämne under de politiska debatterna numera."
+    },
+    {
+      "idiom": "sitta i klistret",
+      "example": "Nu har du verkligen satt dig i klistret genom att ljuga för chefen.",
+      "paraphrase": "Nu har du verkligen hamnat i en svår knipa genom att ljuga för chefen."
+    },
+    {
+      "idiom": "hålla tungan rätt i mun",
+      "example": "När man monterar den här komplicerade maskinen gäller det att hålla tungan rätt i mun.",
+      "paraphrase": "När man monterar den här komplicerade maskinen gäller det att vara extremt noggrann."
+    },
+    {
+      "idiom": "kasta pengarna i sjön",
+      "example": "Att köpa den där trasiga bilen var verkligen att kasta pengarna i sjön.",
+      "paraphrase": "Att köpa den där trasiga bilen var verkligen att slösa bort sina tillgångar helt i onödan."
+    },
+    {
+      "idiom": "få vatten på sin kvarn",
+      "example": "När studien publicerades fick forskaren äntligen vatten på sin kvarn.",
+      "paraphrase": "När studien publicerades fick forskaren äntligen bevis som stödde hennes argument."
+    },
+    {
+      "idiom": "glida in på en räkmacka",
+      "example": "Hans pappa äger företaget, så han kunde lätt glida in på en räkmacka.",
+      "paraphrase": "Hans pappa äger företaget, så han kunde lätt få en fördelaktig position utan att anstränga sig."
+    },
+    {
+      "idiom": "ha ett finger med i spelet",
+      "example": "Jag är helt säker på att han hade ett finger med i spelet när beslutet fattades.",
+      "paraphrase": "Jag är helt säker på att han var delaktig i bakgrunden när beslutet fattades."
+    },
+    {
+      "idiom": "i grevens tid",
+      "example": "Brandkåren anlände i grevens tid och lyckades rädda det brinnande huset.",
+      "paraphrase": "Brandkåren anlände i allra sista stund och lyckades rädda det brinnande huset."
+    },
+    {
+      "idiom": "som man bäddar får man ligga",
+      "example": "Han fuskade på provet och blev påkommen, så nu är det som man bäddar får man ligga.",
+      "paraphrase": "Han fuskade på provet och blev påkommen, så nu får han ta konsekvenserna av sitt eget handlande."
+    },
+    {
+      "idiom": "få korgen",
+      "example": "Han bjöd ut henne på en romantisk dejt men fick tyvärr korgen direkt.",
+      "paraphrase": "Han bjöd ut henne på en romantisk dejt men blev tyvärr avvisad direkt."
+    },
+    {
+      "idiom": "vara helt ute och cykla",
+      "example": "Om du tror att jag gick med på de där villkoren är du helt ute och cykla.",
+      "paraphrase": "Om du tror att jag gick med på de där villkoren har du fullkomligt felaktiga uppfattningar."
+    },
+    {
+      "idiom": "visa var skåpet ska stå",
+      "example": "Den nya tränaren kom in i laget och visade genast var skåpet ska stå.",
+      "paraphrase": "Den nya tränaren kom in i laget och demonstrerade genast sin auktoritet tydligt."
+    },
+    {
+      "idiom": "slå dank",
+      "example": "Istället för att söka jobb sitter han bara hemma och slår dank hela dagarna.",
+      "paraphrase": "Istället för att söka jobb sitter han bara hemma och driver omkring sysslolös hela dagarna."
+    },
+    {
+      "idiom": "kasta yxan i sjön",
+      "example": "Bara för att första försöket misslyckades ska du inte kasta yxan i sjön.",
+      "paraphrase": "Bara för att första försöket misslyckades ska du inte ge upp alltihop."
+    },
+    {
+      "idiom": "ha skinn på näsan",
+      "example": "I den här tuffa branschen måste man verkligen ha skinn på näsan för att överleva.",
+      "paraphrase": "I den här tuffa branschen måste man verkligen vara viljestark och tålig för att överleva."
+    },
+    {
+      "idiom": "ha en skruv lös",
+      "example": "Ibland undrar jag om den där excentriska grannen har en skruv lös.",
+      "paraphrase": "Ibland undrar jag om den där excentriska grannen är lite galen och konstig."
+    },
+    {
+      "idiom": "göra en höna av en fjäder",
+      "example": "Det var bara ett litet missförstånd, så sluta göra en höna av en fjäder.",
+      "paraphrase": "Det var bara ett litet missförstånd, så sluta kraftigt överdriva betydelsen av det."
+    },
+    {
+      "idiom": "falla i god jord",
+      "example": "Hennes förslag om flexibla arbetstider föll i god jord hos personalen.",
+      "paraphrase": "Hennes förslag om flexibla arbetstider blev mycket väl mottaget av personalen."
+    },
+    {
+      "idiom": "lägga benen på ryggen",
+      "example": "När hunden började morra var det bara att lägga benen på ryggen och springa.",
+      "paraphrase": "När hunden började morra var det bara att fly hals över huvud och springa."
+    },
+    {
+      "idiom": "vara på håret",
+      "example": "Det var verkligen på håret att vi hann med det sista tåget hem igår kväll.",
+      "paraphrase": "Det var verkligen med nöd och näppe att vi hann med det sista tåget hem igår kväll."
+    },
+    {
+      "idiom": "gå över lik",
+      "example": "Den hänsynslösa affärsmannen är känd för att gå över lik för att nå sina mål.",
+      "paraphrase": "Den hänsynslösa affärsmannen är känd för att vara beredd att göra vad som helst för att nå sina mål."
+    },
+    {
+      "idiom": "lägga rabarber på",
+      "example": "Min bror brukar alltid lägga rabarber på den största tårtbiten på kalasen.",
+      "paraphrase": "Min bror brukar alltid lägga beslag på den största tårtbiten på kalasen."
+    },
+    {
+      "idiom": "skjuta i sank",
+      "example": "Motståndarlaget lyckades helt skjuta i sank vår noga genomtänkta spelstrategi.",
+      "paraphrase": "Motståndarlaget lyckades helt förstöra vår noga genomtänkta spelstrategi."
+    },
+    {
+      "idiom": "dra öronen åt sig",
+      "example": "När kunden plötsligt krävde förskottsbetalning började jag dra öronen åt mig.",
+      "paraphrase": "När kunden plötsligt krävde förskottsbetalning började jag bli misstänksam och försiktig."
+    },
+    {
+      "idiom": "kasta sten i glashus",
+      "example": "Att kritisera hennes stavning när du själv skriver illa är att kasta sten i glashus.",
+      "paraphrase": "Att kritisera hennes stavning när du själv skriver illa är ett uppenbart hyckleri."
+    }
   ]
 }
