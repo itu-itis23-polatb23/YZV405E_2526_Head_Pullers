@@ -11,7 +11,7 @@ mwe_pipeline/
 │   ├── config.py          ← API key, model name, language list
 │   ├── prompts.py         ← All prompt templates (Stage 1 & 2)
 │   ├── llm_client.py      ← Gemini API wrapper with retry logic
-│   ├── lemmatizer.py      ← spaCy + Stanza lemmatizer for 14 languages
+│   ├── lemmatizer.py      ← Regex tokenizer + constraint check (LLM provides lemmas)
 │   ├── pipeline.py        ← Core two-stage pipeline logic
 │   ├── data_loader.py     ← Load/save PARSEME JSON format
 │   └── evaluator.py       ← Masked BERT-score evaluation
@@ -19,7 +19,7 @@ mwe_pipeline/
 ├── run_pipeline.py        ← Main entry point (two-stage LLM)
 ├── train_mt5.py           ← Secondary model (mT5 fine-tuning)
 ├── scripts/
-│   └── download_models.py ← Download spaCy/Stanza models (run once)
+│   └── download_models.py ← No-op stub (kept for backward compatibility)
 ├── data/
 │   ├── trial/             ← Put PARSEME trial JSON files here
 │   └── synthetic/         ← Auto-generated mT5 training data
@@ -37,12 +37,7 @@ mwe_pipeline/
 pip install -r requirements.txt
 ```
 
-### 2. Download language models (one-time)
-```bash
-python scripts/download_models.py
-```
-
-### 3. Get a FREE Gemini API key (Google AI Studio)
+### 2. Get a FREE Gemini API key (Google AI Studio)
 ```
 1. Go to: https://aistudio.google.com/apikey
 2. Sign in with your Google account
@@ -54,9 +49,9 @@ python scripts/download_models.py
 export GEMINI_API_KEY="AIzaSy..."
 ```
 
-Or edit `src/config.py` and paste it into `GEMINI_API_KEY = "..."`.
+Or edit `src/config.py` and add it to the `GEMINI_API_KEYS` list.
 
-### 4. Download PARSEME trial data
+### 3. Download PARSEME trial data
 ```bash
 git clone https://gitlab.com/parseme/sharedtask-data.git
 cp -r sharedtask-data/2.0/subtask2/trial/ data/trial/
@@ -66,18 +61,16 @@ cp -r sharedtask-data/2.0/subtask2/trial/ data/trial/
 
 ## Free Tier Rate Limits
 
-| Model | Req/min | Req/day | Delay needed |
-|---|---|---|---|
-| `gemini-2.5-pro-preview-05-06` | 5 | 25 | 12s between calls |
-| `gemini-2.0-flash` | 15 | 1500 | 4s between calls |
+The default model is **`gemini-3.1-flash-lite-preview`** with a 15s delay between calls, tuned for the free tier.
 
-The default model is **Gemini 2.5 Pro** with 12s delay.
-To switch to Flash (higher limits, faster, slightly lower quality):
+To change the model or delay, edit `src/config.py`:
 ```python
-# src/config.py
-MODEL_NAME        = "gemini-2.0-flash"
-REQUEST_DELAY_SEC = 4
+MODEL_NAME        = "gemini-3.1-flash-lite-preview"
+REQUEST_DELAY_SEC = 15
 ```
+
+> **API key rotation**: `src/attempt_counter.py` rotates through the `GEMINI_API_KEYS` list every 470 calls.
+> Add multiple keys to `GEMINI_API_KEYS` in `src/config.py` to increase throughput.
 
 ---
 
@@ -110,25 +103,48 @@ python run_pipeline.py --input data/trial/ --output outputs/ --evaluate
 
 ---
 
-## Secondary Model: mT5
+## Secondary Model: mT5-large + LoRA
 
-### Step 1 — Generate synthetic training data via Gemini:
-```bash
-python train_mt5.py --generate --data data/synthetic/
-```
+Architecture: `google/mt5-large` (1.2B parameters) with LoRA (rank=16, alpha=32, targets=[q,k,v,o,wi_0,wi_1,wo], ~0.2% trainable parameters).
 
-### Step 2 — Fine-tune mT5:
-```bash
-python train_mt5.py --train --data data/synthetic/ --model-dir outputs/mt5_finetuned/
-```
+Fine-tuning was done in **Google Colab** via `notebooks/finetune_mt5_lora.ipynb` (requires a GPU runtime — L4 or A100 recommended).
 
-### Step 3 — Run mT5 inference:
-```bash
-python train_mt5.py --predict \
-    --model-dir outputs/mt5_finetuned/ \
-    --input data/trial/fr_trial.json \
-    --output outputs/mt5/
-```
+### Training data
+
+Two datasets are merged and deduplicated before training.  
+Upload both files to `MyDrive/mt5_mwe/data/` on Google Drive, then run the notebook's data-loading cell.
+
+| File | Languages | Pairs | Source |
+|---|---|---|---|
+| `gemini_outputs.json` | 12 (no PT, SV) | ~491 | Wiktionary idioms + Gemini-generated paraphrases |
+| `synthetic_data.json` | 14 | ~980 | Fully LLM-generated (Gemini Chat) |
+
+Duplicates (same language + sentence) are removed, with `gemini_outputs.json` entries taking priority.  
+Total merged: **~1,470 pairs across 14 languages**.
+
+### Notebook workflow
+
+| Cell | What it does |
+|------|--------------|
+| 1–2  | Install dependencies, mount Google Drive |
+| 3    | Load + merge training data |
+| 4    | Set hyperparameters (epochs, LoRA rank, LR, etc.) |
+| 5    | Train/val stratified split (per language) |
+| 6–7  | Tokenize, load mT5-large + apply LoRA |
+| 8–9  | Trainer setup + training |
+| 10   | Save LoRA adapter to `MyDrive/mt5_mwe/adapter_final/` |
+| 11   | Inference smoke test on validation examples |
+| 12   | Generate Codabench submissions for all 14 languages; zip to `MyDrive/mt5_mwe/submission.zip` |
+| 13   | How to reload the adapter after a Colab runtime restart |
+
+### Input format
+
+- **FR**: `paraphrase <FR> [idiom: {mwe}]: {sentence}` — MWE extracted from `[[brackets]]` in test files exists, but was not used for any of the submissions after comparisons showed degraded performance. Legacy code was kept in the notebook, commented out.
+- **Other 13 languages**: `paraphrase <LANG>: {sentence}` — no idiom hint available in test files, and none used for inference.
+
+It should be noted that training data was in the given format with the idioms provided; but inference step does not include the "idiom" parameter.
+
+> **Note:** `train_mt5.py` is an earlier prototype and was not used for the final submissions.
 
 ---
 
@@ -141,7 +157,7 @@ INPUT: raw sentence (no MWE markup)
 ┌─────────────────────────────────┐
 │  STAGE 1 — Idiom Detection      │
 │                                 │
-│  Gemini 2.5 Pro prompt:         │
+│  gemini-3.1-flash-lite-preview:         │
 │  "Find the idiom in this        │
 │   sentence. Reply with only     │
 │   the idiom words."             │
@@ -157,7 +173,7 @@ INPUT: raw sentence (no MWE markup)
 ┌─────────────────────────────────┐
 │  STAGE 2 — Paraphrasing         │
 │                                 │
-│  Gemini 2.5 Pro prompt:         │
+│  gemini-3.1-flash-lite-preview:         │
 │  "Rewrite removing 'made up     │
 │   her mind'. Lemmas [make,      │
 │   mind] must not all appear."   │
@@ -341,21 +357,25 @@ python evaluate_self.py --lang EL --out results/EL_self_eval.json
 
 ---
 
-## Language — Lemmatizer Mapping
+## Supported Languages
 
-| Code | Language           | Lemmatizer |
-|------|--------------------|------------|
-| FR   | French             | spaCy      |
-| EL   | Modern Greek       | spaCy      |
-| JA   | Japanese           | spaCy      |
-| PL   | Polish             | spaCy      |
-| PT   | Brazilian Portug.  | spaCy      |
-| RO   | Romanian           | spaCy      |
-| SV   | Swedish            | spaCy      |
-| UK   | Ukrainian          | spaCy      |
-| SR   | Serbian            | spaCy      |
-| KA   | Georgian           | Stanza     |
-| HE   | Hebrew             | Stanza     |
-| LV   | Latvian            | Stanza     |
-| FA   | Persian            | Stanza     |
-| SL   | Slovene            | Stanza     |
+The pipeline covers all 14 PARSEME 2.0 Subtask 2 languages.
+Lemmatization is performed by the LLM during Stage 1 (detection), not by spaCy or Stanza.
+`src/lemmatizer.py` is a regex tokenizer used only for the post-generation constraint check.
+
+| Code | Language           |
+|------|--------------------|
+| FR   | French             |
+| EL   | Modern Greek       |
+| JA   | Japanese           |
+| PL   | Polish             |
+| PT   | Brazilian Portuguese |
+| RO   | Romanian           |
+| SV   | Swedish            |
+| UK   | Ukrainian          |
+| SR   | Serbian            |
+| KA   | Georgian           |
+| HE   | Hebrew             |
+| LV   | Latvian            |
+| FA   | Persian            |
+| SL   | Slovene            |
